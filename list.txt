@@ -1,0 +1,30 @@
+CCTV-1综合,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/1.m3u8
+CCTV-2财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
+CCTV-3综艺,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV-4中文国际,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-5体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8
+CCTV-5+体育赛事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/1.m3u8
+CCTV-6电影,http://39.134.176.148/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225751/index.m3u8
+CCTV-7国防军事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/1.m3u8
+CCTV-8电视剧,http://117.156.28.57/PLTV/88888888/224/3221225712/index.m3u8
+CCTV-9纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+CCTV-11戏曲,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225636/index.m3u8
+CCTV-12社会与法,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-13新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+CCTV-14少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-15音乐,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225644/index.m3u8
+CCTV-17农业农村,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8#http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV_高清频道,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/1.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225614/index.m3u8
+CGTN记录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/1.m3u8
+新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+CCTV4K 34M码率,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+Bestv4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8 
+咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
+CETV4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
