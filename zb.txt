@@ -1,0 +1,279 @@
+$c_start央视$c_end
+CCTV-1综合HD,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
+CCTV-2财经,http://39.135.34.150:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
+CCTV-3综艺,http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh
+CCTV-4国际,http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS
+CCTV-5体育,http://39.135.34.150:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&contentid=1000000001000004794&livemode=1&stbid=005203ff000360100001001a34c0cd33&usertoken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&authinfo=yolxjswzzffv3fvb8mhhuelkgjklbu5h0jb3qahfse7aoraovdzdwbfnj0sxjearfiatofcd93c7ach3puyar1v%2bioi39cfseenlxp5u9ufadu6bcdl7v7ctgkugzw1d
+CCTV-6高清,http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA
+CCTV-7军事农业,http://39.135.34.150:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7050628689018054317&owchid=ystenlive&owsid=1106497909461123525&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5v8WYfJSLSoSDQSshIAsx77pE15UEXEdMCmKIrL5%2f3xV22iBl6KMm%2bLcZrmbA5H1KmAD8EY%2bWAeRUs2LJ9Vxxk
+CCTV-8高清,http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000003736&owchid=ystenlive&owsid=1106497909461132718&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRKhIjYL3aRNrIf2qoTcK90Bd0oe1gvWxxvd9Qs9pkD5eKCeYPeHs2GppHtnd1klhd
+CCTV-9纪录,http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=1106497909461138654&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRh3XYVWmjehcJ6eeMnvhxAUHggQtCK8Xdm86HMC53JU75N56tG8kTzA%2fMocL0w%2bEi
+CCTV-10科教,http://39.135.34.150:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7019587760656900133&owchid=ystenlive&owsid=1106497909461152716&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5DtJGdM%2bq9fDiivHNjKl%2bK%2b9%2fvTG5xUEzd4ADPtXjiSOOAPl07bvHVEc1KInbp3p%2fXrmwsjTHZ%2fLcoxEWqnCxI
+CCTV-11戏曲,http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
+CCTV-12社会与法,http://39.135.34.150:8080/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
+CCTV-13新闻,http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
+CCTV-13新闻,http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
+CCTV-14少儿,http://39.135.34.150:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c%2fh9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U
+CCTV-15音乐,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
+CCTV-5+体育,http://39.135.34.150:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
+CCTV-17农村农业,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
+
+$c_start卫视$c_end
+湖南卫视高清,http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
+北京卫视高清,http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000017156&owchid=ystenlive&owsid=1106497909461249865&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRV7KOtBVuvtVZFLcgrBAOKYd9hOl8T7nV%2fYYLzxPrqZvxI1UedirhXiKrowSY0GL9
+浙江卫视高清,http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
+江苏卫视高清,http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004684&owchid=ystenlive&owsid=1106497909461243101&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR80rubnSCCYHmxBfxTMKdNm%2bh%2bLn%2bBGibQYrxMgSwIzfH44Sn0OHT9L7pQFHxSW%2fJ
+东方卫视高清,http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2B6a%2BY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2B5
+安徽卫视高清,http://39.135.34.150:8080/000000001000/4774346722046993363/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=4774346722046993363&owchid=ystenlive&owsid=1106497909461303710&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6rtwuCbF0UBw1ECKohiyVXtAaM2LAoJTgBkO9sqSP7vGKF4XQrqmpBPeC9CblENbpBoei4M1GZJUNAFlnpSFVM
+黑龙江卫视高清,http://39.135.34.150:8080/000000001000/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8467838254824392379&owchid=ystenlive&owsid=1106497909461358444&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5eLzTptYlaHwBbi5jFcfGGajSKACYh%2bxMIkH12jcM41WvzLTRYworzrZ3FKkyeJf%2fWTgBHYgXtjL76Tybav9u%2b
+辽宁卫视高清,http://39.135.34.150:8080/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024033&owchid=ystenlive&owsid=1106497909461352974&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQBci%2f2KtFqbPb5lYHzQlehPnBUBV7gDU5NsQ1fq2DyLArxZhG%2bC4a49jTs%2bwbEKo
+深圳卫视高清,http://39.135.34.150:8080/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011645&owchid=ystenlive&owsid=1106497909461286475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRi%2fGQBc72yY6Quo0JMFE7sAOH9P3BRKKjlume5S4R4Q4D5A%2fuxi3rN%2bHd%2bNxeQD8d
+广东卫视高清,http://39.135.34.150:8080/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000028357&owchid=ystenlive&owsid=1106497909461262352&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaROVzE3kgfqbxbWUefjzmwWM6UWM1tPF3fcVILxO8TukKPE2BY%2fTje83gAnl%2fZNkb%2b
+天津卫视高清,http://39.135.34.150:8080/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000831&owchid=ystenlive&owsid=1106497909461255731&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRcs9zLA6x183T6XfyDHK2Forh1U1TuZtCxYnIsImE91weAhYebQgGPi666EsPHwzC
+湖北卫视高清,http://39.135.34.150:8080/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6956052407855047826&owchid=ystenlive&owsid=1106497909461296919&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5Z%2bo9LRgIMhzyly%2bN8KnqBuGO27GhSxZzEXYI6euRzJ3HshWQhVCNxJrt91pPA8t7cjGpkhpIVoXJ0Jyemr0DA
+山东卫视高清,http://39.135.34.150:8080/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=1106497909461291586&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR3cBsIsjm7UHdGO3a4NjD1C4TiYtYt%2by66pvMI%2bkz57DAkgjzetftIzpJRR8RWa0K
+重庆卫视高清,http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7%2bGPbWnsToB9Z5BcGamUzvzuTi
+河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
+陕西卫视,http://39.135.34.150:8080/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
+吉林卫视,http://39.135.34.150:8080/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6042486520432105075&owchid=ystenlive&owsid=1106497909461400661&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9%2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06%2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
+广西卫视,http://39.135.34.150:8080/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=1106497909461204271&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH%2fW8kf2eLOhwcRnwEP0%2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
+河北卫视,http://39.135.34.150:8080/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017118&owchid=ystenlive&owsid=1106497909461347463&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhCqGL1zPomfLadkujcaGzSGdRg4tEgiolyrwzgikVtMZiTQsF6T0wJRw9axwi4LXY
+西藏卫视,http://39.135.34.150:8080/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=1106497909461425998&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
+内蒙古卫视,http://39.135.34.150:8080/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000014080&owchid=ystenlive&owsid=1106497909461412819&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhN3VZo%2fq60rUnbic%2fTx5hxEUA%2fCrpP4GEvV3vfXDDDKv4OC8OhxCTOd9DFYTiOuf7
+青海卫视,http://39.135.34.150:8080/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000013359&owchid=ystenlive&owsid=1106497909461374163&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhJ4u8mZ9HohO4vJAcHWQKsu0WB2heV8z3%2bnCiQyrISnc%2fLQjwPdTUSlBahL%2bKNKpM
+四川卫视,http://39.135.34.150:8080/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000016825&owchid=ystenlive&owsid=1106497909461321397&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhwC686TkK%2f3k22PorZBLr8k69BtHofhbIyPVBrp9KppkHStTOpUrH7YEsmM6BR8Uo
+山西卫视,http://39.135.34.150:8080/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021220&owchid=ystenlive&owsid=1106497909461381684&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhBGE2Bozg3VsjEsUfSwW1u%2f9d7qakC2cNwU6d3XLtivLzsKwupm4i1w5mp8nPnKP8
+新疆卫视,http://39.135.34.150:8080/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000029441&owchid=ystenlive&owsid=1106497909461419044&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5I4MdhcP3Mp5W80M2R4dfnt8vf6miKZMTn2f0J2ZVbDi2MMl6qImE0%2bmFOeDvrFW
+云南卫视,http://39.135.34.150:8080/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024694&owchid=ystenlive&owsid=1106497909461387812&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5LeWQtTPRcwTT4zmEXlA%2fwzvDSa%2fxaofg6Rpl19xhoQ1lNgovjV%2baMdiH1BrPHH%2b
+江西卫视,http://39.135.34.150:8080/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV%2bYcygMME6A9OMzcDPgMD6e%2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
+福建东南卫视,http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
+贵州卫视,http://39.135.34.150:8080/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
+甘肃卫视,http://39.135.34.150:8080/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
+
+$c_start香港$c_end
+TVBJ2,mitv://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
+TVBJ2,mitv://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470
+TVBS,mitv://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
+TVBS欢乐台,mitv://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
+TVBS精采台,mitv://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
+TVBS新闻台,mitv://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
+TVB翡翠台,mitv://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+TVB明珠台,mitv://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
+TVB明珠台,mitv://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
+TVB无线财经台,mitv://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
+TVB无线新闻台,mitv://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
+TVB无线新闻台,mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+TVB武术台,mitv://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
+TVB星河台,mitv://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+VIUTV6HD,mitv://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
+VIUTVHD,mitv://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
+凤凰香港,mitv://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
+凤凰中文,mitv://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
+凤凰资讯,mitv://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
+天映经典台,mitv://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
+天映频道,mitv://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
+星空卫视,mitv://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
+星卫电影台,mitv://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
+星卫娱乐台,mitv://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
+
+$c_start台湾$c_end
+民视台灣台HD,mitv://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts
+天映经典CCM,mitv://51.79.41.138:18912/5b3c4f9b00031383627eef60721e1738.ts
+CTV中视經典,mitv://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
+TVBS精采台HD,mitv://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
+华视,mitv://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
+公视,mitv://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
+东森财经,mitv://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
+东森电影,mitv://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
+东森戏剧,mitv://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
+东森新闻,mitv://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
+东森新闻台,mitv://170.178.164.243:6210/5b448ad9000732770003ae545bf7ba34.ts
+东森洋片,mitv://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
+东森幼幼,mitv://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
+东森综合,mitv://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
+动物星球,mitv://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
+非凡商业台,mitv://51.79.41.138:18912/5b140a9a0001dd5b17d7055a180573f2.ts.ts
+非凡商业台,mitv://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
+非凡新闻,mitv://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+公视3,mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+公视,mitv://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
+国兴卫视,mitv://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
+好莱坞电影,mitv://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
+鸿基影剧台,mitv://sdgdklwos.finetv.tv:9906/59fd2a8b000cb57f02baad731b97024c
+华纳电视,mitv://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+华视,mitv://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
+华视教育体育,mitv://sdgdklwos.finetv.tv:9906/59fd23240005c9a4029dc1561885012e
+寰宇财经台,mitv://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
+寰宇新闻2,mitv://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
+寰宇新闻台,mitv://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+寰宇综合,mitv://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
+靖天电影台,mitv://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
+靖天国际台,mitv://51.79.41.138:18912/5b1408f1000efa2817d08c8d2aa26513.ts.ts
+靖天国际台,mitv://sdgdklwos.finetv.tv:9906/59fd32c800056a3402dad9e646096d29
+靖天卡通台,mitv://sdgdklwos.finetv.tv:9906/59fd38e0000de06a02f2a9c951a975a6
+靖天日本台,mitv://51.79.41.138:18912/5b140916000ab01617d11bfc24c93dad.ts.ts
+靖天戏剧台,mitv://51.79.41.138:18912/5b14093e000c1de917d1b89a306502e9.ts.ts
+靖天戏剧台,mitv://sdgdklwos.finetv.tv:9906/59fd36f80009b75202eb367f603a273f
+靖天映画台,mitv://sdgdklwos.finetv.tv:9906/59fd3565000a788d02e5107642590dce
+靖天育乐台,mitv://sdgdklwos.finetv.tv:9906/59fd3068000ea26902d195477bc86f19
+靖洋戏剧台,mitv://51.79.41.138:18912/5b1409170006660317d11ecb4d0c407e.ts.ts
+靖洋戏剧台,mitv://sdgdklwos.finetv.tv:9906/59fd259600089bb202a74f6123416e8d
+历史频道1,mitv://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
+历史频道2,mitv://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
+龙华电影,mitv://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
+龙华动画,mitv://sdgdklwos.finetv.tv:9906/59fd26690002a01402aa86134bf26468
+龙华经典,mitv://sdgdklwos.finetv.tv:9906/59fd3363000e740302dd39b062856e0b
+龙华偶像,mitv://sdgdklwos.finetv.tv:9906/59fd38a1000ca5a002f1b363682d5b70
+龙华戏剧,mitv://sdgdklwos.finetv.tv:9906/59fd38840006b53d02f14094613f7615
+龙华洋片,mitv://sdgdklwos.finetv.tv:9906/59fd07650001a79102315e34781149f3
+龙华影剧,mitv://sdgdklwos.finetv.tv:9906/59fd30d6000988d702d341a0202638f5
+龙祥时代,mitv://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
+美食星球,mitv://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
+美亚电影台,mitv://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
+民视,mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+民视台湾台,mitv://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
+民视新闻台,mitv://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+年代新闻,mitv://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+纬来电影,mitv://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
+纬来精彩,mitv://sdgdklwos.finetv.tv:9906/5ac5d68600012bae15d868ee776c7fe2
+纬来戏剧,mitv://sdgdklwos.finetv.tv:9906/59fd20190002fb090291ddb256d73759
+纬来育乐,mitv://sdgdklwos.finetv.tv:9906/59fd26ad000978f002ab917848d22993
+卫视电影台,mitv://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
+卫视合家欢,mitv://sdgdklwos.finetv.tv:9906/59fd14190000e1040262fd2560d91f69
+卫视西片台,mitv://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+卫视中文台,mitv://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46
+信大电视,mitv://sdgdklwos.finetv.tv:9906/5afbd0d7000dfbc54833015a3ca55f37
+亚洲旅游台,mitv://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
+亚洲美食,mitv://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
+壹新闻,mitv://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+壹综合,mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
+中视,mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+中视经典台,mitv://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
+中视新闻,mitv://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
+中天新闻,mitv://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
+中天亚洲台,mitv://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
+中天娱乐,mitv://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
+中天综合,mitv://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
+
+$c_start海外$c_end
+ASTRO AEC,P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72
+ASTRO小太阳,P2p://sdgdklwos.finetv.tv:9906/5b04f9b200072af66bfae01c7c8f7421
+ASTRO華麗台,P2p://sdgdklwos.finetv.tv:9906/5b04f9000000c2aa6bf8272669213c39
+ASTRO歡喜台,P2p://sdgdklwos.finetv.tv:9906/5b04f9f5000224816bfbe48c31ca641f
+CATCHPLAY電影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
+FYI HD,P2p://sdgdklwos.finetv.tv:9906/59fd32500009ea1902d9064f0d2c0edc
+BBC HD,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
+TVN HD,P2p://sdgdklwos.finetv.tv:9906/59fd248e000a1aa502a3488f618b6de7
+NBA HD,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
+CNN HD,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
+LUXE.TV,P2p://sdgdklwos.finetv.tv:9906/59fd32780006da1202d9a1c415a55c7e
+MY KIDS,P2p://sdgdklwos.finetv.tv:9906/59fd3515000d559a02e3d8b272784315
+DIVA HD,P2p://sdgdklwos.finetv.tv:9906/59fd33b00000188702de62ce5428150a
+SMART HD,P2p://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
+OUTDOOR,P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
+TEAVEL HD,P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
+BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
+CHANNEL[5],P2p://sdgdklwos.finetv.tv:9906/5a31fbf500092568d4461abc4b040214
+CHANNEL[8],P2p://sdgdklwos.finetv.tv:9906/5a31fc3f000ef04fd4473d4355630850
+CHANNEL[U],P2p://sdgdklwos.finetv.tv:9906/5a31fc73000836bdd44806ad15337fe5
+MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
+BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
+MEZZO LIVEHD,P2p://sdgdklwos.finetv.tv:9906/59fd297e00073d5c02b691533fb45133
+FOX SPORTS3HD,P2p://sdgdklwos.finetv.tv:9906/59fd0ab7000ca0d6023e595351427583
+ELEVEN SPORTS+,P2p://sdgdklwos.finetv.tv:9906/59fd23c0000c1e7f02a0245c6964058b
+E!ENTERTAINMENT,P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
+
+$c_start开车_000917$c_end
+HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+HOT星颜,mitv://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+松视1台,mitv://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,mitv://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,mitv://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
+香蕉台,mitv://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
+潘多拉粉紅,mitv://190.2.146.92:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,mitv://190.2.146.92:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+彩虹電影,p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+彩虹e台,p2p://fccsovh.pvbox.live:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,p2p://fccsovh.pvbox.live:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
+
+$c_startMV$c_end
+毛不易 Ⅰ 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
+毛不易 Ⅰ 不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
+毛不易 Ⅰ 消愁,https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
+毛不易 Ⅰ 如果有一天我变的很有钱,https://vd3.bdstatic.com/mda-jjmfvpaqh1z11ibc/hd/mda-jjmfvpaqh1z11ibc.mp4?pd=19&vt=1
+毛不易 Ⅰ 借,https://vd3.bdstatic.com/mda-ii2njckdbkmmcp81/hd/mda-ii2njckdbkmmcp81.mp4?pd=20
+毛不易 Ⅰ 牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
+毛不易 Ⅰ 给你给我,https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A42%3A28Z%2F-1%2Fhost%2F13c0f2dda852b6fdbcd7422de8ac3a48437304b4c38728deeedb6558c47a9eb9
+林啟得 Ⅰ 大田后生仔,https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F40284dba7f6298e947920fa281898998a95118f96c5b0689661ad64dc9bfbf06
+王七七 Ⅰ 我愿意平凡的陪在你身旁,https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd5332371b8e0882511e0b75041fcd24f0899fa4237f56edacb89b6734f95ca97
+萨顶顶 Ⅰ 左手指月,https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost%2F9ce646d3e871069b3f23e45fc92e318ac9f5b3983d1ed3d996cc228026cba11e
+萨顶顶 Ⅰ 天地无霜,https://vdse.bdstatic.com//bd1f7fcb1263b608c60793c5c7094ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A25%3A13Z%2F-1%2Fhost%2F23ba28074d215adf2c6d0fb5cf09092bab7d4515197cbe40e43c536aa8ea3171
+于文文 Ⅰ 体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost%2F1a9107b1210343ed30aa27779a042aab3d016777226b471ee5f38c8fc1e23cf1
+赵方婧 Ⅰ 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
+张艺兴 Ⅰ sheep,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F1d12ad4ec35446ed93981927577c34a900dd755d2da3a1a0fd41c06ab23f4863
+刘珂矣 Ⅰ 芙蓉雨,https://vdse.bdstatic.com//85593e1127a1389dc49e9b0491814df2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A58%3A05Z%2F-1%2Fhost%2Fff58fddc077c03b3076760fe6728156bf526b7060c8e061d817388b869ac2320
+刘珂矣 Ⅰ 半壶纱,https://vd3.bdstatic.com/mda-kag404z097ciayha/hd/mda-kag404z097ciayha.mp4?pd=19&vt=1
+刘珂矣 Ⅰ 风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F41d81188bd164f23d0ae35e5a721b43c799caa783fde1de169616ab76271e197
+杨小壮 Ⅰ 孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost%2F861309b4a756c61dd0bad3718d9b8a27123c24838b9b4c8ec82bda2d04869c69
+阿悠悠 Ⅰ 你若三冬,https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F572e0736b87ee3444ff2b54eb4ae655228dd4a84d9c6f7c6c588feb0ddbe1269
+陈雪凝 Ⅰ 绿色,https://vd3.bdstatic.com/mda-jm07uzeu8ssth6c7/hd/mda-jm07uzeu8ssth6c7.mp4?pd=19&vt=1
+陈雪凝 Ⅰ 你的酒馆对我打了烊,https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
+郁可唯 Ⅰ 思慕,https://vdse.bdstatic.com/5ec8d619d2ecb4ff832cfa252a967bb8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F8286183946f68461b8a723c098b274f2fcf856faf7f1f1c6bc9e5159dca71291
+李袁杰 Ⅰ 醉千年,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
+魏新雨 Ⅰ 恋人心,https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
+马健涛 Ⅰ 杀阡陌,https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd93a993d573ee3bcc23a02ca043066cf5106c87ccfff05e150791a903b70eb6b
+许艺娜 Ⅰ 如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F105e954b546582862111230676e2cdc84b0144bf00447793daa377381b7ddb0f
+岑宁儿 Ⅰ 追光者,https://vd3.bdstatic.com/mda-jm9pesj1uis5fssj/hd/mda-jm9pesj1uis5fssj.mp4?pd=20&vt=1
+鹿晗 Ⅰ 让我留在你身边,https://vd3.bdstatic.com/mda-ka937fuwjq5nc1hd/hd/mda-ka937fuwjq5nc1hd.mp4?pd=19&vt=1
+阿冗 Ⅰ 你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F092913f5016d684c2e159452cc811ca27c7e7b8d9172bcd8211c87b7cae449bd
+海伦 Ⅰ 桥边姑娘,https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fcce92f8d8c53b543a981ee2a1a20ab1b07c6da20e01f4f5aaf9d82e5be5e6587
+黑龙 Ⅰ 38度6,https://vd3.bdstatic.com/mda-jmeeqqmp5fc82mts/hd/mda-jmeeqqmp5fc82mts.mp4?pd=19&vt=1
+曾惜 Ⅰ 讲真的,https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost%2Febfb2a020e4c84f1059f10839d2bda8f3e42dc62cd90d916b65f3ed55594d0aa
+柏松 Ⅰ 世界美好与你环环相扣,https://vdse.bdstatic.com//90f59f9978da89c2f5f8dec807a238b6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A25%3A00Z%2F-1%2Fhost%2Fdceb89b6b26de04c015a3fec7d0ef013f60090d7117e95a2df3657b2d2698d0f
+花粥 Ⅰ 纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost%2F591e9e423bf5d139c7eac161a481a18a0ccd851124162fcb1cc55e9b2aea36c6
+半阳 Ⅰ 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost%2Fc4e678fdb911f8524405fcf1563002f4f9c892a22e3f2033b917a39f2d01ea20
+大壮 Ⅰ 我们不一样,https://vd3.bdstatic.com/mda-kaiskhuinjf4a8m4/hd/mda-kaiskhuinjf4a8m4.mp4?pd=20&vt=1
+肖战 Ⅰ 余年,https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fb2cec293153ef7795846f08b08f8ae00825357cd0ce4d2c2977afeb31bb70540
+宋茜 Ⅰ 屋顶着火,https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
+李建 Ⅰ 一念一年,https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fe5580be73eed99ae2d6da05453b3d79cdba5a663c049f6367ae6ae4bc4fbb1e6
+张杰 Ⅰ 浮诛,https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F592cfc9d5b5bc41242144504ccf1f9f9df9d15b863f6f33c610e552faf629cd9
+张杰 Ⅰ 就算没有如果,https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-1%2Fhost%2Ff5f960beaff319951e978ff3850b31434a5d64f13c03c9724e988c251426270d
+胡夏 Ⅰ 只问你肯不肯,https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F09b9a33c3ded7584f68a3b875a10ba6a021d74f32e4144c2c0327f05c57abfdc
+王琪 Ⅰ 站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-1%2Fhost%2F35aa2c099605e74a562ca0358f457186636ef317d486aa3ed6f60fc45c2c6c9a
+隔壁老樊 Ⅰ 我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
+Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-jmqy5wv8ffvj2z5j.mp4?pd=19&vt=1
+要不要买菜 Ⅰ 下山,https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F4fbaf22be415d855635ea3633a0f2fa9460bfb7cb3a13f2295a12b85245e0598
+马良/孙茜茹 Ⅰ 往后余生,https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
+花粥/马雨阳 Ⅰ 盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
+萧全/孙语赛 Ⅰ 不仅仅是喜欢,https://vd3.bdstatic.com/mda-jhjswzf4u7tsujf1/hd/mda-jhjswzf4u7tsujf1.mp4?pd=19&vt=1
+张碧晨/杨宗纬 Ⅰ 凉凉,https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-1%2Fhost%2F48ecdbdd75091e496f4412f52dce3ee2999cd6b370518825555d86e248da64cd
+张碧晨/赵丽颖 Ⅰ 望,https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
+冯绍峰/赵丽颖 Ⅰ 知否知否,http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
+SING女团 Ⅰ 千盏,http://220.194.238.108/13/d/q/a/o/dqaooyvczcidgxmvzcyazoizlitant/hd.yinyuetai.com/0C9C016C4D7471A80AA0EAF17F39E4DF.mp4?sc=31ee8cfcd276fd58
+1931女团 Ⅰ 加糖情歌,http://he.yinyuetai.com/uploads/videos/common/40BB0151B9193D2174639C70164398C4.mp4
+IZONE女团 Ⅰ LaVieenRose,http://220.194.238.104/14/d/q/l/j/dqljhajwvvnenqkzlgatbhyruaxzck/hd.yinyuetai.com/7AF50166BF214456F5111394A1CD06D8.mp4?sc=574eedc71f78baf5
+阿妮桑 Ⅰ 定格幸福,http://he.yinyuetai.com/uploads/videos/common/77D801660A17C4FF01F0117FA4129097.mp4
+阿妮桑 Ⅰ 情愿孤独终老,http://he.yinyuetai.com/uploads/videos/common/770501660A2E4F89402BC5E56C73F226.mp4
+阿妮桑 Ⅰ 伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
+疯格 Ⅰ 爱越深情越浓,http://220.194.238.108/13/u/v/r/o/uvroeqqmxbcdcbrbnqoeqsnrhvbwvb/hc.yinyuetai.com/33CB016AC417E827BBA01218644667D9.mp4
+草蜢 Ⅰ 半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+草蜢 Ⅰ 失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+草蜢 Ⅰ 忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
+陈慧娴 Ⅰ 玻璃窗的爱,http://hc.yinyuetai.com/uploads/videos/common/735D0141130FBD578A853DD2AD39091C.mp4?sc=d73348128f5236e8&br=780&vid=764270&aid=1027&area=HT&vst=2Y
+陈慧娴 Ⅰ 孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
+陈慧娴 Ⅰ 人生何处不相逢,http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
+陈佳 Ⅰ 伊人何处,http://hd.yinyuetai.com/uploads/videos/common/EB690154F5E683B3AAE6BB3D540CA9B3.mp4
+陈佳 Ⅰ 又见炊烟,http://he.yinyuetai.com/uploads/videos/common/A4CD0157B794E0FCB65D0E95CDFD625F.mp4
+陈佳 Ⅰ 在水一方,http://he.yinyuetai.com/uploads/videos/common/7A220154CCDF67270EE2DB883387D2A2.mp4
+陈倩倩 Ⅰ 陈倩倩,http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
+信 Ⅰ 痴痴的等,http://220.194.238.108/13/e/h/c/q/ehcqynayfxyirmpxffnafnxjitjyal/hc.yinyuetai.com/C528016C17053EFB7D83DEC38D605EF4.mp4
+曾沛慈 Ⅰ 大风吹,http://hc.yinyuetai.com/uploads/videos/common/4086016D37EF920FB4DD565A05863393.mp4
+风小筝 Ⅰ 桃花雪,http://he.yinyuetai.com/uploads/videos/common/FCC6016632768FD4FFF341CE1877EEA4.mp4
+风 Ⅰ 火箭少女101,http://220.194.238.108/13/g/u/j/e/gujephdnduuxwaoavdidigppvmejso/hd.yinyuetai.com/ECEC016B8895E4A044C6B72FCF773B25.mp4?sc=dd99b1d215020624
+Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D5016618AFECD3CC41C37B7F4E1A9B.mp4
+周华健 Ⅰ 江湖笑,http://220.194.238.108/13/r/j/b/a/rjbapixkxzajcjrxyczmixlrjccogs/hc.yinyuetai.com/CB18016B3AF989763E0D0E7CBC4B5F9A.mp4?sc=d982b98a2db88c97
+祁隆 Ⅰ 等你等了那么久,http://he.yinyuetai.com/uploads/videos/common/4D05013C398E69EA796615AFEC120FB2.mp4?sc=64076081adc1d7a4&br=3130&vid=585416&aid=24006&area=ML&vst=0
+祁隆/任妙音 Ⅰ 今生遇见你,http://he.yinyuetai.com/uploads/videos/common/765A01576F53891061284F60BB518D9B.mp4?sc=6f644cc458aba127&br=3134&vid=2689472&aid=24006&area=ML&vst=0
+金莎 Ⅰ 他不爱我,http://he.yinyuetai.com/uploads/videos/common/DD4B01404D970F1819C94E57E97BFA8C.mp4
+金莎 Ⅰ 星月神话,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06
