@@ -14,9 +14,13 @@ CCTV-11戏曲,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3
 CCTV-12社会与法,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 CCTV-13新闻,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-14少儿,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV-15音乐,http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 CCTV-15音乐,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV-17农村农业,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV4K,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
+Bestv4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
+舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
 
 卫视频道,#genre#
