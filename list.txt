@@ -546,7 +546,7 @@ E!ENTERTAINMENT,P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
 博斯运动1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
 博斯运动2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
 
-彩虹频道,#genre#
+彩虹频道_000917,#genre#
 A3BIKINI,http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 NYX Media,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8#https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
 HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
@@ -604,7 +604,7 @@ Jasmin HD 18+,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m
 Playboy TV (18+),http://46.32.68.167/s/live/707/86.169.51.136/0/0.m3u8
 RedTraffic Lesbian (18+),http://live.redtraffic.xyz/lesbian.m3u8
 
-福利频道,#genre#
+福利频道_000917,#genre#
 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
 东京热美少妇,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
 东京热奸空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
