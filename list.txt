@@ -544,7 +544,7 @@ E!ENTERTAINMENT,P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
 博斯运动1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
 博斯运动2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
 
-彩虹频道0917,#genre#
+彩虹频道,#genre#
 A3BIKINI,http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 NYX Media,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8#https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
 HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
