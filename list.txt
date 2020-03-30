@@ -45,6 +45,8 @@ Bestv4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 山東衛視,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
 四川衛視,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 海南卫视,http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+凤凰卫视中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 
 港台新闻,#genre#
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
