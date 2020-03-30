@@ -1,4 +1,4 @@
-#EXTM3U-1 ,====== 央视频道,#genre# ======
+#EXTM3U
 #EXTINF:-1 ,CCTV-1
 http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 ,CCTV-2
@@ -41,7 +41,6 @@ http://livecdn1.news.cn/cnccn/manifest.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 #EXTINF:-1 ,李子柒的直播
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-#EXTINF:-1 ,====== 卫视频道,#genre# ======
 #EXTINF:-1 ,北京衛視
 http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 #EXTINF:-1 ,湖北衛視
