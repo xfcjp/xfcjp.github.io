@@ -1,3 +1,29 @@
+$c_start常看$c_end
+CCTV-1高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8 
+CCTV-2高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-6电影,http://www.dszbdq.cn/diao/ysp.php?tv=0203303
+CCTV-7高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-9高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-12高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-17高清,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
+湖北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294503
+湖南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296203
+凤凰卫视中文台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8 
+凤凰卫视资讯台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
+新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+求索记录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+贝爷荒野求生,http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
+食物,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
+Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
+
 $c_start央视$c_end
 CCTV-1综合HD,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-2财经,http://39.135.34.150:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
