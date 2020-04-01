@@ -1,4 +1,4 @@
-星蕾TV-全球频道,#genre#
+全球频道,#genre#
 新加坡8频道,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 CHTV台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
@@ -1091,22 +1091,15 @@ Newtv-潮妈辣婆,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 益阳教育,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy190930.m3u8
 益阳公共,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvgg190930.m3u8
 益阳综合,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxw190930.m3u8
-CCTV1,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv1
 CCTV2,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv2
 CCTV3,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv3
 CCTV4,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv4
-CCTV5,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv5
-CCTV6,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv6
 CCTV7,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv7
-CCTV8,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv9
 CCTV9,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv9
-CCTV10,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv10
 CCTV11,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv11
 CCTV12,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv12
 CCTV13,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv13
-CCTV14,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv14
 CCTV15,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv15
-CCTV17,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv17
 CETV1,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cetv1
 重庆卫视,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cqws
 河北卫视,http://player.ioioz.com/18/tv.php?tv=shydbst&id=hews
@@ -1569,7 +1562,7 @@ CCTV台球,http://www.xdiptv.cn/gzgd2.php?id=cctvtq
 北京教学广播 FM99.4,http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
 北京长书广播 FM104.3,http://audiolive.rbc.cn:1935/live/fm1043/96K/tzwj_video.m3u8
 上海故事广播 FM107.2,http://rs-bj.ajmide.com/r_3/3.m3u8
-星蕾TV-电影频道,#genre#
+电影频道,#genre#
 HBO温馨电影,vjms://58.215.133.184:8500:3502/live/cid=181
 HBO亚洲电影,vjms://58.215.133.184:8500:3502/live/cid=261
 HBO原创电影,vjms://58.215.133.184:8500:3502/live/cid=436
@@ -1617,7 +1610,7 @@ tvN HD,p2p://185.169.196.146:9906/59fd248e000a1aa502a3488f618b6de7
 龙华电影台,http://ms006.happytv.com.tw/live/pK2PLaAx0O6ouIoL/index.m3u8
 龙华洋片台,p2p://lino.homeunix.com:6007/59fd07650001a79102315e34781149f3.ts
 StarMovieHD,https://hdl0903.plures.net/onlive/d1ede7e982d81c76affd1ab12b44b268.flv
-星蕾TV-台湾频道,#genre#
+台湾频道,#genre#
 FOX Movies HD,vjms://58.215.133.185:8500:3502/live/cid=94
 民視HD,vjms://58.215.133.161:8500/live/cid=450
 原住民台 HD,http://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
@@ -1793,7 +1786,7 @@ Babytv,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 佳吉电视,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 国会频道1台,http://61.58.60.230:9319/live/123.m3u8
 国会频道2台,http://61.58.60.230:9319/live/124.m3u8
-星蕾TV-港澳频道,#genre#
+港澳频道,#genre#
 香港卫视HKS,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 NOW爆谷台,http://104.233.176.70:13164/v/tvb.php
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
@@ -1831,7 +1824,7 @@ VIU6,P2p://185.169.196.146:9906/5b389c92000621bc35b08cbd438b4298.ts
 澳门体育,http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
 澳门综艺,http://61.244.22.4/ch6/hd_ch6.live/index.m3u8
-星蕾TV-新马印越,#genre#
+新马印越,#genre#
 新加坡8频道(国语),http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡5频道(英语),https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 新加坡CNA频道,https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
@@ -1992,7 +1985,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 泰国ETV,http://61.19.244.112:1935/live/livestream/playlist.m3u8
 马来西亚Astro RIA娱乐综合频道,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 印尼国家电视台TVRI indonesia,http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-星蕾TV-新闻频道,#genre#
+新闻频道,#genre#
 东森新闻,vjms://58.215.133.184:8500:3502/live/cid=340
 东森财经新闻,vjms://58.215.133.185:8500:3502/live/cid=456
 年代新闻,vjms://58.215.133.161:8500/live/cid=455
@@ -2016,7 +2009,7 @@ BBCWORLD NEWS,vjms://58.215.133.161:8500/live/cid=418
 CNN NEWS,vjms://58.215.133.161:8500/live/cid=428
 CNBC NEWS,vjms://58.215.133.161:8500/live/cid=98
 FOX NEWS,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
-星蕾TV-4K超清区,#genre#
+4K超清区,#genre#
 广东4K超清,http://nclive.grtn.cn/4K/sd/live.m3u8
 爱上4K超清,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 纯享4K超清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
@@ -2035,7 +2028,7 @@ StarMovies,https://hdl0903.plures.net/onlive/d1ede7e982d81c76affd1ab12b44b268.fl
 高清HD家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
 高清HD家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 高清HD卡通剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
-星蕾TV-大陆频道,#genre#
+大陆频道,#genre#
 湖南卫视高清,http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
 江苏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 浙江卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
@@ -2233,7 +2226,7 @@ CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京卡酷少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
-星蕾TV-地方频道,#genre#
+地方频道,#genre#
 武汉综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉电视,http://stream.appwuhan.com/2tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
@@ -3815,7 +3808,7 @@ ipanda熊貓台 Ipanda,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u
 野食小哥,http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 伍阿哥美食,http://txdirect.hls.huya.com/huyalive/94525224-2695478346-11576991343146172416-4540491764-10057-A-0-1_1200.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-星蕾TV-央视频道,#genre#
+央视频道,#genre#
 CCTV-1综合,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-2财经,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 CCTV-3综艺,http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8
@@ -3837,7 +3830,7 @@ CCTV-15音乐,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=054&FvSeid=1&Fsv_
 CCTV-16奥运频道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-4K超清,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-星蕾TV-日韩国际,#genre#
+日韩国际,#genre#
 日本电视台,vjms://58.215.133.161:8500/live/cid=492
 日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
 日-Family theather,vjms://58.215.133.161:8500/live/cid=493
@@ -4151,7 +4144,7 @@ BTV,p8p://0198.02686.cc:16871/5d8dbb0c000368f91dc3f7081009bea6.ts
 ttxvn,p8p://0198.02686.cc:16871/5d8dbb0e000a46701dc4009a1161eebe.ts
 PTV,p8p://0198.02686.cc:16871/5d8dbb06000bb4191dc3e1b806966c54.ts
 OPVN,p8p://0198.02686.cc:16871/5d8dbb10000a32ac1dc4086561379ff0.ts
-星蕾TV-经典电影,#genre#
+经典电影,#genre#
 赢钱专家,http://cdn1.gzzechao.com/20181021/WFqsAIUF/1886kb/hls/index.m3u8?wsSecret=625cfd19b5a827313e05e5e7432d33af&wsTime=1581051280684
 时来转运,http://cdn1.gzzechao.com/20181021/xvT71A98/1364kb/hls/index.m3u8?wsSecret=fb62c758368341287dbe4036f1aadbf1&wsTime=1581055416825
 密宗威龙,http://cdn1.gzzechao.com/20181021/h1S3Ic1c/1600kb/hls/index.m3u8?wsSecret=4da3485c5a812f951cbe749ed07ba6d5&wsTime=1581051703628
@@ -4226,7 +4219,7 @@ OPVN,p8p://0198.02686.cc:16871/5d8dbb10000a32ac1dc4086561379ff0.ts
 追魂伞,http://cdn1.gzzechao.com/20181021/j8wt56h0/1545kb/hls/index.m3u8?wsSecret=5f8f410953b93b5b7ad4fafd60655fef&wsTime=1581050136163
 千年女妖,http://cdn1.gzzechao.com/20181023/j95vAURc/538kb/hls/index.m3u8?wsSecret=b0c42813bb9148a523560b4131b6d469&wsTime=1581118943564
 千人斩,http://cdn1.gzzechao.com/20181023/adY5rQBQ/1668kb/hls/index.m3u8?wsSecret=259367a4208a7dfebc8f83fe4c47380b&wsTime=1581120053926
-星蕾TV-虎牙频道,#genre#
+虎牙频道,#genre#
 电影-林正英,https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 电影-超级英雄,https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 电影-女神系列2,https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
@@ -4425,7 +4418,7 @@ X战警系列,http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001
 倚天屠龙记,http://aldirect.rtmp.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
 雍正王朝,http://txdirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
 天下第一,http://aldirect.rtmp.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8
-星蕾TV-精彩轮播,#genre#
+精彩轮播,#genre#
 黑帮电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 喜剧大咖,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
@@ -5268,7 +5261,7 @@ CIBN| 艺术院线,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/v
 年代剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
 老年剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
 人民的名义,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
-星蕾TV-移动频道,#genre#
+移动频道,#genre#
 黑莓动画,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 黑莓电竞,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
@@ -5388,7 +5381,7 @@ NBA百视通直播间2HD,http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8
 NBA百视通直播间1HD,http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
 CNTV完美游戏,http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
 CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
-星蕾TV-电影独播,#genre#
+电影独播,#genre#
 《千局1》,https://135zyv6.xw0371.com/2019/03/19/K9W3TbRk4Ge0oiF7/playlist.m3u8
 《齐天大圣之火焰山》,https://135zyv6.xw0371.com/2019/03/19/gEcr5SMaaxgqwk0E/playlist.m3u8
 《比悲伤更悲伤的故事》,https://135zyv6.xw0371.com/2019/03/16/iIRY3Co55kHC4xgi/playlist.m3u8
@@ -6371,7 +6364,7 @@ B4U Movies,http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stre
 Cinema,https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 Cinema 1,http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
 Cinema TV,https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
-星蕾TV-数字频道,#genre#
+数字频道,#genre#
 音乐台HD,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
 优漫卡通,http://112.17.40.140/PLTV/88888888/224/3221226172/index.m3u8
 高清电影HD,http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
@@ -6452,7 +6445,7 @@ CCTV风云剧场频道,http://live.hcs.cmvideo.cn/ws_v/2018/fyjc/fyjc450/350/01.
 CCTV发现之旅频道,http://live.hcs.cmvideo.cn/wd_r3/cnr/faxianzhilv/1000/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20200111212831&Channel_ID=H5_&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=61.160.247.210&SecurityKey=20200111212831&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=0d38388ccc0948ccaa9b8f9268ac69b5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e4fd3cd285dc6e0aefac86dd0ad01ac5
 CCTV世界地理频道,http://live.hcs.cmvideo.cn/ws_v/2018/sjdl/sjdl450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200018840&pid=2028597799&timestamp=20200111215634&Channel_ID=H5_&ProgramID=623338083&ParentNodeID=-99&assertID=2200018840&client_ip=61.160.247.210&SecurityKey=20200111215634&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=41fb004b9250bf26c957e56c51585441&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=815c666f00198bbbc2d742be93656710
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
-星蕾TV-明星专题,#genre#
+明星专题,#genre#
 刘德华,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 成龙,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 唐国强,http://aldirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
@@ -6483,7 +6476,7 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 吴京,http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 徐峥,http://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
 赵本山,http://pull.inke.cn/live/1574872722498795.flv
-星蕾TV-iHOT频道,#genre#
+iHOT频道,#genre#
 爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
 爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3912220200227223216058126
 爱经典,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
@@ -6583,7 +6576,7 @@ CCTV-17蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 惊魂电影,http://aldirect.hls.huya.com/huyalive/1448686674-1448686674-6222061886981013504-2789274590-10057-A-0-1_1200.m3u8
 金庸武侠,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
 乐视电影,http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-星蕾TV-少儿动画,#genre#
+少儿动画,#genre#
 迪士尼台 HD,vjms://58.215.133.194:8500:3502/live/cid=361
 第一宝贝 HD,http://61.222.191.50/live/F9YMztT5DcwWEr1f/index.m3u8
 蜡笔小新,http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
@@ -6599,7 +6592,7 @@ CCTV-17蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 喜羊羊,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
 儿歌大全,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
 名侦探柯南,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
-星蕾TV-MTV音乐,#genre#
+MTV音乐,#genre#
 青春音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 HP音乐频道,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 DeeJay,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
@@ -7022,54 +7015,7 @@ A-Lin-别在伤口撒盐,http://hc.yinyuetai.com/uploads/videos/common/9BA7013A2
 黄韵玲-有一点动心,http://he.yinyuetai.com/uploads/videos/common/BC160141EF56B8CB2DF8B72B582F0868.flv
 刘若英-当爱在靠近,http://hd.yinyuetai.com/uploads/videos/common/BCF10146FB8CB5FBE4FC740A8AEAA7C9.flv
 郑源-爱情码头,http://hd.yinyuetai.com/uploads/videos/common/DCB8014D2D1E2123095CB6A9D07487C8.flv
-星蕾TV-体验专区,#genre#
-CCTV-1 綜合 HD,p2p://198.255.74.87:9906/5dc08efe00062cd701b78344ed87571b.ts
-CCTV-2 財經,p2p://198.255.74.87:9906/5dc08efe00053efb01b78307aca34e36.ts
-CCTV-3 綜藝 HD,p2p://198.255.74.87:9906/5dc08efe0004bdae01b782e6a297b75f.ts
-CCTV-4 中文國際,p2p://198.255.74.87:9906/5dc08efb0004a0ad01b77726d159fc2e.ts
-CCTV-5 體育 HD,p2p://198.255.74.87:9906/5dc08efb0003b44301b776ea93f54492.ts
-CCTV-5+ 體育賽事 HD,p2p://198.255.74.87:9906/5dc08efb0002c58d01b776adc266e5f3.ts
-CCTV-6 HD,p2p://198.255.74.87:9906/5dc08efb0001ee2501b776763da9458e.ts
-CCTV-7 軍事農業,p2p://198.255.74.87:9906/5dc08efb0001110e01b7763df41e4f6d.ts
-CCTV-8 電視劇 HD,p2p://198.255.74.87:9906/5dc08efb0000314f01b7760414979f51.ts
-CCTV-9 HD,p2p://198.255.74.87:9906/5dc08efa000ea38c01b775ce1d83f544.ts
-CCTV-10 HD,p2p://198.255.74.87:9906/5dc08efa000dc4d401b7759563cca669.ts
-CCTV-11 戲曲,p2p://198.255.74.87:9906/5dc08efa000cdfca01b7755bedad8cc7.ts
-CCTV-12 社會與法,p2p://198.255.74.87:9906/5dc08efa000beb2401b7751cb519ae01.ts
-CCTV-13 新聞,p2p://198.255.74.87:9906/5dc08efa000afa7401b774df11cb7cd8.ts
-CCTV-14 少兒,p2p://198.255.74.87:9906/5dc08efa000a0dd701b774a2f24cee3c.ts
-CCTV-15 音樂,p2p://198.255.74.87:9906/5dc08efa0009ba2801b7748d2eef54cd.ts
-CCTV懷舊劇場,p2p://198.255.74.87:9906/5dc08ef7000e650b01b76a0641021f53.ts
-湖南衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000d7cc001b769cb1f23771a.ts
-浙江衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000ca33c01b76993b7f3d705.ts
-江蘇衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000bb7a201b7695720793fab.ts
-東方衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000ad05201b7691c414d3841.ts
-深圳衛視 HD,p2p://198.255.74.87:9906/5dc08ef70009eb6d01b768e1f1a9238f.ts
-廣東南方衛視2臺,p2p://198.255.74.87:9906/5dc08ef70008ffae01b768a585c69d7f.ts
-珠江臺,p2p://198.255.74.87:9906/5dc08ef700081bfb01b7686b98f40f9c.ts
-珠江電影,p2p://198.255.74.87:9906/5dc08ef700072f7c01b7682ef40cc9e7.ts
-廣東影視,p2p://198.255.74.87:9906/5dc08ef700064a6a01b767f3328a481e.ts
-廣東衛視,p2p://198.255.74.87:9906/5dc08ef7000568ef01b767bab90f7847.ts
-廣東體育,p2p://198.255.74.87:9906/5dc08ef700048c5601b767810d9fe838.ts
-新視覺 HD,p2p://198.255.74.87:9906/5dc08ef7000420c401b7676645f61dbe.ts
-遼寧衛視,p2p://198.255.74.87:9906/5dc08ef3000e367f01b75a5b12d5542a.ts
-重慶衛視,p2p://198.255.74.87:9906/5dc08ef3000d61d201b75a24a408762a.ts
-黑龍江衛視 HD,p2p://198.255.74.87:9906/5dc08ef3000c843701b759eb01f5cf0c.ts
-北京衛視 HD,p2p://198.255.74.87:9906/5dc08ef3000b9b6c01b759b0481eabee.ts
-河北衛視,p2p://198.255.74.87:9906/5dc08ef3000a944301b7596c64b6ba43.ts
-湖北衛視 HD,p2p://198.255.74.87:9906/5dc08ef30009b40201b759338e37d0d7.ts
-四川衛視 HD,p2p://198.255.74.87:9906/5dc08ef30008d1ec01b758f914d8efe0.ts
-貴州衛視,p2p://198.255.74.87:9906/5dc08ef30007efac01b758bf8416f1cc.ts
-廣西衛視,p2p://198.255.74.87:9906/5dc08ef30006f5a001b7587ff6469cab.ts
-福建東南衛視,p2p://198.255.74.87:9906/5dc08ef30005385701b7580df7655607.ts
-江西衛視,p2p://198.255.74.87:9906/5dc08ef300044f7401b757d2fd528ddb.ts
-天津衛視 HD,p2p://198.255.74.87:9906/5dc08ef30003f82101b757bbc23593df.ts
-中華美食,p2p://198.255.74.87:9906/5dc08ef00001061a01b74b423d979e56.ts
-高爾夫網球,p2p://198.255.74.87:9906/5dc08ef000001f3c01b74b07edba230c.ts
-風雲足球,p2p://198.255.74.87:9906/5dc08eef000e769501b74acbbbb1e76b.ts
-CHC動作電影,p2p://198.255.74.87:9906/5dc08eef000d93aa01b74a91a8a4214a.ts
-CHC家庭影院,p2p://198.255.74.87:9906/5dc08eef000cb4b501b74a581e87fd9e.ts
-CHC高清電影 HD,p2p://198.255.74.87:9906/5dc08eef000bd10f01b74a1deac06989.ts
+体验专区,#genre#
 天映频道HD,P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
 RHK32,P2p://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
 ViuTu,P2p://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
@@ -7623,7 +7569,7 @@ Llig deporte 1-2670,p2p://185.212.201.60:6005/5e051541000efa6e0566deff03b49dc8.t
 Llig deporte 2-2671,p2p://185.212.201.60:6005/5e051542000145950566df647cfd9bf6.ts
 Llig deporte 3-2672,p2p://185.212.201.60:6005/5e05154200038f8f0566dffa54380913.ts
 Llig deporte 4-2673,p2p://185.212.201.60:6005/5e051542000558ca0566e0704b5d4e41.ts
-星蕾TV-测试频道,#genre#
+测试频道,#genre#
 龍祥時代 HD,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 東森電影 HD,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 東森洋片 HD,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -9086,6 +9032,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 八大戏剧,vjms://23.237.33.155:8500:3502/live/cid=110
 八大第一,vjms://23.237.33.155:8500:3502/live/cid=441
 八大综合,vjms://23.237.33.155:8500:3502/live/cid=354
+办公室小野,http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
 博斯运动一台,mitv://198.255.74.87:9906/5dc08f17000cfdd501b7e6aadc319b99.ts
 博斯运动二台,mitv://198.255.74.87:9906/5dc08f14000d867301b7db159f054a88.ts
 博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265
@@ -9501,6 +9448,53 @@ CNN HD,p2p://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts
 Mezzo Live HD,p2p://198.255.74.87:9906/5dc08efe0008e29901b783f57863d634.ts
 LUXE TV,p2p://198.255.74.87:9906/5dc08efe00080ad401b783be428b9270.ts
 DW-TV,p2p://198.255.74.87:9906/5dc08efe0007236601b78383a689fcfd.ts
+CCTV-1 綜合 HD,p2p://198.255.74.87:9906/5dc08efe00062cd701b78344ed87571b.ts
+CCTV-2 財經,p2p://198.255.74.87:9906/5dc08efe00053efb01b78307aca34e36.ts
+CCTV-3 綜藝 HD,p2p://198.255.74.87:9906/5dc08efe0004bdae01b782e6a297b75f.ts
+CCTV-4 中文國際,p2p://198.255.74.87:9906/5dc08efb0004a0ad01b77726d159fc2e.ts
+CCTV-5 體育 HD,p2p://198.255.74.87:9906/5dc08efb0003b44301b776ea93f54492.ts
+CCTV-5+ 體育賽事 HD,p2p://198.255.74.87:9906/5dc08efb0002c58d01b776adc266e5f3.ts
+CCTV-6 HD,p2p://198.255.74.87:9906/5dc08efb0001ee2501b776763da9458e.ts
+CCTV-7 軍事農業,p2p://198.255.74.87:9906/5dc08efb0001110e01b7763df41e4f6d.ts
+CCTV-8 電視劇 HD,p2p://198.255.74.87:9906/5dc08efb0000314f01b7760414979f51.ts
+CCTV-9 HD,p2p://198.255.74.87:9906/5dc08efa000ea38c01b775ce1d83f544.ts
+CCTV-10 HD,p2p://198.255.74.87:9906/5dc08efa000dc4d401b7759563cca669.ts
+CCTV-11 戲曲,p2p://198.255.74.87:9906/5dc08efa000cdfca01b7755bedad8cc7.ts
+CCTV-12 社會與法,p2p://198.255.74.87:9906/5dc08efa000beb2401b7751cb519ae01.ts
+CCTV-13 新聞,p2p://198.255.74.87:9906/5dc08efa000afa7401b774df11cb7cd8.ts
+CCTV-14 少兒,p2p://198.255.74.87:9906/5dc08efa000a0dd701b774a2f24cee3c.ts
+CCTV-15 音樂,p2p://198.255.74.87:9906/5dc08efa0009ba2801b7748d2eef54cd.ts
+CCTV懷舊劇場,p2p://198.255.74.87:9906/5dc08ef7000e650b01b76a0641021f53.ts
+湖南衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000d7cc001b769cb1f23771a.ts
+浙江衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000ca33c01b76993b7f3d705.ts
+江蘇衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000bb7a201b7695720793fab.ts
+東方衛視 HD,p2p://198.255.74.87:9906/5dc08ef7000ad05201b7691c414d3841.ts
+深圳衛視 HD,p2p://198.255.74.87:9906/5dc08ef70009eb6d01b768e1f1a9238f.ts
+廣東南方衛視2臺,p2p://198.255.74.87:9906/5dc08ef70008ffae01b768a585c69d7f.ts
+珠江臺,p2p://198.255.74.87:9906/5dc08ef700081bfb01b7686b98f40f9c.ts
+珠江電影,p2p://198.255.74.87:9906/5dc08ef700072f7c01b7682ef40cc9e7.ts
+廣東影視,p2p://198.255.74.87:9906/5dc08ef700064a6a01b767f3328a481e.ts
+廣東衛視,p2p://198.255.74.87:9906/5dc08ef7000568ef01b767bab90f7847.ts
+廣東體育,p2p://198.255.74.87:9906/5dc08ef700048c5601b767810d9fe838.ts
+新視覺 HD,p2p://198.255.74.87:9906/5dc08ef7000420c401b7676645f61dbe.ts
+遼寧衛視,p2p://198.255.74.87:9906/5dc08ef3000e367f01b75a5b12d5542a.ts
+重慶衛視,p2p://198.255.74.87:9906/5dc08ef3000d61d201b75a24a408762a.ts
+黑龍江衛視 HD,p2p://198.255.74.87:9906/5dc08ef3000c843701b759eb01f5cf0c.ts
+北京衛視 HD,p2p://198.255.74.87:9906/5dc08ef3000b9b6c01b759b0481eabee.ts
+河北衛視,p2p://198.255.74.87:9906/5dc08ef3000a944301b7596c64b6ba43.ts
+湖北衛視 HD,p2p://198.255.74.87:9906/5dc08ef30009b40201b759338e37d0d7.ts
+四川衛視 HD,p2p://198.255.74.87:9906/5dc08ef30008d1ec01b758f914d8efe0.ts
+貴州衛視,p2p://198.255.74.87:9906/5dc08ef30007efac01b758bf8416f1cc.ts
+廣西衛視,p2p://198.255.74.87:9906/5dc08ef30006f5a001b7587ff6469cab.ts
+福建東南衛視,p2p://198.255.74.87:9906/5dc08ef30005385701b7580df7655607.ts
+江西衛視,p2p://198.255.74.87:9906/5dc08ef300044f7401b757d2fd528ddb.ts
+天津衛視 HD,p2p://198.255.74.87:9906/5dc08ef30003f82101b757bbc23593df.ts
+中華美食,p2p://198.255.74.87:9906/5dc08ef00001061a01b74b423d979e56.ts
+高爾夫網球,p2p://198.255.74.87:9906/5dc08ef000001f3c01b74b07edba230c.ts
+風雲足球,p2p://198.255.74.87:9906/5dc08eef000e769501b74acbbbb1e76b.ts
+CHC動作電影,p2p://198.255.74.87:9906/5dc08eef000d93aa01b74a91a8a4214a.ts
+CHC家庭影院,p2p://198.255.74.87:9906/5dc08eef000cb4b501b74a581e87fd9e.ts
+CHC高清電影 HD,p2p://198.255.74.87:9906/5dc08eef000bd10f01b74a1deac06989.ts
 日テレ,p2p://198.255.74.87:9906/5dc08eef000ae79701b749e2493a6973.ts
 NHK-Eテレ,p2p://198.255.74.87:9906/5dc08eef0007282f01b748ec5d589a66.ts
 NHK-総合,p2p://198.255.74.87:9906/5dc08eef0006437101b748b2ec46ab06.ts
@@ -9653,7 +9647,7 @@ SBS-UBC,http://www.krtvs.com/itv/js/m3u8_url.php?url=http://59.25.202.81:1935/li
 mbc体肓台,http://www.krtvs.com/itv/js/m3u8_url.php?url=http://23.237.112.138:9083/live/lmgr218-live1/wk/r5/wkr5etV8ujBb_3-hODugiQ==/live.m3u8
 MBC-ON,http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
 未未知,http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
-星蕾TV-梦幻频道,#genre#
+梦幻频道,#genre#
 色戒,https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
 苹果,https://qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
 丑闻,https://qqc1107.phpdaniu.com/japan/20190821/7vpRqM9k/index.m3u8
@@ -9734,7 +9728,7 @@ MBC-ON,http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/pla
 《那夜四次》,https://135zyv6.xw0371.com/2019/03/03/v2onwZtcStANIzuL/playlist.m3u8
 《陪睡女人》,https://135zyv6.xw0371.com/2019/03/08/9bdLtlZ6HJmB5uje/playlist.m3u8
 《黑手》,https://135zyv6.xw0371.com/2019/03/07/UtedUgOReo3D8alD/playlist.m3u8
-星蕾TV-测试二区,#genre#
+测试二区,#genre#
 CGTN Arabic,http://live.cgtn.com/1000a/prog_index.m3u8
 CGTN Documentary,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 CGTN Español,http://live.cgtn.com/1000e/prog_index.m3u8
@@ -10415,7 +10409,7 @@ CHC 动作电影 HD,p2p://lino.homeunix.com:6007/59fd25c800060e1102a812154e343f1
 10529,http://221.214.104.198:20119/live/v4l22/playlist.m3u8
 10530,sztv://szds
 10532,lztv://3
-星蕾TV-港台测试,#genre#
+港台测试,#genre#
 TVB明珠台,http://103.140.229.67/xg168.php?id=13
 TVB翡翠台,http://103.140.229.67/xg168.php?id=1
 TVBJ2,http://103.140.229.67/xg168.php?id=12
