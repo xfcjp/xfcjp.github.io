@@ -209,7 +209,14 @@ ELEVEN SPORTS+,P2p://sdgdklwos.finetv.tv:9906/59fd23c0000c1e7f02a0245c6964058b
 E!ENTERTAINMENT,P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
 
 $c_start轮播$c_end
-
+豆瓣高分,http://baiducdncmn2.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+电影大片,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_dianyingjingxuan_720p_t10/c18_lb_dianyingjingxuan_720p_t10.m3u8
+惊悚午夜场,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingnawuyechang_720p_t10/c19_lb_jingnawuyechang_720p_t10.m3u8
+周末影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_fengxiaogang_720p_t10/c17_lb_fengxiaogang_720p_t10.m3u8
+票房收割机,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_heibangdianying_720p_t10/c18_lb_heibangdianying_720p_t10.m3u8
+经典港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
+温情影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_chenglong_high_t10/c17_lb_chenglong_high_t10.m3u8
+贺岁影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 Newtv动画王国,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 Newtv动画王国,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 Newtv精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
