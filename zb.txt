@@ -103,12 +103,12 @@ VIUTVHD,mitv://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
 星卫娱乐台,mitv://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
 
 $c_start台湾$c_end
-民视台灣台HD,mitv://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts
-天映经典CCM,mitv://51.79.41.138:18912/5b3c4f9b00031383627eef60721e1738.ts
-CTV中视經典,mitv://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
-TVBS精采台HD,mitv://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
+中视,mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
 华视,mitv://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
 公视,mitv://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
+公视3,mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+民视,mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+民视台灣台HD,mitv://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts
 东森财经,mitv://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
 东森电影,mitv://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
 东森戏剧,mitv://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
@@ -121,13 +121,10 @@ TVBS精采台HD,mitv://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
 非凡商业台,mitv://51.79.41.138:18912/5b140a9a0001dd5b17d7055a180573f2.ts.ts
 非凡商业台,mitv://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
 非凡新闻,mitv://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
-公视3,mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
-公视,mitv://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
 国兴卫视,mitv://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
 好莱坞电影,mitv://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
 鸿基影剧台,mitv://sdgdklwos.finetv.tv:9906/59fd2a8b000cb57f02baad731b97024c
 华纳电视,mitv://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
-华视,mitv://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
 华视教育体育,mitv://sdgdklwos.finetv.tv:9906/59fd23240005c9a4029dc1561885012e
 寰宇财经台,mitv://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
 寰宇新闻2,mitv://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
@@ -156,7 +153,6 @@ TVBS精采台HD,mitv://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
 龙祥时代,mitv://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
 美食星球,mitv://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
 美亚电影台,mitv://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
-民视,mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
 民视台湾台,mitv://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
 民视新闻台,mitv://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
 年代新闻,mitv://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
@@ -173,13 +169,15 @@ TVBS精采台HD,mitv://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
 亚洲美食,mitv://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
 壹新闻,mitv://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
 壹综合,mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
-中视,mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
 中视经典台,mitv://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
 中视新闻,mitv://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
 中天新闻,mitv://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
 中天亚洲台,mitv://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
 中天娱乐,mitv://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
 中天综合,mitv://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
+天映经典CCM,mitv://51.79.41.138:18912/5b3c4f9b00031383627eef60721e1738.ts
+CTV中视經典,mitv://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
+TVBS精采台HD,mitv://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
 
 $c_start海外$c_end
 ASTRO AEC,P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72
