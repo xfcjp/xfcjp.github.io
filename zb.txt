@@ -15,6 +15,7 @@ CCTV-17高清,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+办公室小野,http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
 求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 纪实,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
 日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
