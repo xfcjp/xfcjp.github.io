@@ -408,6 +408,43 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
+新蕾港台,#genre#
+民視HD,vjms://58.215.133.161:8500/live/cid=450
+公視3HD,vjms://58.215.133.161:8500/live/cid=436
+年代MUCH,vjms://58.215.133.161:8500/live/cid=439
+东森新聞,vjms://58.215.133.161:8500/live/cid=340
+緯來體育,vjms://58.215.133.161:8500/live/cid=202
+緯來戲劇,vjms://58.215.133.161:8500/live/cid=137
+八大第一,vjms://58.215.133.161:8500/live/cid=441
+三立新闻,vjms://58.215.133.161:8500/live/cid=352
+三立都會,vjms://58.215.133.161:8500/live/cid=226
+博斯高球,vjms://58.215.133.161:8500/live/cid=265
+迪士尼卡通,vjms://58.215.133.161:8500/live/cid=361
+HBOHD,vjms://58.215.133.161:8500/live/cid=261
+HBO原创,vjms://58.215.133.161:8500/live/cid=236
+HBO強檔,vjms://58.215.133.161:8500/live/cid=238
+HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
+TVBS HD,vjms://58.215.133.161:8500/live/cid=349
+TVBS新聞臺,vjms://58.215.133.161:8500/live/cid=348
+ELTA體育HD,vjms://58.215.133.161:8500/live/cid=266
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
+法國國際五臺,vjms://58.215.133.161:8500/live/cid=396
+東森財經新闻,vjms://58.215.133.161:8500/live/cid=456
+國家地理HD,vjms://58.215.133.161:8500/live/cid=115
+國家地理野生,vjms://58.215.133.161:8500/live/cid=263
+體育博斯高球,vjms://58.215.133.161:8500/live/cid=265
+體育ELTA,vjms://58.215.133.161:8500/live/cid=266
+體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
+體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
+AXN,vjms://58.215.133.161:8500/live/cid=2
+BBC,vjms://58.215.133.161:8500/live/cid=418
+FOX2,vjms://58.215.133.161:8500/live/cid=444
+FOX3,vjms://58.215.133.161:8500/live/cid=95
+StarMovies,vjms://58.215.133.161:8500/live/cid=94
+DiscoveryAsia,vjms://58.215.133.161:8500/live/cid=440
+DiscoveryScience,vjms://58.215.133.161:8500/live/cid=457
+DiscoveryChannel,vjms://58.215.133.161:8500/live/cid=3
+
 经典港台,#genre#
 凤凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
 凤凰资讯HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
