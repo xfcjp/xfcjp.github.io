@@ -17,18 +17,22 @@ CCTV-14少儿,http://www.dszbdq.cn/diao/ysp.php?tv=0204403
 CCTV-15音乐,http://www.dszbdq.cn/diao/ysp.php?tv=0205003
 CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
+冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 湖北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294503
 湖南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296203
+茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+求索纪录,http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+华数BBC,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 纪实,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+金鹰纪实,rtmp://ivi6.bupt.edu.cn:1935/livetv/gedocu
+时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
 港台频道,#genre#
 凤凰卫视中文台,http://qlive.fengshows.cn/live720p/PCC.flv
@@ -159,10 +163,19 @@ AXN,vjms://61.216.1.24:8500:3502/live/cid=2
 国家地理HD,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb
 地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
 地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
+求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+求索生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
+求索科学,http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+求索记录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+动物世界,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+自由搏击,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
 日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
 日FIGHTING TV,vjms://58.215.133.184:8500:3502/live/cid=408
 NHK广岛放送,vjms://58.215.133.184:8500:3502/live/cid=301
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 日本洋片,vjms://58.215.133.184:8500:3502/live/cid=209
+黑莓电影FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 东森电影,mitv://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
 东森洋片,mitv://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
 好莱坞电影,mitv://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
