@@ -15,6 +15,7 @@ CCTV-12社会与法,http://www.dszbdq.cn/diao/ysp.php?tv=0202603
 CCTV-13新闻,http://www.dszbdq.cn/diao/ysp.php?tv=0204603
 CCTV-14少儿,http://www.dszbdq.cn/diao/ysp.php?tv=0204403
 CCTV-15音乐,http://www.dszbdq.cn/diao/ysp.php?tv=0205003
+CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8#http://111.63.117.13:6060/030000001000/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
 冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
@@ -191,6 +192,17 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 CATCHPLAY电影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
 华纳电视HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
 罪案侦缉HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
+
+经典轮播,#genre#
+豆瓣高分,http://baiducdncmn2.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+动作电影,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_dongzuodianying_720p_t10/c19_lb_dongzuodianying_720p_t10.m3u8
+电影大片,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_dianyingjingxuan_720p_t10/c18_lb_dianyingjingxuan_720p_t10.m3u8
+惊悚午夜场,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingnawuyechang_720p_t10/c19_lb_jingnawuyechang_720p_t10.m3u8
+周末影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_fengxiaogang_720p_t10/c17_lb_fengxiaogang_720p_t10.m3u8
+票房收割机,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_heibangdianying_720p_t10/c18_lb_heibangdianying_720p_t10.m3u8
+经典港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
+温情影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_chenglong_high_t10/c17_lb_chenglong_high_t10.m3u8
+贺岁影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 
 彩虹频道_000917,#genre#
 A3BIKINI,http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
