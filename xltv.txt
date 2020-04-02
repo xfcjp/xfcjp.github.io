@@ -178,7 +178,7 @@
 嵩山少林寺广场(回放),https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
 嵩山少林寺峻极峰(回放),https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
 嵩山少林寺胜观峰(回放),https://gctxyc.liveplay.m
-娜迦58,#genre#
+娜迦台湾,#genre#
 民视HD,vjms://58.215.133.161:8500/live/cid=450
 公视,vjms://58.215.133.161:8500/live/cid=236
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
