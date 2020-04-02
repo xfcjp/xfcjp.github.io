@@ -46,8 +46,8 @@ TVB无线新闻,https://pulljd-live.baijiayun.com/live/7679369d60e726f1ef480a5a4
 TVB翡翠台,http://218.26.75.164/hdl0901.plures.net/onlive/c5092c4b73f00a339466b9c9a90cc615.flv
 TVB明珠台,http://218.26.75.164/hdl0901.plures.net/onlive/23ff12dae24323fc9f01d407ec62091a.flv
 TVB J2,http://218.26.75.164/hdl0901.plures.net/onlive/b6affc060b3464402fd82a09de3a9182.flv
-31,http://183.201.234.25/hdl0901.plures.net/onlive/b548e63c0c18531ca7bc7ed2eeaef2ba.flv
-32,http://183.201.234.24/hdl0901.plures.net/onlive/5b853d2a834d1fe7746a02e2ecbcbd2b.flv
+RHK31,http://183.201.234.25/hdl0901.plures.net/onlive/b548e63c0c18531ca7bc7ed2eeaef2ba.flv
+RHK32,http://183.201.234.24/hdl0901.plures.net/onlive/5b853d2a834d1fe7746a02e2ecbcbd2b.flv
 中天新闻,http://116.136.128.50/hdl0901.plures.net/onlive/83848f9d2059e778b5cc6f4bcd3a0fbc.flv
 东森新闻,http://116.136.128.48/hdl0901.plures.net/onlive/3503dd8773fbfbc0a7206305559be465.flv
 寰宇新闻,http://116.136.128.48/hdl0901.plures.net/onlive/15b700a01133ed215477b1373f9cd433.flv
