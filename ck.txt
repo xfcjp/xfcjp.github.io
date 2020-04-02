@@ -1,0 +1,120 @@
+$c_start国内频道$c_end
+CCTV-1高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8 
+CCTV-2高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-6电影,http://www.dszbdq.cn/diao/ysp.php?tv=0203303
+CCTV-7高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-9高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-12高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-17高清,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
+湖北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294503
+湖南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296203
+新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+纪实,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
+Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
+爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
+$c_start海外频道$c_end
+BBC,vjms://58.215.133.161:8500/live/cid=418
+BBC,vjms://61.216.1.24:8500:3502/live/cid=418
+CNN,vjms://58.215.133.161:8500/live/cid=428
+CNN(EN),vjms://61.216.1.24:8500:3502/live/cid=428
+NHK World,vjms://61.216.1.24:8500:3502/live/cid=309
+NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
+CNBC,vjms://58.215.133.161:8500/live/cid=98
+CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
+AXN,vjms://58.215.133.161:8500/live/cid=2
+凤凰卫视中文台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8 
+凤凰卫视资讯台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
+年代新闻,vjms://58.215.133.161:8500/live/cid=455
+东森新闻,vjms://58.215.133.161:8500/live/cid=340
+中天新闻,vjms://58.215.133.161:8500/live/cid=407
+中视新闻,mitv://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
+非凡新闻,vjms://58.215.133.161:8500/live/cid=443
+三立新闻,vjms://58.215.133.161:8500/live/cid=352
+台视新闻,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
+壹新闻,mitv://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+TVBS新闻台,vjms://58.215.133.161:8500/live/cid=348
+中视,mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+华视,mitv://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
+公视,vjms://58.215.133.161:8500/live/cid=236
+民视HD,vjms://58.215.133.161:8500/live/cid=450
+民视台灣台HD,mitv://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts
+年代MUCH,vjms://58.215.133.161:8500/live/cid=439
+壹综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
+TVBS HD,vjms://58.215.133.161:8500/live/cid=349
+HBO HD,vjms://58.215.133.161:8500/live/cid=261
+HBO原创,vjms://58.215.133.161:8500/live/cid=436
+HBO强档,vjms://58.215.133.161:8500/live/cid=238
+HBO温馨,vjms://58.215.133.161:8500/live/cid=181
+HBO(HD),vjms://61.216.1.24:8500:3502/live/cid=261
+FOX MOVIES,vjms://58.215.133.161:8500/live/cid=94
+FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX优质电影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+FOX动作电影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
+FOX警匪电影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+STAR CHANNEL(BS),vjms://58.215.133.184:8500:3502/live/cid=326
+国家地理HD,vjms://58.215.133.161:8500/live/cid=115
+国家地理野生,vjms://58.215.133.161:8500/live/cid=263
+NGC(HD),vjms://61.216.1.24:8500:3502/live/cid=115
+NGC Wild(HD),vjms://61.216.1.24:8500:3502/live/cid=263
+Discovery(HD),vjms://61.216.1.24:8500:3502/live/cid=440
+Discovery Science(HD),vjms://61.216.1.24:8500:3502/live/cid=457
+Discovery Asia,vjms://58.215.133.161:8500/live/cid=440
+Discovery Science,vjms://58.215.133.161:8500/live/cid=457
+动物星球,vjms://58.215.133.161:8500/live/cid=3
+Animal Planet,vjms://61.216.1.24:8500:3502/live/cid=3
+亚洲旅游台,mitv://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
+亚洲美食,mitv://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
+TLC,vjms://61.216.1.24:8500:3502/live/cid=103
+OUTDOOR,P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
+TEAVEL HD,P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
+BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
+MTV HD,P2p://sdgdklwos.finetv.tv:9906/59fd38c4000c84ed02f23c1b626a19ac
+MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
+Fashion,vjms://61.216.1.24:8500:3502/live/cid=399
+LUXE.TV,P2p://sdgdklwos.finetv.tv:9906/59fd32780006da1202d9a1c415a55c7e
+AXN,vjms://61.216.1.24:8500:3502/live/cid=2
+亚洲旅游台,P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
+亚洲美食HD,P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
+美食星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
+动物星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
+高清探索HD,P2p://sdgdklwos.finetv.tv:9906/5acb89750000af6a2c1ba62e06531ad6
+探索亚洲HD,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
+探索频道HD,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
+探索科学HD,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
+探索夏娃HD,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
+探索动力HD,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
+国家地理HD,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb
+地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
+地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
+日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
+日FIGHTING TV,vjms://58.215.133.184:8500:3502/live/cid=408
+NHK广岛放送,vjms://58.215.133.184:8500:3502/live/cid=301
+日本洋片,vjms://58.215.133.184:8500:3502/live/cid=209
+东森电影,mitv://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
+东森洋片,mitv://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
+好莱坞电影,mitv://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
+华纳电影,mitv://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+龙华电影,mitv://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
+龙华洋片,mitv://sdgdklwos.finetv.tv:9906/59fd07650001a79102315e34781149f3
+龙祥时代,mitv://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
+卫视电影台,mitv://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
+卫视西片台,mitv://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+纬来电影,mitv://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
+美亚电影台,mitv://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
+靖天电影台,mitv://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
+CATCHPLAY电影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
+华纳电视HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+罪案侦缉HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
