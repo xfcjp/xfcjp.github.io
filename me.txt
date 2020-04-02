@@ -21,6 +21,57 @@ CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.1
 Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
+港台频道,#genre#
+凤凰卫视中文台,http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰卫视资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK-1585533721.ts
+香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+NOW新闻,http://116.136.128.47/hdl0901.plures.net/onlive/02dd80ff87329e27c41b6346370d163d.flv
+香港有线新闻,https://pulljd-live.baijiayun.com/live/09d4c6c4f4a965672d48edc80d6cacfb.flv
+TVB无线新闻,https://pulljd-live.baijiayun.com/live/7679369d60e726f1ef480a5a46df51c3.flv
+TVB翡翠台,http://218.26.75.164/hdl0901.plures.net/onlive/c5092c4b73f00a339466b9c9a90cc615.flv
+TVB明珠台,http://218.26.75.164/hdl0901.plures.net/onlive/23ff12dae24323fc9f01d407ec62091a.flv
+TVB J2,http://218.26.75.164/hdl0901.plures.net/onlive/b6affc060b3464402fd82a09de3a9182.flv
+31,http://183.201.234.25/hdl0901.plures.net/onlive/b548e63c0c18531ca7bc7ed2eeaef2ba.flv
+32,http://183.201.234.24/hdl0901.plures.net/onlive/5b853d2a834d1fe7746a02e2ecbcbd2b.flv
+中天新闻,http://116.136.128.50/hdl0901.plures.net/onlive/83848f9d2059e778b5cc6f4bcd3a0fbc.flv
+东森新闻,http://116.136.128.48/hdl0901.plures.net/onlive/3503dd8773fbfbc0a7206305559be465.flv
+寰宇新闻,http://116.136.128.48/hdl0901.plures.net/onlive/15b700a01133ed215477b1373f9cd433.flv
+中视新闻,http://218.26.75.164/hdl0901.plures.net/onlive/6b92154ec49ebd1f1131271cf3c328ff.flv
+台视新闻,http://116.136.128.47/hdl0901.plures.net/onlive/eb436244f14d717590555a2f5816b438.flv
+华视新闻,http://116.136.128.46/hdl0901.plures.net/onlive/38c8e70c3130f48b7c138912dd9000c9.flv
+民视新闻,http://218.26.75.164/hdl0901.plures.net/onlive/e99c44af8afdeb3fcf5fbe207d4fc1b8.flv
+公视新闻,http://116.136.128.51/hdl0901.plures.net/onlive/de22be26abe6d023e721f59ee1a6e34e.flv
+三立新闻,http://116.136.128.49/hdl0901.plures.net/onlive/a889811f1de6a48a2a58310ed2176cdb.flv
+非凡新闻,http://116.136.128.47/hdl0901.plures.net/onlive/055a72b4a4fd133db0b426cf70281ed6.flv
+年代新闻,http://116.136.128.51/hdl0901.plures.net/onlive/106cc0b3434d8663a3124865fcba2fca.flv
+TVBS新闻,http://116.136.128.46/hdl0901.plures.net/onlive/b53f23d825590a8ca224171fc8d399ee.flv
+TVBS HD,http://122.70.142.201/hdl0901.plures.net/onlive/e6164c0c0c1d7700e7970883690a18bc.flv
+HBO,http://116.136.128.49/hdl0901.plures.net/onlive/3fc4c94de5acc8678b66a6ae304b4f7e.flv
+FOX HD,http://116.136.128.49/hdl0901.plures.net/onlive/e629888b039aed789a1c2759b5765f0b.flv
+FOX MOVIES,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction-272163.ts
+好莱坞电影台,http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu-261435.ts
+东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying-262028.ts
+东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian-262790.ts
+星卫电影台,http://218.26.75.164/hdl0901.plures.net/onlive/8aebaa9f0cf51897eb6dcc57c27203d4.flv
+美亚电影台,http://116.136.128.47/hdl0901.plures.net/onlive/12d69a3a4749ad367269e0aa54b58232.flv
+龙祥时代,http://116.136.128.51/hdl0901.plures.net/onlive/c353c47364097f4a853b2064a3d4cf74.flv
+龙祥时代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai-261647.ts
+卫视电影台,http://116.136.128.48/hdl0901.plures.net/onlive/95b7887c7ab6e6c0a874555a7a393556.flv
+华纳TV,http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying-251922.ts
+民视台湾台,http://183.201.234.25/hdl0901.plures.net/onlive/0199d942a131e06bf282fb8f094ba6ae.flv
+民视综艺台,http://183.201.234.24/hdl0901.plures.net/onlive/7c913b5e0e51d66a9f34fec7ae1c144d.flv
+CNN,http://218.26.75.164/hdl0901.plures.net/onlive/4a9f35d3cfe2f279e2f1421a21ba1eea.flv
+BBC Lifestyle,http://218.26.75.164/hdl0901.plures.net/onlive/693be41299dc580ad813ebd6724802de.flv
+国家地理,http://116.136.128.45/hdl0901.plures.net/onlive/dca4f527cb2aa5d22c724263d6a96c5d.flv
+国家地理野生,http://116.136.128.47/hdl0901.plures.net/onlive/f9e3e8349b2f9bca73e21706f2c51fc6.flv
+国家地理悠人,http://116.136.128.48/hdl0901.plures.net/onlive/7570f375e7d0b8b52dde7a82ac0678dc.flv
+动物星球,http://116.136.128.47/hdl0901.plures.net/onlive/e46a881af6ca8fc0797dc93dbcd5b515.flv
+Discovery,http://122.70.142.203/hdl0901.plures.net/onlive/dc972e148f76bf30c71a0b8d1d4733ed.flv
+DiscoveryScience,http://116.136.128.45/hdl0901.plures.net/onlive/93c8e16d5e7be8a147fe99afc95b896b.flv
+DiscoveryAsia,http://116.136.128.46/hdl0901.plures.net/onlive/716010073ba87bcd5d47faa7f7ac5b53.flv
+DMAX,http://218.26.75.164/hdl0901.plures.net/onlive/165ea5f151da7f9679d40f425bac442d.flv
+
 海外频道,#genre#
 BBC,vjms://58.215.133.161:8500/live/cid=418
 BBC,vjms://61.216.1.24:8500:3502/live/cid=418
