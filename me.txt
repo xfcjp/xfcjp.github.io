@@ -37,7 +37,7 @@ Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 港台频道,#genre#
 凤凰卫视中文台,http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰卫视资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK-1585533721.ts
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 NOW新闻,http://116.136.128.47/hdl0901.plures.net/onlive/02dd80ff87329e27c41b6346370d163d.flv
 香港有线新闻,https://pulljd-live.baijiayun.com/live/09d4c6c4f4a965672d48edc80d6cacfb.flv
