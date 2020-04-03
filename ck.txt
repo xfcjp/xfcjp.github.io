@@ -22,7 +22,7 @@ Olympic Channel,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8#http://ott-l
 冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
-中国交通海南版,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
+中国交通,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
