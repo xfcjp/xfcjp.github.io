@@ -8,17 +8,23 @@ CCTV-10高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 CCTV-12高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 CCTV-17高清,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 Olympic Channel,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
-湖北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294503
-湖南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296203
+北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 凤凰卫视中文台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8 
 凤凰卫视资讯台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+中国交通海南版,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
+茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+求索纪录,http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+华数BBC,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 纪实,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+金鹰纪实,rtmp://ivi6.bupt.edu.cn:1935/livetv/gedocu
 日FIGHTING TV,vjms://58.215.133.197:8500:3502/live/cid=408
+时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
