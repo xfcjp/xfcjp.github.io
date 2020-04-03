@@ -20,8 +20,9 @@ CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+中国交通海南版,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
+茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 求索纪录,http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
@@ -35,10 +36,11 @@ CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.1
 Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 
 港台频道,#genre#
-凤凰卫视中文台,http://qlive.fengshows.cn/live720p/PCC.flv
-凤凰卫视资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰较早记录,http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 NOW新闻,http://116.136.128.47/hdl0901.plures.net/onlive/02dd80ff87329e27c41b6346370d163d.flv
 香港有线新闻,https://pulljd-live.baijiayun.com/live/09d4c6c4f4a965672d48edc80d6cacfb.flv
 TVB无线新闻,https://pulljd-live.baijiayun.com/live/7679369d60e726f1ef480a5a46df51c3.flv
@@ -47,6 +49,7 @@ TVB明珠台,http://218.26.75.164/hdl0901.plures.net/onlive/23ff12dae24323fc9f01
 TVB J2,http://218.26.75.164/hdl0901.plures.net/onlive/b6affc060b3464402fd82a09de3a9182.flv
 RHK31,http://183.201.234.25/hdl0901.plures.net/onlive/b548e63c0c18531ca7bc7ed2eeaef2ba.flv
 RHK32,http://183.201.234.24/hdl0901.plures.net/onlive/5b853d2a834d1fe7746a02e2ecbcbd2b.flv
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 中天新闻,http://116.136.128.50/hdl0901.plures.net/onlive/83848f9d2059e778b5cc6f4bcd3a0fbc.flv
 东森新闻,http://116.136.128.48/hdl0901.plures.net/onlive/3503dd8773fbfbc0a7206305559be465.flv
 寰宇新闻,http://116.136.128.48/hdl0901.plures.net/onlive/15b700a01133ed215477b1373f9cd433.flv
@@ -114,6 +117,7 @@ TVBS新闻台,vjms://58.215.133.161:8500/live/cid=348
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
 壹综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
 TVBS HD,vjms://58.215.133.161:8500/live/cid=349
+凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 HBO HD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO强档,vjms://58.215.133.161:8500/live/cid=238
