@@ -17,11 +17,14 @@ CCTV-14少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8#http://111.63.117.13:6060/030000001000/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+Olympic Channel,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
-湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+中国交通,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
+茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 求索纪录,http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
