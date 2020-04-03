@@ -1,25 +1,39 @@
 $c_start国内频道$c_end
-CCTV-1高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8 
-CCTV-2高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-6电影,http://www.dszbdq.cn/diao/ysp.php?tv=0203303
-CCTV-7高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-CCTV-9高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-CCTV-10高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-CCTV-12高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-17高清,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
-湖北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294503
-湖南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296203
+CCTV-1综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3综艺,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-4中文国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-5体育,http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+CCTV-5+体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-6电影,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV-7国防军事,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-8电视剧,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-9记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-13新闻,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-14少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8#http://111.63.117.13:6060/030000001000/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
+CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+中国交通海南版,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
+茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+求索纪录,http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+华数BBC,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 纪实,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+金鹰纪实,rtmp://ivi6.bupt.edu.cn:1935/livetv/gedocu
+时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
 $c_start海外频道$c_end
 BBC,vjms://58.215.133.161:8500/live/cid=418
@@ -31,8 +45,11 @@ NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
 CNBC,vjms://58.215.133.161:8500/live/cid=98
 CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
 AXN,vjms://58.215.133.161:8500/live/cid=2
-凤凰卫视中文台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8 
-凤凰卫视资讯台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
+凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰较早记录,http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 年代新闻,vjms://58.215.133.161:8500/live/cid=455
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
 中天新闻,vjms://58.215.133.161:8500/live/cid=407
@@ -50,6 +67,7 @@ TVBS新闻台,vjms://58.215.133.161:8500/live/cid=348
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
 壹综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
 TVBS HD,vjms://58.215.133.161:8500/live/cid=349
+凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 HBO HD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO强档,vjms://58.215.133.161:8500/live/cid=238
