@@ -7,6 +7,7 @@ CCTV-9高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 CCTV-10高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV-12高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 CCTV-17高清,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+Olympic Channel,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
 湖北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294503
 湖南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296203
