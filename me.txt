@@ -95,8 +95,8 @@ BBC,vjms://58.215.133.161:8500/live/cid=418
 BBC,vjms://61.216.1.24:8500:3502/live/cid=418
 CNN,vjms://58.215.133.161:8500/live/cid=428
 CNN(EN),vjms://61.216.1.24:8500:3502/live/cid=428
-NHK World,vjms://61.216.1.24:8500:3502/live/cid=309
 NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
+NHK G,vjms://61.216.1.24:8500:3502/live/cid=309
 CNBC,vjms://58.215.133.161:8500/live/cid=98
 CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
 AXN,vjms://58.215.133.161:8500/live/cid=2
