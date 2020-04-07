@@ -206,49 +206,138 @@ CATCHPLAY电影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f
 温情影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_chenglong_high_t10/c17_lb_chenglong_high_t10.m3u8
 贺岁影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 
-中国广电
-CCTV1,http://cbnlive.cbchot.com/live/yt_cctv1_h_1.m3u8
-CCTV2,http://cbnlive.cbchot.com/live/yt_cctv2_h_1.m3u8
-CCTV3,http://cbnlive.cbchot.com/live/yt_cctv3_h_1.m3u8
-CCTV4,http://cbnlive.cbchot.com/live/yt_cctv4zhongwenguoji_h_1.m3u8
-CCTV5,http://cbnlive.cbchot.com/live/ty_cctv5_h_1.m3u8
-CCTV6,http://cbnlive.cbchot.com/live/yt_cctv6_h_1.m3u8
-CCTV7,http://cbnlive.cbchot.com/live/yt_cctv7_h_1.m3u8
-CCTV8,http://cbnlive.cbchot.com/live/ty_cctv8_h_1.m3u8
-CCTV9,http://cbnlive.cbchot.com/live/yt_cctv9_h_1.m3u8
-CCTV10,http://cbnlive.cbchot.com/live/yt_cctv10_h_1.m3u8
-CCTV12,http://cbnlive.cbchot.com/live/yt_cctv12_h_1.m3u8
-CCTV13,http://cbnlive.cbchot.com/live/cl114_1.m3u8
-CCTV14,http://cbnlive.cbchot.com/live/yt_cctv14_h_1.m3u8
-浙江卫视,http://cbnlive.cbchot.com/live/yt_zhejiangweishi_h_1.m3u8
-优漫卡通,http://cbnlive.cbchot.com/live/jsse_l_1.m3u8
-新视觉高清,http://cbnlive.cbchot.com/live/XSJHD_1.m3u8
-西藏卫视,http://cbnlive.cbchot.com/live/xizangweishi_1052_1.m3u8
-五星体育高清,http://cbnlive.cbchot.com/live/SHSportHD_1.m3u8
-天津卫视,http://cbnlive.cbchot.com/live/yt_tianjinweishi_h_1.m3u8
-四川卫视,http://cbnlive.cbchot.com/live/yt_sichuan_h_1.m3u8
-深圳卫视,http://cbnlive.cbchot.com/live/yt_shenzhenweishi_h_1.m3u8
-山东卫视,http://cbnlive.cbchot.com/live/yt_shandongweishi_h_1.m3u8
-内蒙古卫视,http://cbnlive.cbchot.com/live/neimengweishi_l_1.m3u8
-辽宁卫视,http://cbnlive.cbchot.com/live/ty_liaoningweishi_h_1.m3u8
-金鹰纪实,http://cbnlive.cbchot.com/live/yt_jinying_h_1.m3u8
-江西卫视,http://cbnlive.cbchot.com/live/ty_jiangxiweishi_h_1.m3u8
-江苏卫视,http://cbnlive.cbchot.com/live/yt_jiangsuweishi_h_1.m3u8
-上海纪实人文,http://cbnlive.cbchot.com/live/yt_shanghaijishi_l_1.m3u8
-湖北卫视,http://cbnlive.cbchot.com/live/yt_hubei_h_1.m3u8
-黑龙江卫视,http://cbnlive.cbchot.com/live/yt_heilongjiangweishi_h_1.m3u8
-安徽卫视,http://cbnlive.cbchot.com/live/yt_anhui_h_1.m3u8
-安多卫视,http://cbnlive.cbchot.com/live/anduoweishi_l_1.m3u8
-河南卫视,http://cbnlive.cbchot.com/live/henanweishi_l_1.m3u8
-河北卫视,http://cbnlive.cbchot.com/live/yt_henanweishi_h_1.m3u8
-广东卫视,http://cbnlive.cbchot.com/live/yt_guangdongweishi_h_1.m3u8
-甘肃卫视,http://cbnlive.cbchot.com/live/gansuweishi_l_1.m3u8
-发现之旅,http://cbnlive.cbchot.com/live/faxianzhilv_32_l_1.m3u8
-东南卫视,http://cbnlive.cbchot.com/live/yt_dongnan_h_1.m3u8
-东方卫视,http://cbnlive.cbchot.com/live/yt_dongfangweishi_h_1.m3u8
-第一财经,http://cbnlive.cbchot.com/live/shanghaicaijing_l_1.m3u8
-北京影视,http://cbnlive.cbchot.com/live/bjysyth_1.m3u8
-北京新闻,http://cbnlive.cbchot.com/live/bjxwyth_1.m3u8
-北京文艺,http://cbnlive.cbchot.com/live/bjwyytl_1.m3u8
-北京卫视,http://cbnlive.cbchot.com/live/bjswsyth_1.m3u8
-北京大健康,http://cbnlive.cbchot.com/live/dajiankang_ld_1.m3u8
+港澳台
+凤凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
+凤凰资讯HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
+凤凰香港HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
+TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
+TVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
+TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+TVB无线财经台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
+TVB星河台,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+寰宇新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+TVB武术台,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
+天映经典台,P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
+天映频道HD,P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
+卫视中文台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46
+卫视电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
+卫视閤家欢HD,P2p://sdgdklwos.finetv.tv:9906/59fd14190000e1040262fd2560d91f69
+卫视西片台HD,P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+好莱坞电影HD,P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
+星卫电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
+星卫娱乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
+美亚电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
+VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
+VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
+VIU TV6HD,P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
+VIU TV6HD,P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
+RTHK31HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
+RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
+香港开电视,P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07
+香港开电视,P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07
+澳门莲花,P2p://sdgdklwos.finetv.tv:9906/5acb8740000253a62c1307843e7c4bc3
+龙祥时代,P2p://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
+民 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+中 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+华 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
+台 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
+公 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
+公 视3HD,P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+壹 新 闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+壹 综 合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
+东森新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
+东森综合HD,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
+东森电影HD,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
+东森洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
+中视经典台,P2p://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
+中视新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
+三立综合台,P2p://sdgdklwos.finetv.tv:9906/59fd27240003732f02ad60c95d8e10a7
+三立新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd08fd000707490237995b3c9f2775
+三立都会台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1
+三立台湾台HD,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4
+中天亚洲台,P2p://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
+中天新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
+中天新闻HD,P2p://sdgdklwos.finetv.tv:9906/5acb650d0006707f2b8d716537d413a9
+中天综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
+中天娱乐HD,P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
+八大第1台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22540006fb57029a95244a947e57
+八大综合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
+八大娱乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
+阿里郎电视,P2p://sdgdklwos.finetv.tv:9906/59fd303f000e8d8702d0f510645c2ff4
+寰宇综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
+非凡新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+台视新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
+年代新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+亚洲新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a56d833000e41286443908c2a501e55
+民视新闻台HD,P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+民视台湾台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
+华视教育体育HD,P2p://sdgdklwos.finetv.tv:9906/59fd23240005c9a4029dc1561885012e
+龙华洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd07650001a79102315e34781149f3
+龙华影剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd30d6000988d702d341a0202638f5
+龙华经典HD,P2p://sdgdklwos.finetv.tv:9906/59fd3363000e740302dd39b062856e0b
+龙华电影HD,P2p://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
+纬来综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd206e00099d6f02932b6078c86d9a
+纬来电影HD,P2p://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
+迪士尼频道,P2p://sdgdklwos.finetv.tv:9906/59fd1766000a51cc026fe44f425c5788
+采昌影剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd15cc000cd7cc0269a36a466420ca
+日舞电影HD,P2p://sdgdklwos.finetv.tv:9906/59fd30960001991702d2459c74bd52f1
+华纳电视HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+罪案侦缉HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
+世界影城HD,P2p://sdgdklwos.finetv.tv:9906/59fd29d600014b6302b7e78c36d43070
+靖天国际台HD,P2p://sdgdklwos.finetv.tv:9906/59fd32c800056a3402dad9e646096d29
+靖天戏剧台HD,P2p://sdgdklwos.finetv.tv:9906/59fd36f80009b75202eb367f603a273f
+靖天电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
+靖天映画台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3565000a788d02e5107642590dce
+靖天卡通台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38e0000de06a02f2a9c951a975a6
+靖天育乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3068000ea26902d195477bc86f19
+靖洋戏剧台HD,P2p://sdgdklwos.finetv.tv:9906/59fd259600089bb202a74f6123416e8d
+鸿基影剧台,P2p://sdgdklwos.finetv.tv:9906/59fd2a8b000cb57f02baad731b97024c
+TLC旅游台,P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
+亚洲美食HD,P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
+美食星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
+动物星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
+高清探索HD,P2p://sdgdklwos.finetv.tv:9906/5acb89750000af6a2c1ba62e06531ad6
+探索亚洲HD,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
+探索频道HD,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
+探索科学HD,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
+探索夏娃HD,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
+探索动力HD,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
+国家地理HD,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb
+地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
+地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
+历史频道1HD,P2p://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
+历史频道2HD,P2p://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
+MTV HD,P2p://sdgdklwos.finetv.tv:9906/59fd38c4000c84ed02f23c1b626a19ac
+AXN HD,P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8
+HBO HD,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
+HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX优质电影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+FOX动作电影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
+FOX警匪电影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+ELTA综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ca00086abe02ac0272796720c5
+ELTA影剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd07e7000727bb02335b6b31754db5
+TVBS HD,P2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
+TVBS新闻台HD,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
+TVBS欢乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
+TVBS精采台HD,P2p://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
+EYETV旅游HD,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
+CATCHPLAY电影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
+BBC HD,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
+CNN HD,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
+NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
+TVN HD,P2p://sdgdklwos.finetv.tv:9906/59fd248e000a1aa502a3488f618b6de7
+NBA HD,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
+LUXE.TV,P2p://sdgdklwos.finetv.tv:9906/59fd32780006da1202d9a1c415a55c7e
+DIVA HD,P2p://sdgdklwos.finetv.tv:9906/59fd33b00000188702de62ce5428150a
+SMART HD,P2p://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
+OUTDOOR,P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
+TEAVEL HD,P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
+BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
+MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
