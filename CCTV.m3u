@@ -1,40 +1,42 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8 
 #EXTINF:-1 ,CCTV-2
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8 
 #EXTINF:-1 ,CCTV-3
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 #EXTINF:-1 ,CCTV-4
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
 #EXTINF:-1 ,CCTV-5
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226257/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226258/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226259/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226260/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226261/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8
 #EXTINF:-1 ,CCTV-5+
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8
 #EXTINF:-1 ,CCTV-6
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1 ,CCTV-7
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8
 #EXTINF:-1 ,CCTV-8
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-9
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8
 #EXTINF:-1 ,CCTV-10
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u8
 #EXTINF:-1 ,CCTV-11
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/322#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225869/1.m3u81226334/1.m3u8 
 #EXTINF:-1 ,CCTV-12
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8
 #EXTINF:-1 ,CCTV-13
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
 #EXTINF:-1 ,CCTV-14
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225872/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
 #EXTINF:-1 ,CCTV-15
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 , Olympic Channel HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 ,CCTV-17
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 ,CCTV-4k
-http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 ,新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 ,舌尖上的中国
