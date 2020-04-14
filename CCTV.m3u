@@ -14,8 +14,8 @@ http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://117.169.124.36:66
 #EXTINF:-1 ,CCTV-7
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8
 #EXTINF:-1 ,CCTV-8
-http://39.135.15.70:6610/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-9
+http://www.dszbdq.cn/diao/ysp.php?tv=0203903
+EXTINF:-1 ,CCTV-9
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8
 #EXTINF:-1 ,CCTV-10
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u8
@@ -24,7 +24,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3
 #EXTINF:-1 ,CCTV-12
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8
 #EXTINF:-1 ,CCTV-13
-http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+http://www.dszbdq.cn/diao/ysp.php?tv=0204603
 #EXTINF:-1 ,CCTV-14
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225872/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
 #EXTINF:-1 ,CCTV-15
