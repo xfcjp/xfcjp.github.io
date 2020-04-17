@@ -15,9 +15,9 @@ CCTV-12社会与法,http://ivi6.bupt.edu.cn/hls/cctv12hd.m3u8#http://ivi.bupt.ed
 CCTV-13新闻,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-14少儿,http://ivi6.bupt.edu.cn/hls/cctv14hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV-17农业农村,http://ivi6.bupt.edu.cn/hls/cctv17hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 CGTN,http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8#http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 CGTN纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
-CCTV-17农业农村,http://ivi6.bupt.edu.cn/hls/cctv17hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 CETV-1,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 北京卫视,http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8#http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
