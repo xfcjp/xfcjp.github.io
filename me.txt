@@ -4,7 +4,7 @@ CCTV-2财经,http://ivi6.bupt.edu.cn/hls/cctv2hd.m3u8#http://ivi.bupt.edu.cn/hls
 CCTV-3综艺,http://ivi6.bupt.edu.cn/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 CCTV-4中文国际,http://ivi6.bupt.edu.cn/hls/cctv4hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 CCTV-5体育,http://ivi6.bupt.edu.cn/hls/cctv5phd.m3u8#http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV-5+体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-5+体育赛事,http://125.210.152.18:9090/live/TYSSHD_H265.m3u8#http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV-6电影,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 CCTV-7国防军事,http://ivi6.bupt.edu.cn/hls/cctv7hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
 CCTV-8电视剧,http://ivi6.bupt.edu.cn/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
@@ -16,9 +16,6 @@ CCTV-13新闻,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u
 CCTV-14少儿,http://ivi6.bupt.edu.cn/hls/cctv14hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-17农业农村,http://ivi6.bupt.edu.cn/hls/cctv17hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-CGTN,http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8#http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
-CGTN纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
-CETV-1,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 北京卫视,http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8#http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 北京影视,http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8#http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
@@ -31,9 +28,12 @@ CETV-1,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 浙江卫视,http://ivi6.bupt.edu.cn/hls/zjhd.m3u8#http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 凤凰卫视中文台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8 
 凤凰卫视资讯台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
+CGTN,http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8#http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
+CGTN纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+CETV-1,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
-中国交通,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
+中国交通-海南,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
@@ -67,9 +67,9 @@ CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 CCTV-13新闻,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-14少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8#http://111.63.117.13:6060/030000001000/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 Olympic Channel,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8#http://111.63.117.13:6060/030000001000/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 冬奥纪实,http://223.110.242.140:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
