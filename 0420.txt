@@ -1,4 +1,4 @@
-大陆/China,#genre#
+$c_start大陆/China$c_end
 CCTV1,tvbus://3sE7V4EfT4ABijrGMpfjy9JFa1cAbCrMaQtGfLRmpvJNrgbkrZ
 CCTV2,tvbus://3asn7Up7Zn4SaZnSgn22Nm6wF9whAQLoDR3GwfJ4YK7i26YKc8
 CCTV3,tvbus://3jaRBsZVr66mGM5L3pbWVkuTHdmbGeETR25dTJEcZeTACh7UMs
@@ -63,7 +63,7 @@ CCTV怀旧剧场,p8p://0198.02686.cc:16871/5d1a69a20001626a11bd964cbfa22b6d.ts
 河北卫视,p8p://0198.02686.cc:16871/5d1a69c7000bf64e11be298959e31717.ts
 第一財經,p8p://0198.02686.cc:16871/5d1a69df000139dd11be8489e1d7a141.ts
 
-港台,#genre#
+$c_start港台$c_end
 臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
 大愛電視,tvbus://3cmXtkBPee9paSJ7yVURCCbQkAVHv8FySFqGDeJJNDUgRWBeoT
 中視,tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ
@@ -245,7 +245,7 @@ Golf_Plus_(博斯高球二臺),tvbus://4XFVnGyp5PSGYrUXKAQZs2tGad8TmTwJKRxnxuttG
 華藝綜合,tvbus://3kAYoypFJJ9BSzSrCkPp4NGVsxpZHAHdKH4Y8VP5zhMaEV5aq4
 華藝影劇,tvbus://41S7x6cJ4C73CTCZTrvbD6MH7NTewtWMeVVwJpNbwUunHyKUA4
 
-新馬/SG&MY,#genre#
+$c_start新馬/SG&MY$c_end
 OASIS,tvbus://3Jx1wQsrZd3Uv75cnoqab8Fz3HeN9xrYQ3zTTL9Nh8URtbnhKh
 ASTRO_WARNA,tvbus://4XsZxBHzPETYWH1iBGHEdB9PMbDgddv3tQuH1JmtiQ3zgqJoPX
 OKEY,tvbus://3wkYcCwYLYRR5eWDHcvpyiJwtnFC1gm1WK2Ypov1AVWMiS1w3W
@@ -318,7 +318,7 @@ LifeTime,tvbus://4gf94nuWXjaB5gm6EgVKphtYfVw4WYz91nQMTNxQA1NsAqoxL3
 Warner TV ID HD,tvbus://3eKgZnh4MPqmJKJZiCQVmWPzNzjAcXt89RhBreAKXr6u39jncy
 Star World,tvbus://349vedi5GonQfUkjNaBqysBxLeeXwB8w4xnE2WCSK6pjj8KGXX
 
-日韩/Korea,#genre#
+$c_start韩国/Korea$c_end
 EBS1,p8p://0198.02686.cc:16871/5d3077b700047e14342d0da1799244a1.ts
 EBS2,tvbus://3Kybz3m314yBfLwiFfUkSmxKBWSmpsf56sNW8LzVBWzxzkckSH
 KBS1,p8p://0198.02686.cc:16871/5d307612000d2db03426a352d0657846.ts
@@ -369,7 +369,7 @@ Toon!verse,p8p://0198.02686.cc:16871/5e1093770009f9111ce15aaeb7225032.ts
 Olive,p8p://0198.02686.cc:16871/5e109343000761d31ce08ee5de09313f.ts
 CTS25,p8p://0198.02686.cc:16871/5e10935c0000acfa1ce0eed59e742f2a.ts
 
-北美/US&CA,#genre#
+$c_start北美/US&CA$c_end
 TSN_2,tvbus://4bbewUA52M5opbPVcaaoxNQSrNfuJ4Q3LBhX9LwcLbHB5x2a3J
 TSN_3,tvbus://4Byh5MpvkbRpupJkfbTsk2c9Sn3PjzHBqEgftuHLkjcjrMqUHP
 TSN_4,tvbus://3EQqF7cVnPB4e2k32pKvfbaLbkssEJ1mTHqcexyvwq4TzSnynj
@@ -483,7 +483,7 @@ BEIN_SPORT11,tvbus://4oGU3APwUghJ7JkdYP5MqegUBNy4Sa9cs6VMTPeihRYmQS2iRL
 BEIN_SPORT12,tvbus://4MqBfewDm9TxYy8nCMVYC4MhKdgCsV9PTG5KrYZXzfF4TDhgZq
 CGTN,tvbus://12WRKUDF1FLsaY1NEYMDtc6X64evVFFsxWwsebMBCC34e1NzBdV
 
-英國/UK,#genre#
+$c_start英國/UK$c_end
 SkyNetsportsHD,tvbus://3QrbcuNw2fFPU5QfNN8m7M3bytvup6wzWUttZbfFbHNogUiAdD
 Skynetsports1,tvbus://3fjoR42tNd2kHseDKsy1RHvDhYDUboesUZLKKEVm7iyniY7zBb
 Skynetsports2,tvbus://4ffBWRYGPsdXPtMHmBQuiCJohhRtcgfKZyFu6ReWuiveZNoZpM
@@ -519,7 +519,7 @@ Sony_Movie_Channel,tvbus://3aM1Lqtxa1HNgq8bW19wYtKBZveevhnvuk8j53Yp8n2P1rHK7E
 BT_Sport_Extra_2,tvbus://4ccquAAr9arWAgcXQXsM1GAJ45yxyEn7HGV64TQCeL9xfWDxXi
 Sony_Channel,tvbus://4BbC4cf43V8vPuTzxcP1wipWjsyCz3FGyy9hvHNPHRPAXpuJdz
 
-にほん/Japan,#genre#
+$c_startにほん/Japan$c_end
 読売テレビ,p8p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
 NHK総合-大阪,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
 テレビ东京,p8p://0198.02686.cc:16871/5d414f6b000b4fb575f7a680e13a94ee.ts
@@ -562,7 +562,7 @@ ABC朝日放送,p8p://0198.02686.cc:16871/5d40057f000bcd0b70eee4c0aa37319f.ts
 MBS毎日放送,p8p://0198.02686.cc:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
 NHK-World,tvbus://3RUDU7NFPZwDdgWVy4K7qHCFSR8Ap6Hz1BLrjMnZQn7XBK5KC9
 
-Bahasa/Indonesia,#genre#
+$c_startBahasa/Indonesia$c_end
 Sony_ONE,tvbus://3YpTCgnB2CTwUZUxTLmFrdp1TvGnP3PVLr7QcJ5ohFXafaJfSt
 FOX_Family_Movies_EN,tvbus://3z7R4Szc2qiKitw4NafPjENZKcGLXeEs9re4pzr8DW3EVsWWxB
 HBO_HD,tvbus://3iTQX46FLJeaGYBgkKxj6NdN9hkkMDoCC85AAcsK8pQVx5sBuZ
@@ -673,7 +673,7 @@ Infotainment,tvbus://3fU4QidskqwjGPXzLxguBEh2PVyFScJANSdkgMVDgvmSj6gFs8
 Indosiar,tvbus://3fe691GwQW6gkmdwYKnghkes2TwVTnhrZTcdiKFqrLeouwxUWb
 IDX,tvbus://47LCKX596vGnYMiKmMyE3FW8StfWVtgBsKuHnxiPLKYrYXkNwE
 
-印度/India,#genre#
+$c_start印度/India$c_end
 STAR_Utsav,p8p://0198.02686.cc:16871/5d3309c00006c6843e37815fbb1a3736.ts
 Firangi,p8p://0198.02686.cc:16871/5d3309bf000d75b03e377f2d7b199ad9.ts
 Aalami_Sahara,p8p://0198.02686.cc:16871/5d3309bf000625453e377d4e3b598079.ts
@@ -702,7 +702,8 @@ JAYAMAX,tvbus://448L8sv8VKmhamtESrCntsFELBGb87hMsoH53VhDeWZHw9P7TH
 SUNMUSIC,tvbus://4qZhtxtRA4gAfRern3g6Df3AsLDMKTH6LAAeiTgRfHFkCcFEKX
 SUNTV,tvbus://4acjA1NLgb7t7f5gKAdxYZSrc9Nn9wJ2qoQayKf1EEuH969dY4
 
-Vietnam/Vietnamese,#genre#
+$c_startVietnam/Vietnamese$c_end
+STAR_Utsav,p8p://0198.0268
 K+PM,tvbus://4dTGdtU4CP3TT55VMsZq422Aa7Gr8vZp8HTYhSozcDKS6GBaXU
 K+1 HD,tvbus://4nMpQY3nzoveRpxN6LxLmVkgPvDmEvuCuQ9eFoCfTSMyHepNVq
 K+NS,tvbus://42GDZyTpnnvw5euarr9sLSB8CQqDwiVJE4aQc5RSUQS7zi3psT
@@ -737,7 +738,7 @@ ttxvn,p8p://0198.02686.cc:16871/5d8dbb0e000a46701dc4009a1161eebe.ts
 PTV,p8p://0198.02686.cc:16871/5d8dbb06000bb4191dc3e1b806966c54.ts
 ITV,p8p://0198.02686.cc:16871/5d8dbb10000a32ac1dc4086561379ff0.ts
 
-泰国/Thailand,#genre#
+$c_start泰国/Thailand$c_end
 BBC-AMERICA,p8p://0198.02686.cc:16871/5d1a69660009ae9211bcae0b3b66fb97.ts
 8,p8p://0198.02686.cc:16871/5d1a6960000d01a711bc9775a84751d1.ts
 Nation,p8p://0198.02686.cc:16871/5d1a69e2000bb03311be92ef2a2330ac.ts
@@ -759,7 +760,7 @@ News1_(USA),p8p://0198.02686.cc:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
 CH.1,p8p://0198.02686.cc:16871/5d1a6970000ba43811bcd59c32d704df.ts
 TGN,p8p://0198.02686.cc:16871/5d1a69ee00020c6911bebf57495301ab.ts
 
-Pilipinas/Philippines,#genre#
+$c_startPilipinas/Philippines$c_end
 NET25,tvbus://3tiU86b5feNpReNSqr99ktNJwxwjaWr9xdsWPXBSjZ3iCAf2Di
 NET25,tvbus://3tiU86b5feNpReNSqr99ktNJwxwjaWr9xdsWPXBSjZ3iCAf2Di
 PH_SKYYON,tvbus://2xxPjEzkWKNrbSRst5Je86zMNF43FcSyb7RYNbbXVFGAicKjsk
@@ -786,7 +787,7 @@ ANC-GIobal,tvbus://3ja5WqFvJhdCoU9KcUnmux5kVKyGQStTdUssriUPaJbHWnjnac
 ABS-CBN,tvbus://3fwRxi1TVjs9zbpBq8UHcruBZ5hCf2Q3gDGtBbr2yiuyZvpn6o
 Hope,tvbus://3DB4CfXwpQwtMwr4pmiGYrwg5kubgxvpttCLeqqDFLWQRnb2o6
 
-體育/sport,#genre#
+$c_start體育/運動$c_end
 緯來體育_HD,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
 FOX_運動_HD,tvbus://4s9mLzSWMnD3kLXGTJHZPhefn7DnuKugcVuzm6sdRgQNEEvd8U
 FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4
@@ -900,7 +901,7 @@ BEIN_SPORT10,tvbus://4ai7HihdoTMZ1Vyprfk3ePYQugQ3d6aQff3axyk57f2pNYg49z
 BEIN_SPORT11,tvbus://4oGU3APwUghJ7JkdYP5MqegUBNy4Sa9cs6VMTPeihRYmQS2iRL
 BEIN_SPORT12,tvbus://4MqBfewDm9TxYy8nCMVYC4MhKdgCsV9PTG5KrYZXzfF4TDhgZq
 
-新聞/News,#genre#
+$c_start新聞/News$c_end
 CNN_國際,tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq
 SKY_NEWS,tvbus://49PQ4VKSjCzQnfhcSmRJaXhfpymuTJSjBhZbKN6NXqAnWXdiCn
 壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
@@ -963,7 +964,7 @@ NET25,tvbus://3tiU86b5feNpReNSqr99ktNJwxwjaWr9xdsWPXBSjZ3iCAf2Di
 DZRHNEWS,tvbus://4ZyQav4Npodi8DZ7TZLeGa5ahqo5MzktuCrQUUtw9MWvnGFbKS
 CGTN,tvbus://12WRKUDF1FLsaY1NEYMDtc6X64evVFFsxWwsebMBCC34e1NzBdV
 
-电影/Movies,#genre#
+$c_start电影/Movies$c_end
 愛爾達影劇臺,tvbus://4XaXTY5KrLbztAaGsyLAStwtuMBdsKBKVzWoMGf6xxifh42rnm
 東森戲劇_HD,tvbus://48YdGGajPQbNsDGt7jePrtPkm13fqKxecE4L3n7LPernZnBCHg
 八大戲劇,tvbus://4QUUE7V9TAw3qdn4kUQHhgSoHsTtExD7gvgtFQJocaDS53g5HG
@@ -1047,7 +1048,7 @@ FOX_Action_Movies_Backup,tvbus://4YxSKpFMwaAnwHBC65kfkW8UjSuWUjEos6sGGHE9ChkvXPQ
 HBO Hits HD,tvbus://3Gck3ZQTy6pt7JqTiRK9rhq9jTCZa6dFRHY8Y377MbHSCSyXmu
 Warner TV ID HD,tvbus://3eKgZnh4MPqmJKJZiCQVmWPzNzjAcXt89RhBreAKXr6u39jncy
 
-缅甸/Cambodia,#genre#
+$c_start缅甸/Cambodia$c_end
 Sea_TV,tvbus://3jc2MdsuFWAXyYq22Sv17CXxrJJhQXMfxfYcmHExR8MadqCX9X
 HangMeas,tvbus://4Kiui8wypidiF8DnassixRwJTVrJb4XFCQ8TV2J7PPEHcZdPJ8
 Apsara,tvbus://4YbMXUJUMp4bMiGH7g1qjmpGHZgbc4WWvq3gTmpcsesnd2rvup
