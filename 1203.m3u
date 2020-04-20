@@ -3,7 +3,7 @@
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
 http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
@@ -17,7 +17,7 @@ http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://117.169.124.36:66
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://www.dszbdq.cn/diao/ysp.php?tv=0203903
-EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
+EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u8
@@ -31,9 +31,9 @@ http://www.dszbdq.cn/diao/ysp.php?tv=0204603
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225872/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视", Olympic Channel HD
+#EXTINF:-1 tvg-id="17" tvg-name="" tvg-logo="" group-title="卫视", Olympic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
