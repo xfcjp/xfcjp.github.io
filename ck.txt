@@ -79,6 +79,57 @@ HOT 頻道,http://58.99.33.2:1935/liveedge2/LzUuPQDQ_403_1/playlist.m3u8?checkCo
 潘朵拉玩美台HD,http://58.99.33.2:1935/liveedge2/LzUuPQDQ_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/LzUuPQDQ_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 驚艷CR電視台,http://58.99.33.2:1935/liveedge2/LzUuPQDQ_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+香蕉台,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a058092fb69f8b260d.ts
+红粉1台 高清,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+拉风台,p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
+HAPPY,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+惊艳台,p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+彩虹電影,mitv://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+彩虹e台,mitv://fccsovh.pvbox.live:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,mitv://fccsovh.pvbox.live:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
+HOT星顏,mitv://fccsovh.pvbox.live:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+松視1台,mitv://fccsovh.pvbox.live:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松視2台,mitv://fccsovh.pvbox.live:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松視3台,mitv://fccsovh.pvbox.live:18912/5c18f9020004cea3c07436da29307240.ts.ts
+潘多拉粉紅,mitv://fccsovh.pvbox.live:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,mitv://fccsovh.pvbox.live:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉2台,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+松视1台,p2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,p2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,p2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
+HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+彩虹电影,p2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+潘多拉台,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+潘多拉粉红,p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+青春乐园台,p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+奧視成人1台,http://204.45.185.166:25678/i/ghjnvq5o/tj5knp44/index.m3u8
+奧視成人2台,http://204.45.185.166:25678/i/ghjnvq5o/t00c98rg/index.m3u8
+成人動畫台,http://204.45.185.166:25678/i/ghjnvq5o/9l5py3k2/index.m3u8
+红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
+潘多拉台(高清),p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
+青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+彩虹台(高清),p8p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
+樱花台(高清),p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+乐活台(高清),p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
+舒活台(高清),p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
+十五本道,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link
+俄Blue Hustler,http://178.124.183.13/hls/CH_BLUEHUSTLER/bw1200000/playlist.m3u8
+honey,http://122.38.74.172:9981/stream/channelid/1463854277
+MIDNIGHT,http://122.38.74.172:9981/stream/channelid/339312133
+PLAYOY,http://122.38.74.172:9981/stream/channelid/966306501
+驚艷台HD,p2p://fccsovh.pvbox.live:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+Nuart,http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
+菊花台,http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/527/index.m3u8
+俄罗斯欢乐台,http://46.29.165.95:8081/stream/Runight/chunks.m3u8
+K频道 高清,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
+红粉2台 高清,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+樱花台 高清,p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 
 $c_start港澳频道$c_end
 凤凰中文台②,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
