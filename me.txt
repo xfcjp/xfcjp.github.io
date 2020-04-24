@@ -51,6 +51,11 @@ CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.1
 Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 
 pvbox,#genre#
+鳳凰資訊,tvbus://12sRsVsHunbSaGra5WoiBZF7d4zhDKovZhVMDxUe2AvDbACg7hF
+Demo channel 1,tvbus://1R8Rw3uqyfdkci7b9VWm7N17ynqv259h1Bo7i2uyi9bmq513uX
+Demo channel 2,tvbus://12MGYHm2fp2wtTjiGpDsbD1odpShZDSn5ub2y74ok1HX5WB6wk
+Demo channel 3,tvbus://1CA1abneBv2mhnLyEzjh42Fg3ehAuL1vQcbPUygwh7CXz5dejb
+Demo channel 4,tvbus://12VFuSR8upLqpWEdDXipjrq1rci3sv8rzfDn8c1c7xymtEk8vwt
 1-翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27912f446e9a1a1ca1.ts
 2-翡翠,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f5e8c3a066ce01e75.ts
 1-无线新闻,p2p://fccseuro.pvbox.live:18912/5b1409fc000a355edbb7fcc6d4c7db45.ts
