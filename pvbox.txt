@@ -239,6 +239,11 @@ TVBS 精彩台,p2p://fccsovh.pvbox.live:18912/5bdbf3b20000e966bc9eb801fdd187f8
 BLOOMBERG,p2p://fccseuro.pvbox.live:18912/5bdbf3bc000ca38a39efeeff70584768
 
 $c_start港澳$c_end
+鳳凰資訊,tvbus://12sRsVsHunbSaGra5WoiBZF7d4zhDKovZhVMDxUe2AvDbACg7hF
+Demo channel 1,tvbus://1R8Rw3uqyfdkci7b9VWm7N17ynqv259h1Bo7i2uyi9bmq513uX
+Demo channel 2,tvbus://12MGYHm2fp2wtTjiGpDsbD1odpShZDSn5ub2y74ok1HX5WB6wk
+Demo channel 3,tvbus://1CA1abneBv2mhnLyEzjh42Fg3ehAuL1vQcbPUygwh7CXz5dejb
+Demo channel 4,tvbus://12VFuSR8upLqpWEdDXipjrq1rci3sv8rzfDn8c1c7xymtEk8vwt
 2-翡翠,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7ff696812f5009bcf5
 1-翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba2711005bae9316906f
 1-无线新闻,p2p://fccseuro.pvbox.live:18912/5b1409fc000a355e7185eb1c9fb63733
