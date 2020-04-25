@@ -567,7 +567,6 @@ CETV1,http://125.210.152.18:9090/live/ZGJY.m3u8
 求索记录HD,http://125.210.152.18:9090/live/QSJLHD.m3u8
 北京纪实,http://125.210.152.18:9090/live/BJJS.m3u8
 探索记录,http://125.210.152.18:9090/live/TSJL.m3u8
-湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
@@ -768,17 +767,6 @@ CATCHPLAY电影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f
 华纳电视HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
 罪案侦缉HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
 
-经典轮播,#genre#
-豆瓣高分,http://baiducdncmn2.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-动作电影,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_dongzuodianying_720p_t10/c19_lb_dongzuodianying_720p_t10.m3u8
-电影大片,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_dianyingjingxuan_720p_t10/c18_lb_dianyingjingxuan_720p_t10.m3u8
-惊悚午夜场,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingnawuyechang_720p_t10/c19_lb_jingnawuyechang_720p_t10.m3u8
-周末影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_fengxiaogang_720p_t10/c17_lb_fengxiaogang_720p_t10.m3u8
-票房收割机,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_heibangdianying_720p_t10/c18_lb_heibangdianying_720p_t10.m3u8
-经典港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
-温情影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_chenglong_high_t10/c17_lb_chenglong_high_t10.m3u8
-贺岁影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-
 彩虹频道_000917,#genre#
 A3BIKINI,http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 Jasmin HD,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
@@ -925,7 +913,8 @@ BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
 BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
 MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
 
-湖南,#genre#
+湖南频道,#genre#
+湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 湖南国际,http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020001&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南经视,http://124.232.231.246:6610/000000001001/201600020002/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020002&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南都市,http://124.232.231.246:6610/000000001001/201600020003/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020003&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
@@ -936,6 +925,7 @@ MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
 湖南金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020008&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8
 
 辽宁,#genre#
 辽宁经济,http://lms.csytv.com/Live/123/live/livestream.m3u8
@@ -961,7 +951,16 @@ MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
 瓦房店新闻综合,http://pili-backplay-hls.livelvy.sobeycache.com/livewafangd/dszb003.m3u8
 瓦房店经济生活,http://pili-backplay-hls.livelvy.sobeycache.com/livewafangd/dszb002.m3u8
 
-精彩轮播,#genre#
+经彩轮播,#genre#
+豆瓣高分,http://baiducdncmn2.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+动作电影,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_dongzuodianying_720p_t10/c19_lb_dongzuodianying_720p_t10.m3u8
+电影大片,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_dianyingjingxuan_720p_t10/c18_lb_dianyingjingxuan_720p_t10.m3u8
+惊悚午夜场,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingnawuyechang_720p_t10/c19_lb_jingnawuyechang_720p_t10.m3u8
+周末影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_fengxiaogang_720p_t10/c17_lb_fengxiaogang_720p_t10.m3u8
+票房收割机,http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_heibangdianying_720p_t10/c18_lb_heibangdianying_720p_t10.m3u8
+经典港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
+温情影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_chenglong_high_t10/c17_lb_chenglong_high_t10.m3u8
+贺岁影院,http://baiducdncmn2.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 周星驰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 吴京,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 刘德华,http://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
