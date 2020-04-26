@@ -252,6 +252,11 @@ FOX,http://47.240.60.73/xaors/mlxy.php?channel=73674e01811737f5c5bc9d098498f6e0
 110,http://47.240.60.73/xaors/mlxy.php?channel=cb35c22078eb6573c96b1d2136b51715
 111,http://47.240.60.73/xaors/mlxy.php?channel=b4fca67de7acbc4a698e5c090288dca3
 TNT,http://47.240.60.73/xaors/mlxy.php?channel=97994ddcb359f49b0c076b279adbc3fd
+壹電視新聞,mitv://190.2.148.110:18912/5b14094000088a468a5f9201d1d57ea5.ts
+年代新聞,mitv://190.2.148.110:18912/5c2dd76000032856435cfe01adf74dbb.ts
+東森新聞,mitv://190.2.148.110:18912/5c2dd7310008b319e49814bc93b13713.ts
+中天新聞,mitv://190.2.148.110:18912/5c2dd72e0002527b44613e9248733895.ts
+民視新聞,mitv://190.2.148.110:18912/5b1409690004f733406e65209429ef75.ts
 CCTV-1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV-2,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV-3,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
