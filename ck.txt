@@ -1127,6 +1127,8 @@ now爆谷台,p2p://61.164.122.2:9988/53916da9000781381400c5a83f7a73d3&link=ptv.6
 astro小太阳,p2p://61.164.122.2:9988/539174ab00065cd6141c25255b6849c3&link=ptv.6ww2.c0m
 
 $c_start开车$c_end
+奥视,http://103.29.68.205/vod/live/4/live.m3u8?key=gmp27sqac45q3jn9hp3kvo6392
+红松,https://5a27dfae614e0.streamlock.net/live/_definst_/Stream5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDIwIDM6MzY6MTUgQU0maGFzaF92YWx1ZT1sUDQ1bDdkMHhGRGxXQktraGl6S2tRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTU4ODA0NDk3NQ==
 HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 香蕉台,p2p://51.79.41.136:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
