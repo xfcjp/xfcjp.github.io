@@ -1,4 +1,4 @@
-国内,#genre#
+$c_start国内$c_end
 CCTV-1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV-2,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV-3,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
@@ -56,7 +56,7 @@ CHC動作電影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 陕西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294403.m3u8
 广东体育,http://47.240.60.73/xaors/mlxy.php?channel=8539c9d13d384e0e976fa93196f844f3
 
-港澳,#genre#
+$c_start港澳$c_end
 凤凰卫视,http://47.240.60.73/xaors/mlxy.php?channel=b87f678640708da14c8bbe45ef43e51f#http://213.176.62.222:8006/lbtv/live/kwzq1rse/ts6205f2/index.m3u8
 凤凰资讯,http://80.245.105.48:8006/hkc/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#http://47.240.60.73/xaors/mlxy.php?channel=fbded000af54f1a4ee0847712298893b#http://zhu2.crtv.zstv.top/atv_119.php?id=61ea04402fef3b5b882cbbfff520f88f
 凤凰香港,http://47.240.60.73/xaors/mlxy.php?channel=44ca88e2d2844038cdb169e25ac5fbbf
@@ -79,7 +79,7 @@ VIU6 tv,http://47.240.60.73/xaors/mlxy.php?channel=20277db4537deab325dde76751e88
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 
-台湾,#genre#
+$c_start台湾$c_end
 华视,http://47.240.60.73/xaors/mlxy.php?channel=61ea04402fef3b5b882cbbfff520f88f
 公视,http://47.240.60.73/xaors/mlxy.php?channel=22135c0a31d3ab68940e6b9cc7104a51
 中视经典,http://47.240.60.73/xaors/mlxy.php?channel=2b7ed237c2191c454f4d5e1ab4017d32
@@ -252,7 +252,7 @@ truevisions,http://47.240.60.73/xaors/mlxy.php?channel=d060bfb2c038f851ae11e8390
 111,http://47.240.60.73/xaors/mlxy.php?channel=b4fca67de7acbc4a698e5c090288dca3
 TNT,http://47.240.60.73/xaors/mlxy.php?channel=97994ddcb359f49b0c076b279adbc3fd
 
-哈TV_123456,#genre#
+$c_start哈哈$c_end
 玩家頻道,http://58.99.33.2:1935/liveedge2/HJKqifRQ_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 Happy 頻道,http://58.99.33.2:1935/liveedge2/HJKqifRQ_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 HOT 頻道,http://58.99.33.2:1935/liveedge2/HJKqifRQ_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
