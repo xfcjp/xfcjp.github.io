@@ -328,13 +328,6 @@ pp吃美食,http://aldirect.rtmp.huya.com/backsrc/1199532707611-1199532707611-53
 工艺酒,http://aldirect.rtmp.huya.com/backsrc/1346977645-1346977645-5785224933718097920-3656288172-10057-A-0-1.m3u8
 肉肉姐,http://aldirect.rtmp.huya.com/backsrc/1199526558519-1199526558519-5285742957570293760-2399053240494-10057-A-0-1.m3u8
 
-港台频道,#genre#
-凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://qlive.fengshows.cn/live720p/PCC.flv
-凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/live720p/PIN.flv
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
-
 华数频道,#genre#
 CCTV1HD(综合),http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
 CCTV2HD(财经),http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
@@ -456,42 +449,12 @@ CCTV女性时尚,http://125.210.152.18:9090/live/NXSS.m3u8
 优优宝贝,http://125.210.152.18:9090/live/YYBB.m3u8
 炫动卡通,http://125.210.152.18:9090/live/XDKT.m3u8
 
-海外频道,#genre#
-BBC,vjms://61.216.1.24:8500:3502/live/cid=418
-CNN,vjms://61.216.1.24:8500:3502/live/cid=428
-NHK G,vjms://61.216.1.24:8500:3502/live/cid=309
-CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
-HBO,vjms://61.216.1.24:8500:3502/live/cid=261
-262,vjms://61.216.1.24:8500:3502/live/cid=262
-263,vjms://61.216.1.24:8500:3502/live/cid=263
-264,vjms://61.216.1.24:8500:3502/live/cid=264
-265,vjms://61.216.1.24:8500:3502/live/cid=265
-266,vjms://61.216.1.24:8500:3502/live/cid=266
-267,vjms://61.216.1.24:8500:3502/live/cid=267
-268,vjms://61.216.1.24:8500:3502/live/cid=268
-269,vjms://61.216.1.24:8500:3502/live/cid=269
-270,vjms://61.216.1.24:8500:3502/live/cid=270
-HBO原创,vjms://61.216.1.24:8500:3502/live/cid=436
-HBO强档,vjms://61.216.1.24:8500:3502/live/cid=238
-HBO温馨,vjms://61.216.1.24:8500:3502/live/cid=181
-年代新闻,vjms://61.216.1.24:8500:3502/live/cid=455
-东森新闻,vjms://61.216.1.24:8500:3502/live/cid=340
-中天新闻,vjms://61.216.1.24:8500:3502/live/cid=407
-非凡新闻,vjms://61.216.1.24:8500:3502/live/cid=443
-三立新闻,vjms://61.216.1.24:8500:3502/live/cid=352
-TVBS新闻台,vjms://61.216.1.24:8500:3502/live/cid=348
-TVBS HD,vjms://61.216.1.24:8500:3502/live/cid=349
-公视,vjms://61.216.1.24:8500:3502/live/cid=236
-民视HD,vjms://61.216.1.24:8500:3502/live/cid=450
-年代MUCH,vjms://61.216.1.24:8500:3502/live/cid=439
-1,vjms://61.216.1.24:8500:3502/live/cid=1
-AXN,vjms://61.216.1.24:8500:3502/live/cid=2
-动物星球,vjms://61.216.1.24:8500:3502/live/cid=3
-420,vjms://61.216.1.24:8500:3502/live/cid=420
-
 彩虹频道_000917,#genre#
 A3BIKINI,http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 Jasmin HD,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
+松视2台,vjms://61.216.1.24:8500:3502/live/cid=267
+松视3台,vjms://61.216.1.24:8500:3502/live/cid=268
 HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#p2p://fccsovh.pvbox.live:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#p2p://190.2.146.92:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#p2p://fccsovh.pvbox.live:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts#mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts#p2p://190.2.146.92:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts#p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
@@ -574,7 +537,7 @@ HOT 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_403_1/playlist.m3u8?checkCo
 潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/uKGjmzZg_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 驚艷CR電視台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
-港澳台,#genre#
+哈哈TV,#genre#
 凤凰卫视,http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
@@ -928,7 +891,18 @@ CIBN嗨播11,http://iptv.inewya.com/share/php/cibn.php?id=52
 CIBN综合,http://iptv.inewya.com/share/php/cibn.php?id=53
 CIBN动作影院,http://iptv.inewya.com/share/php/cibn.php?id=54
 
-pvbox,#genre#
+
+港台频道,#genre#
+凤凰卫视,http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.flv
+凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 BBC,vjms://61.216.1.24:8500:3502/live/cid=418
 CNN,vjms://61.216.1.24:8500:3502/live/cid=428
 CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
@@ -937,6 +911,3 @@ HBO,vjms://61.216.1.24:8500:3502/live/cid=261
 国家地理野生,vjms://61.216.1.24:8500:3502/live/cid=263
 博斯高球,vjms://61.216.1.24:8500:3502/live/cid=265
 ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266
-松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
-松视2台,vjms://61.216.1.24:8500:3502/live/cid=267
-松视3台,vjms://61.216.1.24:8500:3502/live/cid=268
