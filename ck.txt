@@ -66,7 +66,7 @@ pp吃美食,http://aldirect.rtmp.huya.com/backsrc/1199532707611-1199532707611-53
 工艺酒,http://aldirect.rtmp.huya.com/backsrc/1346977645-1346977645-5785224933718097920-3656288172-10057-A-0-1.m3u8
 肉肉姐,http://aldirect.rtmp.huya.com/backsrc/1199526558519-1199526558519-5285742957570293760-2399053240494-10057-A-0-1.m3u8
 
-$c_start港台$c_end
+$c_start港台live$c_end
 凤凰卫视,http://47.240.60.73/xaors/mlxy.php?channel=b87f678640708da14c8bbe45ef43e51f#http://213.176.62.222:8006/lbtv/live/kwzq1rse/ts6205f2/index.m3u8
 凤凰资讯,http://80.245.105.48:8006/hkc/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#http://47.240.60.73/xaors/mlxy.php?channel=fbded000af54f1a4ee0847712298893b#http://zhu2.crtv.zstv.top/atv_119.php?id=61ea04402fef3b5b882cbbfff520f88f
 凤凰香港,http://47.240.60.73/xaors/mlxy.php?channel=44ca88e2d2844038cdb169e25ac5fbbf
@@ -110,9 +110,9 @@ TVBS新闻,http://47.240.60.73/xaors/mlxy.php?channel=7bfd061991d40f48a4741a9e2d
 TVBS欢乐,http://47.240.60.73/xaors/mlxy.php?channel=e0d80357ddd31b626f9f7c57566a72fb
 壹综合,http://47.240.60.73/xaors/mlxy.php?channel=388e757f4aeb9da2d38a1f2540e4cb8b
 壹新闻,http://47.240.60.73/xaors/mlxy.php?channel=285c2cf3320aaff19b951d813fa63834
-环宇综合,http://47.240.60.73/xaors/mlxy.php?channel=57100713ac18ccf8c1366a09306bfbdd
-环宇财经,http://47.240.60.73/xaors/mlxy.php?channel=8f80724de483598e8fab2871d4c28f84
-环宇新闻,http://47.240.60.73/xaors/mlxy.php?channel=edfd39a1986a9e16a2b71d295b01a098
+寰宇综合,http://47.240.60.73/xaors/mlxy.php?channel=57100713ac18ccf8c1366a09306bfbdd
+寰宇财经,http://47.240.60.73/xaors/mlxy.php?channel=8f80724de483598e8fab2871d4c28f84
+寰宇新闻,http://47.240.60.73/xaors/mlxy.php?channel=edfd39a1986a9e16a2b71d295b01a098
 八大综合,http://47.240.60.73/xaors/mlxy.php?channel=ffd34946005d0cf063d7b0ba8a8f045c
 八大第一,http://47.240.60.73/xaors/mlxy.php?channel=8b59ed131b528b3e56daaa199c6b714b
 八大戏剧,http://47.240.60.73/xaors/mlxy.php?channel=7af5f3913325a66c0b2c559e6548ff78
@@ -187,6 +187,7 @@ Astro_Warna,http://47.240.60.73/xaors/mlxy.php?channel=050558f5c3acc91093378ffdc
 Astro_Ria,http://47.240.60.73/xaors/mlxy.php?channel=21901f38d17350db577630c9d800446c
 Astro_Citra,http://47.240.60.73/xaors/mlxy.php?channel=95ba3847447d46019b41ee6b75c5ca67
 Astro_Prima,http://47.240.60.73/xaors/mlxy.php?channel=b5cfafb25c6d34582ee0a221ec43327d
+astro AOD,http://47.240.60.73/xaors/mlxy.php?channel=6b05ff89420027734710d7b1d393f59a
 astro supersport1,http://47.240.60.73/xaors/mlxy.php?channel=61916b478cbb29d6e11e8ecdec858b30
 astro supersport2,http://47.240.60.73/xaors/mlxy.php?channel=733bcd8a29fafd0ddccf357ff7e156ad
 astro supersport3,http://47.240.60.73/xaors/mlxy.php?channel=c4d1acb2343b0d257b0b33a5aafe5055
@@ -203,7 +204,6 @@ Okey,http://47.240.60.73/xaors/mlxy.php?channel=9b65b66fdb7d64b28b524bc675883fa6
 Bernama,http://47.240.60.73/xaors/mlxy.php?channel=932bd52fdb46f4edf5b2951013590a69
 AMC,http://47.240.60.73/xaors/mlxy.php?channel=f1a4260739ac66d1d4495e3b130d41d3
 CI,http://47.240.60.73/xaors/mlxy.php?channel=6f0b859f9d5d75c99d9f8b85859bfeb8
-HBO,http://47.240.60.73/xaors/mlxy.php?channel=6b05ff89420027734710d7b1d393f59a
 HBO_HD,http://47.240.60.73/xaors/mlxy.php?channel=a6c3f72b41f5688a45ca4d9eec1faaf7
 HBO_Hits,http://47.240.60.73/xaors/mlxy.php?channel=5d9009f9e253bf9dbc3781072008bffd
 HBO_Signature,http://47.240.60.73/xaors/mlxy.php?channel=2035503f33bcdcba2cc138328a04f87c
