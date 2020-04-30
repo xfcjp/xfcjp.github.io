@@ -184,6 +184,19 @@ Music Japan,vjms://58.215.133.184:8500:3502/live/cid=495
 日-购物台,vjms://61.216.1.24:8500:3502/live/cid=311
 
 $c_start彩虹直播$c_end
+玩家頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+Happy 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+HOT 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視4台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_404_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視1台HD,http://58.99.33.2:1935/liveedge2/uKGjmzZg_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視2台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視3台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+彩虹,http://58.99.33.2:1935/liveedge2/uKGjmzZg_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+叮噹CR電視台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_409_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+樂活頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+潘朵拉玩美台HD,http://58.99.33.2:1935/liveedge2/uKGjmzZg_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/uKGjmzZg_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+驚艷CR電視台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 K频道,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 HAPPY,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 拉风台,p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
@@ -204,7 +217,7 @@ HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 青春乐园台,p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
 
 $c_start彩虹福利$c_end
-日韩福利1,http://103.85.85.240:2100/20200418/L59b6QJq/index.m3u8
+福利1,http://103.85.85.240:2100/20200418/L59b6QJq/index.m3u8
 福利2,http://103.85.85.240:2100/20200418/eCqpmzPZ/index.m3u8
 福利3,http://103.85.85.240:2100/20200418/pX808Pop/index.m3u8
 福利4,http://103.85.85.240:2100/20200418/SvOkkNuF/index.m3u8
@@ -693,157 +706,4 @@ E10,https://135zyv6.xw0371.com/2019/01/21/xFnRoOFIBczOsBx3/playlist.m3u8
 这个家庭很随便第二集,https://135zyv6.xw0371.com/2019/02/14/78ERfgl1lnXrdGOD/playlist.m3u8
 派对6夜9天第10集,https://135zyv6.xw0371.com/2019/02/12/fPiMfRoytHBXT0JU/playlist.m3u8
 派对6夜9天第4集,https://135zyv6.xw0371.com/2019/02/10/aeUgt33Ed3yUQjok/playlist.m3u8
-成人版-伴侣-第五集,https://135zyv6.xw0371.com/2019/02/13/dvi9dWzvcvFJtOBr/playlist.m3u8
-色男性感女别墅8话,https://135zyv6.xw0371.com/2019/02/12/ki1Zz0I3JoXac9mv/playlist.m3u8
-派对6夜9天第2集,https://135zyv6.xw0371.com/2019/02/10/rUWX4MSlOVkN8mlc/playlist.m3u8
-成人版-伴侣-第四集,https://135zyv6.xw0371.com/2019/02/13/EIJIz8wTFJQoGdT3/playlist.m3u8
-钱的味道,https://135zyv6.xw0371.com/2019/02/11/x6OLGSwEVYb69Vj5/playlist.m3u8
-派对6夜9天第7集,https://135zyv6.xw0371.com/2019/02/11/ThZEjlcDW8CVuDA5/playlist.m3u8
-色男性感女别墅4话 (精力充沛的秘方),https://135zyv6.xw0371.com/2019/02/09/TeltviugNEveYtOS/playlist.m3u8
-好妈妈2,https://135zyv6.xw0371.com/2019/02/09/eiRu2IR7V7F8ov1j/playlist.m3u8
-色男性感女别墅1话,https://135zyv6.xw0371.com/2019/02/09/t4URg7fGJalvSuBV/playlist.m3u8
-看得见的性生活第六集,https://135zyv6.xw0371.com/2019/02/07/cpgB8nFNH5AuPb35/playlist.m3u8
-色男性感女别墅2话,https://135zyv6.xw0371.com/2019/02/08/hopbPiUXFZtfL5oF/playlist.m3u8
-看得见的性生活第二集,https://135zyv6.xw0371.com/2019/02/06/7fmfHNlH6V9lE5YL/playlist.m3u8
-看得见的性生活第十一集,https://135zyv6.xw0371.com/2019/02/08/86NyLwtKDYGIxfpt/playlist.m3u8
-看得见的性生活第四集,https://135zyv6.xw0371.com/2019/02/06/wLO992g9k0UvyWQH/playlist.m3u8
-看得见的性生活第十集,https://135zyv6.xw0371.com/2019/02/07/vzl9CMgzLeFbGyfX/playlist.m3u8
-看得见的性生活第三集,https://135zyv6.xw0371.com/2019/02/06/vNBcZ9LxNSJuDeRs/playlist.m3u8
-看得见的性生活第九集,https://135zyv6.xw0371.com/2019/02/07/xjtz9e09x0L6AnEl/playlist.m3u8
-嫂子的羞耻心,https://135zyv6.xw0371.com/2019/02/05/kkSYRTmwfbdCAsfE/playlist.m3u8
-看得见的性生活第八集,https://135zyv6.xw0371.com/2019/02/07/f8wfTQHKX5hHb9Os/playlist.m3u8
-看得见的性生活第一集,https://135zyv6.xw0371.com/2019/02/05/rd36bNIUnGrzCboh/playlist.m3u8
-看得见的性生活第七集,https://135zyv6.xw0371.com/2019/02/07/U7gFQeNzCusLLMi6/playlist.m3u8
-不懂事的姐姐,https://135zyv6.xw0371.com/2019/02/05/h3wnvNb4MVl2M5Kk/playlist.m3u8
-和美小姐,https://135zyv6.xw0371.com/2019/02/05/gD9RPtVsAHSlHwLb/playlist.m3u8
-第一次经验的规则,https://135zyv6.xw0371.com/2019/02/05/5ELvDJ5CaeKK3Xvs/playlist.m3u8
-亲女儿的脱轨,https://135zyv6.xw0371.com/2019/02/03/WcK9cuzL2nzXstvk/playlist.m3u8
-朋友妈妈还有正史-无删减版,https://135zyv6.xw0371.com/2019/02/03/zHsf93hRd8yqHczr/playlist.m3u8
-与明星的一夜,https://135zyv6.xw0371.com/2019/02/03/VaEvjAm6k2Vi1mFU/playlist.m3u8
-善良的朋友妻子,https://135zyv6.xw0371.com/2019/02/01/JLmbzdjFfp0daH7k/playlist.m3u8
-年轻的寡妇,https://135zyv6.xw0371.com/2019/02/01/xGoz2bqMvxfMQDbV/playlist.m3u8
-DVD房的回忆,https://135zyv6.xw0371.com/2019/02/03/uu36z5ZsjgAJ24OF/playlist.m3u8
-处女器官,https://135zyv6.xw0371.com/2019/02/23/1g4zfSMGSLYLCGl0/playlist.m3u8
-性快感与后遗症,https://135zyv6.xw0371.com/2019/02/21/ClO5jyzfEVPuKWd0/playlist.m3u8
-官能女医の恥辱,https://135zyv6.xw0371.com/2019/02/22/tFxsHtaSyX4Tdl55/playlist.m3u8
-私のガールフレンドの母親,https://135zyv6.xw0371.com/2019/02/20/eUZQZYUvqzT2wAbP/playlist.m3u8
-温柔的女将们,https://135zyv6.xw0371.com/2019/02/24/4dj1m6iMoOEuqsV4/playlist.m3u8
-BLUE なんだってんだ7DAYS,https://135zyv6.xw0371.com/2019/02/22/LYopwW8Z5oy4zVtY/playlist.m3u8
-未亡人：お金をもらって体を週,https://135zyv6.xw0371.com/2019/02/20/7AhKt20WKOz9HVjV/playlist.m3u8
-丈母娘的诱惑,https://135zyv6.xw0371.com/2019/02/24/aNi8RZLj5qCfujuy/playlist.m3u8
-失踪：消失的妻子,https://135zyv6.xw0371.com/2019/02/20/N0LYNxRtNDdZT9qC/playlist.m3u8
-淫娃终结者,https://135zyv6.xw0371.com/2019/02/24/iC2JDTNDV39d3wlk/playlist.m3u8
-Q畸恋人,https://135zyv6.xw0371.com/2019/02/22/jn6NDqrgZMJMQlHJ/playlist.m3u8
-饲育的房间:最后的栖身之所,https://135zyv6.xw0371.com/2019/02/20/gBPyQi9BwM9xmYHm/playlist.m3u8
-家庭教師の嫉妬,https://135zyv6.xw0371.com/2019/02/23/4AG9BLVK0Y9voF5P/playlist.m3u8
-継母たち：息子をタムハダ,https://135zyv6.xw0371.com/2019/02/19/3qnRkfnn2VsIvLdT/playlist.m3u8
-女厕其妙的密室,https://135zyv6.xw0371.com/2019/02/23/a0m1IUchQnxhpWDn/playlist.m3u8
-妻子的秘密,https://135zyv6.xw0371.com/2019/02/21/AnKtb5LJoCEPsHNu/playlist.m3u8
-同学会：老师的特别课,https://135zyv6.xw0371.com/2019/02/19/knK4aiZEob9sFXbM/playlist.m3u8
-我的办公室老婆,https://135zyv6.xw0371.com/2019/02/21/WE9yv7j5UiTCUBLG/playlist.m3u8
-性别对抗,https://135zyv6.xw0371.com/2019/02/19/kocnUXWy3TPYQXp4/playlist.m3u8
-愤怒的画家,https://135zyv6.xw0371.com/2019/02/19/oXIUyFhc1OLeTmSW/playlist.m3u8
-比基尼激情春假,https://135zyv6.xw0371.com/2019/02/19/RgjkhhNxR6kFq6bR/playlist.m3u8
-性感之王,https://135zyv6.xw0371.com/2019/02/18/5BW8x0nQV8Qolfw9/playlist.m3u8
-天体野营 第二季 第五集,https://135zyv6.xw0371.com/2019/02/17/LXHzSHQzP14S2lc1/playlist.m3u8
-摩托小姐-融化的肉体,https://135zyv6.xw0371.com/2019/02/18/bKGxxjXIxILXK7DA/playlist.m3u8
-朋友妈妈们的味道,https://135zyv6.xw0371.com/2019/02/16/qQO30RfDFC7tUDFE/playlist.m3u8
-작은엄마 2: 삼촌이 없던 날,https://135zyv6.xw0371.com/2019/02/18/bjBZtJIZRGkRDhvO/playlist.m3u8
-天体野营 第二季 第四集,https://135zyv6.xw0371.com/2019/02/16/4DZHFMrqvN1P3cF3/playlist.m3u8
-办公处的不伦,https://135zyv6.xw0371.com/2019/02/18/eCz8cYPPhXP3Azga/playlist.m3u8
-天体野营 第二季 第三集,https://135zyv6.xw0371.com/2019/02/16/KYk0LIv05TBfH8KN/playlist.m3u8
-美味的同居,https://135zyv6.xw0371.com/2019/02/18/0AvtJKgFzb0WmdA6/playlist.m3u8
-天体野营 第二季 第二集,https://135zyv6.xw0371.com/2019/02/16/DiE28bASVhmgD7d1/playlist.m3u8
-这个家庭很随便第十集,https://135zyv6.xw0371.com/2019/02/17/WwvCSiIHUhEf06n3/playlist.m3u8
-天体野营 第二季 第一集,https://135zyv6.xw0371.com/2019/02/16/GbkOr1obdsjU7WWI/playlist.m3u8
-天体野营 第二季 第八集,https://135zyv6.xw0371.com/2019/02/17/ZmYhmOC3tB0ciGSZ/playlist.m3u8
-淫乱美姉（秘）劇場,https://135zyv6.xw0371.com/2019/02/15/iI2FWNtveq6aaDaU/playlist.m3u8
-天体野营 第二季 第七集,https://135zyv6.xw0371.com/2019/02/17/4xEx80QeQlUimx8s/playlist.m3u8
-这个家庭很随便第九集,https://135zyv6.xw0371.com/2019/02/15/QQncdvCk2j8hOeZm/playlist.m3u8
-天体野营 第二季 第六集,https://135zyv6.xw0371.com/2019/02/17/aDdCzFvrUAq7xe9a/playlist.m3u8
-这个家庭很随便第八集,https://135zyv6.xw0371.com/2019/02/15/zXvLi9KB1WrENf2v/playlist.m3u8
-这个家庭很随便第七集,https://135zyv6.xw0371.com/2019/02/15/wLtv3OwvR9tJU072/playlist.m3u8
-这个家庭很随便第六集,https://135zyv6.xw0371.com/2019/02/15/B78CujBlULaINhFc/playlist.m3u8
-家有妇女和不伦政事,https://135zyv6.xw0371.com/2019/02/14/67G167zLBjliULDn/playlist.m3u8
-这个家庭很随便第一集,https://135zyv6.xw0371.com/2019/02/13/NJDNte9vVCsVnvix/playlist.m3u8
-这个家庭很随便第五集,https://135zyv6.xw0371.com/2019/02/14/RQECLrK8Du3elXFS/playlist.m3u8
-孩子太小了,https://135zyv6.xw0371.com/2019/02/12/SlFQWoNUwjTr2yhW/playlist.m3u8
-无限释放性丑闻 - 看着新婚夫妇,https://135zyv6.xw0371.com/2019/03/07/UQ8gDgswYBrvMFYP/playlist.m3u8
-愚蠢的妹妹,https://135zyv6.xw0371.com/2019/03/05/iAqYNZ2DB8FYjao6/playlist.m3u8
-那夜四次,https://135zyv6.xw0371.com/2019/03/03/v2onwZtcStANIzuL/playlist.m3u8
-我的妈妈的朋友：迷人的肉体,https://135zyv6.xw0371.com/2019/03/06/Ux65YznrP7iwU8Ne/playlist.m3u8
-Nat 7 Tee Cherry,https://135zyv6.xw0371.com/2019/03/04/8QCL2MTwZr33eo6q/playlist.m3u8
-虜囚,https://135zyv6.xw0371.com/2019/03/02/AgtIZBaQlRbvnP2a/playlist.m3u8
-一个捡到的女人,https://135zyv6.xw0371.com/2019/03/06/nZXUl2yEadru9BYn/playlist.m3u8
-一位年轻的母亲,https://135zyv6.xw0371.com/2019/03/04/orXsvdK5hOLlGBmG/playlist.m3u8
-肉感的女教師,https://135zyv6.xw0371.com/2019/03/02/h8pBE3avnFQ2x0MY/playlist.m3u8
-人妻たちの風俗　秘蜜のパートタイム,https://135zyv6.xw0371.com/2019/03/05/fwBgRjxkwIzX5FfD/playlist.m3u8
-女演员工作团,https://135zyv6.xw0371.com/2019/03/04/P3gydVQMK0HwtxaA/playlist.m3u8
-奴隷の性欲 – 火柱,https://135zyv6.xw0371.com/2019/03/02/mq6TmyO3HkrlYecW/playlist.m3u8
-危険なセックス：彩乃の不倫,https://135zyv6.xw0371.com/2019/03/05/YsPX6QKgQ685pGe0/playlist.m3u8
-再一次拥抱我,https://135zyv6.xw0371.com/2019/03/03/Y49UvH8AOrDhve1m/playlist.m3u8
-背裤护理助手,https://135zyv6.xw0371.com/2019/03/02/jBtGtv5iXPu77Vqo/playlist.m3u8
-妻子妹妹的诱惑,https://135zyv6.xw0371.com/2019/03/05/QvWFrUoTsKr6H4I7/playlist.m3u8
-새엄마 2,https://135zyv6.xw0371.com/2019/03/01/bwzn1kuE6mHRFwuJ/playlist.m3u8
-淫乱的嘴唇～痉挛～,https://135zyv6.xw0371.com/2019/03/03/V1zJKkNd04EtcjQq/playlist.m3u8
-暴劫倾情,https://135zyv6.xw0371.com/2019/03/01/BbU1keS2eEBWGdPp/playlist.m3u8
-我妻子的母亲,https://135zyv6.xw0371.com/2019/03/01/wUSnpoSQQ30YyAcB/playlist.m3u8
-天使死了,https://135zyv6.xw0371.com/2019/03/01/f6xSXJn1Le2cS8Nj/playlist.m3u8
-巨乳女の二重生活：売春,https://135zyv6.xw0371.com/2019/02/27/TtzrZc0rcAb4Mr8D/playlist.m3u8
-她可爱的妹妹,https://135zyv6.xw0371.com/2019/02/28/AK6azVF4PfccSknV/playlist.m3u8
-妈妈的恋人是我的男友,https://135zyv6.xw0371.com/2019/02/26/yxzdLs5bOhAnZXD6/playlist.m3u8
-セクシーなマダムの秘密の過去,https://135zyv6.xw0371.com/2019/02/28/Anbq1lHHTFCcddlc/playlist.m3u8
-継母催眠術で思う存分楽しむ,https://135zyv6.xw0371.com/2019/02/26/ymZqus68JfRsOcrS/playlist.m3u8
-柏拉图之恋,https://135zyv6.xw0371.com/2019/02/28/aarrFGywuPne9o8Q/playlist.m3u8
-情欲流逝,https://135zyv6.xw0371.com/2019/02/26/sz6awov1ZgfqNCel/playlist.m3u8
-我们的大师,https://135zyv6.xw0371.com/2019/02/28/qNpY6HAjPWevanKG/playlist.m3u8
-痴女に生まれた隣の女の子,https://135zyv6.xw0371.com/2019/02/26/4qhW66meZAQyN4oJ/playlist.m3u8
-下宿の女主人,https://135zyv6.xw0371.com/2019/02/27/8Jt22cLa6hHJlsxv/playlist.m3u8
-们现在要,https://135zyv6.xw0371.com/2019/02/27/KMjwstDpg5y2lPuy/playlist.m3u8
-盗撮人妻の情事,https://135zyv6.xw0371.com/2019/02/25/YtrO8ZzbWHeb98t7/playlist.m3u8
-夫負荷との情事,https://135zyv6.xw0371.com/2019/02/27/XIVhuHZIshUrRmmp/playlist.m3u8
-青春,https://135zyv6.xw0371.com/2019/02/25/D0E92DgCOJqg3bGU/playlist.m3u8
-夫婦交換 スワッピング・パーティー,https://135zyv6.xw0371.com/2019/02/25/inZ8xr9kp2zmf7A1/playlist.m3u8
-我女儿的爱人2,https://135zyv6.xw0371.com/2019/02/25/eHcBwPjmmx5onBxk/playlist.m3u8
-狂野的爱,https://135zyv6.xw0371.com/2019/02/25/PEi0FWL32TONtKiH/playlist.m3u8
-出轨同学会2,https://135zyv6.xw0371.com/2019/02/23/ygViGgs5UiQJExGi/playlist.m3u8
-Law的猥亵和暗示性的妹妹,https://135zyv6.xw0371.com/2019/03/19/ofpwMqRnZcreKeox/playlist.m3u8
-新婚妻子调情,https://135zyv6.xw0371.com/2019/03/17/TN7ccn21rlJlaA4W/playlist.m3u8
-1448爱在你我之间,https://135zyv6.xw0371.com/2019/03/13/lv22oelf3fYZhrk8/playlist.m3u8
-粉红床的变态性浴,https://135zyv6.xw0371.com/2019/03/17/oGhiP23dvvt4Lu5r/playlist.m3u8
-家庭主妇的肉体解决,https://135zyv6.xw0371.com/2019/03/13/pqbcV0FwfE3Opw5G/playlist.m3u8
-少年罪犯,https://135zyv6.xw0371.com/2019/03/18/kwTdmFpog3hainWC/playlist.m3u8
-1号寄宿公寓,https://135zyv6.xw0371.com/2019/03/16/SNeF1kbB2nkKAO6l/playlist.m3u8
-通奸的滋味,https://135zyv6.xw0371.com/2019/03/13/QFnUs8m2XEuOejU4/playlist.m3u8
-我的继母我的性老师,https://135zyv6.xw0371.com/2019/03/18/PB5gQUciDCF1DRwJ/playlist.m3u8
-年轻的妻子和年幼的儿媳妇,https://135zyv6.xw0371.com/2019/03/16/BONct0uV7g0ocKeP/playlist.m3u8
-弟の恋人との情事,https://135zyv6.xw0371.com/2019/03/12/KBqQvk19OLzgofnR/playlist.m3u8
-夫人的调味季,https://135zyv6.xw0371.com/2019/03/18/Iyvqk9BGrCnQBZOs/playlist.m3u8
-特约豪华沙龙女士,https://135zyv6.xw0371.com/2019/03/16/bF27JePv6XuQPFyV/playlist.m3u8
-娶媳妇的母亲2,https://135zyv6.xw0371.com/2019/03/18/xTKa09H43lpYHUAE/playlist.m3u8
-已婚妇女的下午,https://135zyv6.xw0371.com/2019/03/16/o3I9TYfsWrxxHMnU/playlist.m3u8
-你的妈妈是婊子！,https://135zyv6.xw0371.com/2019/03/12/2PqQRQgdObYK85rv/playlist.m3u8
-女性公寓的销售,https://135zyv6.xw0371.com/2019/03/17/dhhe5JGkDeZnu1OQ/playlist.m3u8
-Rage Rat Affair,https://135zyv6.xw0371.com/2019/03/16/D6s0KW58SJFWVhgg/playlist.m3u8
-Misojiduma No Kahanshin,https://135zyv6.xw0371.com/2019/03/12/h2N3BQKqtD3Jhhpz/playlist.m3u8
-Donarino syuhu,https://135zyv6.xw0371.com/2019/03/13/qsT91dPS3rR74Qqr/playlist.m3u8
-交换,https://135zyv6.xw0371.com/2019/03/11/RelwmVCpgIp85ZnE/playlist.m3u8
-独家按摩服务,https://135zyv6.xw0371.com/2019/03/11/7BjqDepU1IUqdU2Z/playlist.m3u8
-女秘书的条件,https://135zyv6.xw0371.com/2019/03/09/gw5ps4qmkkgppAZe/playlist.m3u8
-淫秽美容沙龙,https://135zyv6.xw0371.com/2019/03/11/2xE28GPhOtm4uu9n/playlist.m3u8
-性的仪式,https://135zyv6.xw0371.com/2019/03/11/0iVoK7Hv8UZ3YSTS/playlist.m3u8
-愚蠢的女人：隔壁女孩与朋友妈妈,https://135zyv6.xw0371.com/2019/03/09/pdyGhxuQGcZWtgAZ/playlist.m3u8
-美味的诱惑,https://135zyv6.xw0371.com/2019/03/10/eFpqkpuIIIl9H1yz/playlist.m3u8
-陪睡女人,https://135zyv6.xw0371.com/2019/03/08/9bdLtlZ6HJmB5uje/playlist.m3u8
-传说中的早川濑里奈,https://135zyv6.xw0371.com/2019/03/10/RFQO2LmJDyShYqBz/playlist.m3u8
-远郊2,https://135zyv6.xw0371.com/2019/03/08/HdNtEUDE3ZatWOUd/playlist.m3u8
-守护正义之妻,https://135zyv6.xw0371.com/2019/03/10/tzn1mFnkFF1UI877/playlist.m3u8
-公寓女主人的目的,https://135zyv6.xw0371.com/2019/03/08/Ke0L2tJceC0KMmar/playlist.m3u8
-妈妈情人2,https://135zyv6.xw0371.com/2019/03/10/vBu9X225WytQlxV6/playlist.m3u8
-我朋友的婶婶,https://135zyv6.xw0371.com/2019/03/08/adpC0HrNSB8pging/playlist.m3u8
-美味的飞行,https://135zyv6.xw0371.com/2019/03/10/KfwwfPobRDcZlcSy/playlist.m3u8
-诚实：好岳母,https://135zyv6.xw0371.com/2019/03/08/KFBgcsYUohoo8eFA/playlist.m3u8
-性福路上,https://135zyv6.xw0371.com/2019/03/09/Jai5gTWQMU80SaLZ/playlist.m3u8
-黑手,https://135zyv6.xw0371.com/2019/03/07/UtedUgOReo3D8alD/playlist.m3u8
-我被剥夺了贞节,https://135zyv6.xw0371.com/2019/03/09/EI0NzSeZU6fRd7rg/playlist.m3u8
-巴士向导,https://135zyv6.xw0371.com/2019/03/07/6KpwQo0u0B9pBvUv/playlist.m3u8
+成人版-伴侣-第五集,https://135zyv6.xw0371.com/2019/02/13/dvi9dW
