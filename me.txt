@@ -329,7 +329,6 @@ pp吃美食,http://aldirect.rtmp.huya.com/backsrc/1199532707611-1199532707611-53
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 
-
 华数频道,#genre#
 CCTV1HD(综合),http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
 CCTV2HD(财经),http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
@@ -567,7 +566,6 @@ HOT 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_403_1/playlist.m3u8?checkCo
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.flv
-
 民視HD,http://http://58.99.33.2:1935/liveedge2/uKGjmzZg_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 CNN國際新聞,http://58.99.33.2:1935/liveedge2/uKGjmzZg_6_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 台視HD,http://58.99.33.2:1935/liveedge2/uKGjmzZg_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
