@@ -545,7 +545,6 @@ HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 福利36,http://103.85.85.240:2100/20200418/wXjldoXp/index.m3u8
 福利37,http://103.85.85.240:2100/20200418/J8eal4eS/index.m3u8
 福利38,http://103.85.85.240:2100/20200418/pNpakDWE/index.m3u8
-HBO 強檔鉅獻,http://58.99.33.2:1935/liveedge2/uKGjmzZg_223_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 玩家頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 Happy 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 HOT 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
@@ -814,6 +813,7 @@ BBC World News,http://58.99.33.2:1935/liveedge2/uKGjmzZg_207_1/playlist.m3u8?che
 HBO HD,http://58.99.33.2:1935/liveedge2/uKGjmzZg_220_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 HBO 原創鉅獻,http://58.99.33.2:1935/liveedge2/uKGjmzZg_221_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 HBO 溫馨家庭,http://58.99.33.2:1935/liveedge2/uKGjmzZg_222_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+HBO 強檔鉅獻,http://58.99.33.2:1935/liveedge2/uKGjmzZg_223_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 博斯高球,http://58.99.33.2:1935/liveedge2/uKGjmzZg_601_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 博斯網球,http://58.99.33.2:1935/liveedge2/uKGjmzZg_602_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 博斯足球,http://58.99.33.2:1935/liveedge2/uKGjmzZg_603_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
