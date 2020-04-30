@@ -325,69 +325,10 @@ pp吃美食,http://aldirect.rtmp.huya.com/backsrc/1199532707611-1199532707611-53
 港台频道,#genre#
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/live720p/PIN.flv
-凤凰较早记录,http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-NOW新闻,http://116.136.128.47/hdl0901.plures.net/onlive/02dd80ff87329e27c41b6346370d163d.flv
-香港有线新闻,https://pulljd-live.baijiayun.com/live/09d4c6c4f4a965672d48edc80d6cacfb.flv
-TVB无线新闻,https://pulljd-live.baijiayun.com/live/7679369d60e726f1ef480a5a46df51c3.flv
-TVB翡翠台,http://218.26.75.164/hdl0901.plures.net/onlive/c5092c4b73f00a339466b9c9a90cc615.flv
-TVB明珠台,http://218.26.75.164/hdl0901.plures.net/onlive/23ff12dae24323fc9f01d407ec62091a.flv
-TVB J2,http://218.26.75.164/hdl0901.plures.net/onlive/b6affc060b3464402fd82a09de3a9182.flv
-RHK31,http://183.201.234.25/hdl0901.plures.net/onlive/b548e63c0c18531ca7bc7ed2eeaef2ba.flv
-RHK32,http://183.201.234.24/hdl0901.plures.net/onlive/5b853d2a834d1fe7746a02e2ecbcbd2b.flv
 中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
-壹新闻,p2p://fccsovh.pvbox.live:18912/5b14094000088a468e9f73a90c8a9a1b.ts
-中天新闻,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8af7a528efc80dec.ts
-东森新闻,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319b5d18fcb51367464.ts
-寰宇新闻,http://116.136.128.48/hdl0901.plures.net/onlive/15b700a01133ed215477b1373f9cd433.flv
-中视新闻,p2p://fccsovh.pvbox.live:18912/5b14095e000f3774d079e8312ab51b46.ts
-台视新闻,http://116.136.128.47/hdl0901.plures.net/onlive/eb436244f14d717590555a2f5816b438.flv
-华视新闻,http://116.136.128.46/hdl0901.plures.net/onlive/38c8e70c3130f48b7c138912dd9000c9.flv
-民视新闻,hp2p://fccsovh.pvbox.live:18912/5b1409690004f7336bf154d0f6f43366.ts
-公视新闻,http://116.136.128.51/hdl0901.plures.net/onlive/de22be26abe6d023e721f59ee1a6e34e.flv
-三立新闻,p2p://fccsovh.pvbox.live:18912/5b14090b000e80305b8d32e224e181e9.ts
-非凡新闻,p2p://fccsovh.pvbox.live:18912/5c2dd766000ecf4a460f432edc3d6349.ts
-年代新闻,p2p://fccsovh.pvbox.live:18912/5c2dd760000328564e395cadf94ed6fd.ts
-TVBS新闻,p2p://fccsovh.pvbox.live:18912/5c2dd76300095ef4c4a636970264bef7.ts
-TVBS HD,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
-MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
-HBO,http://116.136.128.49/hdl0901.plures.net/onlive/3fc4c94de5acc8678b66a6ae304b4f7e.flv
-HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
-HBO强档,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
-HBO原创,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
-FOX HD,p2p://fccsovh.pvbox.live:18912/5b14098e000c5aec7e9150ed15a4a480.ts
-FOX MOVIES,p2p://fccsovh.pvbox.live:18912/5b7267ae000b9c6c1e08f11a8b135560.ts#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction-272163.ts
-FOX PLUS HD,p2p://fccsovh.pvbox.live:18912/5b140977000ab01d13f89dada038963b.ts
-好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df52b0d3ac35af1134c.ts#http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu-261435.ts
-东森电影,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe23a77313125ba9210.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying-262028.ts
-东森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad122881d3a37581383.ts#http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian-262790.ts
-纬来电影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5bf25650fc689b042b.ts
-星卫电影台,p2p://fccsovh.pvbox.live:18912/5b140940000a727a1017446513068ca3.ts
-美亚电影台,p2p://fccsovh.pvbox.live:18912/5b14098f0007961520b5ac8a74cbb688.ts
-龙华洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b18cc343dccffbc94.ts
-龙祥时代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai-261647.ts
-卫视电影台,p2p://fccsovh.pvbox.live:18912/5c2dd76a000ca614f921889064cc6a36.ts
-卫视洋片,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea43c4eec53accc7f78.ts
-华纳TV,http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying-251922.ts
-CINEMAX,p2p://fccsovh.pvbox.live:18912/5b14096000043ff90b1c4aae728ee869.ts
-CATCHPLAY HD,p2p://fccsovh.pvbox.live:18912/5b1409db000126a9979ea17404d19ffe.ts
-民视台湾台,http://183.201.234.25/hdl0901.plures.net/onlive/0199d942a131e06bf282fb8f094ba6ae.flv
-民视综艺台,http://183.201.234.24/hdl0901.plures.net/onlive/7c913b5e0e51d66a9f34fec7ae1c144d.flv
-CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
-SKY NEWS HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000c1dd6380aca7af0b63571.ts
-BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
-BBC Lifestyle,http://218.26.75.164/hdl0901.plures.net/onlive/693be41299dc580ad813ebd6724802de.flv
-BBC EARTH HD,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
-TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
-国家地理HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
-国家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
-国家地理悠人,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
-动物星球,p2p://fccsovh.pvbox.live:18912/5b14096100006f33c3bac972d19faa1f.ts
-Discovery,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
-DiscoveryScience,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
-DiscoveryAsia,http://116.136.128.46/hdl0901.plures.net/onlive/716010073ba87bcd5d47faa7f7ac5b53.flv
-DMAX,http://218.26.75.164/hdl0901.plures.net/onlive/165ea5f151da7f9679d40f425bac442d.flv
+
 
 华数频道,#genre#
 CCTV1HD(综合),http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
