@@ -33,18 +33,18 @@ CGTN纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://ivi.bupt.edu.cn/hls
 国内频道,#genre#
 CCTV-1综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-3综艺,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-4中文国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV-5体育,http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 CCTV-5+体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV-6电影,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 CCTV-7国防军事,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-CCTV-8电视剧,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
 CCTV-9记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV-11戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-13新闻,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-13新闻,http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 CCTV-14少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
@@ -455,6 +455,18 @@ Jasmin HD,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
 松视2台,vjms://61.216.1.24:8500:3502/live/cid=267
 松视3台,vjms://61.216.1.24:8500:3502/live/cid=268
+香蕉台,P2p://51.79.41.139:18912/5c18f9090004f8a058092fb69f8b260d.ts
+惊艳台,P2p://51.79.41.139:18912/5c18f9100006a3e216c73f0df5e8c139.ts
+松视1台,P2p://51.79.41.139:18912/5c18f8fb000648839ad60aa0ba532ed5.ts
+松視2台,P2p://51.79.41.139:18912/5c18f8f7000d865d5ab52e9a3d98f376.ts
+松視3台,P2p://51.79.41.139:18912/5c18f9020004cea37a4b4bdc9c6422ce.ts
+彩虹电影,P2p://51.79.41.139:18912/5c18f8eb000ca1803b96579c41d92bda.ts
+彩虹e台,P2p://51.79.41.139:18912/5c18f8ef000d41c9e23ec4ef80f9d5bd.ts
+彩虹k台,P2p://51.79.41.139:18912/18912/5c18f8f300074bdf86631730bdaa190e.ts
+潘多拉粉红 高清,P2p://51.79.41.139:18912/5c18f90c000e82291f3975518dd690b4.ts
+潘多拉完美 高清,P2p://51.79.41.139:18912/5c18f905000c08fb8bb5050d7782e2df.ts
+HOT,P2p://51.79.41.139:18912/5c18f8e80001d0466d12577248a36bf0.ts
+欢乐台,P2p://51.79.41.139:18912/5c18f8fe000ca53e02ad0e2581da3188.ts
 HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#p2p://fccsovh.pvbox.live:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#p2p://190.2.146.92:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#p2p://fccsovh.pvbox.live:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts#mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts#p2p://190.2.146.92:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts#p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
