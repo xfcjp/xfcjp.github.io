@@ -11,6 +11,9 @@ HBO,vjms://61.216.1.24:8500:3502/live/cid=261
 博斯高球,vjms://61.216.1.24:8500:3502/live/cid=265
 ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266
 
+FOXHD,vjms://58.215.133.184:8500:3502/live/show.php?id=foxhd
+HBOHD,vjms://58.215.133.184:8500:3502/live/show.php?id=hbohd
+FOXHD,vjms://61.216.1.24:8500/live/show.php?id=foxhd
 FOXHD,vjms://61.216.1.24:8500:3502/live/show.php?id=foxhd
 AXN,vjms://61.216.1.24:8500:3502/live/show.php?id=axnmovie
 HBOHD,vjms://61.216.1.24:8500:3502/live/show.php?id=hbohd
