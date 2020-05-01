@@ -575,6 +575,8 @@ CNBC(CN),vjms://61.216.1.24:8500/live/cid=98
 博斯高球,vjms://61.216.1.24:8500/live/cid=265
 ELTA体育1台,vjms://61.216.1.24:8500/live/cid=266
 
+倩女幽魂.人间情,https://www.166396.com/20200501/Mo4OvuyV/index.m3u8
+哥伦比亚新闻,https://www.cbsnews.com/common/video/dai_prod.m3u8
 HBO,http://58.99.33.2:1935/liveedge2/NNwNQZOm_65_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 HBO HD,http://58.99.33.2:1935/liveedge2/NNwNQZOm_220_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 HBO 原創鉅獻,http://58.99.33.2:1935/liveedge2/NNwNQZOm_221_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
