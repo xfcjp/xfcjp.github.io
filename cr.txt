@@ -10,6 +10,8 @@ HBO,vjms://61.216.1.24:8500:3502/live/cid=261
 国家地理野生,vjms://61.216.1.24:8500:3502/live/cid=263
 博斯高球,vjms://61.216.1.24:8500:3502/live/cid=265
 ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266
+BBC,vjms://61.216.1.24:8500/live/cid=418
+松视3台,vjms://61.216.1.24:8500/live/cid=268
 
 FOXHD,vjms://58.215.133.184:8500:3502/live/show.php?id=foxhd
 HBOHD,vjms://58.215.133.184:8500:3502/live/show.php?id=hbohd
