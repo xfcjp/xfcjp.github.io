@@ -549,12 +549,37 @@ HOT 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_403_1/playlist.m3u8?checkCo
 潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/uKGjmzZg_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 驚艷CR電視台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
-哈哈TV,#genre#
+测试,#genre#
 凤凰卫视,http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.flv
+BBC,vjms://61.216.1.24:8500:3502/live/cid=418
+CNN,vjms://61.216.1.24:8500:3502/live/cid=428
+NHK G,vjms://61.216.1.24:8500:3502/live/cid=309
+HBO,vjms://61.216.1.24:8500:3502/live/cid=261
+CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
+松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
+松视2台,vjms://61.216.1.24:8500:3502/live/cid=267
+松视3台,vjms://61.216.1.24:8500:3502/live/cid=268
+国家地理野生,vjms://61.216.1.24:8500:3502/live/cid=263
+博斯高球,vjms://61.216.1.24:8500:3502/live/cid=265
+ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266
+BBC,vjms://61.216.1.24:8500/live/cid=418
+松视3台,vjms://61.216.1.24:8500/live/cid=268
+
+0,vjms://61.216.1.24:8500/live/cid=160
+1,vjms://61.216.1.24:8500/live/cid=161
+2,vjms://61.216.1.24:8500/live/cid=162
+3,vjms://61.216.1.24:8500/live/cid=163
+4,vjms://61.216.1.24:8500/live/cid=164
+5,vjms://61.216.1.24:8500/live/cid=165
+6,vjms://61.216.1.24:8500/live/cid=166
+7,vjms://61.216.1.24:8500/live/cid=167
+8,vjms://61.216.1.24:8500/live/cid=168
+9,vjms://61.216.1.24:8500/live/cid=169
+10,vjms://61.216.1.24:8500/live/cid=170
 
 经彩轮播,#genre#
 豆瓣高分,http://baiducdncmn2.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
