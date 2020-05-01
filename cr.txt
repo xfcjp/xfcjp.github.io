@@ -25,6 +25,19 @@ BBC,vjms://61.216.1.24:8500/live/cid=418
 8,vjms://61.216.1.24:8500/live/cid=259
 9,vjms://61.216.1.24:8500/live/cid=259
 10,vjms://61.216.1.24:8500/live/cid=260
+玩家頻道,http://58.99.33.2:1935/live/cid=401_1
+Happy 頻道,http://58.99.33.2:1935/live/cid=402_1
+HOT 頻道,http://58.99.33.2:1935/live/cid=403_1
+松視4台,http://58.99.33.2:1935/live/cid=404_1
+松視1台HD,http://58.99.33.2:1935/live/cid=405_1
+松視2台,http://58.99.33.2:1935/live/cid=406_1
+松視3台,http://58.99.33.2:1935/live/cid=407_1
+彩虹,http://58.99.33.2:1935/live/cid=408_1
+叮噹CR電視台,http://58.99.33.2:1935/live/cid=409_1
+樂活頻道,http://58.99.33.2:1935/live/cid=410_1
+潘朵拉玩美台HD,http://58.99.33.2:1935/live/cid=411_1
+潘朵拉粉紅台HD,http://58.99.33.2:1935/live/cid=412_1
+驚艷CR電視台,http://58.99.33.2:1935/live/cid=413_1
 
 $c_start彩虹直播$c_end
 玩家頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
