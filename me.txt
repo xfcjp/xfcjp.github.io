@@ -731,6 +731,7 @@ Discovery Science(HD),vjms://61.216.1.24:8500:3502/live/cid=457
 Animal Planet,vjms://61.216.1.24:8500:3502/live/cid=3
 TLC旅游生活,vjms://61.216.1.24:8500:3502/live/cid=103
 日FIGHTING TV,vjms://61.216.1.24:8500:3502/live/cid=408
+日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
 博斯高球,vjms://61.216.1.24:8500:3502/live/cid=265
 ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266
 FOX體育2,vjms://61.216.1.24:8500:3502/live/cid=444
