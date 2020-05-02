@@ -641,78 +641,6 @@ HOT 頻道,http://58.99.33.2:1935/liveedge2/uKGjmzZg_403_1/playlist.m3u8?checkCo
 驚艷CR電視台,http://58.99.33.2:1935/liveedge2/uKGjmzZg_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
 测试一,#genre#
-民視HD,vjms://61.216.1.24:8500/live/cid=450
-公视,vjms://61.216.1.24:8500/live/cid=236
-年代MUCH,vjms://61.216.1.24:8500/live/cid=439
-年代新聞,vjms://61.216.1.24:8500/live/cid=455
-东森新闻,vjms://61.216.1.24:8500/live/cid=340
-东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-中天新闻,vjms://61.216.1.24:8500/live/cid=407
-中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-非凡新聞,vjms://61.216.1.24:8500/live/cid=443
-緯來體育,vjms://61.216.1.24:8500/live/cid=202
-緯來戲劇,vjms://61.216.1.24:8500/live/cid=137
-三立新聞,vjms://61.216.1.24:8500/live/cid=352
-三立都會,vjms://61.216.1.24:8500/live/cid=226
-博斯高球,vjms://61.216.1.24:8500/live/cid=265
-迪士尼卡通,vjms://61.216.1.24:8500/live/cid=361
-HBO亞洲電影,vjms://61.216.1.24:8500/live/cid=261
-HBO原創電影,vjms://61.216.1.24:8500/live/cid=236
-HBO強檔電影,vjms://61.216.1.24:8500/live/cid=238
-HBO溫馨電影,vjms://61.216.1.24:8500/live/cid=181
-HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
-HBO,vjms://61.216.1.24:8500/live/cid=436
-TVBS HD,vjms://61.216.1.24:8500/live/cid=349
-ELTA體育HD,vjms://61.216.1.24:8500/live/cid=266
-東森財經新聞,vjms://61.216.1.24:8500/live/cid=456
-國家地理HD,vjms://61.216.1.24:8500/live/cid=115
-國家地理野生,vjms://61.216.1.24:8500/live/cid=263
-體育博斯高球,vjms://61.216.1.24:8500/live/cid=265
-體育ELTA,vjms://61.216.1.24:8500/live/cid=266
-體育FOX3HD,vjms://61.216.1.24:8500/live/cid=95
-體育FOX2 Sports,vjms://61.216.1.24:8500/live/cid=444
-BBC,vjms://61.216.1.24:8500/live/cid=418
-BBC,vjms://61.216.1.24:8500/live/cid=418
-CNN,vjms://61.216.1.24:8500/live/cid=428
-CNN,vjms://61.216.1.24:8500/live/cid=428
-CNBC,vjms://61.216.1.24:8500/live/cid=98
-CNBC,vjms://61.216.1.24:8500/live/cid=98
-StarMovies,vjms://61.216.1.24:8500/live/cid=94
-DiscoveryAsia,vjms://61.216.1.24:8500/live/cid=440
-DiscoveryScience,vjms://61.216.1.24:8500/live/cid=457
-日本电视台,vjms://61.216.1.24:8500/live/cid=492
-FIGHTING TV,vjms://61.216.1.24:8500/live/cid=408
-Family theather,vjms://61.216.1.24:8500/live/cid=493
-kids,vjms://61.216.1.24:8500/live/cid=494
-J,vjms://61.216.1.24:8500/live/cid=495
-Discovery,vjms://61.216.1.24:8500/live/cid=496
-Movie Plus,vjms://61.216.1.24:8500/live/cid=497
-迪士尼,vjms://61.216.1.24:8500/live/cid=499
-GOLF NTWORK,vjms://61.216.1.24:8500/live/cid=409
-Sports ESPN,vjms://61.216.1.24:8500/live/cid=410
-Sports Plus,vjms://61.216.1.24:8500/live/cid=411
-Green,vjms://61.216.1.24:8500/live/cid=412
-GAORA,vjms://61.216.1.24:8500/live/cid=413
-Sports,vjms://61.216.1.24:8500/live/cid=414
-日本钓鱼,vjms://61.216.1.24:8500/live/cid=55
-日本電視台,vjms://61.216.1.24:8500/live/cid=492
-日FIGHTING TV,vjms://61.216.1.24:8500/live/cid=408
-日-Family theather,vjms://61.216.1.24:8500/live/cid=493
-日-kids,vjms://61.216.1.24:8500/live/cid=494
-日-J,vjms://61.216.1.24:8500/live/cid=495
-日-Discovery,vjms://61.216.1.24:8500/live/cid=496
-日-Movie Plus,vjms://61.216.1.24:8500/live/cid=497
-日-迪士尼,vjms://61.216.1.24:8500/live/cid=499
-日-GOLF NTWORK,vjms://61.216.1.24:8500/live/cid=409
-日-Sports ESPN,vjms://61.216.1.24:8500/live/cid=410
-日-Sports Plus,vjms://61.216.1.24:8500/live/cid=411
-日-Green,vjms://61.216.1.24:8500/live/cid=412
-日-GAORA,vjms://61.216.1.24:8500/live/cid=413
-日-Sports,vjms://61.216.1.24:8500/live/cid=414
-日-sports1,vjms://61.216.1.24:8500/live/cid=415
-日-Sports 2,vjms://61.216.1.24:8500/live/cid=416
-
-测试二,#genre#
 凤凰卫视,http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
@@ -728,16 +656,23 @@ CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
 ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266
 BBC,vjms://61.216.1.24:8500/live/cid=418
 CNN,vjms://61.216.1.24:8500/live/cid=428
-NHK G,vjms://61.216.1.24:8500/live/cid=309
-HBO,vjms://61.216.1.24:8500/live/cid=261
-CNBC(CN),vjms://61.216.1.24:8500/live/cid=98
-国家地理野生,vjms://61.216.1.24:8500/live/cid=263
+CNBC,vjms://61.216.1.24:8500/live/cid=98
+國家地理HD,vjms://61.216.1.24:8500/live/cid=115
+國家地理野生,vjms://61.216.1.24:8500/live/cid=263
+DiscoveryAsia,vjms://61.216.1.24:8500/live/cid=440
+DiscoveryScience,vjms://61.216.1.24:8500/live/cid=457
+HBO亞洲電影,vjms://61.216.1.24:8500/live/cid=261
+緯來體育,vjms://61.216.1.24:8500/live/cid=202
 博斯高球,vjms://61.216.1.24:8500/live/cid=265
-ELTA体育1台,vjms://61.216.1.24:8500/live/cid=266
+ELTA體育1台HD,vjms://61.216.1.24:8500/live/cid=266
+FOX2HD,vjms://61.216.1.24:8500/live/cid=444
+FOX3HD,vjms://61.216.1.24:8500/live/cid=95
+GOLF NTWORK,vjms://61.216.1.24:8500/live/cid=409
 
+测试二,#genre#
 TVB翡翠,http://bd.228888888.xyz:8081/hls/ch101.m3u8
 J2,http://bd.228888888.xyz:8081/hls/ch102.m3u8
-无线财*,http://bd.228888888.xyz:8081/hls/ch103.m3u8
+无线财经,http://bd.228888888.xyz:8081/hls/ch103.m3u8
 TVB明珠,http://bd.228888888.xyz:8081/hls/ch104.m3u8
 无线新闻,http://bd.228888888.xyz:8081/hls/ch201.m3u8
 TVB星河,http://bd.228888888.xyz:8081/hls/ch105.m3u8
