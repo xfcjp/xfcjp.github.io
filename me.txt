@@ -23,6 +23,11 @@ CGTN纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://ivi.bupt.edu.cn/hls
 北京新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8#http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 北京影视,http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8#http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 北京文艺,http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
+北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
+北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
+北京卡酷少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
 冬奥纪实,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 湖北卫视,http://ivi6.bupt.edu.cn/hls/hbhd.m3u8#http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 湖南卫视,http://ivi6.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
