@@ -36,6 +36,59 @@ CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://117.1
 纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 Bestv 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 
+$c_start纳迦港台$c_end
+BBC,vjms://58.215.133.161:8500/live/cid=418
+CNN,vjms://58.215.133.161:8500/live/cid=428
+NHK World,vjms://58.215.133.161:8500/live/cid=309
+CNBC,vjms://58.215.133.161:8500/live/cid=98
+法国国际五台,vjms://58.215.133.161:8500/live/cid=396
+民视,vjms://58.215.133.161:8500/live/cid=450
+公视,vjms://58.215.133.161:8500/live/cid=236
+公視3HD,vjms://58.215.133.161:8500/live/cid=436
+八大第一,vjms://58.215.133.161:8500/live/cid=441
+TVBS HD,vjms://58.215.133.161:8500/live/cid=349
+TVBS新闻台,vjms://58.215.133.161:8500/live/cid=348
+三立都会,vjms://58.215.133.161:8500/live/cid=226
+三立新闻,vjms://58.215.133.161:8500/live/cid=352
+年代新闻,vjms://58.215.133.161:8500/live/cid=455
+东森新闻,vjms://58.215.133.161:8500/live/cid=340
+中天新闻,vjms://58.215.133.161:8500/live/cid=407
+非凡新闻,vjms://58.215.133.161:8500/live/cid=443
+年代MUCH,vjms://58.215.133.161:8500/live/cid=439
+年代新闻,vjms://58.215.133.161:8500/live/cid=455
+东森新闻,vjms://58.215.133.161:8500/live/cid=340
+东森财经新闻,vjms://58.215.133.161:8500/live/cid=456
+AXN,vjms://58.215.133.161:8500/live/cid=2
+HBO HD,vjms://58.215.133.161:8500/live/cid=261
+HBO原创巨献,vjms://58.215.133.161:8500/live/cid=436
+HBO强档巨献,vjms://58.215.133.161:8500/live/cid=238
+HBO温馨家庭,vjms://58.215.133.161:8500/live/cid=181
+FOX MOVIES,vjms://58.215.133.161:8500/live/cid=94
+StarMovies,vjms://58.215.133.161:8500/live/cid=94
+STAR CHANNEL,vjms://58.215.133.161:8500/live/cid=326
+国家地理HD,vjms://58.215.133.161:8500/live/cid=115
+国家地理野生(HD),vjms://58.215.133.161:8500/live/cid=361
+国家地理野生,vjms://58.215.133.161:8500/live/cid=263
+Discovery Asia(HD),vjms://58.215.133.161:8500/live/cid=440
+Discovery Science(HD),vjms://58.215.133.161:8500/live/cid=457
+Animal Planet,vjms://58.215.133.161:8500/live/cid=3
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
+Bloomberg,vjms://58.215.133.161:8500/live/cid=392
+Fashion,vjms://58.215.133.161:8500/live/cid=399
+迪士尼卡通,vjms://58.215.133.161:8500/live/cid=361
+CN卡通,vjms://58.215.133.161:8500/live/cid=422
+纬来戏剧,vjms://58.215.133.161:8500/live/cid=137
+纬来体育,vjms://58.215.133.161:8500/live/cid=202
+ELTA体育1台,vjms://58.215.133.161:8500/live/cid=266
+FOX体育1,vjms://58.215.133.161:8500/live/cid=97
+FOX体育2,vjms://58.215.133.161:8500/live/cid=444
+FOX体育3HD,vjms://58.215.133.161:8500/live/cid=95
+博斯高球,vjms://58.215.133.161:8500/live/cid=265
+日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
+GOLF NTWORK,vjms://58.215.133.161:8500/live/cid=409
+NHK广岛放送,vjms://58.215.133.161:8500/live/cid=301
+日本洋片,vjms://58.215.133.161:8500/live/cid=209
+
 $c_start虎牙美食$c_end
 大胃王,http://aldirect.rtmp.huya.com/backsrc/1099531728506-1099531728506-86331977975726080-2199063580468-10057-A-0-1.m3u8
 山药视频,http://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1.m3u8
