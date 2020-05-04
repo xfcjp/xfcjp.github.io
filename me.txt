@@ -735,71 +735,17 @@ GOLF NTWORK,vjms://61.216.1.24:8500/live/cid=409
 测试一,#genre#
 凤凰中文,p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
 凤凰资讯,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
-凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
 凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,https://www.fanmingming.cn/hls/startv.m3u8
 无线新闻,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts 
-有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-无线财经,mitv://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
-有线财经,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
-财经资讯,https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
-综合娱乐,https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
 TVB J2,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts 
 TVB J5,p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts 
 RHK 31,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts 
 RHK 32,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts 
 VIU TV1,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts 
 VIU TV2,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts 
-TVB 翡翠台,mitv://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB 明珠台,mitv://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
-TVB 武术台,mitv://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
-TVB 韩剧台,msc://CKDrama5
-TVB 星河台,mitv://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
-TVB 剧集台,https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w822142663_b1864000_sltha.m3u8
-TVB 娱乐台,msc://CEN5
-TVBS综合台,mitv://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
-TVBS欢乐台,mitv://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
-TVBS精采台,mitv://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
-TVBS新闻台,mitv://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
-卫视音乐,rtmp://58.200.131.3:1935/livetv/channelv
-卫视体育,https://www.fanmingming.cn/hls/starsports.m3u8
-探索频道,https://www.fanmingming.cn/hls/discovery.m3u8
-国家地理,https://www.fanmingming.cn/hls/natlgeo.m3u8
-HBO亚洲,vjms://58.215.133.194:8500:3502/live/cid=261
-HBO强档,vjms://58.215.133.194:8500:3502/live/cid=238
-HBO家庭,vjms://58.215.133.194:8500:3502/live/cid=181
-HBO原创,vjms://58.215.133.194:8500:3502/live/cid=436
-AXN 电影,vjms://58.215.133.194:8500:3502/live/cid=2
-FOX 电影,vjms://58.215.133.194:8500:3502/live/cid=94
-现场音乐,http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
-韩国综艺,http://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049_high.flv
-東森財經,vjms://58.215.133.194:8500:3502/live/cid=456
-年代新聞,vjms://58.215.133.194:8500:3502/live/cid=455
-年代综合,vjms://58.215.133.194:8500:3502/live/cid=439
-三立都會,vjms://58.215.133.194:8500:3502/live/cid=226
-八大综合,vjms://58.215.133.194:8500:3502/live/cid=441
-民视,vjms://58.215.133.194:8500:3502/live/cid=450
-原住民台,http://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-地理野生,vjms://58.215.133.194:8500:3502/live/cid=263
-探索科学,vjms://58.215.133.194:8500:3502/live/cid=457
-探索世界,vjms://58.215.133.194:8500:3502/live/cid=440
-动物星球,vjms://58.215.133.194:8500:3502/live/cid=3
-旅游生活,vjms://58.215.133.194:8500:3502/live/cid=103
-緯來體育,vjms://58.215.133.194:8500:3502/live/cid=202
-Fox-体育1,p2p://51.79.41.138:18912/5b140a970005af9a17d6fa9c392512d4.ts
-Fox-体育2,vjms://58.215.133.194:8500:3502/live/cid=444
-Fox-体育3,vjms://58.215.133.194:8500:3502/live/cid=95
-日本摔角,vjms://58.215.133.194:8500:3502/live/cid=408
-日本体育,vjms://58.215.133.194:8500:3502/live/cid=207
-博斯高球,vjms://58.215.133.194:8500:3502/live/cid=265
-法国时尚,vjms://58.215.133.194:8500:3502/live/cid=399
-迪士尼台,vjms://58.215.133.194:8500:3502/live/cid=361
-ATV 亚视,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-佛陀教育,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist_w891345404.m3u8
-大爱一台,http://tv1.wanfudaluye.com/live/live.m3u8
-大爱二台,http://tv2.wanfudaluye.com/live/live.m3u8
-大爱海外,http://tv3.wanfudaluye.com/live/live.m3u8
 国家地理G,p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts 
 国家地理P,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts 
 Discovery Asia,p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts 
@@ -810,35 +756,6 @@ Discovery ,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts
 民视新闻,p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts 
 东森新闻,p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts 
 东森财经,p2p://lino.homeunix.com:6007/59fd1f94000ee56d028fd937397b7e63.ts 
-壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-寰宇新闻,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
-中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-东森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-纬来体育,http://iptv.52qdg.com/iptv.php?id=tw&pamid=015
-博斯魅力,http://iptv.52qdg.com/iptv.php?id=tw&pamid=019
-原视,http://iptv.52qdg.com/iptv.php?id=tw&pamid=018
-佛卫慈悲,http://iptv.52qdg.com/iptv.php?id=tw&pamid=023
-TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
-全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
-小太阳,mitv://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts
-寰宇新闻1台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
-寰宇新闻2台,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
-寰宇财经台,mitv://147.135.39.171:9906/5cc68d170006ea05fadeb55d2b4e742a.ts
-龍華洋片,mitv://147.135.39.171:9906/5bb6472800019bfcbb968f6479a35726.ts
-龍華偶像,mitv://147.135.39.171:9906/5b093d430004c0e3052ab6512e2d051d.ts
-靖洋戏剧台,mitv://147.135.39.171:9906/5c6d32bd000b75803a30c5da32fe76c0.ts
-TLC旅游台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
-ELTA综合台,mitv://147.135.39.171:9906/5c6d32be0001e4773a30c7510bcd7ab9.ts
-ELTA戏剧台,mitv://147.135.39.171:9906/5c6d32be0003567e3a30c7af36fa7278.ts
-国际卫视,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
-JET综合,mitv://147.135.39.171:9906/5cc692b800091326faf4b2d276df6a35.ts
-好消息,mitv://147.135.39.171:9906/5c4fcc4b0006d6f27eee65db06e74b86.ts
-番薯TV,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size
 天映频道,p2p://lino.homeunix.com:6007/5b2f1ee9000d3e3d109cc71f4b240eb3.ts 
 天映经典,p2p://lino.homeunix.com:6007/5b2e01c400098d0f0c42edad22c37385.ts 
 全佳台,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts 
@@ -848,235 +765,8 @@ AEC,p2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts
 DiscoveryEVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts 
 Discovery科学,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts 
 Discovery动力,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts 
-澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-澳视卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳视葡语,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳视体育,http://61.244.22.4/ch4/sport_ch4.live/playlist.m3u8
-澳门有线1,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门有线2,http://202.175.127.77/live/show/ch2/index.m3u8
-澳门有线3,http://202.175.127.77/live/show/ch3/index.m3u8
-凤凰中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-凤凰资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-凤凰香港,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
-有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31
-无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
-TVB翡翠,http://hk.tv0668.com/dl/hk520.php?id=1
-TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
-耀才財經,http://hk.tv0668.com/dl/hk520.php?id=19
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-翡翠明珠,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
-翡翠综合,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
-澳门有线①台,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门有线②台,http://202.175.127.77/live/show/ch2/index.m3u8
-HKS卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-大爱一台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
-大爱二台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
-民 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
-中 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
-華 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
-台 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
-公 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
-公 視3HD,P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
-壹 新 聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
-壹 綜 合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
-東森幼幼HD,P2p://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
-東森戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
-東森洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
-東森綜合HD,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
-東森新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
-東森財經HD,P2p://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
-中視經典台,P2p://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
-中視新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
-三立戲劇台,P2p://sdgdklwos.finetv.tv:9906/59fd274c0001400d02adfc6d23452c25
-三立綜合台,P2p://sdgdklwos.finetv.tv:9906/59fd27240003732f02ad60c95d8e10a7
-三立新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08fd000707490237995b3c9f2775
-三立都會台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1
-三立台灣台HD,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4
-中天亞洲台,P2p://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
-中天新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
-中天綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
-中天娛樂HD,P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
-八大第1台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22540006fb57029a95244a947e57
-八大綜合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
-八大戲劇台HD,P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
-八大娛樂台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
-阿里郎電視,P2p://sdgdklwos.finetv.tv:9906/59fd303f000e8d8702d0f510645c2ff4
-寰宇財經台,P2p://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
-寰宇綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
-非凡商業台,P2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
-非凡新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
-台視新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
-年代新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
-亞洲新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a56d833000e41286443908c2a501e55
-民視新聞台HD,P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
-民視台灣台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
-華視教育體育HD,P2p://sdgdklwos.finetv.tv:9906/59fd23240005c9a4029dc1561885012e
-龍華動畫HD,P2p://sdgdklwos.finetv.tv:9906/59fd26690002a01402aa86134bf26468
-龍華洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd07650001a79102315e34781149f3
-龍華偶像HD,P2p://sdgdklwos.finetv.tv:9906/59fd38a1000ca5a002f1b363682d5b70
-龍華戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd38840006b53d02f14094613f7615
-龍華影劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd30d6000988d702d341a0202638f5
-龍華經典HD,P2p://sdgdklwos.finetv.tv:9906/59fd3363000e740302dd39b062856e0b
-龍華電影HD,P2p://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
-緯來育樂HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ad000978f002ab917848d22993
-緯來綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd206e00099d6f02932b6078c86d9a
-緯來戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd20190002fb090291ddb256d73759
-緯來電影HD,P2p://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
-緯來日本HD,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
-緯來體育HD,P2p://sdgdklwos.finetv.tv:9906/5a141bab0009ca9c5f91208265721808
-緯來精彩HD,P2p://sdgdklwos.finetv.tv:9906/5ac5d68600012bae15d868ee776c7fe2
-大爱電視HD,P2p://sdgdklwos.finetv.tv:9906/59fd173e0004273a026f46886dde4613
-信大電視HD,P2p://sdgdklwos.finetv.tv:9906/5afbd0d7000dfbc54833015a3ca55f37
-好消息二台,P2p://sdgdklwos.finetv.tv:9906/59fcf6310003171001ee2b72507f276b
-曼迪日本台,P2p://sdgdklwos.finetv.tv:9906/59fd3343000561bb02dcba5e474715ac
-迪士尼頻道,P2p://sdgdklwos.finetv.tv:9906/59fd1766000a51cc026fe44f425c5788
-采昌影劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd15cc000cd7cc0269a36a466420ca
-日舞電影HD,P2p://sdgdklwos.finetv.tv:9906/59fd30960001991702d2459c74bd52f1
-華納電視HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
-罪案偵緝HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
-世界影城HD,P2p://sdgdklwos.finetv.tv:9906/59fd29d600014b6302b7e78c36d43070
-靖天國際台HD,P2p://sdgdklwos.finetv.tv:9906/59fd32c800056a3402dad9e646096d29
-靖天日本台HD,P2p://sdgdklwos.finetv.tv:9906/59fd2893000bff8802b2fc847a9852a6
-靖天戲劇台HD,P2p://sdgdklwos.finetv.tv:9906/59fd36f80009b75202eb367f603a273f
-靖天電影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
-靖天映畫台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3565000a788d02e5107642590dce
-靖天卡通台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38e0000de06a02f2a9c951a975a6
-靖天育樂台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3068000ea26902d195477bc86f19
-靖洋戲劇台HD,P2p://sdgdklwos.finetv.tv:9906/59fd259600089bb202a74f6123416e8d
-鸿基影劇台,P2p://sdgdklwos.finetv.tv:9906/59fd2a8b000cb57f02baad731b97024c
-佛衛慈悲台,P2p://sdgdklwos.finetv.tv:9906/59fd2a4f00097fcf02b9c2482e3e76cf
-亞洲旅遊台,P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
-亞洲美食HD,P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
-美食星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
-動物星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
-高清探索HD,P2p://sdgdklwos.finetv.tv:9906/5acb89750000af6a2c1ba62e06531ad6
-探索亞洲HD,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
-探索頻道HD,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
-探索科學HD,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
-探索夏娃HD,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
-探索動力HD,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
-國家地理HD,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb
-地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
-地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
-历史頻道1HD,P2p://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
-历史頻道2HD,P2p://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
-MTV HD,P2p://sdgdklwos.finetv.tv:9906/59fd38c4000c84ed02f23c1b626a19ac
-AXN HD,P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8
-HBO HD,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
-HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
-HBO原創巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
-HBO強檔巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
-FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
-FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
-FOX優質電影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
-FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
-FOX動作電影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
-FOX警匪電影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
-ELTA綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ca00086abe02ac0272796720c5
-ELTA影劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd07e7000727bb02335b6b31754db5
-ELTA體育1台,P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84
-ELTA體育2台,P2p://sdgdklwos.finetv.tv:9906/59fd37f9000df20002ef2381617811bf
-TVBS HD,P2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
-TVBS新聞台HD,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
-TVBS歡樂台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
-TVBS精采台HD,P2p://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
-EYETV戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
-EYETV旅遊HD,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
-JET綜合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd054a00006c030229246e6fa27a75
-MOMO親子台,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038
-ASTRO AEC,P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72
-ASTRO小太阳,P2p://sdgdklwos.finetv.tv:9906/5b04f9b200072af66bfae01c7c8f7421
-ASTRO華麗台,P2p://sdgdklwos.finetv.tv:9906/5b04f9000000c2aa6bf8272669213c39
-ASTRO歡喜台,P2p://sdgdklwos.finetv.tv:9906/5b04f9f5000224816bfbe48c31ca641f
-CATCHPLAY電影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
-FYI HD,P2p://sdgdklwos.finetv.tv:9906/59fd32500009ea1902d9064f0d2c0edc
-BBC HD,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
-TVN HD,P2p://sdgdklwos.finetv.tv:9906/59fd248e000a1aa502a3488f618b6de7
-NBA HD,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
-CNN HD,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
-LUXE.TV,P2p://sdgdklwos.finetv.tv:9906/59fd32780006da1202d9a1c415a55c7e
-MY KIDS,P2p://sdgdklwos.finetv.tv:9906/59fd3515000d559a02e3d8b272784315
-DIVA HD,P2p://sdgdklwos.finetv.tv:9906/59fd33b00000188702de62ce5428150a
-SMART HD,P2p://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
-OUTDOOR,P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
-TEAVEL HD,P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
-BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
-NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
-CHANNEL[5],P2p://sdgdklwos.finetv.tv:9906/5a31fbf500092568d4461abc4b040214
-CHANNEL[8],P2p://sdgdklwos.finetv.tv:9906/5a31fc3f000ef04fd4473d4355630850
-CHANNEL[U],P2p://sdgdklwos.finetv.tv:9906/5a31fc73000836bdd44806ad15337fe5
-MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
-BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
-MEZZO LIVEHD,P2p://sdgdklwos.finetv.tv:9906/59fd297e00073d5c02b691533fb45133
-FOX SPORTS3HD,P2p://sdgdklwos.finetv.tv:9906/59fd0ab7000ca0d6023e595351427583
-ELEVEN SPORTS+,P2p://sdgdklwos.finetv.tv:9906/59fd23c0000c1e7f02a0245c6964058b
-E!ENTERTAINMENT,P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
-博斯無限HD,P2p://sdgdklwos.finetv.tv:9906/59fd149100031ddf0264d2721a4e5126
-博斯網球HD,P2p://sdgdklwos.finetv.tv:9906/59fd0790000c3d34023208dc252633c0
-博斯高球1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf4c90006ba2c01e8ae1c1ec827ca
-博斯高球2HD,P2p://sdgdklwos.finetv.tv:9906/59fd073b0000c2280230b9e6743b0ab3
-博斯運動1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
-博斯運動2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
 
 测试二,#genre#
-TVB翡翠,http://bd.228888888.xyz:8081/hls/ch101.m3u8
-J2,http://bd.228888888.xyz:8081/hls/ch102.m3u8
-无线财经,http://bd.228888888.xyz:8081/hls/ch103.m3u8
-TVB明珠,http://bd.228888888.xyz:8081/hls/ch104.m3u8
-无线新闻,http://bd.228888888.xyz:8081/hls/ch201.m3u8
-TVB星河,http://bd.228888888.xyz:8081/hls/ch105.m3u8
-星河国语,http://bd.228888888.xyz:8081/hls/ch108.m3u8
-有线新闻,http://bd.228888888.xyz:8081/hls/ch109.m3u8
-凤凰电影,http://bd.228888888.xyz:8081/hls/ch110.m3u8
-thrill,http://bd.228888888.xyz:8081/hls/ch112.m3u8
-TVB经典,http://bd.228888888.xyz:8081/hls/ch113.m3u8
-卫视国际电影,http://bd.228888888.xyz:8081/hls/ch111.m3u8
-NOW新闻,http://bd.228888888.xyz:8081/hls/ch114.m3u8
-VIUTV,http://bd.228888888.xyz:8081/hls/ch115.m3u8
-VIUTV6,http://bd.228888888.xyz:8081/hls/ch116.m3u8
-有线财经,http://bd.228888888.xyz:8081/hls/ch117.m3u8
-有线娱乐,http://bd.228888888.xyz:8081/hls/ch118.m3u8
-有线18,http://bd.228888888.xyz:8081/hls/ch119.m3u8
-龙翔电影,http://bd.228888888.xyz:8081/hls/ch301.m3u8
-纬来电影,http://bd.228888888.xyz:8081/hls/ch302.m3u8
-东森洋片,http://bd.228888888.xyz:8081/hls/ch303.m3u8
-卫视电影,http://bd.228888888.xyz:8081/hls/ch304.m3u8
-星卫电影,http://bd.228888888.xyz:8081/hls/ch305.m3u8
-美亚电影,http://bd.228888888.xyz:8081/hls/ch306.m3u8
-卫视洋片,http://bd.228888888.xyz:8081/hls/ch307.m3u8
-东森电影,http://bd.228888888.xyz:8081/hls/ch308.m3u8
-龙华洋片,http://bd.228888888.xyz:8081/hls/ch309.m3u8
-HBOHD,http://bd.228888888.xyz:8081/hls/ch310.m3u8
-HBOHITS,http://bd.228888888.xyz:8081/hls/ch311.m3u8
-HBOignature,http://bd.228888888.xyz:8081/hls/ch312.m3u8
-HBOfamlly,http://bd.228888888.xyz:8081/hls/ch313.m3u8
-中视,http://bd.228888888.xyz:8081/hls/ch202.m3u8
-华视,http://bd.228888888.xyz:8081/hls/ch203.m3u8
-民视,http://bd.228888888.xyz:8081/hls/ch204.m3u8
-台视,http://bd.228888888.xyz:8081/hls/ch205.m3u8
-八大综合,http://bd.228888888.xyz:8081/hls/ch206.m3u8
-八大第一,http://bd.228888888.xyz:8081/hls/ch207.m3u8
-八大戏剧,http://bd.228888888.xyz:8081/hls/ch208.m3u8
-CNN,http://bd.228888888.xyz:8081/hls/ch315.m3u8
-三立新闻,http://bd.228888888.xyz:8081/hls/ch210.m3u8
-寰宇新聞,http://bd.228888888.xyz:8081/hls/ch211.m3u8
-寰宇新聞2,http://bd.228888888.xyz:8081/hls/ch212.m3u8
-台视新聞,http://bd.228888888.xyz:8081/hls/ch213.m3u8
-華視新聞,http://bd.228888888.xyz:8081/hls/ch214.m3u8
-TVBS新聞,http://bd.228888888.xyz:8081/hls/ch215.m3u8
-民視新聞,http://bd.228888888.xyz:8081/hls/ch216.m3u8
-东森新闻,http://bd.228888888.xyz:8081/hls/ch217.m3u8
-中視新聞,http://bd.228888888.xyz:8081/hls/ch218.m3u8
-中天新闻,http://bd.228888888.xyz:8081/hls/zhongtianxw.m3u8
-国家地理,http://bd.228888888.xyz:8081/hls/ch316.m3u8
-
-测试三,#genre#
 民視HD,vjms://61.216.1.24:8500:3502/live/cid=450
 公視3HD,vjms://61.216.1.24:8500:3502/live/cid=436
 年代MUCH,vjms://61.216.1.24:8500:3502/live/cid=439
@@ -1184,7 +874,7 @@ ELTA體育,vjms://61.216.1.24:8500:3502/live/cid=266
 三立都会台,vjms://61.216.1.24:8500:3502/live/cid=226
 HBO原创电影,vjms://61.216.1.24:8500:3502/live/cid=436
 
-测试四,#genre#
+测试三,#genre#
 壹新闻,http://47.240.76.101/Nexttvnews/playlist.m3u8?tid=MD8D4721096047210960&ct=18385&tsum=a1ee4
 寰宇新闻,http://47.240.76.101/kuanyunews1/playlist.m3u8?tid=MACA3772601637726016&ct=18385&tsum=d4a9127c26a54f8fbf9199c2974776b6
 寰宇新闻2,http://47.240.76.101/videolandjapan_twn/playlist.m3u8?tid=ME2E1487502314875023&ct=18385&tsum=2dfeafdcc226e657684cc2cbd61f5bde
@@ -1222,7 +912,7 @@ setone,http://47.240.76.101/SetOne/playlist.m3u8?tid=MFAF7082630070826300&ct=183
 靖天戏剧,http://47.240.76.101/jingyangxiju_twn/playlist.m3u8?tid=MB4B8923896989238969&ct=18385&tsum=b631f54483181a2a01e2802bb94ad8e8
 靖天映畫,http://47.240.76.101/jingtianyinghua_twn/playlist.m3u8?tid=MC0C3644574036445740&ct=18385&tsum=38d16ece94f88753d31b89f214822e0c
 
-测试五,#genre#
+测试四,#genre#
 中視經典台,http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 大愛台,http://198.16.106.58:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 國家地理國際頻道,http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
@@ -1344,7 +1034,7 @@ Star Movies,http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7
 滾動力,http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=m15f862e8b0e1&ct=18335&tsum=c4174a35d3ef6fd008b91852975a2c18
 佛衛慈悲台,http://198.16.106.58:8278/setantarugby_twn/playlist.m3u8?tid=mb2a8b35f6fe0&ct=18335&tsum=68d8b22783b88e3816f7bb36255b886b
 
-测试六,#genre#
+测试五,#genre#
 BBC,http://111.13.111.192/125.227.198.89:8003
 香港HakkaTV,http://111.13.111.192/125.227.198.89:8016
 寰宇新闻台湾台,http://111.13.111.192/125.227.198.89:8002
