@@ -765,8 +765,6 @@ AEC,p2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts
 DiscoveryEVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts 
 Discovery科学,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts 
 Discovery动力,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
-亚洲（Asia）直播源
-
 Flix,http://42.98.239.149:9981/stream/channelid/1654937978
 Pictures,http://42.98.239.149:9981/stream/channelid/24269676
 TV,http://42.98.239.149:9981/stream/channelid/1458942133
@@ -820,6 +818,12 @@ Workpoin,http://42.98.239.149:9981/stream/channelid/1995564742
 Zee Bollywood,http://42.98.239.149:9981/stream/channelid/1367212255
 Zee Cinema,http://42.98.239.149:9981/stream/channelid/477082133
 Zee TV,http://42.98.239.149:9981/stream/channelid/349138937
+astro双星,http://185.180.221.194:8278/Shuangxing/playlist.m3u8?tid=63899929&ct=18190&tsum=8891058816198de45a3fff3ceeaf200c
+astro全佳,http://185.180.221.194:8278/Quanjia/playlist.m3u8?tid=82799908&ct=18190&tsum=2d6eda47d4f25263f4f366246fb51edb
+astro欢喜,http://185.180.221.194:8278/Huahee/playlist.m3u8?tid=32399964&ct=18190&tsum=fee1fd256d5671806316e11f57041e9c
+astro小太阳,http://185.180.221.194:8278/Xiaotaiyang/playlist.m3u8?tid=62999930&ct=18190&tsum=6242a90918842b1a8bbe250592769232
+astro华丽,hhttp://185.180.221.194:8278/Wlt/playlist.m3u8?tid=27899969&ct=18190&tsum=06d1567b10632c9df0173c458a52828a
+astroaec,http://185.180.221.194:8278/Aec/playlist.m3u8?tid=8099991&ct=18190&tsum=b939fba120af1ddc2eb45e06efb7c104
 
 测试二,#genre#
 民視HD,vjms://61.216.1.24:8500:3502/live/cid=450
