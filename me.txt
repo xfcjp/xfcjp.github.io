@@ -56,6 +56,7 @@ CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 Olympic Channel,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8#http://111.63.117.13:6060/030000001000/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+中华特产台,http://play.zhtctv.cn/portal/btv.m3u8
 CETV-1,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
 CETV-2,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 CETV-3,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
@@ -87,7 +88,7 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 黑莓电影HD,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-办公室小野,http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+猫和老鼠,http://jcloudcdnct.inter.iqiyi.com/tslive/c19_lb_maohelaoshu_720p_t10/c19_lb_maohelaoshu_720p_t10.m3u8
 熊猫频道,http://211.137.115.120/gitv_live/G_XIONGMAO/G_XIONGMAO.m3u8
 金鹰纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu#http://ivi6.bupt.edu.cn/hls/gedocu.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 上海纪实高清,http://ivi6.bupt.edu.cn/hls/docuchina.m3u8#http://ivi.bupt.edu.cn/hls/docuchina.m3u8
