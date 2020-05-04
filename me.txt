@@ -79,6 +79,7 @@ CETV-4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+中国天气,rtmp://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live
 中国交通-海南,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
 武术世界,http://117.158.206.60:9080/live/wssj.m3u8
 日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
