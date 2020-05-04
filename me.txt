@@ -764,7 +764,62 @@ Discovery ,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts
 AEC,p2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts 
 DiscoveryEVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts 
 Discovery科学,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts 
-Discovery动力,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts 
+Discovery动力,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
+亚洲（Asia）直播源
+
+Flix,http://42.98.239.149:9981/stream/channelid/1654937978
+Pictures,http://42.98.239.149:9981/stream/channelid/24269676
+TV,http://42.98.239.149:9981/stream/channelid/1458942133
+Astro 1,http://42.98.239.149:9981/stream/channelid/1241435800
+Astro 3,http://42.98.239.149:9981/stream/channelid/623388658
+Astro 4,http://42.98.239.149:9981/stream/channelid/1820424475
+AXN,http://42.98.239.149:9981/stream/channelid/222144844
+Cartoon Network,http://42.98.239.149:9981/stream/channelid/1877824829
+Colors,http://42.98.239.149:9981/stream/channelid/199218879
+Discovery,http://42.98.239.149:9981/stream/channelid/1242718245
+Disney,http://42.98.239.149:9981/stream/channelid/918113217
+EDGE SPORT,http://42.98.239.149:9981/stream/channelid/684776653
+EURO SPORT,http://42.98.239.149:9981/stream/channelid/921951594
+FOX SPORTS 1,http://42.98.239.149:9981/stream/channelid/1766341416
+FOX SPORTS 2,http://42.98.239.149:9981/stream/channelid/65451456
+FOX SPORTS 3,http://42.98.239.149:9981/stream/channelid/249779166
+HBO,http://42.98.239.149:9981/stream/channelid/1458381187
+HBO [Truevision],http://42.98.239.149:9981/stream/channelid/1148952024
+History Channel,http://42.98.239.149:9981/stream/channelid/876114273
+Live 2,http://42.98.239.149:9981/stream/channelid/380770053
+MONO29,http://42.98.239.149:9981/stream/channelid/319105454
+MONOPLUS,http://42.98.239.149:9981/stream/channelid/248446359
+MOVIE 2,http://42.98.239.149:9981/stream/channelid/492770218
+Movies Now,http://42.98.239.149:9981/stream/channelid/41604549
+MTV HD [Server 2],http://42.98.239.149:9981/stream/channelid/1982312944
+NATION,http://42.98.239.149:9981/stream/channelid/1797092251
+Nick,http://42.98.239.149:9981/stream/channelid/321906652
+NET SPORTS 1,http://42.98.239.149:9981/stream/channelid/1927259425
+NET SPORTS 2,http://42.98.239.149:9981/stream/channelid/19413979
+NET SPORTS 3,http://42.98.239.149:9981/stream/channelid/390237390
+NET SPORTS 4,http://42.98.239.149:9981/stream/channelid/147406451
+NET SPORTS 5,http://42.98.239.149:9981/stream/channelid/1345230135
+NET SPORTS 6,http://42.98.239.149:9981/stream/channelid/475376888
+NET SPORTS HD,http://42.98.239.149:9981/stream/channelid/472177379
+NET SPORTS PLUS,http://42.98.239.149:9981/stream/channelid/1985059013
+Sony Max,http://42.98.239.149:9981/stream/channelid/1597286721
+Sony Sab,http://42.98.239.149:9981/stream/channelid/2076489617
+Sony Six,http://42.98.239.149:9981/stream/channelid/1559351927
+Sony Ten 1,http://42.98.239.149:9981/stream/channelid/1382712878
+Sony Ten 2,http://42.98.239.149:9981/stream/channelid/487833512
+Sony Ten 3,http://42.98.239.149:9981/stream/channelid/704909020
+Star Gold,http://42.98.239.149:9981/stream/channelid/721342523
+Star Movies,http://42.98.239.149:9981/stream/channelid/1024797284
+Star Plus,http://42.98.239.149:9981/stream/channelid/1136814305
+Star Sports 1,http://42.98.239.149:9981/stream/channelid/935448432
+Star Sports 1 Hindi,http://42.98.239.149:9981/stream/channelid/1386957452
+Star Sports 2,http://42.98.239.149:9981/stream/channelid/674139231
+Star World,http://42.98.239.149:9981/stream/channelid/1527992704
+WB,http://42.98.239.149:9981/stream/channelid/234445812
+Workpoin,http://42.98.239.149:9981/stream/channelid/1995564742
+Zee Bollywood,http://42.98.239.149:9981/stream/channelid/1367212255
+Zee Cinema,http://42.98.239.149:9981/stream/channelid/477082133
+Zee TV,http://42.98.239.149:9981/stream/channelid/349138937
 
 测试二,#genre#
 民視HD,vjms://61.216.1.24:8500:3502/live/cid=450
