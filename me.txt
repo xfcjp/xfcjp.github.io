@@ -80,7 +80,6 @@ CETV-4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 中国交通-海南,http://tv.lanjingfm.com:80/cctbn/hainan.m3u8
 武术世界,http://117.158.206.60:9080/live/wssj.m3u8
-日FIGHTING TV,vjms://61.216.1.24:8500:3502/live/cid=408
 日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
@@ -677,7 +676,6 @@ BBC,vjms://58.215.133.161:8500/live/cid=418
 CNN,vjms://58.215.133.161:8500/live/cid=428
 CNBC,vjms://58.215.133.161:8500/live/cid=98
 NHK World,vjms://58.215.133.161:8500/live/cid=309
-AXN,vjms://58.215.133.161:8500/live/cid=2
 年代新闻,vjms://58.215.133.161:8500/live/cid=455
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
 中天新闻,vjms://58.215.133.161:8500/live/cid=407
@@ -704,6 +702,7 @@ HBO强档巨献,vjms://58.215.133.161:8500/live/cid=238
 HBO温馨家庭,vjms://58.215.133.161:8500/live/cid=181
 HBO家庭,vjms://58.215.133.161:8500/live/cid=181
 FOX电影,vjms://58.215.133.161:8500/live/cid=94
+AXN,vjms://58.215.133.161:8500/live/cid=2
 國家地理HD,vjms://58.215.133.161:8500/live/cid=115
 國家地理野生,vjms://58.215.133.161:8500/live/cid=263
 Discovery Asia(HD),vjms://58.215.133.161:8500/live/cid=440
