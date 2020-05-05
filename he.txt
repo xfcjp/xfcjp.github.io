@@ -1,0 +1,189 @@
+$c_start新闻$c_end
+BBC,vjms://58.215.133.161:8500/live/cid=418
+CNN,vjms://58.215.133.161:8500/live/cid=428
+NHK World,vjms://58.215.133.161:8500/live/cid=309
+CNBC,vjms://58.215.133.161:8500/live/cid=98
+ABC NEWS,http://47.240.60.73/xaors/mlxy.php?channel=14e7f4f5873086a41607091af91d8992
+KBS WORLD,http://47.240.60.73/xaors/mlxy.php?channel=36fc97a5452e065625fa6a4121276b54
+北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+湖南经视,http://124.232.231.246:6610/000000001001/201600020002/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020002&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南都市,http://124.232.231.246:6610/000000001001/201600020003/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020003&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南国际,http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020001&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南娱乐,http://124.232.231.246:6610/000000001001/201600020004/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020004&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南电影,http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南电视剧,http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020006&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南公共,http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020007&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020008&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8
+茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+
+$c_start电影$c_end
+CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+AXN,vjms://58.215.133.161:8500/live/cid=2
+HBO HD,vjms://58.215.133.161:8500/live/cid=261
+HBO原创巨献,vjms://58.215.133.161:8500/live/cid=436
+HBO强档巨献,vjms://58.215.133.161:8500/live/cid=238
+HBO温馨家庭,vjms://58.215.133.161:8500/live/cid=181
+FOX MOVIES,vjms://58.215.133.161:8500/live/cid=94
+日本洋片,vjms://58.215.133.161:8500/live/cid=209
+CHC高清电影,http://47.240.60.73/xaors/mlxy.php?channel=22719d4478979abbb10b41fa5435e754
+CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC家庭影院,http://47.240.60.73/xaors/mlxy.php?channel=a55031d6dc37de6cd3e72ce9a2046d46
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
+CHC动作电影,http://47.240.60.73/xaors/mlxy.php?channel=4524caa72ac564cc6ce9631b7289b9a5
+CHC動作電影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+东森电影,http://47.240.60.73/xaors/mlxy.php?channel=d824ce205aeb94733357f1c0a2e87609
+东森洋片,http://47.240.60.73/xaors/mlxy.php?channel=5c0f418e22d1024e445292edaba5dd1a
+龙华影剧,http://47.240.60.73/xaors/mlxy.php?channel=4dd740b40b59997fcfec996e6a069353
+龙华洋片,http://47.240.60.73/xaors/mlxy.php?channel=66805d198a13a7845dd8e06073e51c4e
+龙祥时代,http://47.240.60.73/xaors/mlxy.php?channel=2e50ce93987019d3b067a97c45a23489
+纬来电影,http://47.240.60.73/xaors/mlxy.php?channel=6f555bb0622bc526cb7d547885944033
+晴天电影,http://47.240.60.73/xaors/mlxy.php?channel=c37b64d7cffbda9356ec5fed0d199ada
+EYE旅游,http://47.240.60.73/xaors/mlxy.php?channel=2a77d1913e4d8a41827e76786b832ab6
+EYE戏剧,http://47.240.60.73/xaors/mlxy.php?channel=e9667ddf17f95b74b285eb85c4d50cda
+华艺影剧台,http://47.240.60.73/xaors/mlxy.php?channel=5635af28bf3c1ff93171e5e2d8250d2e
+卫视电影,http://47.240.60.73/xaors/mlxy.php?channel=eae7a8daef9c53fc683016b8c2a064ca
+美亚电影,http://47.240.60.73/xaors/mlxy.php?channel=da02dd2201b7b5e4a22c60afaf7690b6
+星卫电影,http://47.240.60.73/xaors/mlxy.php?channel=473a6f1c1e3fb49b1202fd57c11965e2
+好莱坞电影,http://47.240.60.73/xaors/mlxy.php?channel=faf43ebb2a219874a85b5af58d5a1496
+华纳电影,http://47.240.60.73/xaors/mlxy.php?channel=ae2a302875427dd1a126c0affb4aa7d9
+亚洲美食,http://47.240.60.73/xaors/mlxy.php?channel=c24af8e5ff88a6b333483c6b9d682461
+美食星球,http://47.240.60.73/xaors/mlxy.php?channel=5f0f7eaada270d6845963ee5ec52907b
+动物星球,http://47.240.60.73/xaors/mlxy.php?channel=05ca6854a497d7cde1e8f501fb188eef
+愛奇藝,http://47.240.60.73/xaors/mlxy.php?channel=08400975e6beeb4aa15293b803fa9879
+HBO_HD,http://47.240.60.73/xaors/mlxy.php?channel=a6c3f72b41f5688a45ca4d9eec1faaf7
+HBO_Hits,http://47.240.60.73/xaors/mlxy.php?channel=5d9009f9e253bf9dbc3781072008bffd
+HBO_Signature,http://47.240.60.73/xaors/mlxy.php?channel=2035503f33bcdcba2cc138328a04f87c
+FX_HD,http://47.240.60.73/xaors/mlxy.php?channel=12015ec12e5df451deacfcf2dc298bf7
+Fox HD,http://47.240.60.73/xaors/mlxy.php?channel=0ededb4b5ae296265d2f6f424ad3263b
+Fox_Action,http://47.240.60.73/xaors/mlxy.php?channel=b61626c1c31f90e18e11b966b1e8852d
+Fox_Family,http://47.240.60.73/xaors/mlxy.php?channel=3ba015e8638048c187a308f0bde0ce64
+Fox Crime,http://47.240.60.73/xaors/mlxy.php?channel=1af2546b32e42ab14b4acb4f23589035
+CINEMAX,http://47.240.60.73/xaors/mlxy.php?channel=808e890daad3a20e6f5c1b2cdbfeeb8c
+Cinema,http://47.240.60.73/xaors/mlxy.php?channel=32acdba4d4cefaaddf03ccb38ca024cc
+Catchplay,http://47.240.60.73/xaors/mlxy.php?channel=2e5a52d78a593a57bd3356ebac908bcd
+
+$c_start纪实$c_end
+Nat_Geo People,http://47.240.60.73/xaors/mlxy.php?channel=40acf6ec9b997a05880d9c6da90c6316
+Nat_Geo HD,http://47.240.60.73/xaors/mlxy.php?channel=54a11a4c208e1d615235f25db0912e75
+Nat_Geo Wild,http://47.240.60.73/xaors/mlxy.php?channel=8a37e736a1342a1e6e36f549953dfe90
+History,http://47.240.60.73/xaors/mlxy.php?channel=1080ee4db8311690db6d14903a1e9e3d
+History 2,http://47.240.60.73/xaors/mlxy.php?channel=65c825988b8d08c2754e2a9442097a10
+Discovery_Science,http://47.240.60.73/xaors/mlxy.php?channel=f8909e2127ca00172106da82a4e72925
+Discovery Asia,http://47.240.60.73/xaors/mlxy.php?channel=358947976d2b9d3ae645d0afd20e344e
+Eve,http://47.240.60.73/xaors/mlxy.php?channel=ea161828292ae0b8b6e4061d251a55fe
+Dmax,http://47.240.60.73/xaors/mlxy.php?channel=de7df547c881ea6b5b3aedfbf02e4da4
+TLC,http://47.240.60.73/xaors/mlxy.php?channel=1a8645aa713ac3a30ae1df7eb019858d
+E! Entertainment,http://47.240.60.73/xaors/mlxy.php?channel=478ee02eaacbc2e27b4718e55c2a5375
+Outdoor,http://47.240.60.73/xaors/mlxy.php?channel=ef35a257993110b8c1b2ae722d833355
+MTV,http://47.240.60.73/xaors/mlxy.php?channel=15a57aae7703ea23bd01b3a8ad0e1fc6
+国家地理HD,vjms://58.215.133.161:8500/live/cid=115
+国家地理野生(HD),vjms://58.215.133.161:8500/live/cid=361
+国家地理野生,vjms://58.215.133.161:8500/live/cid=263
+Discovery Asia(HD),vjms://58.215.133.161:8500/live/cid=440
+Discovery Science(HD),vjms://58.215.133.161:8500/live/cid=457
+Animal Planet,vjms://58.215.133.161:8500/live/cid=3
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
+Fashion,vjms://58.215.133.161:8500/live/cid=399
+求索纪录,http://125.210.152.18:9090/live/QSKX_1200.m3u8#http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+
+新闻,#genre#
+BBC,vjms://58.215.133.161:8500/live/cid=418
+CNN,vjms://58.215.133.161:8500/live/cid=428
+NHK World,vjms://58.215.133.161:8500/live/cid=309
+CNBC,vjms://58.215.133.161:8500/live/cid=98
+ABC NEWS,http://47.240.60.73/xaors/mlxy.php?channel=14e7f4f5873086a41607091af91d8992
+KBS WORLD,http://47.240.60.73/xaors/mlxy.php?channel=36fc97a5452e065625fa6a4121276b54
+北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+湖南经视,http://124.232.231.246:6610/000000001001/201600020002/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020002&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南都市,http://124.232.231.246:6610/000000001001/201600020003/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020003&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南国际,http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020001&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南娱乐,http://124.232.231.246:6610/000000001001/201600020004/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020004&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南电影,http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南电视剧,http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020006&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南公共,http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020007&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020008&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8
+茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+
+电影,#genre#
+CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+AXN,vjms://58.215.133.161:8500/live/cid=2
+HBO HD,vjms://58.215.133.161:8500/live/cid=261
+HBO原创巨献,vjms://58.215.133.161:8500/live/cid=436
+HBO强档巨献,vjms://58.215.133.161:8500/live/cid=238
+HBO温馨家庭,vjms://58.215.133.161:8500/live/cid=181
+FOX MOVIES,vjms://58.215.133.161:8500/live/cid=94
+日本洋片,vjms://58.215.133.161:8500/live/cid=209
+CHC高清电影,http://47.240.60.73/xaors/mlxy.php?channel=22719d4478979abbb10b41fa5435e754
+CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC家庭影院,http://47.240.60.73/xaors/mlxy.php?channel=a55031d6dc37de6cd3e72ce9a2046d46
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
+CHC动作电影,http://47.240.60.73/xaors/mlxy.php?channel=4524caa72ac564cc6ce9631b7289b9a5
+CHC動作電影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+东森电影,http://47.240.60.73/xaors/mlxy.php?channel=d824ce205aeb94733357f1c0a2e87609
+东森洋片,http://47.240.60.73/xaors/mlxy.php?channel=5c0f418e22d1024e445292edaba5dd1a
+龙华影剧,http://47.240.60.73/xaors/mlxy.php?channel=4dd740b40b59997fcfec996e6a069353
+龙华洋片,http://47.240.60.73/xaors/mlxy.php?channel=66805d198a13a7845dd8e06073e51c4e
+龙祥时代,http://47.240.60.73/xaors/mlxy.php?channel=2e50ce93987019d3b067a97c45a23489
+纬来电影,http://47.240.60.73/xaors/mlxy.php?channel=6f555bb0622bc526cb7d547885944033
+晴天电影,http://47.240.60.73/xaors/mlxy.php?channel=c37b64d7cffbda9356ec5fed0d199ada
+EYE旅游,http://47.240.60.73/xaors/mlxy.php?channel=2a77d1913e4d8a41827e76786b832ab6
+EYE戏剧,http://47.240.60.73/xaors/mlxy.php?channel=e9667ddf17f95b74b285eb85c4d50cda
+华艺影剧台,http://47.240.60.73/xaors/mlxy.php?channel=5635af28bf3c1ff93171e5e2d8250d2e
+卫视电影,http://47.240.60.73/xaors/mlxy.php?channel=eae7a8daef9c53fc683016b8c2a064ca
+美亚电影,http://47.240.60.73/xaors/mlxy.php?channel=da02dd2201b7b5e4a22c60afaf7690b6
+星卫电影,http://47.240.60.73/xaors/mlxy.php?channel=473a6f1c1e3fb49b1202fd57c11965e2
+好莱坞电影,http://47.240.60.73/xaors/mlxy.php?channel=faf43ebb2a219874a85b5af58d5a1496
+华纳电影,http://47.240.60.73/xaors/mlxy.php?channel=ae2a302875427dd1a126c0affb4aa7d9
+亚洲美食,http://47.240.60.73/xaors/mlxy.php?channel=c24af8e5ff88a6b333483c6b9d682461
+美食星球,http://47.240.60.73/xaors/mlxy.php?channel=5f0f7eaada270d6845963ee5ec52907b
+动物星球,http://47.240.60.73/xaors/mlxy.php?channel=05ca6854a497d7cde1e8f501fb188eef
+愛奇藝,http://47.240.60.73/xaors/mlxy.php?channel=08400975e6beeb4aa15293b803fa9879
+HBO_HD,http://47.240.60.73/xaors/mlxy.php?channel=a6c3f72b41f5688a45ca4d9eec1faaf7
+HBO_Hits,http://47.240.60.73/xaors/mlxy.php?channel=5d9009f9e253bf9dbc3781072008bffd
+HBO_Signature,http://47.240.60.73/xaors/mlxy.php?channel=2035503f33bcdcba2cc138328a04f87c
+FX_HD,http://47.240.60.73/xaors/mlxy.php?channel=12015ec12e5df451deacfcf2dc298bf7
+Fox HD,http://47.240.60.73/xaors/mlxy.php?channel=0ededb4b5ae296265d2f6f424ad3263b
+Fox_Action,http://47.240.60.73/xaors/mlxy.php?channel=b61626c1c31f90e18e11b966b1e8852d
+Fox_Family,http://47.240.60.73/xaors/mlxy.php?channel=3ba015e8638048c187a308f0bde0ce64
+Fox Crime,http://47.240.60.73/xaors/mlxy.php?channel=1af2546b32e42ab14b4acb4f23589035
+CINEMAX,http://47.240.60.73/xaors/mlxy.php?channel=808e890daad3a20e6f5c1b2cdbfeeb8c
+Cinema,http://47.240.60.73/xaors/mlxy.php?channel=32acdba4d4cefaaddf03ccb38ca024cc
+Catchplay,http://47.240.60.73/xaors/mlxy.php?channel=2e5a52d78a593a57bd3356ebac908bcd
+
+纪实,#genre#
+Nat_Geo People,http://47.240.60.73/xaors/mlxy.php?channel=40acf6ec9b997a05880d9c6da90c6316
+Nat_Geo HD,http://47.240.60.73/xaors/mlxy.php?channel=54a11a4c208e1d615235f25db0912e75
+Nat_Geo Wild,http://47.240.60.73/xaors/mlxy.php?channel=8a37e736a1342a1e6e36f549953dfe90
+History,http://47.240.60.73/xaors/mlxy.php?channel=1080ee4db8311690db6d14903a1e9e3d
+History 2,http://47.240.60.73/xaors/mlxy.php?channel=65c825988b8d08c2754e2a9442097a10
+Discovery_Science,http://47.240.60.73/xaors/mlxy.php?channel=f8909e2127ca00172106da82a4e72925
+Discovery Asia,http://47.240.60.73/xaors/mlxy.php?channel=358947976d2b9d3ae645d0afd20e344e
+Eve,http://47.240.60.73/xaors/mlxy.php?channel=ea161828292ae0b8b6e4061d251a55fe
+Dmax,http://47.240.60.73/xaors/mlxy.php?channel=de7df547c881ea6b5b3aedfbf02e4da4
+TLC,http://47.240.60.73/xaors/mlxy.php?channel=1a8645aa713ac3a30ae1df7eb019858d
+E! Entertainment,http://47.240.60.73/xaors/mlxy.php?channel=478ee02eaacbc2e27b4718e55c2a5375
+Outdoor,http://47.240.60.73/xaors/mlxy.php?channel=ef35a257993110b8c1b2ae722d833355
+MTV,http://47.240.60.73/xaors/mlxy.php?channel=15a57aae7703ea23bd01b3a8ad0e1fc6
+国家地理HD,vjms://58.215.133.161:8500/live/cid=115
+国家地理野生(HD),vjms://58.215.133.161:8500/live/cid=361
+国家地理野生,vjms://58.215.133.161:8500/live/cid=263
+Discovery Asia(HD),vjms://58.215.133.161:8500/live/cid=440
+Discovery Science(HD),vjms://58.215.133.161:8500/live/cid=457
+Animal Planet,vjms://58.215.133.161:8500/live/cid=3
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
+Fashion,vjms://58.215.133.161:8500/live/cid=399
+求索纪录,http://125.210.152.18:9090/live/QSKX_1200.m3u8#http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
