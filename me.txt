@@ -108,6 +108,7 @@ BesTV4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 爱上4K,http://211.137.115.120/gitv_live/G_AISHANG-4K/G_AISHANG-4K.m3u8
 
 港台海外,#genre#
+CNN HD,http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/308936.m3u8
 翡翠台,http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
 J2,http://bbdd.228888888.xyz:8081/hls/ch102.m3u8
 J5,http://bbdd.228888888.xyz:8081/hls/ch103.m3u8
