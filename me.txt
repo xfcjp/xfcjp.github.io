@@ -158,3 +158,82 @@ HBOHD,http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
 HBOHITS,http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
 HBOignature,http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
 HBOfamlly,http://bbdd.228888888.xyz:8081/hls/ch313.m3u8
+
+测试,#genre#
+台视 HD,http://111.13.111.192/125.227.198.89:8001
+中视 HD,http://111.13.111.192/125.227.198.89:8020
+民视 HD,http://111.13.111.192/125.227.198.89:8015
+台视综合,http://111.13.111.192/125.227.198.89:8004
+民视新闻,http://111.13.111.192/125.227.198.89:8017
+台视新闻 HD,http://111.13.111.192/125.227.198.89:8011
+中视新闻 HD,http://111.13.111.192/125.227.198.89:8021
+公视台语台,http://111.13.111.192/125.227.198.89:8005
+民視台湾台,http://111.13.111.192/125.227.198.89:8023
+中视经典,http://111.13.111.192/125.227.198.89:8007
+中视菁采,http://111.13.111.192/125.227.198.89:8008
+ELTA体育2台,http://111.13.111.192/125.227.198.89:8012
+公视,http://111.13.111.192/125.227.198.89:8014
+公视3,http://111.13.111.192/125.227.198.89:8006
+華視CTS HD,http://111.13.111.192/125.227.198.89:8019
+華視新闻咨询 HD,http://111.13.111.192/125.227.198.89:8013
+華視教育体育文化 HD,http://111.13.111.192/125.227.198.89:8018
+寰宇新闻台湾台,http://111.13.111.192/125.227.198.89:8002
+FX,http://111.13.111.192/125.227.198.89:8027
+TITV,http://111.13.111.192/125.227.198.89:8022
+HakkaTV,http://111.13.111.192/125.227.198.89:8016
+民視第一台 HD,http://111.13.111.192/125.227.198.89:8024
+DMAX,https://jviqfbc2.rocketcdn.com/dmax.smil/playlist_sltur.m3u8
+凤凰电影台,https://www.fanmingming.cn/hls/fhdy.m3u8
+凤凰资讯台,http://live.centerch.com/fhzx.m3u8
+凤凰中文台,http://live.centerch.com/fhzw.m3u8
+环球电视台,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8 channelv,https://www.fanmingming.cn/hls/channelv.m3u8
+卫视体育台,https://www.fanmingming.cn/hls/starsports.m3u8
+東森新闻1,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+亞美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+英皇娱乐台,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8
+NHK,,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+TVB 星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX,,ttps://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+HBO 2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
+壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+東森新聞,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+中視综合,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+中视综合,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+八大综合,http://104.250.154.42:8080/ZZ_zhhongtianyazhou.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhhongtianzonghe.m3u8
+信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+世纪综合,http://61.58.60.230:9319/live/49.m3u8
+国会频道,http://61.58.60.230:9319/live/123.m3u8
+靖天欢乐,http://61.58.60.230:9319/live/201.m3u8
+靖天资讯,http://61.58.60.230:9319/live/202.m3u8
+靖天戏剧,http://61.58.60.230:9319/live/203.m3u8
+靖天娱乐,http://61.58.60.230:9319/live/204.m3u8
+靖天国际,http://61.58.60.230:9319/live/205.m3u8
+靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
+靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+靖天映画,http://61.58.60.230:9319/live/244.m3u8
+CNEX纪实,http://61.58.60.230:9319/live/257.m3u8
