@@ -107,10 +107,17 @@ BesTV4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 爱上4K,http://211.137.115.120/gitv_live/G_AISHANG-4K/G_AISHANG-4K.m3u8
 
 港台海外,#genre#
+凤凰卫视,http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
+澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.flv
 CNN HD,http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/308936.m3u8
-凤凰中文台,http://live.centerch.com/fhzw.m3u8
-凤凰资讯台,http://live.centerch.com/fhzx.m3u8
-凤凰电影台,https://www.fanmingming.cn/hls/fhdy.m3u8
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+BBC,vjms://58.215.133.184:8500:3502/live/cid=418
+CNN,vjms://58.215.133.184:8500:3502/live/cid=428
+CNBC,vjms://58.215.133.184:8500:3502/live/cid=98
+NHK World,vjms://58.215.133.184:8500:3502/live/cid=309
+AXN,vjms://58.215.133.184:8500:3502/live/cid=2
 HBO温馨电影,vjms://58.215.133.184:8500:3502/live/cid=181
 HBO亚洲电影HD,vjms://58.215.133.184:8500:3502/live/cid=261
 HBO原创电影,vjms://58.215.133.184:8500:3502/live/cid=436
@@ -197,7 +204,9 @@ KBS world,vjms://58.215.133.184:8500:3502/live/cid=216
 Music Japan,vjms://58.215.133.184:8500:3502/live/cid=495
 日本映画,vjms://58.215.133.184:8500:3502/live/cid=213
 日本迪士尼,vjms://58.215.133.184:8500:3502/live/cid=499
-
+凤凰中文台,http://live.centerch.com/fhzw.m3u8
+凤凰资讯台,http://live.centerch.com/fhzx.m3u8
+凤凰电影台,https://www.fanmingming.cn/hls/fhdy.m3u8
 卫视体育台,https://www.fanmingming.cn/hls/starsports.m3u8
 channelv,https://www.fanmingming.cn/hls/channelv.m3u8
 环球电视台,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8 
