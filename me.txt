@@ -40,6 +40,8 @@ CCTV-1综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-4中文国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-4欧洲,http://zzq12345.gearhostpreview.com/11/migu2.php?id=608807419
+CCTV-4美洲,http://zzq12345.gearhostpreview.com/11/migu2.php?id=608807416
 CCTV-5体育,http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 CCTV-5+体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
@@ -315,4 +317,16 @@ CCTV-1 綜合,P2p://198.255.74.56:19906/5dcf8392000af976057edc7bb248b791.ts
 浙江衛視,P2p://198.255.74.56:19906/5dcf83ad00016f6a057f43823a0bc4ed.ts
 湖南衛視,P2p://198.255.74.56:19906/5dcf839f000ef099057f104714f8b569.ts
 東方衛視,P2p://198.255.74.56:19906/5dcf83fa000bc820058072f0ad252daa.ts
- 
+玩家頻道,http://58.99.33.2:1935/liveedge2/QchWpceS_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+Happy 頻道,http://58.99.33.2:1935/liveedge2/QchWpceS_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+HOT 頻道,http://58.99.33.2:1935/liveedge2/QchWpceS_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視1台HD,http://58.99.33.2:1935/liveedge2/QchWpceS_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視2台,http://58.99.33.2:1935/liveedge2/QchWpceS_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視3台,http://58.99.33.2:1935/liveedge2/QchWpceS_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視4台,http://58.99.33.2:1935/liveedge2/QchWpceS_404_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+彩虹,http://58.99.33.2:1935/liveedge2/QchWpceS_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+叮噹CR電視台,http://58.99.33.2:1935/liveedge2/QchWpceS_409_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+樂活頻道,http://58.99.33.2:1935/liveedge2/QchWpceS_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+潘朵拉玩美台HD,http://58.99.33.2:1935/liveedge2/QchWpceS_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/QchWpceS_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+驚艷CR電視台,http://58.99.33.2:1935/liveedge2/QchWpceS_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
