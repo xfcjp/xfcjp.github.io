@@ -90,6 +90,7 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 黑莓电影HD,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 舌尖上的中国,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 李子柒的直播,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+办公室小野,http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
 猫和老鼠,http://jcloudcdnct.inter.iqiyi.com/tslive/c19_lb_maohelaoshu_720p_t10/c19_lb_maohelaoshu_720p_t10.m3u8
 熊猫频道,http://211.137.115.120/gitv_live/G_XIONGMAO/G_XIONGMAO.m3u8
 金鹰纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu#http://ivi6.bupt.edu.cn/hls/gedocu.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8
