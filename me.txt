@@ -113,6 +113,7 @@ BesTV4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
 澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.flv
+亚视ATV,http://mrw.so/5sm9Ps?DSJTV/ATV/1080p.m3u8
 CNN HD,http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/308936.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 BBC,vjms://58.215.133.184:8500:3502/live/cid=418
@@ -206,6 +207,12 @@ KBS world,vjms://58.215.133.184:8500:3502/live/cid=216
 Music Japan,vjms://58.215.133.184:8500:3502/live/cid=495
 日本映画,vjms://58.215.133.184:8500:3502/live/cid=213
 日本迪士尼,vjms://58.215.133.184:8500:3502/live/cid=499
+J2,http://app.iptv.xdw.one/xg/xgxg.php?id=12&xl=2
+J2,https://pl0-hls.live.huajiao.com/live_huajiao_v2/3c737b5e1efb1d023101be3fa83dfedf/playlist.m3u8
+J2,http://158381886.xyz/ixgt.php?vid=iptv303&tid=gt&id=12
+J2,http://rtmp2.danghongyun.com/live/ffj266dsfsds.flv
+J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 凤凰中文台,http://live.centerch.com/fhzw.m3u8
 凤凰资讯台,http://live.centerch.com/fhzx.m3u8
 凤凰电影台,https://www.fanmingming.cn/hls/fhdy.m3u8
@@ -273,6 +280,18 @@ HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 香蕉台,P2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
 潘多拉粉红,P2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
 潘多拉完美,P2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+俄OLALA,http://185.184.233.174:5000/udp/225.1.2.98:1234
+俄菊花台,http://185.184.233.174:5000/udp/225.1.2.175:1234
+俄罗斯成人1台,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+俄罗斯成人6台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人7台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人8台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人9台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+俄罗斯成人10台,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 
 测试,#genre#
 翡翠台-1,P2p://190.2.146.92:18912/5d1220350000ba2724a028c23cd1f63f.ts
