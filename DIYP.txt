@@ -50,8 +50,11 @@ CCTV-17农业农村,http://39.135.34.150:8080/000000001000/1000000005000056836/1
 黑龙江卫视,http://39.135.34.150:8080/000000001000/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8467838254824392379&owchid=ystenlive&owsid=1106497909461358444&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5eLzTptYlaHwBbi5jFcfGGajSKACYh%2bxMIkH12jcM41WvzLTRYworzrZ3FKkyeJf%2fWTgBHYgXtjL76Tybav9u%2b
 
 香港,#genre#
+凤凰中文,http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 凤凰中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰资讯,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 凤凰资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰香港,http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -117,6 +120,10 @@ HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
 
 海外,#genre#
+BBC,http://220.158.149.26:8182/hls/TV00000000000000000112@HHZT.m3u8
+国家地理,http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
+Qtv,http://220.158.149.26:8182/hls/TV00000000000000000122@HHZT.m3u8
+柬埔寨TV,http://220.158.149.26:8182/hls/TV00000000000000000123@HHZT.m3u8
 法国24台英语,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
