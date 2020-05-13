@@ -1205,3 +1205,72 @@ E体育2,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/luxetv
 博斯运动1,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/bosisport2_twn/playlist.m3u8
 博斯网球,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/bosisport_twn/playlist.m3u8
 博斯无限,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/bositennis_twn/playlist.m3u8
+
+测试三,#genre#
+CNN國際新聞,http://58.99.33.2:1935/liveedge2/maYbEAAz_6_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+BBC World News,http://58.99.33.2:1935/liveedge2/maYbEAAz_207_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+BBC Earth HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_133_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+BBC Entertainment Channel,http://58.99.33.2:1935/liveedge2/maYbEAAz_134_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+BBC life style,http://58.99.33.2:1935/liveedge2/maYbEAAz_135_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+壹新聞,http://58.99.33.2:1935/liveedge2/maYbEAAz_49_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+年代新聞台,http://58.99.33.2:1935/liveedge2/maYbEAAz_50_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+東森新聞台,http://58.99.33.2:1935/liveedge2/maYbEAAz_51_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+中天新聞台,http://58.99.33.2:1935/liveedge2/maYbEAAz_52_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+民視新聞台,http://58.99.33.2:1935/liveedge2/maYbEAAz_53_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+三立新聞台,http://58.99.33.2:1935/liveedge2/maYbEAAz_54_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+TVBS新聞台,http://58.99.33.2:1935/liveedge2/maYbEAAz_55_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+TVBS,http://58.99.33.2:1935/liveedge2/maYbEAAz_56_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+非凡新聞台HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_58_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+華視新聞資訊,http://58.99.33.2:1935/liveedge2/maYbEAAz_108_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+台視新聞,http://58.99.33.2:1935/liveedge2/maYbEAAz_121_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+亞洲新聞台,http://58.99.33.2:1935/liveedge2/maYbEAAz_205_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+CCTV中文國際,http://58.99.33.2:1935/liveedge2/maYbEAAz_903_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+CCTV英語新聞,http://58.99.33.2:1935/liveedge2/maYbEAAz_906_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+中國電影,http://58.99.33.2:1935/liveedge2/maYbEAAz_902_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+HBO,http://58.99.33.2:1935/liveedge2/maYbEAAz_65_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+HBO HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_220_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+HBO 原創鉅獻,http://58.99.33.2:1935/liveedge2/maYbEAAz_221_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+HBO 溫馨家庭,http://58.99.33.2:1935/liveedge2/maYbEAAz_222_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+HBO 強檔鉅獻,http://58.99.33.2:1935/liveedge2/maYbEAAz_223_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+FOX HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_116_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+FOX家庭電影,http://58.99.33.2:1935/liveedge2/maYbEAAz_115_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+衛視電影台,http://58.99.33.2:1935/liveedge2/maYbEAAz_61_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+東森電影台,http://58.99.33.2:1935/liveedge2/maYbEAAz_62_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+東森洋片台,http://58.99.33.2:1935/liveedge2/maYbEAAz_66_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+緯來電影台,http://58.99.33.2:1935/liveedge2/maYbEAAz_63_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+好萊塢電影,http://58.99.33.2:1935/liveedge2/maYbEAAz_68_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+衛視西片台,http://58.99.33.2:1935/liveedge2/maYbEAAz_69_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+CINEMAX電影,http://58.99.33.2:1935/liveedge2/maYbEAAz_71_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+TVN,http://58.99.33.2:1935/liveedge2/maYbEAAz_117_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+Warner TV,http://58.99.33.2:1935/liveedge2/maYbEAAz_137_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+DMAX,http://58.99.33.2:1935/liveedge2/maYbEAAz_202_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+CCTV9 紀錄,http://58.99.33.2:1935/liveedge2/maYbEAAz_914_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+动物星球,http://58.99.33.2:1935/liveedge2/maYbEAAz_12_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+動物星球,http://58.99.33.2:1935/liveedge2/maYbEAAz_12_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+國家地理頻道,http://58.99.33.2:1935/liveedge2/maYbEAAz_18_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+國家地理HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_113_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+國家地理野生HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_114_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+國家地理音樂,http://58.99.33.2:1935/liveedge2/maYbEAAz_210_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+探索頻道,http://58.99.33.2:1935/liveedge2/maYbEAAz_19_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+探索世界HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_129_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+探索科學,http://58.99.33.2:1935/liveedge2/maYbEAAz_130_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+探索DMAX,http://58.99.33.2:1935/liveedge2/maYbEAAz_131_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+探索eve,http://58.99.33.2:1935/liveedge2/maYbEAAz_132_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+TLC 旅遊生活,http://58.99.33.2:1935/liveedge2/maYbEAAz_21_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+居家生活電視台,http://58.99.33.2:1935/liveedge2/maYbEAAz_136_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+台灣藝術台,http://58.99.33.2:1935/liveedge2/maYbEAAz_90_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+MTV,http://58.99.33.2:1935/liveedge2/maYbEAAz_100_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+FOX,http://58.99.33.2:1935/liveedge2/maYbEAAz_101_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+玩家頻道,http://58.99.33.2:1935/liveedge2/maYbEAAz_401_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+Happy 頻道,http://58.99.33.2:1935/liveedge2/maYbEAAz_402_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+HOT 頻道,http://58.99.33.2:1935/liveedge2/maYbEAAz_403_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+松視4台,http://58.99.33.2:1935/liveedge2/maYbEAAz_404_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+松視1台HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_405_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+松視2台,http://58.99.33.2:1935/liveedge2/maYbEAAz_406_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+松視3台,http://58.99.33.2:1935/liveedge2/maYbEAAz_407_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+彩虹,http://58.99.33.2:1935/liveedge2/maYbEAAz_408_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+叮噹CR電視台,http://58.99.33.2:1935/liveedge2/maYbEAAz_409_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+樂活頻道,http://58.99.33.2:1935/liveedge2/maYbEAAz_410_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+潘朵拉玩美台HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_411_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/maYbEAAz_412_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
+驚艷CR電視台,http://58.99.33.2:1935/liveedge2/maYbEAAz_413_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf?&cust_type=NEW&aa=59420&as=000000&dr=123&mmmm=
