@@ -1,8 +1,8 @@
 $c_start新闻$c_end
-BBC,vjms://58.215.133.161:8500/live/cid=418
-CNN,vjms://58.215.133.161:8500/live/cid=428
-NHK World,vjms://58.215.133.161:8500/live/cid=309
-CNBC,vjms://58.215.133.161:8500/live/cid=98
+BBC,vjms://58.215.133.154:8500/live/cid=418
+CNN,vjms://58.215.133.154:8500/live/cid=428
+NHK World,vjms://58.215.133.154:8500/live/cid=309
+CNBC,vjms://58.215.133.154:8500/live/cid=98
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
@@ -22,26 +22,26 @@ $c_start电影$c_end
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-AXN,vjms://58.215.133.161:8500/live/cid=2
-HBO HD,vjms://58.215.133.161:8500/live/cid=261
-HBO原创巨献,vjms://58.215.133.161:8500/live/cid=436
-HBO强档巨献,vjms://58.215.133.161:8500/live/cid=238
-HBO温馨家庭,vjms://58.215.133.161:8500/live/cid=181
-FOX MOVIES,vjms://58.215.133.161:8500/live/cid=94
-日本洋片,vjms://58.215.133.161:8500/live/cid=209
+AXN,vjms://58.215.133.154:8500/live/cid=2
+HBO HD,vjms://58.215.133.154:8500/live/cid=261
+HBO原创巨献,vjms://58.215.133.154:8500/live/cid=436
+HBO强档巨献,vjms://58.215.133.154:8500/live/cid=238
+HBO温馨家庭,vjms://58.215.133.154:8500/live/cid=181
+FOX MOVIES,vjms://58.215.133.154:8500/live/cid=94
+日本洋片,vjms://58.215.133.154:8500/live/cid=209
 CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC動作電影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 
 $c_start纪实$c_end
-国家地理HD,vjms://58.215.133.161:8500/live/cid=115
-国家地理野生(HD),vjms://58.215.133.161:8500/live/cid=361
-国家地理野生,vjms://58.215.133.161:8500/live/cid=263
-Discovery Asia(HD),vjms://58.215.133.161:8500/live/cid=440
-Discovery Science(HD),vjms://58.215.133.161:8500/live/cid=457
-Animal Planet,vjms://58.215.133.161:8500/live/cid=3
-TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
-Fashion,vjms://58.215.133.161:8500/live/cid=399
+国家地理HD,vjms://58.215.133.154:8500/live/cid=115
+国家地理野生(HD),vjms://58.215.133.154:8500/live/cid=361
+国家地理野生,vjms://58.215.133.154:8500/live/cid=263
+Discovery Asia(HD),vjms://58.215.133.154:8500/live/cid=440
+Discovery Science(HD),vjms://58.215.133.154:8500/live/cid=457
+Animal Planet,vjms://58.215.133.154:8500/live/cid=3
+TLC旅游生活,vjms://58.215.133.154:8500/live/cid=103
+Fashion,vjms://58.215.133.154:8500/live/cid=399
 求索纪录,http://125.210.152.18:9090/live/QSKX_1200.m3u8#http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 
 $c_start测试一$c_end
@@ -444,10 +444,10 @@ KBS1,vjms://58.215.133.154:8500/live/cid=140
 KBS2,vjms://58.215.133.154:8500/live/cid=141
 
 新闻,#genre#
-BBC,vjms://58.215.133.161:8500/live/cid=418
-CNN,vjms://58.215.133.161:8500/live/cid=428
-NHK World,vjms://58.215.133.161:8500/live/cid=309
-CNBC,vjms://58.215.133.161:8500/live/cid=98
+BBC,vjms://58.215.133.154:8500/live/cid=418
+CNN,vjms://58.215.133.154:8500/live/cid=428
+NHK World,vjms://58.215.133.154:8500/live/cid=309
+CNBC,vjms://58.215.133.154:8500/live/cid=98
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
@@ -467,26 +467,26 @@ CNBC,vjms://58.215.133.161:8500/live/cid=98
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-AXN,vjms://58.215.133.161:8500/live/cid=2
-HBO HD,vjms://58.215.133.161:8500/live/cid=261
-HBO原创巨献,vjms://58.215.133.161:8500/live/cid=436
-HBO强档巨献,vjms://58.215.133.161:8500/live/cid=238
-HBO温馨家庭,vjms://58.215.133.161:8500/live/cid=181
-FOX MOVIES,vjms://58.215.133.161:8500/live/cid=94
-日本洋片,vjms://58.215.133.161:8500/live/cid=209
+AXN,vjms://58.215.133.154:8500/live/cid=2
+HBO HD,vjms://58.215.133.154:8500/live/cid=261
+HBO原创巨献,vjms://58.215.133.154:8500/live/cid=436
+HBO强档巨献,vjms://58.215.133.154:8500/live/cid=238
+HBO温馨家庭,vjms://58.215.133.154:8500/live/cid=181
+FOX MOVIES,vjms://58.215.133.154:8500/live/cid=94
+日本洋片,vjms://58.215.133.154:8500/live/cid=209
 CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC動作電影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 
 纪实,#genre#
-国家地理HD,vjms://58.215.133.161:8500/live/cid=115
-国家地理野生(HD),vjms://58.215.133.161:8500/live/cid=361
-国家地理野生,vjms://58.215.133.161:8500/live/cid=263
-Discovery Asia(HD),vjms://58.215.133.161:8500/live/cid=440
-Discovery Science(HD),vjms://58.215.133.161:8500/live/cid=457
-Animal Planet,vjms://58.215.133.161:8500/live/cid=3
-TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
-Fashion,vjms://58.215.133.161:8500/live/cid=399
+国家地理HD,vjms://58.215.133.154:8500/live/cid=115
+国家地理野生(HD),vjms://58.215.133.154:8500/live/cid=361
+国家地理野生,vjms://58.215.133.154:8500/live/cid=263
+Discovery Asia(HD),vjms://58.215.133.154:8500/live/cid=440
+Discovery Science(HD),vjms://58.215.133.154:8500/live/cid=457
+Animal Planet,vjms://58.215.133.154:8500/live/cid=3
+TLC旅游生活,vjms://58.215.133.154:8500/live/cid=103
+Fashion,vjms://58.215.133.154:8500/live/cid=399
 求索纪录,http://125.210.152.18:9090/live/QSKX_1200.m3u8#http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 
 测试一,#genre#
