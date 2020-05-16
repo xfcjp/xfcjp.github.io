@@ -4,6 +4,13 @@ CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
 CNBC,vjms://58.215.133.154:8500/live/cid=98
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
+北京文艺HD,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京科教 ,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+北京青年 ,http://ivi.bupt.edu.cn/hls/btv8.m3u8
+北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
+怀柔电视台,http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 湖南经视,http://zzq12345.gearhostpreview.com/11/hunan.php?id=280
@@ -19,6 +26,12 @@ CNBC,vjms://58.215.133.154:8500/live/cid=98
 湖南金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+长沙公交移动,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
+长沙购物,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+长沙经贸,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙女性,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+长沙新闻,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 
 $c_start电影$c_end
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
@@ -34,6 +47,9 @@ FOX MOVIES,vjms://58.215.133.154:8500/live/cid=94
 CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC動作電影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+CHC高清电影,http://sd6668.top/dl/gz168.php?id=chcgqdy
+CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
+CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 $c_start纪实$c_end
 国家地理HD,vjms://58.215.133.154:8500/live/cid=115
@@ -228,6 +244,31 @@ GOOD TV ,P2p://fccseuro.pvbox.live:18912/5bdbf39200017a4b8c4028d31c8a7f76.ts
 TVN,P2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c041207bc3c0f8388.ts
 
 $c_start测试二$c_end
+CHC高清电影,http://sd6668.top/dl/gz168.php?id=chcgqdy
+CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
+CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
+CBN每日影院,http://sd6668.top/dl/gz168.php?id=cbnmryy
+CBN风尚生活,http://sd6668.top/dl/gz168.php?id=cbnfssh
+CBN幸福剧场,http://sd6668.top/dl/gz168.php?id=cbnxfjc
+CBN幸福娱乐,http://sd6668.top/dl/gz168.php?id=cbnxfyl
+DOX映画HD,http://sd6668.top/dl/gz168.php?id=doxyhhd
+DOX剧场HD,http://sd6668.top/dl/gz168.php?id=doxjchd
+DOX新知HD,http://sd6668.top/dl/gz168.php?id=doxxzhd
+DOX新艺HD,http://sd6668.top/dl/gz168.php?id=doxxyhd
+DOX院线HD,http://sd6668.top/dl/gz168.php?id=doxyxhd
+DOX雅趣HD,http://sd6668.top/dl/gz168.php?id=doxyqhd
+DOX怡家HD,http://sd6668.top/dl/gz168.php?id=doxyjhd
+DOX英伦HD,http://sd6668.top/dl/gz168.php?id=doxylhd
+MTV,http://sd6668.top/dl/gz168.php?id=mtv
+BBC,http://sd6668.top/dl/gz168.php?id=bbc
+Cinemax,http://sd6668.top/dl/gz168.php?id=cinemax
+V,http://sd6668.top/dl/gz168.php?id=v
+AXN,http://sd6668.top/dl/gz168.php?id=axn
+HBO,http://sd6668.top/dl/gz168.php?id=hbo
+国家地理,http://sd6668.top/dl/gz168.php?id=gjdl
+卫视国际电影,http://sd6668.top/dl/gz168.php?id=wsgjdy
+卫视体育,http://sd6668.top/dl/gz168.php?id=wsty
+卫视体育3,http://sd6668.top/dl/gz168.php?id=wsty2
 CCTV-1,vjms://58.215.133.154:8500:3502/live/cid=331
 CCTV-2,vjms://58.215.133.154:8500:3502/live/cid=388
 CCTV-3,vjms://58.215.133.154:8500:3502/live/cid=448
@@ -451,19 +492,34 @@ CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
 CNBC,vjms://58.215.133.154:8500/live/cid=98
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
+北京文艺HD,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京科教 ,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+北京青年 ,http://ivi.bupt.edu.cn/hls/btv8.m3u8
+北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
+怀柔电视台,http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-湖南经视,http://124.232.231.246:6610/000000001001/201600020002/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020002&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-湖南都市,http://124.232.231.246:6610/000000001001/201600020003/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020003&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-湖南国际,http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020001&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-湖南娱乐,http://124.232.231.246:6610/000000001001/201600020004/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020004&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南经视,http://zzq12345.gearhostpreview.com/11/hunan.php?id=280
+湖南都市,http://zzq12345.gearhostpreview.com/11/hunan.php?id=346
+湖南公共,http://zzq12345.gearhostpreview.com/11/hunan.php?id=261
+湖南国际,http://zzq12345.gearhostpreview.com/11/hunan.php?id=229
+湖南娱乐,http://zzq12345.gearhostpreview.com/11/hunan.php?id=344
+湖南教育台,http://pull.hnedutv.com/live/edutv.m3u8
 湖南电影,http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-湖南电视剧,http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020006&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南电视剧,http://zzq12345.gearhostpreview.com/11/hunan.php?id=484
 湖南公共,http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020007&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020008&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+长沙公交移动,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
+长沙购物,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+长沙经贸,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙女性,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+长沙新闻,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 
 电影,#genre#
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
@@ -479,6 +535,9 @@ FOX MOVIES,vjms://58.215.133.154:8500/live/cid=94
 CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC動作電影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+CHC高清电影,http://sd6668.top/dl/gz168.php?id=chcgqdy
+CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
+CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 纪实,#genre#
 国家地理HD,vjms://58.215.133.154:8500/live/cid=115
@@ -673,6 +732,31 @@ GOOD TV ,P2p://fccseuro.pvbox.live:18912/5bdbf39200017a4b8c4028d31c8a7f76.ts
 TVN,P2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c041207bc3c0f8388.ts
 
 测试二,#genre#
+CHC高清电影,http://sd6668.top/dl/gz168.php?id=chcgqdy
+CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
+CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
+CBN每日影院,http://sd6668.top/dl/gz168.php?id=cbnmryy
+CBN风尚生活,http://sd6668.top/dl/gz168.php?id=cbnfssh
+CBN幸福剧场,http://sd6668.top/dl/gz168.php?id=cbnxfjc
+CBN幸福娱乐,http://sd6668.top/dl/gz168.php?id=cbnxfyl
+DOX映画HD,http://sd6668.top/dl/gz168.php?id=doxyhhd
+DOX剧场HD,http://sd6668.top/dl/gz168.php?id=doxjchd
+DOX新知HD,http://sd6668.top/dl/gz168.php?id=doxxzhd
+DOX新艺HD,http://sd6668.top/dl/gz168.php?id=doxxyhd
+DOX院线HD,http://sd6668.top/dl/gz168.php?id=doxyxhd
+DOX雅趣HD,http://sd6668.top/dl/gz168.php?id=doxyqhd
+DOX怡家HD,http://sd6668.top/dl/gz168.php?id=doxyjhd
+DOX英伦HD,http://sd6668.top/dl/gz168.php?id=doxylhd
+MTV,http://sd6668.top/dl/gz168.php?id=mtv
+BBC,http://sd6668.top/dl/gz168.php?id=bbc
+Cinemax,http://sd6668.top/dl/gz168.php?id=cinemax
+V,http://sd6668.top/dl/gz168.php?id=v
+AXN,http://sd6668.top/dl/gz168.php?id=axn
+HBO,http://sd6668.top/dl/gz168.php?id=hbo
+国家地理,http://sd6668.top/dl/gz168.php?id=gjdl
+卫视国际电影,http://sd6668.top/dl/gz168.php?id=wsgjdy
+卫视体育,http://sd6668.top/dl/gz168.php?id=wsty
+卫视体育3,http://sd6668.top/dl/gz168.php?id=wsty2
 CCTV-1,vjms://58.215.133.154:8500:3502/live/cid=331
 CCTV-2,vjms://58.215.133.154:8500:3502/live/cid=388
 CCTV-3,vjms://58.215.133.154:8500:3502/live/cid=448
