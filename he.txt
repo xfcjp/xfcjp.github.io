@@ -244,6 +244,16 @@ GOOD TV ,P2p://fccseuro.pvbox.live:18912/5bdbf39200017a4b8c4028d31c8a7f76.ts
 TVN,P2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c041207bc3c0f8388.ts
 
 $c_start测试二$c_end
+凤凰中文1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zwhd
+凤凰资讯1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zxhd
+凤凰香港1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
+凤凰中文720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zw
+凤凰资讯720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zx
+凤凰香港720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hk
+无线新闻,http://zzq12345.gearhostpreview.com/11/tvb.php?=inews?is_hd
+无线财经,http://zzq12345.gearhostpreview.com/11/tvb.php?=j5_ch85?is_hd
+rthktv31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+rthktv32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 CHC高清电影,http://sd6668.top/dl/gz168.php?id=chcgqdy
 CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
@@ -732,6 +742,16 @@ GOOD TV ,P2p://fccseuro.pvbox.live:18912/5bdbf39200017a4b8c4028d31c8a7f76.ts
 TVN,P2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c041207bc3c0f8388.ts
 
 测试二,#genre#
+凤凰中文1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zwhd
+凤凰资讯1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zxhd
+凤凰香港1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
+凤凰中文720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zw
+凤凰资讯720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zx
+凤凰香港720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hk
+无线新闻,http://zzq12345.gearhostpreview.com/11/tvb.php?=inews?is_hd
+无线财经,http://zzq12345.gearhostpreview.com/11/tvb.php?=j5_ch85?is_hd
+rthktv31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+rthktv32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 CHC高清电影,http://sd6668.top/dl/gz168.php?id=chcgqdy
 CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
