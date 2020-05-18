@@ -33,7 +33,7 @@ CNBC,vjms://58.215.133.154:8500/live/cid=98
 长沙新闻,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 
-$c_start电影$c_end
+$c_start电影$c_end 密码：123456
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
