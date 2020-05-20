@@ -468,62 +468,110 @@ Star Movies,http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7
 佛衛慈悲台,http://198.16.106.58:8278/setantarugby_twn/playlist.m3u8?tid=mb2a8b35f6fe0&ct=18335&tsum=68d8b22783b88e3816f7bb36255b886b
 
 测试二,#genre#
-凤凰卫视中文台,http://itv.abazhou.cn/ifeng.php?id=1
-凤凰卫视资讯台,http://itv.abazhou.cn/ifeng.php?id=2
-凤凰卫视香港台,http://itv.abazhou.cn/ifeng.php?id=3
-无线新闻台,http://111.229.84.232/yulin/tvb.php?id=inews?is_hd
-无线财经台,http://111.229.84.232/yulin/tvb.php?id=j5_ch85?is_hd
-纬来电影,http://bbdd.228888888.xyz:8081/hls/ch302.m3u8
-东森洋片,http://bbdd.228888888.xyz:8081/hls/ch303.m3u8
-卫视洋片,http://bbdd.228888888.xyz:8081/hls/ch307.m3u8
-卫视电影,http://bbdd.228888888.xyz:8081/hls/ch304.m3u8
-星卫电影,http://bbdd.228888888.xyz:8081/hls/ch305.m3u8
-美亚电影,http://bbdd.228888888.xyz:8081/hls/ch306.m3u8
-八大综合,http://bbdd.228888888.xyz:8081/hls/ch206.m3u8
-八大第一,http://bbdd.228888888.xyz:8081/hls/ch207.m3u8
-八大戏剧,http://bbdd.228888888.xyz:8081/hls/ch208.m3u8
-凤凰电影,http://bbdd.228888888.xyz:8081/hls/ch110.m3u8
-thrill,http://bbdd.228888888.xyz:8081/hls/ch112.m3u8
-卫视国际电影,http://bbdd.228888888.xyz:8081/hls/ch111.m3u8
-龙翔电影,http://bbdd.228888888.xyz:8081/hls/ch301.m3u8
-东森电影,http://bbdd.228888888.xyz:8081/hls/ch308.m3u8
-龙华洋片,http://bbdd.228888888.xyz:8081/hls/ch309.m3u8
-HBOHD,http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
-HBOHITS,http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
-HBO ignat,http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
-HBOfamlly,http://bbdd.228888888.xyz:8081/hls/ch313.m3u8
-中视,http://bbdd.228888888.xyz:8081/hls/ch202.m3u8
-华视,http://bbdd.228888888.xyz:8081/hls/ch203.m3u8
-民视,http://bbdd.228888888.xyz:8081/hls/ch204.m3u8
-台视,http://bbdd.228888888.xyz:8081/hls/ch205.m3u8
-寰宇新闻,http://bbdd.228888888.xyz:8081/hls/ch211.m3u8
-东森新闻,http://bbdd.228888888.xyz:8081/hls/ch217.m3u8
-国家地理,http://bbdd.228888888.xyz:8081/hls/ch316.m3u8
-VIUTV,http://bbdd.228888888.xyz:8081/hls/ch115.m3u8
-VIUTV6,http://bbdd.228888888.xyz:8081/hls/ch116.m3u8
-有线财经,http://bbdd.228888888.xyz:8081/hls/ch117.m3u8
-有线娱乐,http://bbdd.228888888.xyz:8081/hls/ch118.m3u8
-TVB星河,http://bbdd.228888888.xyz:8081/hls/ch105.m3u8
-星河国语,http://bbdd.228888888.xyz:8081/hls/ch108.m3u8
-东森综合,http://live.zbjh.cc/live/ws131.m3u8
-纬来戏剧,http://live.zbjh.cc/live/ws132.m3u8
-纬来综合,http://live.zbjh.cc/live/ws133.m3u8
-卫视电影,http://live.zbjh.cc/live/ws101.m3u8
-峨眉电影蓝光 , http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-欢笑剧场蓝光 , http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
-北京纪实蓝光 , http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
-纪实频道蓝光 , http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
-极速汽车蓝光 , http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
-动漫秀场蓝光 , http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-黑莓动画蓝光 , http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
-黑莓电竞蓝光 , http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
-黑莓电影蓝光 , http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-蓝光影视11台, http://stream.guihet.com/migu/index.php?id=625542369
-蓝光影视12台, http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-蓝光动画13台, http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
-蓝光动画14台, http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-蓝光动漫15台, http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-蓝光影视16台, http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CINEMAX电影(软解),http://111.13.111.192/211.75.9.37:20020/20023
+CINEMAX电影(软解),http://111.13.111.192/211.75.9.37:20060/20063
+CN卡通(软解),http://111.13.111.192/211.75.9.37:20040/20043
+FOX 体育(软解),http://111.13.111.192/211.75.9.37:20020/20025
+FOX 体育(软解),http://111.13.111.192/211.75.9.37:20060/20065
+FOX电影(软解),http://111.13.111.192/211.75.9.37:20040/20046
+HBO family (软解),http://111.13.111.192/211.75.9.37:20030/20036
+HBO family (软解),http://111.13.111.192/211.75.9.37:20030/20037
+HBO HiTS (软解),http://111.13.111.192/211.75.9.37:20030/20032
+HBO HiTS (软解),http://111.13.111.192/211.75.9.37:20030/20033
+HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20035
+HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20034
+JET综合(软解),http://111.13.111.192/211.75.9.37:20030/20031
+TLC (软解),http://111.13.111.192/211.75.9.37:20000/20001
+TVBS (软解),http://111.13.111.192/211.75.9.37:20010/20016
+TVBS (软解),http://111.13.111.192/211.75.9.37:20060/20068
+TVBS欢乐台(软解),http://111.13.111.192/211.75.9.37:20010/20013
+迪斯尼频道(软解),http://111.13.111.192/211.75.9.37:20040/20044
+东森财经新闻(软解),http://111.13.111.192/211.75.9.37:20010/20017
+东森财经新闻(软解),http://111.13.111.192/211.75.9.37:20050/20057
+东森电影(软解),http://111.13.111.192/211.75.9.37:20050/20051
+东森戏剧(软解),http://111.13.111.192/211.75.9.37:20010/20012
+东森新闻(软解),http://111.13.111.192/211.75.9.37:20000/20005
+东森新闻(软解),http://111.13.111.192/211.75.9.37:20060/20066
+东森洋片(软解),http://111.13.111.192/211.75.9.37:20060/20069
+东森洋片(软解),http://111.13.111.192/211.75.9.37:20010/20018
+AXN(软解),http://111.13.111.192/211.75.9.37:20020/20029
+东森综合(软解),http://111.13.111.192/211.75.9.37:20040/20045
+动物星球(软解),http://111.13.111.192/211.75.9.37:20000/20002
+非凡商业(软解),http://111.13.111.192/211.75.9.37:20050/20052
+非凡新闻(软解),http://111.13.111.192/211.75.9.37:20020/20028
+非凡新闻(软解),http://111.13.111.192/211.75.9.37:20060/20061
+好莱坞电影(软解),http://111.13.111.192/211.75.9.37:20020/20022
+好莱坞电影(软解),http://111.13.111.192/211.75.9.37:20060/20062
+年代新闻(软解),http://111.13.111.192/211.75.9.37:20010/20014
+年代新闻(软解),http://111.13.111.192/211.75.9.37:20050/20055
+三立都会台(软解),http://111.13.111.192/211.75.9.37:20040/20042
+三立都会台(软解),http://111.13.111.192/211.75.9.37:20050/20054
+三立台湾台(软解),http://111.13.111.192/211.75.9.37:20040/20041
+三立台湾台(软解),http://111.13.111.192/211.75.9.37:20050/20053
+三立新闻(软解),http://111.13.111.192/211.75.9.37:20010/20015
+纬来体育(软解),http://111.13.111.192/211.75.9.37:20020/20024
+纬来体育(软解),http://111.13.111.192/211.75.9.37:20060/20064
+纬来戏剧(软解),http://111.13.111.192/211.75.9.37:20040/20047
+纬来育乐(软解),http://111.13.111.192/211.75.9.37:20000/20004
+纬来综合(软解),http://111.13.111.192/211.75.9.37:20000/20003
+纬来电影(软解),http://111.13.111.192/211.75.9.37:20020/20027
+卫视电影台(软解),http://111.13.111.192/211.75.9.37:20020/20026
+卫视中文台(软解),http://111.13.111.192/211.75.9.37:20000/20006
+中天新闻(软解),http://111.13.111.192/211.75.9.37:20010/20011
+中天新闻(软解),http://111.13.111.192/211.75.9.37:20060/20067
+中天综合(软解),http://111.13.111.192/211.75.9.37:20000/20007
+CINEMAX电影 (IJK硬解),http://live.52ypp.com:81/tw.php?id=50
+CINEMAX电影 (IJK硬解),http://live.52ypp.com:81/tw.php?id=51
+CN卡通 (IJK硬解),http://live.52ypp.com:81/tw.php?id=52
+FOX 体育 (IJK硬解),http://live.52ypp.com:81/tw.php?id=53
+FOX 体育 (IJK硬解),http://live.52ypp.com:81/tw.php?id=54
+FOX电影 (IJK硬解),http://live.52ypp.com:81/tw.php?id=55
+HBO family (IJK硬解),http://live.52ypp.com:81/tw.php?id=56
+HBO family (IJK硬解),http://live.52ypp.com:81/tw.php?id=57
+HBO HiTS (IJK硬解),http://live.52ypp.com:81/tw.php?id=58
+HBO HiTS (IJK硬解),http://live.52ypp.com:81/tw.php?id=59
+HBO signature (IJK硬解),http://live.52ypp.com:81/tw.php?id=60
+HBO signature (IJK硬解),http://live.52ypp.com:81/tw.php?id=61
+JET综合 (IJK硬解),http://live.52ypp.com:81/tw.php?id=62
+TLC (IJK硬解),http://live.52ypp.com:81/tw.php?id=63
+TVBS (IJK硬解),http://live.52ypp.com:81/tw.php?id=64
+TVBS (IJK硬解),http://live.52ypp.com:81/tw.php?id=65
+TVBS欢乐台 (IJK硬解),http://live.52ypp.com:81/tw.php?id=66
+迪斯尼频道 (IJK硬解),http://live.52ypp.com:81/tw.php?id=67
+东森财经新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=68
+东森财经新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=69
+东森电影 (IJK硬解),http://live.52ypp.com:81/tw.php?id=70
+东森戏剧 (IJK硬解),http://live.52ypp.com:81/tw.php?id=71
+东森新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=72
+东森新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=73
+东森洋片 (IJK硬解),http://live.52ypp.com:81/tw.php?id=74
+东森洋片 (IJK硬解),http://live.52ypp.com:81/tw.php?id=75
+AXN (IJK硬解),http://live.52ypp.com:81/tw.php?id=76
+东森综合 (IJK硬解),http://live.52ypp.com:81/tw.php?id=77
+动物星球 (IJK硬解),http://live.52ypp.com:81/tw.php?id=78
+非凡商业 (IJK硬解),http://live.52ypp.com:81/tw.php?id=79
+非凡新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=80
+非凡新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=81
+好莱坞电影 (IJK硬解),http://live.52ypp.com:81/tw.php?id=82
+好莱坞电影 (IJK硬解),http://live.52ypp.com:81/tw.php?id=83
+年代新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=84
+年代新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=85
+三立都会台 (IJK硬解),http://live.52ypp.com:81/tw.php?id=86
+三立都会台 (IJK硬解),http://live.52ypp.com:81/tw.php?id=87
+三立台湾台 (IJK硬解),http://live.52ypp.com:81/tw.php?id=88
+三立台湾台 (IJK硬解),http://live.52ypp.com:81/tw.php?id=89
+三立新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=90
+纬来体育 (IJK硬解),http://live.52ypp.com:81/tw.php?id=91
+纬来体育 (IJK硬解),http://live.52ypp.com:81/tw.php?id=92
+纬来戏剧 (IJK硬解),http://live.52ypp.com:81/tw.php?id=93
+纬来育乐 (IJK硬解),http://live.52ypp.com:81/tw.php?id=94
+纬来综合 (IJK硬解),http://live.52ypp.com:81/tw.php?id=95
+纬来电影 (IJK硬解),http://live.52ypp.com:81/tw.php?id=96
+卫视电影台 (IJK硬解),http://live.52ypp.com:81/tw.php?id=97
+卫视中文台 (IJK硬解),http://live.52ypp.com:81/tw.php?id=98
+中天新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=99
+中天新闻 (IJK硬解),http://live.52ypp.com:81/tw.php?id=100
+中天综合 (IJK硬解),http://live.52ypp.com:81/tw.php?id=101
 
 测试三,#genre#
 CCTV-1,p2p://fccseuro.pvbox.live:18912/5b1409f2000cd4f73adaa373de024984.ts
@@ -2449,6 +2497,15 @@ DISNEY-XD(backup),mitv://fccsovh.pvbox.live:18912/5b593af500034b9c2c220e2462507f
 曼迪日本台,mitv://fccsovh.pvbox.live:18912/5b1408f1000aecee964f14b0f74e3a51.ts
 
 测试五,#genre#
+凤凰卫视中文台,http://itv.abazhou.cn/ifeng.php?id=1
+凤凰卫视资讯台,http://itv.abazhou.cn/ifeng.php?id=2
+凤凰卫视香港台,http://itv.abazhou.cn/ifeng.php?id=3
+无线新闻台,http://111.229.84.232/yulin/tvb.php?id=inews?is_hd
+无线财经台,http://111.229.84.232/yulin/tvb.php?id=j5_ch85?is_hd
+东森综合,http://live.zbjh.cc/live/ws131.m3u8
+纬来戏剧,http://live.zbjh.cc/live/ws132.m3u8
+纬来综合,http://live.zbjh.cc/live/ws133.m3u8
+卫视电影,http://live.zbjh.cc/live/ws101.m3u8
 中天新闻,http://ddbb.228888888.xyz:8081/live/tw101.m3u8
 台視新聞,http://ddbb.228888888.xyz:8081/live/tw102.m3u8
 華視新聞,http://ddbb.228888888.xyz:8081/live/tw103.m3u8
