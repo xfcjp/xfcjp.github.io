@@ -43,6 +43,10 @@ HBO原创巨献,vjms://58.215.133.154:8500/live/cid=436
 HBO强档巨献,vjms://58.215.133.154:8500/live/cid=238
 HBO温馨家庭,vjms://58.215.133.154:8500/live/cid=181
 FOX MOVIES,vjms://58.215.133.154:8500/live/cid=94
+FOX-娛樂,http://198.16.106.58:8278/foxhd_twn/playlist.m3u8?tid=ma917ec9fcbb013975253&ct=17874&tsum=4ef6f5cfc8fa293ad3a1d18f2224120a
+FOX-警匪,http://198.16.106.58:8278/foxcrime_twn/playlist.m3u8?tid=mad94f360dbc911979092&ct=17874&tsum=f3660d1b5d22dd9e8bfd9e1c13a653fc
+FOX-動作,http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cba10253148&ct=17874&tsum=0248b8358bbfa7ab78a7dbd2faaf4ad1
+FOX-家庭,http://198.16.106.58:8278/foxfamily_twn/playlist.m3u8?tid=ma0567f6ff31018880325&ct=17874&tsum=2117118a0890ae6db1010482ffd9175f
 日本洋片,vjms://58.215.133.154:8500/live/cid=209
 CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
@@ -53,6 +57,8 @@ CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 $c_start纪实$c_end
 BBC EARTH HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8b6c39b012f035a51b.ts
+BBC Earth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=me1cedf047ba218380955&ct=17874&tsum=bd82352683e07a4a7927a793263b91bf
+BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8?tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
 FOOD-NETWORK,mitv://fccsovh.pvbox.live:18912/5b593b0c000caf354ce3fd73c13365a1.ts
 Food Network BR,mitv://fccsovh.pvbox.live:18912/5bee4fc80000e7f767023615194376b4.ts
 国家地理HD,vjms://58.215.133.154:8500/live/cid=115
