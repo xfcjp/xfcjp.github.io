@@ -66,6 +66,7 @@ Food Network BR,mitv://fccsovh.pvbox.live:18912/5bee4fc80000e7f767023615194376b4
 国家地理野生,vjms://58.215.133.154:8500/live/cid=263
 Discovery Asia(HD),vjms://58.215.133.154:8500/live/cid=440
 Discovery Science(HD),vjms://58.215.133.154:8500/live/cid=457
+日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
 Animal Planet,vjms://58.215.133.154:8500/live/cid=3
 TLC旅游生活,vjms://58.215.133.154:8500/live/cid=103
 Fashion,vjms://58.215.133.154:8500/live/cid=399
@@ -1711,6 +1712,7 @@ Food Network BR,mitv://fccsovh.pvbox.live:18912/5bee4fc80000e7f767023615194376b4
 国家地理野生,vjms://58.215.133.154:8500/live/cid=263
 Discovery Asia(HD),vjms://58.215.133.154:8500/live/cid=440
 Discovery Science(HD),vjms://58.215.133.154:8500/live/cid=457
+日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
 Animal Planet,vjms://58.215.133.154:8500/live/cid=3
 TLC旅游生活,vjms://58.215.133.154:8500/live/cid=103
 Fashion,vjms://58.215.133.154:8500/live/cid=399
@@ -2136,7 +2138,7 @@ YTNHD,mitv://fccsovh.pvbox.live:18912/5b140a0c0006a2000f0a4b7b3b62119d.ts
 EBS1,mitv://fccsovh.pvbox.live:18912/5b140a0b00088a7c2e088b8f12cab4c6.ts
 디즈니채널,mitv://fccsovh.pvbox.live:18912/5b140a0a000a35ea573922d23b08102d.ts
 NGC,mitv://fccsovh.pvbox.live:18912/5b140a0a00088aa1130e541a11985ab8.ts
-﻿TV조선,mitv://fccsovh.pvbox.live:18912/5b140a0a000388abb32d9da04b38ccd7.ts
+TV조선,mitv://fccsovh.pvbox.live:18912/5b140a0a000388abb32d9da04b38ccd7.ts
 nba,mitv://fccsovh.pvbox.live:18912/5b140a0c000be0e7cb47f61dd0941e2e.ts
 JGOLF,mitv://fccsovh.pvbox.live:18912/5b1289d500043f916bf82167cc871897.ts
 INETV,mitv://fccsovh.pvbox.live:18912/5e09d68300052a2eb796b9554f1941c1.ts
