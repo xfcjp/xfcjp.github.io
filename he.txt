@@ -52,6 +52,7 @@ CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 $c_start纪实$c_end
+BBC EARTH HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8b6c39b012f035a51b.ts
 国家地理HD,vjms://58.215.133.154:8500/live/cid=115
 国家地理野生(HD),vjms://58.215.133.154:8500/live/cid=361
 国家地理野生,vjms://58.215.133.154:8500/live/cid=263
@@ -60,6 +61,8 @@ Discovery Science(HD),vjms://58.215.133.154:8500/live/cid=457
 Animal Planet,vjms://58.215.133.154:8500/live/cid=3
 TLC旅游生活,vjms://58.215.133.154:8500/live/cid=103
 Fashion,vjms://58.215.133.154:8500/live/cid=399
+亚洲旅游台 HD,mitv://fccsovh.pvbox.live:18912/5b14091700094183c5f08b34e7a92795.ts
+中華美食,mitv://fccsovh.pvbox.live:18912/5b14092b000126612897cc5f75157a2a.ts
 求索纪录,http://125.210.152.18:9090/live/QSKX_1200.m3u8#http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 
 $c_start蓝光$c_end
