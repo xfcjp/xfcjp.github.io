@@ -1156,6 +1156,7 @@ DISNEY-JR(backup),mitv://fccsovh.pvbox.live:18912/5b593af10003ba9238d8ceea0f0364
 Disney XD,mitv://fccsovh.pvbox.live:18912/5cffd5e200012f5b1b91bd65ca3d8c52.ts
 DISNEY-XD(backup),mitv://fccsovh.pvbox.live:18912/5b593af500034b9c2c220e2462507f1b.ts
 曼迪日本台,mitv://fccsovh.pvbox.live:18912/5b1408f1000aecee964f14b0f74e3a51.ts
+BBC LIFESTYLE HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bd9335b9c23fb84074.ts
 
 $c_start测试二$c_end
 凤凰中文1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zwhd
@@ -1166,8 +1167,6 @@ $c_start测试二$c_end
 凤凰香港720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hk
 无线新闻,http://zzq12345.gearhostpreview.com/11/tvb.php?=inews?is_hd
 无线财经,http://zzq12345.gearhostpreview.com/11/tvb.php?=j5_ch85?is_hd
-rthktv31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-rthktv32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 CHC高清电影,http://sd6668.top/dl/gz168.php?id=chcgqdy
 CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
@@ -1183,17 +1182,8 @@ DOX院线HD,http://sd6668.top/dl/gz168.php?id=doxyxhd
 DOX雅趣HD,http://sd6668.top/dl/gz168.php?id=doxyqhd
 DOX怡家HD,http://sd6668.top/dl/gz168.php?id=doxyjhd
 DOX英伦HD,http://sd6668.top/dl/gz168.php?id=doxylhd
-MTV,http://sd6668.top/dl/gz168.php?id=mtv
-BBC,http://sd6668.top/dl/gz168.php?id=bbc
-Cinemax,http://sd6668.top/dl/gz168.php?id=cinemax
-V,http://sd6668.top/dl/gz168.php?id=v
-AXN,http://sd6668.top/dl/gz168.php?id=axn
-HBO,http://sd6668.top/dl/gz168.php?id=hbo
-国家地理,http://sd6668.top/dl/gz168.php?id=gjdl
-卫视国际电影,http://sd6668.top/dl/gz168.php?id=wsgjdy
-卫视体育,http://sd6668.top/dl/gz168.php?id=wsty
-卫视体育3,http://sd6668.top/dl/gz168.php?id=wsty2
 
+$c_start测试三$c_end
 鳳凰中文,vjms://58.215.133.154:8500/live/cid=400
 TVB明珠臺,vjms://58.215.133.154:8500/live/cid=367
 TVB翡翠臺,vjms://58.215.133.154:8500/live/cid=362
@@ -1223,86 +1213,6 @@ Movie Plus,vjms://58.215.133.154:8500/live/cid=497
 ANIMAX,vjms://58.215.133.154:8500/live/cid=498
 迪士尼,vjms://58.215.133.154:8500/live/cid=499
 日本钓鱼,vjms://58.215.133.154:8500/live/cid=55
-
-$c_start测试三$c_end
-BBC,vjms://58.215.133.154:8500/live/cid=418
-CNN,vjms://58.215.133.154:8500/live/cid=428
-CNBC,vjms://58.215.133.154:8500/live/cid=98
-StarMovies,vjms://58.215.133.154:8500/live/cid=94
-DiscoveryAsia,vjms://58.215.133.154:8500/live/cid=440
-DiscoveryScience,vjms://58.215.133.154:8500/live/cid=457
-日本电视台,vjms://58.215.133.154:8500/live/cid=492
-FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
-Family theather,vjms://58.215.133.154:8500/live/cid=493
-kids,vjms://58.215.133.154:8500/live/cid=494
-J,vjms://58.215.133.154:8500/live/cid=495
-Discovery,vjms://58.215.133.154:8500/live/cid=496
-Movie Plus,vjms://58.215.133.154:8500/live/cid=497
-迪士尼,vjms://58.215.133.154:8500/live/cid=499
-GOLF NTWORK,vjms://58.215.133.154:8500/live/cid=409
-Sports ESPN,vjms://58.215.133.154:8500/live/cid=410
-Sports Plus,vjms://58.215.133.154:8500/live/cid=411
-Green,vjms://58.215.133.154:8500/live/cid=412
-GAORA,vjms://58.215.133.154:8500/live/cid=413
-Sports,vjms://58.215.133.154:8500/live/cid=414
-日本钓鱼,vjms://58.215.133.154:8500/live/cid=55
-日本電視台,vjms://58.215.133.154:8500/live/cid=492
-日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
-日-Family theather,vjms://58.215.133.154:8500/live/cid=493
-日-kids,vjms://58.215.133.154:8500/live/cid=494
-日-J,vjms://58.215.133.154:8500/live/cid=495
-日-Discovery,vjms://58.215.133.154:8500/live/cid=496
-日-Movie Plus,vjms://58.215.133.154:8500/live/cid=497
-日-迪士尼,vjms://58.215.133.154:8500/live/cid=499
-日-GOLF NTWORK,vjms://58.215.133.154:8500/live/cid=409
-日-Sports ESPN,vjms://58.215.133.154:8500/live/cid=410
-日-Sports Plus,vjms://58.215.133.154:8500/live/cid=411
-日-Green,vjms://58.215.133.154:8500/live/cid=412
-日-GAORA,vjms://58.215.133.154:8500/live/cid=413
-日-Sports,vjms://58.215.133.154:8500/live/cid=414
-日-sports1,vjms://58.215.133.154:8500/live/cid=415
-日-Sports 2,vjms://58.215.133.154:8500/live/cid=416
-KBS1,vjms://58.215.133.154:8500/live/cid=140
-KBS2,vjms://58.215.133.154:8500/live/cid=141
-BBC,vjms://58.215.133.154:8500/live/cid=418
-CNN,vjms://58.215.133.154:8500/live/cid=428
-CNBC,vjms://58.215.133.154:8500/live/cid=98
-StarMovies,vjms://58.215.133.154:8500/live/cid=94
-DiscoveryAsia,vjms://58.215.133.154:8500/live/cid=440
-DiscoveryScience,vjms://58.215.133.154:8500/live/cid=457
-日本电视台,vjms://58.215.133.154:8500/live/cid=492
-FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
-Family theather,vjms://58.215.133.154:8500/live/cid=493
-kids,vjms://58.215.133.154:8500/live/cid=494
-J,vjms://58.215.133.154:8500/live/cid=495
-Discovery,vjms://58.215.133.154:8500/live/cid=496
-Movie Plus,vjms://58.215.133.154:8500/live/cid=497
-迪士尼,vjms://58.215.133.154:8500/live/cid=499
-GOLF NTWORK,vjms://58.215.133.154:8500/live/cid=409
-Sports ESPN,vjms://58.215.133.154:8500/live/cid=410
-Sports Plus,vjms://58.215.133.154:8500/live/cid=411
-Green,vjms://58.215.133.154:8500/live/cid=412
-GAORA,vjms://58.215.133.154:8500/live/cid=413
-Sports,vjms://58.215.133.154:8500/live/cid=414
-日本钓鱼,vjms://58.215.133.154:8500/live/cid=55
-日本電視台,vjms://58.215.133.154:8500/live/cid=492
-日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
-日-Family theather,vjms://58.215.133.154:8500/live/cid=493
-日-kids,vjms://58.215.133.154:8500/live/cid=494
-日-J,vjms://58.215.133.154:8500/live/cid=495
-日-Discovery,vjms://58.215.133.154:8500/live/cid=496
-日-Movie Plus,vjms://58.215.133.154:8500/live/cid=497
-日-迪士尼,vjms://58.215.133.154:8500/live/cid=499
-日-GOLF NTWORK,vjms://58.215.133.154:8500/live/cid=409
-日-Sports ESPN,vjms://58.215.133.154:8500/live/cid=410
-日-Sports Plus,vjms://58.215.133.154:8500/live/cid=411
-日-Green,vjms://58.215.133.154:8500/live/cid=412
-日-GAORA,vjms://58.215.133.154:8500/live/cid=413
-日-Sports,vjms://58.215.133.154:8500/live/cid=414
-日-sports1,vjms://58.215.133.154:8500/live/cid=415
-日-Sports 2,vjms://58.215.133.154:8500/live/cid=416
-KBS1,vjms://58.215.133.154:8500/live/cid=140
-KBS2,vjms://58.215.133.154:8500/live/cid=141
 
 $c_start测试四$c_end
 中視經典台,http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
