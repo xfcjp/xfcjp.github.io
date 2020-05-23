@@ -36,6 +36,7 @@ CGTN纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://ivi.bupt.edu.cn/hls
 浙江卫视,http://ivi6.bupt.edu.cn/hls/zjhd.m3u8#http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 
 虎牙美食,#genre#
+李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 大胃王,http://aldirect.rtmp.huya.com/backsrc/1099531728506-1099531728506-86331977975726080-2199063580468-10057-A-0-1.m3u8
 山药视频,http://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1.m3u8
 蜜子君,http://aldirect.rtmp.huya.com/backsrc/1199530538005-1199530538005-5302834719795183616-2399061199466-10057-A-0-1.m3u8
