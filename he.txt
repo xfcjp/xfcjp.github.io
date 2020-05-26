@@ -304,6 +304,7 @@ TVBSHD,http://ddbb.228888888.xyz:8081/live/tw108.m3u8
 EYETV戏剧,http://live.zbhzi.xyz:8082/live/ws139.m3u8
 爱尔达影剧,http://live.zbhzi.xyz:8082/live/ws140.m3u8
 美食星球,http://live.zbhzi.xyz:8082/live/ws141.m3u8
+动物星球,http://live.zbhzi.xyz:8082/live/ws151.m3u8
 CNN,http://ltv1.228888888.xyz:8081/hls/ch315.m3u8
 TVB翡翠,http://ltv1.228888888.xyz:8081/hls/ch101.m3u8
 J2,http://ltv1.228888888.xyz:8081/hls/ch102.m3u8
@@ -1591,6 +1592,7 @@ NewTV潮妈辣婆,http://39.135.34.150:8080/000000001000/6516734029835465177/1.m
 NewTV炫舞未来,http://39.135.34.150:8080/000000001000/1000000001000000515/1.m3u8?I
 
 港台,#genre#
+
 TVB翡翠台,http://iptv.zbhzi.xyz:8082/hls/ch101.m3u8
 TVBJ2台,http://iptv.zbhzi.xyz:8082/hls/ch102.m3u8
 TVB无线财经资讯台,http://iptv.zbhzi.xyz:8082/hls/ch103.m3u8
@@ -1671,6 +1673,28 @@ TVBSHD,http://ddbb.228888888.xyz:8081/live/tw108.m3u8
 EYETV戏剧,http://live.zbhzi.xyz:8082/live/ws139.m3u8
 爱尔达影剧,http://live.zbhzi.xyz:8082/live/ws140.m3u8
 美食星球,http://live.zbhzi.xyz:8082/live/ws141.m3u8
+动物星球,http://live.zbhzi.xyz:8082/live/ws151.m3u8
+台视新闻台,http://ddbb.228888888.xyz:8081/live/tw102.m3u8
+中天新闻台,http://ddbb.228888888.xyz:8081/live/tw101.m3u8
+华视新闻台,http://ddbb.228888888.xyz:8081/live/tw103.m3u8
+TVB新闻台,http://ddbb.228888888.xyz:8081/live/tw104.m3u8
+民视新闻台,http://ddbb.228888888.xyz:8081/live/tw105.m3u8
+中视新闻台,http://ddbb.228888888.xyz:8081/live/tw107.m3u8
+环宇新闻台,http://ddbb.228888888.xyz:8081/live/tw114.m3u8
+非凡新闻台,http://ddbb.228888888.xyz:8081/live/tw110.m3u8
+年代新闻台,http://ddbb.228888888.xyz:8081/live/tw116.m3u8
+壹新闻台,http://ddbb.228888888.xyz:8081/live/tw115.m3u8
+东森新闻台,http://ddbb.228888888.xyz:8081/live/tw106.m3u8
+东森亚洲新闻,http://ddbb.228888888.xyz:8081/live/tw112.m3u8
+东森财经新闻,http://ddbb.228888888.xyz:8081/live/tw111.m3u8
+三立新闻台,http://ddbb.228888888.xyz:8081/live/tw117.m3u8
+三立财经新闻,http://ddbb.228888888.xyz:8081/live/tw109.m3u8
+国家地理,http://iptv.zbhzi.xyz:8082/hls/ch316.m3u8
+国家地理野生,http://live.zbhzi.xyz:8082/live/ws145.m3u8
+国家地理悠人,http://live.zbhzi.xyz:8082/live/ws143.m3u8
+TVBSHD,http://ddbb.228888888.xyz:8081/live/tw108.m3u8
+八大综合台,http://bddb.228888888.xyz/live/ws121.m3u8
+八大第1台,http://bddb.228888888.xyz/live/ws122.m3u8
 TVB翡翠,http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
 J2,http://bbdd.228888888.xyz:8081/hls/ch102.m3u8
 无线财经,http://bbdd.228888888.xyz:8081/hls/ch103.m3u8
