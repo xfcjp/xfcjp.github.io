@@ -63,6 +63,11 @@ FOX-警匪,http://198.16.106.58:8278/foxcrime_twn/playlist.m3u8?tid=mad94f360dbc
 FOX-動作,http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cba10253148&ct=17874&tsum=0248b8358bbfa7ab78a7dbd2faaf4ad1
 FOX-家庭,http://198.16.106.58:8278/foxfamily_twn/playlist.m3u8?tid=ma0567f6ff31018880325&ct=17874&tsum=2117118a0890ae6db1010482ffd9175f
 日本洋片,vjms://58.215.133.154:8500/live/cid=209
+HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20035
+HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20034
+JET综合(软解),http://111.13.111.192/211.75.9.37:20030/20031
+东森电影(软解),http://111.13.111.192/211.75.9.37:20050/20051
+东森洋片(软解),http://111.13.111.192/211.75.9.37:20010/20018
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://sd6668.top/dl/gz168.php?id=chcgqdy
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://sd6668.top/dl/gz168.php?id=chcdzdy
@@ -346,6 +351,7 @@ CCTV風雲足球,vjms://58.215.133.154:8500/live/cid=88
 北京衛視,vjms://58.215.133.154:8500/live/cid=472
 浙江衛視,vjms://58.215.133.154:8500/live/cid=488
 安徽衛視,vjms://58.215.133.154:8500/live/cid=471
+
 鳳凰中文,vjms://58.215.133.154:8500/live/cid=400
 鳳凰資訊,vjms://58.215.133.154:8500/live/cid=401
 TVB J2,vjms://58.215.133.154:8500/live/cid=368
