@@ -78,6 +78,7 @@ BBC Earth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=me1cedf047ba218
 BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8?tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
 FOOD-NETWORK,mitv://fccsovh.pvbox.live:18912/5b593b0c000caf354ce3fd73c13365a1.ts
 Food Network BR,mitv://fccsovh.pvbox.live:18912/5bee4fc80000e7f767023615194376b4.ts
+日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
 Fashion法国时尚,vjms://58.215.133.189:8500:3502/live/cid=399
 国家地理,vjms://58.215.133.189:8500:3502/live/cid=115
 国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263
