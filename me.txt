@@ -146,6 +146,9 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 求索科学,http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls#http://125.210.152.18:9090/live/QSDW_1200.m3u8
 求索动物,http://125.210.152.18:9090/live/QSSH_1200.m3u8
 求索生活,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+BBC独家,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/50/index.m3u8?ProgramID=&encrypt=#http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/75/index.m3u8?ProgramID=&encrypt=
+探索纪录,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/350/index.m3u8?ProgramID=&encrypt=#http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/1000/index.m3u8?ProgramID=&encrypt=
+Discovery王牌节目展播,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101098146/50/index.m3u8?ProgramID=&encrypt=#http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101098146/75/index.m3u8?ProgramID=&encrypt=
 动物世界,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 华数BBC,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 纪实,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
