@@ -226,6 +226,8 @@ BesTV4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 凤凰资讯,http://49.233.148.32/dl/bk/satv.php?id=193
 翡翠台,mitv://fccseuro.pvbox.live:18912/5dbeb1c60000e0463cdaf50554c93804.ts
 无线新闻,mitv://fccseuro.pvbox.live:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
+HKC电影一台,P2p://fccseuro.pvbox.live:18912/5b140a1600025764e0c01b4269103f01.ts
+TVB星河,P2p://fccseuro.pvbox.live:18912/5d65048c0003e9ae43db80dad0a1af9d.ts
 J2,mitv://fccseuro.pvbox.live:18912/5dbeb1ce0004b0eb3cdb153f4f2c0e31.ts
 明珠,mitv://fccseuro.pvbox.live:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
 无线财经,mitv://fccseuro.pvbox.live:18912/5dbeb1cc000750169fad18d473f0af6e.ts
@@ -418,6 +420,17 @@ Ci罪案侦缉HD,mitv://147.135.39.171:9906/5c6d32bd0002160e3a30c3784abf05c2.ts
 双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
 全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
 小太阳,mitv://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts
+新加坡8频道(国语),http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新加坡CNA频道,https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+新加坡SURIA频道,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+新马亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新马日本朝阳 Suria,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+Suria tv,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+BBC CBESE,http://51.52.156.22:8888/http/003
+CBS News,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+Cheddar Big News,https://live.chdrstatic.com/cbn/index.m3u8
+CNN,https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 
 CIBN,#genre#
 CIBN精品影院,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
