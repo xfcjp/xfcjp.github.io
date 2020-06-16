@@ -236,6 +236,22 @@ BesTV4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 港澳台,#genre#
 凤凰中文,http://49.233.148.32/dl/bk/satv.php?id=192
 凤凰资讯,http://49.233.148.32/dl/bk/satv.php?id=193
+有线18,http://t.cn/A6Lqep9K
+有线新闻,http://t.cn/A6LqDyTR
+开电视,http://t.cn/A6LqDy3B
+Now新闻,http://t.cn/A6LqDygK
+ATV,http://t.cn/A6LqDyFL
+RTHK31,http://t.cn/A6LqDUPD
+RTHK32,http://t.cn/A6LqDUw2
+C+,http://t.cn/A6LqDULv
+NOW直播,http://t.cn/A6LqDU4o
+TVB翡翠,http://t.cn/A6LqD9Yd
+TVB明珠,http://t.cn/A6LqD9RJ
+TVB J2,http://t.cn/A6LqD9uX2
+无线新闻,http://t.cn/A6LqDl8G
+无线财*,http://t.cn/A6LqDj87
+有线财*资讯,http://t.cn/A6LqDYuF
+有线综合娱乐,http://t.cn/A6LqDH7l
 翡翠台,mitv://fccseuro.pvbox.live:18912/5dbeb1c60000e0463cdaf50554c93804.ts
 无线新闻,mitv://fccseuro.pvbox.live:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
 HKC电影一台,P2p://fccseuro.pvbox.live:18912/5b140a1600025764e0c01b4269103f01.ts
