@@ -71,11 +71,11 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 $c_start纪实$c_end
-BBC EARTH HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8b6c39b012f035a51b.ts
-BBC Earth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=me1cedf047ba218380955&ct=17874&tsum=bd82352683e07a4a7927a793263b91bf
-BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8?tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
-FOOD-NETWORK,mitv://fccsovh.pvbox.live:18912/5b593b0c000caf354ce3fd73c13365a1.ts
-Food Network BR,mitv://fccsovh.pvbox.live:18912/5bee4fc80000e7f767023615194376b4.ts
+BBC EARTH HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
+BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
+BBC独家,http://diyp.top/TVOD/mgys.php?id=633138330
+探索纪录,http://diyp.top/TVOD/mgys.php?id=615809560
+Discovery王牌节目展播,http://diyp.top/TVOD/mgys.php?id=637483721
 日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
 Fashion法国时尚,vjms://58.215.133.189:8500:3502/live/cid=399
 国家地理,vjms://58.215.133.189:8500:3502/live/cid=115
@@ -1247,18 +1247,27 @@ CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 纪实,#genre#
-国家地理HD,vjms://58.215.133.154:8500/live/cid=115
-国家地理野生(HD),vjms://58.215.133.154:8500/live/cid=361
-国家地理野生,vjms://58.215.133.154:8500/live/cid=263
-Discovery Asia(HD),vjms://58.215.133.154:8500/live/cid=440
-Discovery Science(HD),vjms://58.215.133.154:8500/live/cid=457
-日FIGHTING TV,vjms://58.215.133.161:8500/live/cid=408
-Animal Planet,vjms://58.215.133.154:8500/live/cid=3
-TLC旅游生活,vjms://58.215.133.154:8500/live/cid=103
-Fashion,vjms://58.215.133.154:8500/live/cid=399
+BBC EARTH HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
+BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
+BBC独家,http://diyp.top/TVOD/mgys.php?id=633138330
+探索纪录,http://diyp.top/TVOD/mgys.php?id=615809560
+Discovery王牌节目展播,http://diyp.top/TVOD/mgys.php?id=637483721
+日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
+Fashion法国时尚,vjms://58.215.133.189:8500:3502/live/cid=399
+国家地理,vjms://58.215.133.189:8500:3502/live/cid=115
+国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263
+国家地理野生(HD),vjms://58.215.133.189:8500:3502/live/cid=361
+国家地理野生(HD),vjms://58.215.133.189:8500/live/cid=361
+Discovery Asia(HD),vjms://58.215.133.189:8500:3502/live/cid=440
+Discovery Science(HD),vjms://58.215.133.189:8500:3502/live/cid=457
+Animal Planet,vjms://58.215.133.189:8500:3502/live/cid=3
+TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103
+日FIGHTING TV,vjms://58.215.133.189:8500:3502/live/cid=408
 MTV,mitv://fccsovh.pvbox.live:18912/5b593be20007704850600332cb583fa5.ts
 亚洲旅游台 HD,mitv://fccsovh.pvbox.live:18912/5b14091700094183c5f08b34e7a92795.ts
 中華美食,mitv://fccsovh.pvbox.live:18912/5b14092b000126612897cc5f75157a2a.ts
+全纪实FHD,http://39.135.248.142/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/3.m3u8#http://39.135.31.196/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/3.m3u8#http://39.135.29.111/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
+上海纪实人文FHD,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8#http://39.135.31.196/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
 求索纪录,http://125.210.152.18:9090/live/QSKX_1200.m3u8#http://39.135.135.70:80/PLTV/88888888/224/3221225713/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 
 蓝光,#genre#
