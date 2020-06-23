@@ -95,6 +95,18 @@ CETV-1,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
 CETV-2,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 CETV-3,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
 CETV-4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+CEC 国家健康频道,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CEC 马娜国际,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC 国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC 汉语文化频道,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+亚洲影院高清,http://39.134.178.121:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8
+欧洲影院高清,http://39.134.178.78:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8
+精品剧场,http://39.134.178.14:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/42330404.smil/index.m3u8
+风尚音乐,http://120.199.76.167:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/42330393.smil/1000.m3u8
+Y+剧场,http://39.134.178.100:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/133380193.smil/1000.m3u8
+黑莓电影,http://39.134.178.110:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229734/index.m3u8
+公视戏剧,http://hdtv.ub1818.com/ublive/index_16.m3u8
 凤凰卫视中文台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8 
 凤凰卫视资讯台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
