@@ -107,6 +107,9 @@ CEC 汉语文化频道,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 Y+剧场,http://39.134.178.100:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/133380193.smil/1000.m3u8
 黑莓电影,http://39.134.178.110:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229734/index.m3u8
 公视戏剧,http://hdtv.ub1818.com/ublive/index_16.m3u8
+凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰卫视中文台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8 
 凤凰卫视资讯台HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
@@ -185,6 +188,15 @@ BesTV4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 湖南公共,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/2300.m3u8
 湖南快乐购,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43032/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43032/2300.m3u8
 湖南卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+湖南经视,http://www.nettvplus.live/hls/mgtv.php?id=280
+湖南都市,http://www.nettvplus.live/hls/mgtv.php?id=346
+湖南娱乐,http://www.nettvplus.live/hls/mgtv.php?id=344
+湖南公共,http://www.nettvplus.live/hls/mgtv.php?id=261
+湖南国际,http://www.nettvplus.live/hls/mgtv.php?id=229
+湖南电视剧,http://www.nettvplus.live/hls/mgtv.php?id=484
+湖南电影,https://www.nettvplus.live/hls/m3u8/hunandy.m3u8
+湖南金鹰卡通,http://www.nettvplus.live/hls/mgtv.php?id=287
+湖南金鹰纪实,http://www.nettvplus.live/hls/mgtv.php?id=316
 湖南经视,http://124.232.231.246:6610/000000001001/201600020002/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020002&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8,http://107.148.215.110:13164/v/hunantv.php?id=280
 湖南都市,http://124.232.231.246:6610/000000001001/201600020003/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020003&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8,http://107.148.215.110:13164/v/hunantv.php?id=346
 湖南娱乐,http://124.232.231.246:6610/000000001001/201600020004/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020004&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8,http://107.148.215.110:13164/v/hunantv.php?id=344
