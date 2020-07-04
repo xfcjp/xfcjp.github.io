@@ -1,7 +1,7 @@
 $c_start新闻$c_end
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
-CCTV13新闻,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+CCTV13新闻,http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
@@ -139,7 +139,7 @@ CCTV9纪录,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8#http://39.134.65.162/PLTV/88
 CCTV10科教,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225520/index.m3u8
 CCTV11戏曲,http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
 CCTV12社会与法,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225518/index.m3u8
-CCTV13新闻,http://39.134.65.162/PLTV/88888888/224/3221225515/index.m3u8
+CCTV13新闻,http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 CCTV14少儿,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225516/index.m3u8
 CCTV15音乐,http://36.159.12.236/PLTV/88888888/224/3221226426/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 CCTV17农业农村,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
