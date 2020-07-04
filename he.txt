@@ -29,12 +29,6 @@ CNBC,vjms://58.215.133.154:8500/live/cid=98
 湖南金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-长沙公交移动,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
-长沙购物,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
-长沙经贸,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-长沙女性,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
-长沙新闻,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
-长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 湖南教育台,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
 湖南国际,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43022/1300.m3u8
 湖南导视,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43023/1300.m3u8
@@ -46,6 +40,15 @@ CNBC,vjms://58.215.133.154:8500/live/cid=98
 湖南电视剧,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/2300.m3u8
 湖南公共,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/2300.m3u8
 湖南快乐购,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43032/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43032/2300.m3u8
+长沙新闻频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+长沙政法频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+长沙女性频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+长沙经贸频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙影视频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙嘉丽购物频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+长沙移动电视(地铁),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
+长沙移动电视(公交),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
+长沙移动电视(磁浮),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_355.m3u8
 
 $c_start电影$c_end
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
@@ -1746,12 +1749,6 @@ CNBC,vjms://58.215.133.154:8500/live/cid=98
 湖南金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南芒果乐搜,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-长沙公交移动,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
-长沙购物,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
-长沙经贸,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-长沙女性,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
-长沙新闻,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
-长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 湖南教育台,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
 湖南国际,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43022/1300.m3u8
 湖南导视,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43023/1300.m3u8
@@ -1763,6 +1760,15 @@ CNBC,vjms://58.215.133.154:8500/live/cid=98
 湖南电视剧,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/2300.m3u8
 湖南公共,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/2300.m3u8
 湖南快乐购,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43032/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43032/2300.m3u8
+长沙新闻频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+长沙政法频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+长沙女性频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+长沙经贸频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙影视频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙嘉丽购物频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+长沙移动电视(地铁),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
+长沙移动电视(公交),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
+长沙移动电视(磁浮),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_355.m3u8
 
 电影,#genre#
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
