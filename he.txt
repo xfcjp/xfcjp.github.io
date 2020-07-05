@@ -6,6 +6,7 @@ BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
 CNBC,vjms://58.215.133.154:8500/live/cid=98
+BBC,http://77.83.242.11/gz168.php?id=bbc#http://106.54.30.243/gz009/gz.php?id=bbc
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
@@ -62,9 +63,10 @@ CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m
 
 $c_start纪实$c_end
 BBC EARTH HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
-BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
+BBC Lifestyle,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
 BBC独家,http://diyp.top/TVOD/mgys.php?id=633138330
 探索纪录,http://diyp.top/TVOD/mgys.php?id=615809560
+
 Discovery王牌节目展播,http://diyp.top/TVOD/mgys.php?id=637483721
 日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
 Fashion法国时尚,vjms://58.215.133.189:8500:3502/live/cid=399
@@ -313,6 +315,24 @@ DiscoveryScience,vjms://58.215.133.189:8500/live/cid=457
 DiscoveryChannel,vjms://58.215.133.189:8500/live/cid=3
 日-GOLF NTWORK,vjms://58.215.133.189:8500/live/cid=409
 GOLF,vjms://58.215.133.189:8500/live/cid=409
+国家地理,vjms://58.215.133.189:8500:3502/live/cid=115
+国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263
+探索亚洲,vjms://58.215.133.189:8500:3502/live/cid=440
+探索科学,vjms://58.215.133.189:8500:3502/live/cid=457
+动物星球,vjms://58.215.133.189:8500:3502/live/cid=3
+迪士尼,vjms://58.215.133.189:8500:3502/live/cid=361
+AXN,vjms://58.215.133.189:8500:3502/live/cid=2
+TLC旅游,vjms://58.215.133.189:8500:3502/live/cid=103
+ELTA体育1台,vjms://58.215.133.189:8500:3502/live/cid=266
+纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202
+FOX体育2台,vjms://58.215.133.189:8500:3502/live/cid=444
+FOX体育3台,vjms://58.215.133.189:8500:3502/live/cid=95
+博斯高球,vjms://58.215.133.189:8500:3502/live/cid=265
+法国时尚,vjms://58.215.133.189:8500:3502/live/cid=399
+BBC,vjms://58.215.133.189:8500:3502/live/cid=418
+HBO,vjms://58.215.133.189:8500:3502/live/cid=261
+CNN,vjms://58.215.133.189:8500:3502/live/cid=428
+CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 中视新聞HD,mitv://147.135.39.171:9906/5cc68d1700024b76fadeb42526e50971.ts
 东森电影,mitv://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661.ts
 纬来戏剧,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
@@ -3084,6 +3104,24 @@ iHOT,#genre#
 爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 测试一,#genre#
+国家地理,vjms://58.215.133.189:8500:3502/live/cid=115
+国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263
+探索亚洲,vjms://58.215.133.189:8500:3502/live/cid=440
+探索科学,vjms://58.215.133.189:8500:3502/live/cid=457
+动物星球,vjms://58.215.133.189:8500:3502/live/cid=3
+迪士尼,vjms://58.215.133.189:8500:3502/live/cid=361
+AXN,vjms://58.215.133.189:8500:3502/live/cid=2
+TLC旅游,vjms://58.215.133.189:8500:3502/live/cid=103
+ELTA体育1台,vjms://58.215.133.189:8500:3502/live/cid=266
+纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202
+FOX体育2台,vjms://58.215.133.189:8500:3502/live/cid=444
+FOX体育3台,vjms://58.215.133.189:8500:3502/live/cid=95
+博斯高球,vjms://58.215.133.189:8500:3502/live/cid=265
+法国时尚,vjms://58.215.133.189:8500:3502/live/cid=399
+BBC,vjms://58.215.133.189:8500:3502/live/cid=418
+HBO,vjms://58.215.133.189:8500:3502/live/cid=261
+CNN,vjms://58.215.133.189:8500:3502/live/cid=428
+CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 CCTV-1,vjms://58.215.133.154:8500/live/cid=331
 CCTV-2,vjms://58.215.133.154:8500/live/cid=388
 CCTV-3,vjms://58.215.133.154:8500/live/cid=448
