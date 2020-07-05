@@ -2,7 +2,7 @@ $c_start新闻$c_end
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
 CCTV4中文国际,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123
-CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123#http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?ci=123#http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
