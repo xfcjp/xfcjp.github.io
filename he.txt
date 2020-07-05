@@ -66,7 +66,6 @@ BBC EARTH HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.t
 BBC Lifestyle,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
 BBC独家,http://diyp.top/TVOD/mgys.php?id=633138330
 探索纪录,http://diyp.top/TVOD/mgys.php?id=615809560
-
 Discovery王牌节目展播,http://diyp.top/TVOD/mgys.php?id=637483721
 日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
 Fashion法国时尚,vjms://58.215.133.189:8500:3502/live/cid=399
@@ -1783,7 +1782,7 @@ CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 纪实,#genre#
 BBC EARTH HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
-BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
+BBC Lifestyle,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
 BBC独家,http://diyp.top/TVOD/mgys.php?id=633138330
 探索纪录,http://diyp.top/TVOD/mgys.php?id=615809560
 Discovery王牌节目展播,http://diyp.top/TVOD/mgys.php?id=637483721
