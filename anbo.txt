@@ -520,7 +520,7 @@ Zee TV,http://f6.apps8888.com:8080/live/482/f4ae075e557c9961fb3320b5c33c9611/ind
 Zee Cinema,http://f6.apps8888.com:8080/live/484/16311d2c4ed89c3e1341e694368ac3e1/index.m3u8
 Zee Classic,http://f6.apps8888.com:8080/live/485/5935722cfe787a93f890ac27d3369a8c/index.m3u8
 
-福利,#genre#_123456
+福利,#genre#
 松视1,http://f6.apps8888.com:8080/live/402/92df1115eba6a3f5d775dd1318a8892f/index.m3u8
 松视2,http://f6.apps8888.com:8080/live/403/c8f4cc4e018664b818821a1856aa28fd/index.m3u8
 松视3,http://f6.apps8888.com:8080/live/404/4aed69e4c6e6d7addb7def002cbc861c/index.m3u8
@@ -547,6 +547,19 @@ Super One HD,http://f6.apps8888.com:8080/live/457/c48394435846b2494d93bf37dcc306
 Prvate TV,http://f6.apps8888.com:8080/live/453/a29551ad5110ba47220e9b5c57afbd8d/index.m3u8
 Passie,http://f6.apps8888.com:8080/live/461/bcf2bf2bf8f046a83b81ff30ace5b9e0/index.m3u8
 Vivid Red HD,http://f6.apps8888.com:8080/live/455/71e4abbb112cbec67ac8359d11633dfc/index.m3u8
+玩家頻道,http://58.99.33.2:1935/liveedge2/VqtzSkTm_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+Happy 頻道,http://58.99.33.2:1935/liveedge2/VqtzSkTm_402_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+HOT 頻道,http://58.99.33.2:1935/liveedge2/VqtzSkTm_403_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+松視4台,http://58.99.33.2:1935/liveedge2/VqtzSkTm_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+松視1台HD,http://58.99.33.2:1935/liveedge2/VqtzSkTm_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+松視2台,http://58.99.33.2:1935/liveedge2/VqtzSkTm_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+松視3台,http://58.99.33.2:1935/liveedge2/VqtzSkTm_407_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+彩虹,http://58.99.33.2:1935/liveedge2/VqtzSkTm_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+叮噹CR電視台,http://58.99.33.2:1935/liveedge2/VqtzSkTm_409_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+樂活頻道,http://58.99.33.2:1935/liveedge2/VqtzSkTm_410_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+潘朵拉玩美台HD,http://58.99.33.2:1935/liveedge2/VqtzSkTm_411_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/VqtzSkTm_412_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+驚艷CR電視台,http://58.99.33.2:1935/liveedge2/VqtzSkTm_413_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
 
 $c_start央视卫视$c_end
 CCTV1,http://f3.apps8888.com:8080/live/200/00bebfeae5008f81bf06698c2d4e9fa5/index.m3u8
