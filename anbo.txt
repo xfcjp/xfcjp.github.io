@@ -771,7 +771,7 @@ History,http://f8.apps8888.com:8080/live/116/1ca79c54ec6ec0380a5d07e10ecf4f31/in
 History 2,http://f8.apps8888.com:8080/live/115/551892ab86e2d80b2e080b0d9e80b570/index.m3u8
 幸福空间居家,http://ff.apps1818.com:8080/live/61/4c6a611bbb83f620400d056d36499329/index.m3u8
 
-影剧,#genre#
+$c_start影剧$c_end
 HBO,http://f6.apps8888.com:8080/live/464/ce6b2e2921e4fe380c1d2c7424adce02/index.m3u8
 HBO HD,http://f8.apps8888.com:8080/live/332/cf4f03d48be60e675131d45664df6950/index.m3u8
 HBO Hits,http://f8.apps8888.com:8080/live/330/f698988a027458715f68e7d437300337/index.m3u8
