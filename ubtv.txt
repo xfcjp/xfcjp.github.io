@@ -175,6 +175,9 @@ NewTV超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive
 NewTV超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=4
 NewTV金牌综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
 NewTV炫舞未来,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
+CHC-高清电影,http://106.54.30.243/gz009/gz.php?id=chcgqdy
+CHC-家庭影院,http://106.54.30.243/gz009/gz.php?id=chcjtyy
+CHC-动作电影,http://106.54.30.243/gz009/gz.php?id=chcdzdy
 SiTV生活时尚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&stbId=4
 SiTV欢笑剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6550198305014687851&livemode=1&stbId=4
 SiTV法治天地,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=4
@@ -224,8 +227,9 @@ CCTV12,http://f3.apps1818.com:8080/live/212/11285bd99d0b83d20df9e0fabaa64bad/ind
 CCTV13,http://f3.apps1818.com:8080/live/213/7d871c32eab861fd82ec79b3710c1b4a/index.m3u8
 CCTV14,http://f3.apps1818.com:8080/live/214/5657c2943abe4906f5e7ac4550e929c0/index.m3u8
 CCTV15,http://f3.apps1818.com:8080/live/215/e05198111ddf0ee8762a37103e197686/index.m3u8
-CCTVNEWS,http://f3.apps1818.com:8080/live/221/51ddd17054c99854d00dac9a7d3c53e9/index.m3u8
+CGTN,http://f3.apps1818.com:8080/live/221/51ddd17054c99854d00dac9a7d3c53e9/index.m3u8
 CCTV娱乐,http://f3.apps1818.com:8080/live/222/a9104d642211e8d02c8a6000f8fd05ac/index.m3u8
+CCTV卫生健康,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsjk
 CCTV1测试,http://f7.apps8888.com:8880/live/1148/65b9c51f4cf3b970cd189773d1d5facf/index.m3u8
 CCTV2测试,http://f7.apps8888.com:8880/live/1149/d9ae10e1eaaa95ba5a0c1402d3e041ff/index.m3u8
 
@@ -259,13 +263,11 @@ CCTV2测试,http://f7.apps8888.com:8880/live/1149/d9ae10e1eaaa95ba5a0c1402d3e041
 四川卫视,http://f3.apps1818.com:8080/live/233/8ed8488560a55ef15afc42be266106e5/index.m3u8
 山东卫视,http://f3.apps1818.com:8080/live/234/0ec18bcf2a2d2751a6882514efafec44/index.m3u8
 
-1,http://106.54.30.243/gz009/gz.php?id=dj
+jTV,http://106.54.30.243/gz009/gz.php?id=dj
 3,http://106.54.30.243/gz009/gz.php?id=tz
 4,http://106.54.30.243/gz009/gz.php?id=yp
-6,http://106.54.30.243/gz009/gz.php?id=mj
-CHC-高清电影,http://106.54.30.243/gz009/gz.php?id=chcgqdy
-CHC-家庭影院,http://106.54.30.243/gz009/gz.php?id=chcjtyy
-CHC-动作电影,http://106.54.30.243/gz009/gz.php?id=chcdzdy
+GTV,http://106.54.30.243/gz009/gz.php?id=mj
+
 凤凰中文,http://106.54.30.243/gz009/gz.php?id=fhzw
 凤凰资讯,http://106.54.30.243/gz009/gz.php?id=fhzx
 凤凰电影,http://106.54.30.243/gz009/gz.php?id=fhdy
@@ -286,33 +288,6 @@ TV5,http://106.54.30.243/gz009/gz.php?id=tv5
 国学频道,http://106.54.30.243/gz009/gz.php?id=gx
 靓妆,http://106.54.30.243/gz009/gz.php?id=lz
 英语辅导,http://106.54.30.243/gz009/gz.php?id=yyfd
-
-$c_start油管$c_end
-大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
-大愛二臺HD,https://www.youtube.com/watch?v=DTNkEm6jaqQ
-iNEWS新聞台,https://www.youtube.com/watch?v=ag9nrgExHyg
-華藏衛視,https://www.youtube.com/watch?v=f7aqLP-zLt4
-國會頻道,https://www.youtube.com/watch?v=PQLMD4iHhG8
-國會頻道２,https://www.youtube.com/watch?v=-9lQuKoyb9w
-台視新聞台HD,https://www.youtube.com/watch?v=yk2CUjbyyQY
-運通財經台直播,https://www.youtube.com/watch?v=z-bbsDpAyok
-SJTV 信吉衛星電視台,https://www.youtube.com/watch?v=KwL0z7WDvsU
-華視新聞HD,https://www.youtube.com/watch?v=TL8mmew3jb8
-中天新聞HD,https://www.youtube.com/watch?v=wUPPkSANpyo
-東森新聞HD,https://www.youtube.com/watch?v=RaIJ767Bj_M
-三立新聞HD,https://www.youtube.com/watch?v=4ZVUmEUFwaY
-TVBS新聞臺HD,https://www.youtube.com/watch?v=Hu1FkdAOws0
-中視新聞台,https://www.youtube.com/watch?v=me_mFzhe-cE
-EBC 東森財經新聞,https://www.youtube.com/watch?v=dphWo0r27Z4
-客家電視,https://www.youtube.com/watch?v=vgXpF25lbYk
-大愛一臺HD,https://www.youtube.com/watch?v=oV_i3Hsl_zg
-大愛海外頻道,https://www.youtube.com/watch?v=MIqUplvSRWA
-民視新聞直播HD,https://www.youtube.com/watch?v=XxJKnDLYZz4
-新唐人亞太台,https://www.youtube.com/watch?v=wSKE3A40SIk
-海豚電視台,https://www.youtube.com/watch?v=XNHAMT0D9D0
-阿里山美景直播,https://www.youtube.com/watch?v=Wlg5lUy1IVA
-富立衛星電視台,https://www.youtube.com/watch?v=6JPiGsyffO0
-全球財經台,https://www.youtube.com/watch?v=YrpZm3fBkbo
 
 $c_start港澳$c_end
 鳳凰衛視,http://f9.apps1818.com:8080/live/357/7739ddb04a47c21b09bff68b013b2183/index.m3u8
@@ -1023,6 +998,9 @@ NewTV超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive
 NewTV超级综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=4
 NewTV金牌综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
 NewTV炫舞未来,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
+CHC-高清电影,http://106.54.30.243/gz009/gz.php?id=chcgqdy
+CHC-家庭影院,http://106.54.30.243/gz009/gz.php?id=chcjtyy
+CHC-动作电影,http://106.54.30.243/gz009/gz.php?id=chcdzdy
 SiTV生活时尚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&stbId=4
 SiTV欢笑剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6550198305014687851&livemode=1&stbId=4
 SiTV法治天地,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=4
@@ -1072,8 +1050,9 @@ CCTV12,http://f3.apps1818.com:8080/live/212/11285bd99d0b83d20df9e0fabaa64bad/ind
 CCTV13,http://f3.apps1818.com:8080/live/213/7d871c32eab861fd82ec79b3710c1b4a/index.m3u8
 CCTV14,http://f3.apps1818.com:8080/live/214/5657c2943abe4906f5e7ac4550e929c0/index.m3u8
 CCTV15,http://f3.apps1818.com:8080/live/215/e05198111ddf0ee8762a37103e197686/index.m3u8
-CCTVNEWS,http://f3.apps1818.com:8080/live/221/51ddd17054c99854d00dac9a7d3c53e9/index.m3u8
+CGTN,http://f3.apps1818.com:8080/live/221/51ddd17054c99854d00dac9a7d3c53e9/index.m3u8
 CCTV娱乐,http://f3.apps1818.com:8080/live/222/a9104d642211e8d02c8a6000f8fd05ac/index.m3u8
+CCTV卫生健康,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsjk
 CCTV1测试,http://f7.apps8888.com:8880/live/1148/65b9c51f4cf3b970cd189773d1d5facf/index.m3u8
 CCTV2测试,http://f7.apps8888.com:8880/live/1149/d9ae10e1eaaa95ba5a0c1402d3e041ff/index.m3u8
 
@@ -1107,13 +1086,11 @@ CCTV2测试,http://f7.apps8888.com:8880/live/1149/d9ae10e1eaaa95ba5a0c1402d3e041
 四川卫视,http://f3.apps1818.com:8080/live/233/8ed8488560a55ef15afc42be266106e5/index.m3u8
 山东卫视,http://f3.apps1818.com:8080/live/234/0ec18bcf2a2d2751a6882514efafec44/index.m3u8
 
-1,http://106.54.30.243/gz009/gz.php?id=dj
+jTV,http://106.54.30.243/gz009/gz.php?id=dj
 3,http://106.54.30.243/gz009/gz.php?id=tz
 4,http://106.54.30.243/gz009/gz.php?id=yp
-6,http://106.54.30.243/gz009/gz.php?id=mj
-CHC-高清电影,http://106.54.30.243/gz009/gz.php?id=chcgqdy
-CHC-家庭影院,http://106.54.30.243/gz009/gz.php?id=chcjtyy
-CHC-动作电影,http://106.54.30.243/gz009/gz.php?id=chcdzdy
+GTV,http://106.54.30.243/gz009/gz.php?id=mj
+
 凤凰中文,http://106.54.30.243/gz009/gz.php?id=fhzw
 凤凰资讯,http://106.54.30.243/gz009/gz.php?id=fhzx
 凤凰电影,http://106.54.30.243/gz009/gz.php?id=fhdy
@@ -1134,33 +1111,6 @@ TV5,http://106.54.30.243/gz009/gz.php?id=tv5
 国学频道,http://106.54.30.243/gz009/gz.php?id=gx
 靓妆,http://106.54.30.243/gz009/gz.php?id=lz
 英语辅导,http://106.54.30.243/gz009/gz.php?id=yyfd
-
-油管,#genre#
-大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
-大愛二臺HD,https://www.youtube.com/watch?v=DTNkEm6jaqQ
-iNEWS新聞台,https://www.youtube.com/watch?v=ag9nrgExHyg
-華藏衛視,https://www.youtube.com/watch?v=f7aqLP-zLt4
-國會頻道,https://www.youtube.com/watch?v=PQLMD4iHhG8
-國會頻道２,https://www.youtube.com/watch?v=-9lQuKoyb9w
-台視新聞台HD,https://www.youtube.com/watch?v=yk2CUjbyyQY
-運通財經台直播,https://www.youtube.com/watch?v=z-bbsDpAyok
-SJTV 信吉衛星電視台,https://www.youtube.com/watch?v=KwL0z7WDvsU
-華視新聞HD,https://www.youtube.com/watch?v=TL8mmew3jb8
-中天新聞HD,https://www.youtube.com/watch?v=wUPPkSANpyo
-東森新聞HD,https://www.youtube.com/watch?v=RaIJ767Bj_M
-三立新聞HD,https://www.youtube.com/watch?v=4ZVUmEUFwaY
-TVBS新聞臺HD,https://www.youtube.com/watch?v=Hu1FkdAOws0
-中視新聞台,https://www.youtube.com/watch?v=me_mFzhe-cE
-EBC 東森財經新聞,https://www.youtube.com/watch?v=dphWo0r27Z4
-客家電視,https://www.youtube.com/watch?v=vgXpF25lbYk
-大愛一臺HD,https://www.youtube.com/watch?v=oV_i3Hsl_zg
-大愛海外頻道,https://www.youtube.com/watch?v=MIqUplvSRWA
-民視新聞直播HD,https://www.youtube.com/watch?v=XxJKnDLYZz4
-新唐人亞太台,https://www.youtube.com/watch?v=wSKE3A40SIk
-海豚電視台,https://www.youtube.com/watch?v=XNHAMT0D9D0
-阿里山美景直播,https://www.youtube.com/watch?v=Wlg5lUy1IVA
-富立衛星電視台,https://www.youtube.com/watch?v=6JPiGsyffO0
-全球財經台,https://www.youtube.com/watch?v=YrpZm3fBkbo
 
 港澳,#genre#
 鳳凰衛視,http://f9.apps1818.com:8080/live/357/7739ddb04a47c21b09bff68b013b2183/index.m3u8
