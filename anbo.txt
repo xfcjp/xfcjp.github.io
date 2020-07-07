@@ -1108,3 +1108,18 @@ Super One HD,http://f6.apps8888.com:8080/live/457/c48394435846b2494d93bf37dcc306
 Prvate TV,http://f6.apps8888.com:8080/live/453/a29551ad5110ba47220e9b5c57afbd8d/index.m3u8
 Passie,http://f6.apps8888.com:8080/live/461/bcf2bf2bf8f046a83b81ff30ace5b9e0/index.m3u8
 Vivid Red HD,http://f6.apps8888.com:8080/live/455/71e4abbb112cbec67ac8359d11633dfc/index.m3u8
+松視1台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHNvb3NlZTE_
+松視1台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA1
+松視2台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA2
+松視3台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA3
+松視4台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA0
+Happy 頻道,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGhhcHB5
+Happy 頻道,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAy
+玩家頻道,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAx
+HOT 頻道,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAz
+驚艷台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEz
+香蕉台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDE0
+彩虹r台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA4
+樂活頻道,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEw
+潘多拉完美台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEx
+潘多拉粉紅台,http://ez.wangweizhushou.com/293tv.php?284415137&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEy
