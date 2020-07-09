@@ -261,539 +261,258 @@ BesTV4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 益阳公共,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvgg190930.m3u8
 益阳综合,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxw190930.m3u8
 
-安博港台,#genre#
-CCTV1,http://f3.apps8888.com:8080/live/200/00bebfeae5008f81bf06698c2d4e9fa5/index.m3u8
-CCTV2,http://f3.apps8888.com:8080/live/201/b02aba268fd25b4ee509dd0da4e08dd9/index.m3u8
-CCTV3,http://f3.apps8888.com:8080/live/202/b365a29dd8683ff2c4bca21e0c90681f/index.m3u8
-CCTV4,http://f3.apps8888.com:8080/live/203/4d2bddd50dc20c95c563591987a1c77b/index.m3u8
-CCTV5,http://f3.apps8888.com:8080/live/204/6cf0fe9860ddaf7992687449c64f385f/index.m3u8
-CCTV5plus,http://f3.apps8888.com:8080/live/205/fcbe1206aa4b5c8d8ede5dfadb43f681/index.m3u8
-CCTV6,http://f3.apps8888.com:8080/live/206/1268bd947a893759bf8eb6084ea5d8e3/index.m3u8
-CCTV7,http://f3.apps8888.com:8080/live/207/80b4e081a5656c3e016e971c3d70bf56/index.m3u8
-CCTV8,http://f3.apps8888.com:8080/live/208/df09263a2006b5386a302ea2cce32f38/index.m3u8
-CCTV9,http://f3.apps8888.com:8080/live/209/0a3afaf9281ccb4e63bb3e7f5d058056/index.m3u8
-CCTV10,http://f3.apps8888.com:8080/live/210/32c04f3c93aca640aef3b0a85aaba58e/index.m3u8
-CCTV11,http://f3.apps8888.com:8080/live/211/0d3ad1a31e059148ad2bcb83e06ef2f0/index.m3u8
-CCTV12,http://f3.apps8888.com:8080/live/212/11285bd99d0b83d20df9e0fabaa64bad/index.m3u8
-CCTV13,http://f3.apps8888.com:8080/live/213/7d871c32eab861fd82ec79b3710c1b4a/index.m3u8
-CCTV14,http://f3.apps8888.com:8080/live/214/5657c2943abe4906f5e7ac4550e929c0/index.m3u8
-CCTV15,http://f3.apps8888.com:8080/live/215/e05198111ddf0ee8762a37103e197686/index.m3u8
-CCTVNEWS,http://f3.apps8888.com:8080/live/221/51ddd17054c99854d00dac9a7d3c53e9/index.m3u8
-CCTV娱乐,http://f3.apps8888.com:8080/live/222/a9104d642211e8d02c8a6000f8fd05ac/index.m3u8
-北京卫视,http://f3.apps8888.com:8080/live/220/55ab2e6346765935c308fcc6f0f2a00f/index.m3u8
-湖北卫视,http://f3.apps8888.com:8080/live/227/a61a9f4ce029dbbed82ff6a4ceca743f/index.m3u8
-湖南卫视,http://f3.apps8888.com:8080/live/226/f6c9a170b4c2515964c4de6c53f3252f/index.m3u8
-东方卫视,http://f3.apps8888.com:8080/live/224/e3b0fd02a0ae5f600b9cfe19704dd8ce/index.m3u8
-浙江卫视,http://f3.apps8888.com:8080/live/217/ad235d91b108272d7f39594707116d6e/index.m3u8
-江苏卫视,http://f3.apps8888.com:8080/live/218/49ebea68ca0ccc17dc7e4dfe5dbb2c17/index.m3u8
-安徽卫视,http://f3.apps8888.com:8080/live/232/0c19a57a4170e19b9e6c1125daa9437d/index.m3u8
-东南卫视,http://f3.apps8888.com:8080/live/228/ac1913796cededd7b428c79a4608e1fb/index.m3u8
-广东卫视,http://f3.apps8888.com:8080/live/231/30e902b4c4aace2624dec517e111f5ff/index.m3u8
-深圳卫视,http://f3.apps8888.com:8080/live/230/0649731895961b188e227d51d0d19920/index.m3u8
-厦门卫视,http://f3.apps8888.com:8080/live/216/a98c955785234db115103082cf202557/index.m3u8
-南方粤语,http://f3.apps8888.com:8080/live/219/37e333da27b891f47f3ae37075e73105/index.m3u8
-海峡卫视,http://f3.apps8888.com:8080/live/223/1d30089952f250e6924953ca1d115303/index.m3u8
-河北卫视,http://f3.apps8888.com:8080/live/225/90d5c35fd4070c71a44f82777c5ef5f8/index.m3u8
-辽宁卫视,http://f3.apps8888.com:8080/live/229/3a2305b3e7785f2287b6773bfe1869fb/index.m3u8
-四川卫视,http://f3.apps8888.com:8080/live/233/8ed8488560a55ef15afc42be266106e5/index.m3u8
-山东卫视,http://f3.apps8888.com:8080/live/234/0ec18bcf2a2d2751a6882514efafec44/index.m3u8
-CNN HD,http://f5.apps8888.com:8080/live/146/8ac52d70ca64ca0395b97c7e1c7aa511/index.m3u8
-BBC News,http://f6.apps8888.com:8080/live/164/5beed3cdee56c5c0b86eca222b404144/index.m3u8
-ABC HD,http://f5.apps8888.com:8080/live/143/e6adfe04fd7ac15d70f021f5bd961e09/index.m3u8
-Sky News,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593598391/ei/Vw38XvnAC5eikgbho4DwAg/ip/198.255.103.2/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mekn7y.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4040/mh/Yv/mm/44/mn/sn-a5mekn7y/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1593576674/sparams/expire
-FOX-News,http://f5.apps8888.com:8080/live/150/cd25b83e1b9bc0345414544b7046dc04/index.m3u8
-CNBC,http://f5.apps8888.com:8080/live/145/c8949732743708be7cb1235a1b264a93/index.m3u8
-FOX-HD,http://f5.apps8888.com:8080/live/149/d5708d67356cbb9f1a44369d546b7949/index.m3u8
-BBC 1,http://f6.apps8888.com:8080/live/161/258a6fb84945a3994750bec1286e58a6/index.m3u8
-BBC 2,http://f6.apps8888.com:8080/live/162/f42bd662677e6d3f15d236a43bbea147/index.m3u8
-BBC 4,http://f6.apps8888.com:8080/live/163/66e3f1667694b4485b64aaa1c43c2aa3/index.m3u8
-凤凰卫视,http://f9.apps1818.com:8080/live/357/7739ddb04a47c21b09bff68b013b2183/index.m3u8
-凤凰资讯,http://f9.apps1818.com:8080/live/359/4e878038d3dc40a9025dc7f68acf5379/index.m3u8
-凤凰香港,http://f9.apps1818.com:8080/live/358/2faa8c01571baadc71159292f8b7d202/index.m3u8
-凤凰卫视电影,http://f8.apps8888.com:8080/live/18/ff578d777737177894e6b4df4bf18bc5/index.m3u8
-港台32,http://f9.apps1818.com:8080/live/397/f907bdc4835a9e27f55f533d5a2055a8/index.m3u8
-港台31,http://f9.apps1818.com:8080/live/353/8d262fd3adf08cf0e095dd93a7d451f5/index.m3u8
-Channel V,http://f9.apps1818.com:8080/live/21/709b88c9297feaff13383e20d95c451b/index.m3u8
-HKC娱乐,http://f9.apps1818.com:8080/live/360/0088f647a76032beb2ad421ffe92fa4f/index.m3u8
-HKS,http://f9.apps1818.com:8080/live/399/7f24fb4ad7541c1b3c13b8514142db65/index.m3u8
-澳视澳门,http://f9.apps1818.com:8080/live/23/59658a455e38a762d60089894e5a6bd9/index.m3u8
-澳视葡语,http://f9.apps1818.com:8080/live/24/6e074cfb307d48d41f7bfd95bba3450d/index.m3u8
-澳门卫星,http://f9.apps1818.com:8080/live/29/80f160a2c65b325ef08ce402e05b42e9/index.m3u8
-TVB经典,http://f9.apps1818.com:8080/live/398/c3921e73b3189971b958dc19c54d2378/index.m3u8
-新时代多伦多,http://f9.apps1818.com:8080/live/1031/d7fa98303e00913728742705da2134f7/index.m3u8
-新时代温哥华,http://f9.apps1818.com:8080/live/1032/f983116745de5bd0d68fd0d71090a58c/index.m3u8
-新时代多伦多2,http://f9.apps1818.com:8080/live/1033/15bd0d9ecc7cf2542284fc3f65d518f2/index.m3u8
-TVB星河,http://f9.apps1818.com:8080/live/22/b5da7a28076443c010e9b4c233aa6fed/index.m3u8
-18台,http://f9.apps1818.com:8080/live/44/eee037311319adad53284ba3fce346bd/index.m3u8
-TVB翡翠测试,http://f7.apps8888.com:8880/live/1034/3687e8f1c29eccfbd7f73fc32e17d2e1/index.m3u8
-香港开电视测试,http://f7.apps8888.com:8880/live/401/a3bf5613870a7b4a42896f8a8aafcb99/index.m3u8
-TVB翡翠,http://f9.apps1818.com:8080/live/390/5445ac41a547a62b86cce20329b537a7/index.m3u8
-TVB明珠,http://f9.apps1818.com:8080/live/391/acd425b77ec21ac74279603aabbb1460/index.m3u8
-无线新闻,http://f9.apps1818.com:8080/live/394/883ac735dad91c214ae0953514862708/index.m3u8
-有线新闻,http://f9.apps1818.com:8080/live/395/a3c458c7b437288c06fd6c875b8608ef/index.m3u8
-有线新闻备,http://f9.apps1818.com:8080/live/19/79a6141614f4740057dadb2ad2e14a8a/index.m3u8
-Viutv,http://f9.apps1818.com:8080/live/72/e7b4dae981eed4f67e85b94ff37d985b/index.m3u8
-TVBJ5,http://f9.apps1818.com:8080/live/393/f63e2ff278f6cab2ae702ad5580a1003/index.m3u8
-TVBJ2,http://f9.apps1818.com:8080/live/392/7b4122688dbef93ab3bd5341a5c13a28/index.m3u8
-Viutv 6,http://f9.apps1818.com:8080/live/176/f005cad95e5f97850325730597c242d1/index.m3u8
-香港开电视,http://f9.apps1818.com:8080/live/17/721c07f796c85916f4075277784f7d61/index.m3u8
-NOW新闻,http://f9.apps1818.com:8080/live/396/956d2faba673c373a7731ddf1f368777/index.m3u8
-NOW直播,http://f9.apps1818.com:8080/live/400/18d2793e800ead271ec683595b561d30/index.m3u8
-迪士尼香港,http://f9.apps1818.com:8080/live/45/271b901e2217b226f054fa23536a1a04/index.m3u8
-迪士尼少儿,http://f9.apps1818.com:8080/live/30/53c9745c9c1cd6690be849b5747119dd/index.m3u8
-NOW华剧,http://f9.apps1818.com:8080/live/355/e7433befd0bf9e0cd89aabf4eb66140d/index.m3u8
-中视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610028/ei/zDr8XonsM5SOkgbl05_wDw/ip/198.255.103.2/id/wxQcIb8zcPA.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5meknlz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/_q/mm/44/mn/sn-a5meknlz/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/beids/9466587/mt/1593588315/sparams/expire
-中视新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610031/ei/zzr8XsntHNGRkwbWi66YCw/ip/198.255.103.2/id/wxQcIb8zcPA.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5mlrn7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/_q/mm/44/mn/sn-a5mlrn7s/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588315/sparams/expire
-中天新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610035/ei/0zr8XtiWB8GokwbBianYBw/ip/198.255.103.2/id/wUPPkSANpyo.6/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5meknes.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/R3/mm/44/mn/sn-a5meknes/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/beids/23886219/mt/1593588315/sparams/expire
-中天新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610037/ei/1Tr8XrioNJXfkgbByr2AAg/ip/198.255.103.2/id/wUPPkSANpyo.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5mlrn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/R3/mm/44/mn/sn-a5mlrn7d/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
-TVBS新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610040/ei/2Dr8XvrwJ8PxkgaIgKuIDw/ip/198.255.103.2/id/Hu1FkdAOws0.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5msen7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/Rm/mm/44/mn/sn-a5msen7s/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
-TVBS新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610043/ei/2zr8XvLsMIivkwbA-KYI/ip/198.255.103.2/id/Hu1FkdAOws0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5msen7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/Rm/mm/44/mn/sn-a5msen7s/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
-台视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610046/ei/3jr8XuSmKJevkgbrwIXwBg/ip/198.255.103.2/id/NbjI0cARzjQ.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mlrnek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/hm/mm/44/mn/sn-a5mlrnek/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/beids/9466587/mt/1593588376/sparams/expire
-台视新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610049/ei/4Tr8Xt6CF4qikgb77aWQCg/ip/198.255.103.2/id/NbjI0cARzjQ.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-a5mekne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/hm/mm/44/mn/sn-a5mekne7/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
-三立LIVE新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610052/ei/5Dr8XuyiMoPikgaIoLaQAg/ip/198.255.103.2/id/4ZVUmEUFwaY.413/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mekne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/4j/mm/44/mn/sn-a5mekne7/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
-三立LIVE新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610055/ei/5zr8Xpf3McSIkgatpJGgBg/ip/198.255.103.2/id/4ZVUmEUFwaY.413/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-a5mlrnes.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/4j/mm/44/mn/sn-a5mlrnes/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
-华视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610144/ei/QDv8XofgFsWFkgbKl5DoBw/ip/198.255.103.2/id/TL8mmew3jb8.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-a5meknek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/2w/mm/44/mn/sn-a5meknek/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/beids/9466586/mt/1593588436/sparams/expire
-华视新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610146/ei/Qjv8XuuwL5qJkgbHwYb4Aw/ip/198.255.103.2/id/TL8mmew3jb8.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-a5meknek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/2w/mm/44/mn/sn-a5meknek/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588436/sparams/expire
-iNEWS,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610149/ei/RTv8XpjEENKrkgaL3o6oDw/ip/198.255.103.2/id/ag9nrgExHyg.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/6O/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593588436/sparams/expire
-iNEWS1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610152/ei/SDv8Xur1BoSEkgb1qZDADg/ip/198.255.103.2/id/ag9nrgExHyg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-a5meknes.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/6O/mm/44/mn/sn-a5meknes/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588436/sparams/expire
-东森新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610026/ei/yjr8Xp26CZmWkwaBsaLACg/ip/198.255.103.2/id/RaIJ767Bj_M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/zp/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588315/sparams/expire
-东森新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610323/ei/8zv8Xq35Jo-TkwaN-ZHgDw/ip/198.255.103.2/id/RaIJ767Bj_M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-a5meknl6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4100/mh/zp/mm/44/mn/sn-a5meknl6/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588676/sparams/expire
-东森新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610326/ei/9jv8XrzmIsWbkwbv2J74Cg/ip/198.255.103.2/id/RaIJ767Bj_M.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/zp/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588615/sparams/expire
-东森财经新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610329/ei/-Tv8XoG-FZq6kwaoj7jwAw/ip/198.255.103.2/id/vqutyFdTJFQ.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5mekne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4100/mh/dH/mm/44/mn/sn-a5mekne7/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593588676/sparams/expire
-东森财经新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610332/ei/-zv8XsSTO4y-kwaG0aGgDw/ip/198.255.103.2/id/vqutyFdTJFQ.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/dH/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593588615/sparams/expire
-非凡新闻,http://f8.apps8888.com:8080/live/314/a25c008e4da4665d125983e0d0b0071d/index.m3u8
-年代新闻,http://f8.apps8888.com:8080/live/236/4d5a4445dba70c11899ca86fbfd1ce78/index.m3u8
-壹电视新闻,http://f8.apps8888.com:8080/live/303/60fc57329d3238eebbd8d9fbf9e6faf5/index.m3u8
-壹电视新闻备,http://f8.apps8888.com:8080/live/49/4cfd12c43e803bcb9cd0380350efc7a8/index.m3u8
-台视新闻,http://f8.apps8888.com:8080/live/1/4564e967e9765b02679a0c5ca702f3b8/index.m3u8
-TVBS新闻,http://f8.apps8888.com:8080/live/2/e3f753b4462318b38b660a02746a70e4/index.m3u8
-中天新闻,http://f8.apps8888.com:8080/live/3/7d8dca1ac6df48b69e3a7a1c68a714fc/index.m3u8
-三立LIVE新闻,http://f8.apps8888.com:8080/live/4/6d823b340ed9e3c4cb6184ed3107125e/index.m3u8
-华视新闻,http://f8.apps8888.com:8080/live/6/edf05289645edf10d7b0d15062fd1c99/index.m3u8
-中视新闻,http://f8.apps8888.com:8080/live/7/9160e68e6ce9bb52cb266597ff99c14e/index.m3u8
-iNEWS,http://f8.apps8888.com:8080/live/8/1d3f83ca1c3c95c8d91a39b414cc3c38/index.m3u8
-民视新闻,http://f8.apps8888.com:8080/live/13/f9cf451336286357d02bf33c0081a208/index.m3u8
-东森新闻,http://f8.apps8888.com:8080/live/9/d05dc123ca493581ac98bea5491b7fa2/index.m3u8
-民视,http://ff.apps1818.com:8080/live/26/9db6367caf56e1265bc0b26ca0c81cc4/index.m3u8
-民视,http://ff.apps1818.com:8080/live/336/d81a60510844e9859a203834b2a11cfd/index.m3u8
-华视,http://ff.apps1818.com:8080/live/32/e5696fa7d3de6a0d0ca08e42c6d81e70/index.m3u8
-华视,http://ff.apps1818.com:8080/live/327/4b36669b376aaa78a95370c5a8e4038c/index.m3u8
-中视,http://ff.apps1818.com:8080/live/28/0f515d98673eee0264741580e79f068d/index.m3u8
-中视,http://ff.apps1818.com:8080/live/333/14388b4fc29b7083d08a6b57643fdc24/index.m3u8
-台视,http://ff.apps1818.com:8080/live/27/fa9f50f96c14baa46c3eade706c742e3/index.m3u8
-台视,http://ff.apps1818.com:8080/live/326/9bb69d4194cf3303d6315a27b612105f/index.m3u8
-公视,http://ff.apps1818.com:8080/live/86/8d205a5ec64514b9865179cccd5ccc39/index.m3u8
-公视,http://ff.apps1818.com:8080/live/361/200192a94a43dad195b8e848fcd14ec6/index.m3u8
-三立都会,http://ff.apps1818.com:8080/live/310/f8f663007fa7254a0340c598f7e26423/index.m3u8
-三立都会备,http://ff.apps1818.com:8080/live/38/27780231721f2b05c125add2a16b1290/index.m3u8
-三立台湾,http://ff.apps1818.com:8080/live/309/aa449611c4544732c3e1bb9ffdb38edf/index.m3u8
-三立台湾,http://ff.apps1818.com:8080/live/35/347d64b5cf4f65af7bddae38c52c730f/index.m3u8
-纬来综合,http://ff.apps1818.com:8080/live/340/7c2838f35ee5e21b460ee933ab42f05a/index.m3u8
-纬来日本,http://ff.apps1818.com:8080/live/337/bf5474ae2ac0f220559c36c582ea1428/index.m3u8
-纬来日本备,http://ff.apps1818.com:8080/live/46/9dc57837a5e1c44d6d4009f00b008f0d/index.m3u8
-东森综合,http://ff.apps1818.com:8080/live/67/2ddec5cb40bf6835b6d4a515784fa408/index.m3u8
-东森综合,http://ff.apps1818.com:8080/live/372/a040c38f78cc720b9778ace2abf96934/index.m3u8
-东森财经新闻,http://f8.apps8888.com:8080/live/12/fa39ef192478f9e0d3e460020baeb25b/index.m3u8
-JET综合备,http://ff.apps1818.com:8080/live/41/e2ca7adaa343f46ccadebbb1528d38dc/index.m3u8
-JET综合,http://ff.apps1818.com:8080/live/104/332336883e84eeec6595aee702b0561d/index.m3u8
-韩国娱乐台,http://ff.apps1818.com:8080/live/73/e491fc894d711985f82c3523a7c7ef4c/index.m3u8
-八大综合,http://ff.apps1818.com:8080/live/90/d39ffbf02546183935bb8fa8d1ecee64/index.m3u8
-八大综合,http://ff.apps1818.com:8080/live/94/1f9d01b326cbbd6c05610f7d4c04f916/index.m3u8
-八大第一,http://ff.apps1818.com:8080/live/318/27884002fda5d4dfe480d1de682a6e70/index.m3u8
-八大娱乐,http://ff.apps1818.com:8080/live/80/b92a6b7b4960e2ab0227c9620a428e42/index.m3u8
-八大娱乐,http://ff.apps1818.com:8080/live/1028/813f87ddf6e9173328eb6e81eeebed27/index.m3u8
-八大精彩,http://ff.apps1818.com:8080/live/1024/6b739364e928326ee80dd1e4b07da6d8/index.m3u8
-民视综艺,http://ff.apps1818.com:8080/live/98/0f6cb338b08e13e44d95c513b1c622bd/index.m3u8
-ELTA娱乐台,http://ff.apps1818.com:8080/live/351/ec30b88cc14404086ce8cb264cafc08f/index.m3u8
-猪哥亮歌厅秀,http://ff.apps1818.com:8080/live/75/f191668c5016d3f3cfa810c825f90051/index.m3u8
-TVBS,http://ff.apps1818.com:8080/live/88/0a4288c32db68b04f27fca37edeb8a16/index.m3u8
-TVBS综合,http://ff.apps1818.com:8080/live/16/c559aab2fefe75ac898d4bfba875412e/index.m3u8
-TVBS精采,http://ff.apps1818.com:8080/live/66/6bc54710a44a8304ab570267760af298/index.m3u8
-TVBS欢乐台,http://ff.apps1818.com:8080/live/40/6778a962847997567ffc67cf3bc6630d/index.m3u8
-靖天日本,http://ff.apps1818.com:8080/live/108/cd537c7664fc2f8c04067c75cf10196c/index.m3u8
-民视台湾,http://ff.apps1818.com:8080/live/36/ba88081cf3ca9e91be0b9ae965a0fe00/index.m3u8
-国兴卫视,http://ff.apps1818.com:8080/live/105/647cfe58f2bd057144b9a30b5744ea91/index.m3u8
-中天娱乐备,http://ff.apps1818.com:8080/live/74/d7a8336baccd1532a5c217db16189765/index.m3u8
-纬来育乐,http://ff.apps1818.com:8080/live/312/ed4dbb44f0e1f347a7d1609842d44037/index.m3u8
-中天亚洲,http://ff.apps1818.com:8080/live/322/8b460567d542bdd4fe57f93c2cd737f0/index.m3u8
-星卫娱乐,http://ff.apps1818.com:8080/live/89/8d979785d797269c49e7ec4c55fb5e80/index.m3u8
-中天综合,http://ff.apps1818.com:8080/live/325/64d5757f6097b61dbc0671e46a91fa67/index.m3u8
-中天娱乐,http://ff.apps1818.com:8080/live/324/17fd404aebce33e1fb35a100596304a0/index.m3u8
-中天综合备,http://ff.apps1818.com:8080/live/54/db933896bffbde4c696abb6cb9f24d93/index.m3u8
-VTV4,http://ff.apps1818.com:8080/live/341/a8e85a8f1179eb73340c8a7344c6da80/index.m3u8
-龙翔时代,http://ff.apps1818.com:8080/live/373/b50cb11772afaebe714dd10a8232565f/index.m3u8
-龙翔时代备,http://ff.apps1818.com:8080/live/51/0d6327b7c632227c1fe31e818005464b/index.m3u8
-鸿基电视,http://ff.apps1818.com:8080/live/315/3aee7111f24ab6ad447c412c0c94721e/index.m3u8
-星卫娱乐,http://ff.apps1818.com:8080/live/320/57cd354521cce3b2027783a4c92265a2/index.m3u8
-龙华经典,http://ff.apps1818.com:8080/live/364/b0c8a3ee737cc87456a3813e235fb4d4/index.m3u8
-民视台湾,http://ff.apps1818.com:8080/live/1027/a60c0db7396f7ab275997f9f734549be/index.m3u8
-大爱一台,http://ff.apps1818.com:8080/live/11/a6381264f3f43eed21aaddbc3d636ce5/index.m3u8
-人间卫视,http://ff.apps1818.com:8080/live/101/9037aa184dcf79b253cbc8fb375b523d/index.m3u8
-纬来育乐,http://ff.apps1818.com:8080/live/338/86a222b3d4c739cd37042c885059537e/index.m3u8
-龙华偶像,http://ff.apps1818.com:8080/live/347/36447b3fbdf662d2cd148b263e98aa7d/index.m3u8
-民视第一台,http://ff.apps1818.com:8080/live/34/318adb8595be889bb5cd9cc506e668a8/index.m3u8
-信吉电视,http://ff.apps1818.com:8080/live/1137/40e374c2d802fc67959a8d01a162c32b/index.m3u8
-达文西频道,http://ff.apps1818.com:8080/live/68/38157709656be449a3d83f592e30d88d/index.m3u8
-Outdoor Channel,http://ff.apps1818.com:8080/live/65/ae25922a4d3fe455e3f08bedbc24ca4d/index.m3u8
-Travel Channel,http://ff.apps1818.com:8080/live/63/da9e43c4a6d4f5a9ded6eebfe559a329/index.m3u8
-MTV,http://ff.apps1818.com:8080/live/106/80ecb195d32519224705435a7c4d9f83/index.m3u8
-LUXE,http://ff.apps1818.com:8080/live/112/bb13a9306c83450b7e967bc112f8781f/index.m3u8
-法国时装,http://ff.apps1818.com:8080/live/113/49910b3be4f4f8bcec00e533fe529487/index.m3u8
-TLC旅游生活,http://f8.apps8888.com:8080/live/1124/ed877323c49233bbb2419090bace50cd/index.m3u8
-动物星球,http://f8.apps8888.com:8080/live/1125/fe3f44d83db01b43ae538dd057f06350/index.m3u8
-国家野生,http://f8.apps8888.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
-国家地理,http://f8.apps8888.com:8080/live/1037/e4f0070166703dd946cf334fae17ae11/index.m3u8
-探索EVE,http://f8.apps8888.com:8080/live/1036/c565c5c18d41c385f917b3371c5b4595/index.m3u8
-探索频道,http://f8.apps8888.com:8080/live/1035/f432bf7b1b0abcbc332a8b1416c9b431/index.m3u8
-TLC旅游生活,http://f8.apps8888.com:8080/live/102/64ff2aecf85726e1825b13c96806faf3/index.m3u8
-美食星球,http://f8.apps8888.com:8080/live/367/43fa95d600bcd596955302f7eeb436eb/index.m3u8
-亚洲美食,http://f8.apps8888.com:8080/live/374/20ed8408d5ab7314f7034b444f2e24a8/index.m3u8
-动物星球,http://f8.apps8888.com:8080/live/368/8fd89098988c05ec516fbea2a817fd90/index.m3u8
-Discovery,http://f8.apps8888.com:8080/live/91/174227391fc61821c11637d71de86848/index.m3u8
-探索科学,http://f8.apps8888.com:8080/live/343/48e9a1b2445a43a0fb8e7a5b74662e02/index.m3u8
-国家地理,http://f8.apps8888.com:8080/live/302/faad72636ddbcc746eca505497f469a5/index.m3u8
-国家人文,http://f8.apps8888.com:8080/live/334/f0e4f23cd2bafb85c1f69d38e40a968f/index.m3u8
-国家地理,http://f8.apps8888.com:8080/live/335/c3a48a9a1fc817e2a425ffcfb05f606a/index.m3u8
-EVE旅游,http://f8.apps8888.com:8080/live/111/22a58904071bdbb3a2075f96b7643ddf/index.m3u8
-国家地理悠人,http://f8.apps8888.com:8080/live/114/27fa595f8e4b8f97cfbe360ee531cfdb/index.m3u8
-History,http://f8.apps8888.com:8080/live/116/1ca79c54ec6ec0380a5d07e10ecf4f31/index.m3u8
-History 2,http://f8.apps8888.com:8080/live/115/551892ab86e2d80b2e080b0d9e80b570/index.m3u8
-幸福空间居家,http://ff.apps1818.com:8080/live/61/4c6a611bbb83f620400d056d36499329/index.m3u8
-FRANCE 24,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610334/ei/_jv8XpCkJZr8kgakjLDQAg/ip/198.255.103.2/id/v_k83pJBRwI.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5meknzl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/hA/mm/44/mn/sn-a5meknzl/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588615/sparams/expire
-DW News,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593609422/ei/bjj8XpKwOZGskgbbzJvoBQ/ip/198.255.103.2/id/NvqKZHpKs-g.500/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5mlrn76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4090/mh/47/mm/44/mn/sn-a5mlrn76/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593587716/sparams/expire
-CBN News,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610023/ei/xzr8Xqe3FZeikgaDorjgCA/ip/198.255.103.2/id/AJ1V00eut3s.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5mlrnek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/Nx/mm/44/mn/sn-a5mlrnek/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588315/sparams/expire
-美国唐人街台,http://f8.apps8888.com:8080/live/43/628cd164c087d10f3fb64c38cfe6ecdf/index.m3u8
-新唐人亚太台,http://f8.apps8888.com:8080/live/10/f7240af7b6bf444cf2eef555a6917dff/index.m3u8
-HBO,http://f6.apps8888.com:8080/live/464/ce6b2e2921e4fe380c1d2c7424adce02/index.m3u8
-HBO HD,http://f8.apps8888.com:8080/live/332/cf4f03d48be60e675131d45664df6950/index.m3u8
-HBO Hits,http://f8.apps8888.com:8080/live/330/f698988a027458715f68e7d437300337/index.m3u8
-HBO Family,http://f8.apps8888.com:8080/live/331/90fd4ca7a2bfe7f36f762c56b1c36110/index.m3u8
-HBOSignature,http://f8.apps8888.com:8080/live/329/438602d3a510b56efe8e9b80ef40ed9f/index.m3u8
-FOX,http://f8.apps8888.com:8080/live/384/cf3fbe0afcc136a656a7f477948de254/index.m3u8
-FOX MOVIES,http://f8.apps8888.com:8080/live/387/177934e3bdd6d4f1921f249f9e2cddda/index.m3u8
-FOX CRIME,http://f8.apps8888.com:8080/live/386/0a43b578df70f48e754432f41fb3c0ef/index.m3u8
-FOX Family,http://f8.apps8888.com:8080/live/383/74ac6f0c438d2c2dc5a3ac65dd5dc975/index.m3u8
-FOX ACTION,http://f8.apps8888.com:8080/live/385/393e0f8c8bf01fbaf860209d1184956d/index.m3u8
-CineMAX,http://f8.apps8888.com:8080/live/346/e5190ee8aab10f5823a75703f0264171/index.m3u8
-AXN,http://f8.apps8888.com:8080/live/103/f2fe552d805f01a1b14d93248c38d64d/index.m3u8
-Sony Sab,http://f6.apps8888.com:8080/live/475/9f7a01ea7ac54578edc378430f8d2a8f/index.m3u8
-Sony,http://f6.apps8888.com:8080/live/483/dd7dadb03ae62b5945042f9255be78ad/index.m3u8
-Sony Max,http://f6.apps8888.com:8080/live/477/2b00a5adfb24977a9075ee1e47101f25/index.m3u8
-东森电影,http://f8.apps8888.com:8080/live/350/8760600db7b382e151248ab60f736abf/index.m3u8
-东森洋片,http://f8.apps8888.com:8080/live/1128/914728f3dce09f62b3fb5e4e2b9ed5ba/index.m3u8
-卫视电影,http://f8.apps8888.com:8080/live/93/3b067c48b10b6567d192b941136327c7/index.m3u8
-星卫电影,http://f8.apps8888.com:8080/live/84/1713404f5d835eba50fc2db9a37091ef/index.m3u8
-东森戏剧,http://f8.apps8888.com:8080/live/321/2c61304bdb45af770c41e45704fb05af/index.m3u8
-采昌影剧,http://f8.apps8888.com:8080/live/62/8ba7ffa1bda86eaa81d9d00c4975065e/index.m3u8
-靖天映画台,http://f8.apps8888.com:8080/live/349/281629290be04b3e450b22adf0aae557/index.m3u8
-星卫电影,http://f8.apps8888.com:8080/live/496/8ada27fbbed8eb32975ac67dca0bfa80/index.m3u8
-影迷数位电影,http://f8.apps8888.com:8080/live/497/963c25452e9eaf5e20916671e008b857/index.m3u8
-纬来电影,http://f8.apps8888.com:8080/live/96/899491ff441530ddda580e0017a32290/index.m3u8
-华纳电影,http://f8.apps8888.com:8080/live/83/b19400f9620ba5e244c3b916b3837630/index.m3u8
-美亚电影,http://f8.apps8888.com:8080/live/375/4a1cba68d2574183b843759180291da7/index.m3u8
-好莱坞电影,http://f8.apps8888.com:8080/live/37/cecaf4fb701d27e6c52ad04d3b882c62/index.m3u8
-纬来戏剧,http://f8.apps8888.com:8080/live/339/f0d245255f5a3eb866e0836c355b7a07/index.m3u8
-三立戏剧,http://f8.apps8888.com:8080/live/311/a1e1fbc10462c95c90c3525165806d7b/index.m3u8
-八大戏剧,http://f8.apps8888.com:8080/live/100/13799c5f2acb0d5ea7ff67bbcb751850/index.m3u8
-八大戏剧,http://f8.apps8888.com:8080/live/81/5b28e509637ff8c16af558f66ce1cd9b/index.m3u8
-靖洋戏剧,http://f8.apps8888.com:8080/live/319/3a073478cb5465a87ae33978e21b954c/index.m3u8
-三立戏剧,http://f8.apps8888.com:8080/live/64/d1fa857ce919469e771b14a37a935b7c/index.m3u8
-龙华偶像备,http://f8.apps8888.com:8080/live/82/f69642a7afb13730c5081131b1dd3eeb/index.m3u8
-龙华戏剧,http://f8.apps8888.com:8080/live/365/c3664035646991e81a956f38b6ab09cc/index.m3u8
-卫视西片,http://f8.apps8888.com:8080/live/369/a37970cff9a750751cf2aa5b91631b1e/index.m3u8
-靖天电影,http://f8.apps8888.com:8080/live/110/be9a6e6a472e36d90a10417059e25b65/index.m3u8
-公视戏剧,http://ff.apps1818.com:8080/live/69/851fbc8beeb0726bb5bbcb58f4229fd4/index.m3u8
-纬来体育,http://f8.apps8888.com:8080/live/52/b7865f0c9fd24cc6d0382b187ddfc8dd/index.m3u8
-纬来体育,http://f8.apps8888.com:8080/live/301/f009a5d9e574f7fcdbc92a8f97d169a5/index.m3u8
-FOX Sport 1,http://f8.apps8888.com:8080/live/1131/1cb9e58fcf55072c036d832a44e9b8f7/index.m3u8
-FOX Sport 2,http://f8.apps8888.com:8080/live/1132/53105767930fbd23d7430d88af8ad544/index.m3u8
-Eleven Sport 1,http://f8.apps8888.com:8080/live/1133/90dc6be178ff4e9a970068c1f2d00a5b/index.m3u8
-Z频道,http://f8.apps8888.com:8080/live/1130/eab92b8b64bab42ef0b54967cb97c2b8/index.m3u8
-FOX体育2,http://f8.apps8888.com:8080/live/388/a31de67631b48c8efd263e31a2646f89/index.m3u8
-FOX体育3,http://f8.apps8888.com:8080/live/389/86039028d98be8bbe8f0d33b55f29738/index.m3u8
-皇马足球,http://f8.apps8888.com:8080/live/20/43350f059975f7b66f25efb8fd9d9f2e/index.m3u8
-博斯无线,http://f8.apps8888.com:8080/live/381/1550a199bf604d0a9ad36636a22a8127/index.m3u8
-博斯高球1,http://f8.apps8888.com:8080/live/377/753e97acad4f1712b23429248cdbb304/index.m3u8
-博斯高球2,http://f8.apps8888.com:8080/live/378/433e33d2f6fdb67386e563c35be02f67/index.m3u8
-博斯魅力,http://f8.apps8888.com:8080/live/175/86e32d808385597205ca349ceabec871/index.m3u8
-博斯魅力,http://f8.apps8888.com:8080/live/382/0a6ba1271b6b0489701fc37d09fbf70b/index.m3u8
-爱尔达体育,http://f8.apps8888.com:8080/live/376/ac23ee77b105ef05550fe2012d35fbcd/index.m3u8
-博斯运动1,http://f8.apps8888.com:8080/live/379/d6e4a7ea162d3448035ed92bfb9cb8fb/index.m3u8
-博斯运动2,http://f8.apps8888.com:8080/live/380/318626cbad2799f1827523bb0b9b1961/index.m3u8
-bein体育1,http://f8.apps8888.com:8080/live/417/a76f0fdd822b85a96aaa18f97c3ad002/index.m3u8
-bein体育2,http://f8.apps8888.com:8080/live/418/a1804c046de0e631e7fab14e3c9e7132/index.m3u8
-bein体育3,http://f8.apps8888.com:8080/live/419/18f69d6cab7f5bba816b5d137c7abcf7/index.m3u8
-Baby TV,http://f8.apps8888.com:8080/live/1129/edb1931c5168e05fcb687322d11e4a53/index.m3u8
-MOMO亲子,http://f8.apps8888.com:8080/live/1126/32f5a0c8b8d25a991083bb478413e994/index.m3u8
-东森亚洲幼幼,http://f8.apps8888.com:8080/live/1127/9ab56edca6ff493249d45bf862d37f0a/index.m3u8
-Animax,http://f8.apps8888.com:8080/live/59/eead4b06fee86af7316f89e1fd5e8b66/index.m3u8
-曼迪日本,http://f8.apps8888.com:8080/live/316/a3cae3546bc4abb8d3535dd1523d1490/index.m3u8
-BabyFirst,http://f8.apps8888.com:8080/live/173/12269a9dc10ddfceaad26e7c867485ef/index.m3u8
-靖洋卡通台,http://f8.apps8888.com:8080/live/348/672f3f6d2047e25f4204571bfc017a0f/index.m3u8
-Nick儿童,http://f8.apps8888.com:8080/live/50/12e09db9316b5dd470b8d1d414e796c8/index.m3u8
-KIDS,http://ff.apps1818.com:8080/live/342/5dcfa23ee73bb68caa2e13c2bc2eb295/index.m3u8
-Treehouse,http://f8.apps8888.com:8080/live/55/7a3f560538270dc06b7111ba21f7a021/index.m3u8
-Nickelodeon europe,http://f8.apps8888.com:8080/live/56/a54dc97c1d8cccc0f7b56348489615b4/index.m3u8
-Nickj,http://f8.apps8888.com:8080/live/53/9f4d1274d80db7ed34cb6c9dbf9411b6/index.m3u8
-Disney,http://f8.apps8888.com:8080/live/5/334bb1246f6cdfd81a3bb846731fbc7c/index.m3u8
-Disneyxd,http://f8.apps8888.com:8080/live/31/7e12fad684424c52421f487ac752dacb/index.m3u8
-Disneyj,http://f8.apps8888.com:8080/live/47/6d8a8142f0b9f90b8595d50a117ab5d1/index.m3u8
-Boomerang,http://f8.apps8888.com:8080/live/57/acba6b7308c0fb9a142b9e8ab0df63ab/index.m3u8
-Universalkids,http://f8.apps8888.com:8080/live/58/9e3e5c2d810ee276059f6c6b69305a92/index.m3u8
-Cartoon,http://f8.apps8888.com:8080/live/48/13ba1d1e1e85d50bc2d915742d747e85/index.m3u8
-东森幼幼,http://f8.apps8888.com:8080/live/371/7b0d83c5588b7f8533ae761a140ef1f2/index.m3u8
-MOMO亲子台,http://f8.apps8888.com:8080/live/60/47f3765a7f1c5eb3e46e4456cbddbe30/index.m3u8
-龙华动画,http://f8.apps8888.com:8080/live/366/70a4f5f3e3213591ab1478ec8e0bb46f/index.m3u8
-JapaNews24,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593598505/ei/yQ38XtyzK9qakwaFzoPgCQ/ip/198.255.103.2/id/coYw-eVU0Ks.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-a5m7lnlz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3660/mh/Nc/mm/44/mn/sn-a5m7lnlz/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593576794/sparams/expire
-jsport1,http://f4.apps8888.com:8080/live/129/5e6b2c5606ce5f98749719e4f0a44a44/index.m3u8
-jsport2,http://f4.apps8888.com:8080/live/130/ab6bb10293afd4a222eb55c3c53229ae/index.m3u8
-jsport3,http://f4.apps8888.com:8080/live/131/470778bce8d646fdd05ca2e7e6b46d7a/index.m3u8
-jsport4,http://f4.apps8888.com:8080/live/132/30e4210ae0fc7ec2647c5aee947d1948/index.m3u8
-BS-JAPAN,http://f4.apps8888.com:8080/live/243/548dbeb89c7ecdb6c2b4720d692e1ab5/index.m3u8
-日本映画専门,http://f4.apps8888.com:8080/live/246/0445bd876254fa231d26cf5b92a15598/index.m3u8
-日テレG,http://f4.apps8888.com:8080/live/248/a5e006ae1d93fccab14346c98a6c4fd3/index.m3u8
-时代剧の専门家,http://f4.apps8888.com:8080/live/287/16363aa02d98d24f4d2118e647030e3e/index.m3u8
-KIDS,http://f4.apps8888.com:8080/live/289/c9df937127f1db8bbeb1d6b490264510/index.m3u8
-朝日放送,http://f4.apps8888.com:8080/live/237/be831de4f874e54505f1c625b6ea0aca/index.m3u8
-SKY A,http://f4.apps8888.com:8080/live/247/b38f9d5df594a7dcfedf61559780d5bc/index.m3u8
-読売テレビ,http://f4.apps8888.com:8080/live/198/f725761c487c327d8e26b51630fc510c/index.m3u8
-毎日放送,http://f4.apps8888.com:8080/live/199/9914788cf8b896f4ead2ca4da55a9a03/index.m3u8
-サンテレビ,http://f4.apps8888.com:8080/live/238/c5ea6d43ccb41f0990d987e3fa030341/index.m3u8
-BSプレミアム,http://f4.apps8888.com:8080/live/239/ad74ec6f4e1dd3b7461b49e9e72f11fd/index.m3u8
-BS日テレ,http://f4.apps8888.com:8080/live/240/1a001dfdb432e5d09f9c3b6280a28649/index.m3u8
-BS朝日,http://f4.apps8888.com:8080/live/241/dec4f1647f9ca9cc0770e1b9f8029244/index.m3u8
-GREEN,http://f4.apps8888.com:8080/live/245/9febbc2c6fe7c5129e7e70ed09115dbc/index.m3u8
-関西テレビ,http://f4.apps8888.com:8080/live/235/9fa12ac8c5493e653715b2ebb412c940/index.m3u8
-BS-TBS,http://f4.apps8888.com:8080/live/242/9d70438febf9c91a97c4ed2a9e918404/index.m3u8
-Golf Network,http://f4.apps8888.com:8080/live/249/57d8b35b942b6e388263afe29f9e58e7/index.m3u8
-BS-FUJI,http://f4.apps8888.com:8080/live/244/af9a54c887d1db1842e05e8749b4105d/index.m3u8
-ム一ビ一プラス,http://f4.apps8888.com:8080/live/295/24f578a1f835137f356e39949e57e7fa/index.m3u8
-旅TABI,http://f4.apps8888.com:8080/live/294/924df08e656980c959605978a5f77f3a/index.m3u8
-NTV News24,http://f4.apps8888.com:8080/live/42/face1b357327ab3623e072d53cdce04a/index.m3u8
-Japan Channel DX,http://f4.apps8888.com:8080/live/39/be25928ea4edc5766dbb176d29ecbdf7/index.m3u8
-GaoRa,http://f4.apps8888.com:8080/live/296/1eff6a6788536fc59e1382e57ba75948/index.m3u8
-NTV,http://f4.apps8888.com:8080/live/119/d9b1e0857f1bb4c531cd09c001903349/index.m3u8
-NHK World,http://f4.apps8888.com:8080/live/117/9bea67679c3149c3921f243feeae1ba9/index.m3u8
-NHKE,http://f4.apps8888.com:8080/live/120/2ad8c0394830d950213af7f9db1e8b75/index.m3u8
-NHK-G,http://f4.apps8888.com:8080/live/121/0e137751d0adc6bea87e000115321a96/index.m3u8
-tvtokyo,http://f4.apps8888.com:8080/live/123/39b61766759c77950131c7a0df3f54c2/index.m3u8
-FU JI,http://f4.apps8888.com:8080/live/122/b5c8f2c6f3f73604b32aab8efc53666e/index.m3u8
-TBS,http://f4.apps8888.com:8080/live/124/220d69f9d83a3be76b439654ca7a6ac3/index.m3u8
-大阪TV,http://f4.apps8888.com:8080/live/126/f447f2b253d97d447c8fe4edc08dca7e/index.m3u8
-ABC朝日,http://f4.apps8888.com:8080/live/127/0c78b55b053cf265b989dab2c276f557/index.m3u8
-bs1,http://f4.apps8888.com:8080/live/128/51f984cc7f92f3af2bcfa4ac0e432073/index.m3u8
-wowo1,http://f4.apps8888.com:8080/live/133/1f22a97bedf0d8b4c0470cd730d1f2ea/index.m3u8
-wowo2,http://f4.apps8888.com:8080/live/134/b59954ccf61df813d8ee0ea9c3129b17/index.m3u8
-wowo3,http://f4.apps8888.com:8080/live/135/ec3bc9ab3dee42b43d449a927cad3e0d/index.m3u8
-STAR1,http://f4.apps8888.com:8080/live/136/76eab331ca8e32056bbcddfae17bc52c/index.m3u8
-STAR2,http://f4.apps8888.com:8080/live/137/fcdfa7b375b2d23d8ddce5ddd1fe948c/index.m3u8
-STAR3,http://f4.apps8888.com:8080/live/138/3221cbe8f4752ad71b8085d2b2b48d3a/index.m3u8
-animax,http://f4.apps8888.com:8080/live/139/8f0b53ed92e897b8b06e55207e16e08c/index.m3u8
-Green,http://f4.apps8888.com:8080/live/140/28a2a3c6cbba4d151e34cca26071d50d/index.m3u8
-Discovery,http://f4.apps8888.com:8080/live/290/7f5a0a9a6f8bb0f28cf4dcd2d2eb5463/index.m3u8
-HISTORY,http://f4.apps8888.com:8080/live/291/1fba61c063c035f61cb1bef4bb29c474/index.m3u8
-TBSニュ-ス,http://f4.apps8888.com:8080/live/293/dc6583c4220a13981f1b2a3e6783de93/index.m3u8
-ファミリ一剧场,http://f4.apps8888.com:8080/live/298/bed4879fb7e80a2f8943401f72ba67f5/index.m3u8
-National Geographic,http://f4.apps8888.com:8080/live/292/dbff50926835f95160a937fb5d5b6420/index.m3u8
-MUSIC JAPAN,http://f4.apps8888.com:8080/live/288/029e91b93c2de846581bec4dc56424b8/index.m3u8
-LaLa TV,http://f4.apps8888.com:8080/live/297/4977562c842f02366ca8d6e4a305020b/index.m3u8
-tv asahi,http://f4.apps8888.com:8080/live/125/df6e856d180191395610cc8b2ed80e09/index.m3u8
-映画专门,http://f4.apps8888.com:8080/live/118/763f76f96c19e858ba1567af2b801577/index.m3u8
-????TV,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593598386/ei/Ug38XuXyAZiZkwautbLgBQ/ip/198.255.103.2/id/oul5ldEUbHk.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5mlrnez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4040/mh/U_/mm/44/mn/sn-a5mlrnez/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593576734/sparams/expire
-KBS WORLD 24,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593598388/ei/VA38XoDNK4mbkwaJ263IAg/ip/198.255.103.2/id/4gwqZYZ-OSw.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-a5meknll.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/us/vprv/1/playlist_type/DVR/initcwndbps/4040/mh/Fj/mm/44/mn/sn-a5meknll/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/mt/1593576674/sparams/expire
-KBS1,http://f5.apps8888.com:8080/live/174/1b6ddee96e3237752e632f0a9d65d2ca/index.m3u8
-KBS2,http://f5.apps8888.com:8080/live/250/05f2d2a4895b3b99eab0b8e2ef5bbc06/index.m3u8
-MBC,http://f5.apps8888.com:8080/live/251/338cac8ec89e16f17fd2d403fc8654a8/index.m3u8
-SBS,http://f5.apps8888.com:8080/live/252/e2061d106d036d76cd89eb07d44c4c16/index.m3u8
-JTBC,http://f5.apps8888.com:8080/live/253/a0edf886440a96899e6c7e4c805ef34a/index.m3u8
-TVN,http://f5.apps8888.com:8080/live/254/d8fbfbe70cae4fa5b103e1bc7609ca4b/index.m3u8
-YTN,http://f5.apps8888.com:8080/live/255/7f33b1ae8ee19f7a145628315523c9c1/index.m3u8
-TV??,http://f5.apps8888.com:8080/live/256/58d55509b809f4840a437d3f33d49849/index.m3u8
-MBN,http://f5.apps8888.com:8080/live/257/3c3c4b5f4e26f6c552ec5b069921395f/index.m3u8
-??A,http://f5.apps8888.com:8080/live/258/f4818df57a46ee0b07a71c8fa732fea2/index.m3u8
-????TV,http://f5.apps8888.com:8080/live/259/016385603e30bb3881af4c397da92ceb/index.m3u8
-KBS???,http://f5.apps8888.com:8080/live/260/9d1f55acd6d8bb4792a8b89c2f554856/index.m3u8
-MBC???,http://f5.apps8888.com:8080/live/261/d64c83d95a131dd56d13c5913e5424d3/index.m3u8
-SBS PLus,http://f5.apps8888.com:8080/live/262/ed5730f999c582f7f63fbfceb6e77cef/index.m3u8
-SBS???,http://f5.apps8888.com:8080/live/263/f0d765d609219c23577df9e1aa2bf0bd/index.m3u8
-KBSN???,http://f5.apps8888.com:8080/live/264/cf34ddb75c9a6e3f83da5690a478a7c1/index.m3u8
-MBC???+,http://f5.apps8888.com:8080/live/265/bcce89fe20117084350198c92227c476/index.m3u8
-Spotv,http://f5.apps8888.com:8080/live/266/1df685fceb99e35c94444da12a24e265/index.m3u8
-JTBC??,http://f5.apps8888.com:8080/live/268/183b0e7527bca2f57ea729633b5e6212/index.m3u8
-CGV,http://f5.apps8888.com:8080/live/492/4e658ebe5fbf8abe00d80a64897a6aad/index.m3u8
-OCN,http://f5.apps8888.com:8080/live/488/d44d9104580996114ec667e73400de09/index.m3u8
-iNet,http://f5.apps8888.com:8080/live/490/6e3254c8e35efb299c84a09171dd7d22/index.m3u8
-CTS,http://f5.apps8888.com:8080/live/491/faf9fc29d50fc10473c3c8bf4818e785/index.m3u8
-Spotv2,http://f5.apps8888.com:8080/live/267/5705a546ff5b38e67b0e153d98e84f97/index.m3u8
-Tooniverse,http://f5.apps8888.com:8080/live/1020/b111739ac7d67933abe90688a2359124/index.m3u8
-Disney,http://f5.apps8888.com:8080/live/489/48bd5cf15c6df0610d69432184940597/index.m3u8
-CBS,http://f5.apps8888.com:8080/live/493/5d8b7cc7996d6d0d06b37284e6adb9db/index.m3u8
-SBS??,http://f5.apps8888.com:8080/live/486/6e01229b9769b434441c183da3edd8d3/index.m3u8
-On Style,http://f5.apps8888.com:8080/live/487/25fb3536f0877228b4cd25a538abd2ab/index.m3u8
-FTV,http://f5.apps8888.com:8080/live/1134/f0e12f09fc81f1cbf4d0dee238e7510f/index.m3u8
-围棋,http://f5.apps8888.com:8080/live/1135/43a5630bc6e5460d1c4d6ad1bb932492/index.m3u8
-Mnet,http://f5.apps8888.com:8080/live/1136/c23a991edec1b8f17330d013dd36f4fc/index.m3u8
-WGN9,http://f5.apps8888.com:8080/live/33/3ac5a84ca73d475272d1ccaf0cb0581a/index.m3u8
-ESPN-News,http://f5.apps8888.com:8080/live/148/76d61656a53d23ee943c6ffd848202b5/index.m3u8
-FOX-Sports1,http://f5.apps8888.com:8080/live/151/33a5dbd14435b19d1eb6705f7e0c3563/index.m3u8
-FOX-Sports2,http://f5.apps8888.com:8080/live/152/04a9f0b63529a9b3a7cfdd1fc0d540a4/index.m3u8
-NBC-HD,http://f5.apps8888.com:8080/live/154/d9a408cfa5d5e51e5166233c9025a023/index.m3u8
-NBC-Golf,http://f5.apps8888.com:8080/live/155/5e2ab625903f0dd8d2e2f032ed3b02a1/index.m3u8
-NBA-TV,http://f5.apps8888.com:8080/live/153/b78b52cd1c1356ba71a44a0fdb770a0e/index.m3u8
-ESPN-HD,http://f5.apps8888.com:8080/live/147/ef99ac9762e6fc2a0ccdf6ce20f1fbdc/index.m3u8
-TBS HD,http://f5.apps8888.com:8080/live/156/911c4df7113c3759c9554ec3b9def1b9/index.m3u8
-CBS HD,http://f5.apps8888.com:8080/live/144/dd4593ce9642ca95fa8c19ee634850cf/index.m3u8
-BET,http://f5.apps8888.com:8080/live/270/a05566e30a7561e33ec2c890c2e7f0b8/index.m3u8
-CBC-EAST,http://f5.apps8888.com:8080/live/272/c56c9ae8baad17765988d4d1a9d09d0d/index.m3u8
-OWN,http://f5.apps8888.com:8080/live/284/b0b2f7550135043059372528148ce71f/index.m3u8
-CHCH,http://f5.apps8888.com:8080/live/274/d38a94d5969ef222f8b4742201c88eec/index.m3u8
-CITY-TV,http://f5.apps8888.com:8080/live/275/5506f7f9da83b18c5459de315e1262d9/index.m3u8
-CP24,http://f5.apps8888.com:8080/live/276/5b83def8b458ebe4d56e4d77398b0e46/index.m3u8
-CTV,http://f5.apps8888.com:8080/live/278/8900590f0b582a91efd397d49d5dfb37/index.m3u8
-TVA FR,http://f5.apps8888.com:8080/live/281/adf1fa7af1fb075b3794ccb6a57d00e8/index.m3u8
-CTV-NEWS,http://f5.apps8888.com:8080/live/280/a872f621b967a637c5dafb39be626d97/index.m3u8
-CBC-NEWS-NETWORK,http://f5.apps8888.com:8080/live/273/27c34240344752be8329ceca96769df7/index.m3u8
-BNN,http://f5.apps8888.com:8080/live/271/e498de4f4cd04629096e89af9ffbf309/index.m3u8
-ABC-SPARK,http://f5.apps8888.com:8080/live/269/5a4cfd82af741c0d9f7358bf94a509e3/index.m3u8
-CPAC,http://f5.apps8888.com:8080/live/277/e38d71ea695f4c6dc8d3577fc45ffa11/index.m3u8
-TVO,http://f5.apps8888.com:8080/live/283/f8e0a0d738d923a4f653f3afba7b84a3/index.m3u8
-W-NETWORK,http://f5.apps8888.com:8080/live/286/c70534d76d08272313c405f443d7c286/index.m3u8
-OLN,http://f5.apps8888.com:8080/live/285/878ce6f824a4faf71350b5eac38b5ce7/index.m3u8
-CTV Atlantic,http://f5.apps8888.com:8080/live/279/95bef8dbeb01979513336683e407af9c/index.m3u8
-YTV,http://f5.apps8888.com:8080/live/282/f6e26981d6615060b93fb0408060e454/index.m3u8
-BT Sport 2,http://f6.apps8888.com:8080/live/166/b4b8eda99a3476833b90113b100c82ee/index.m3u8
-BT Sport 3,http://f6.apps8888.com:8080/live/167/5ff9ab4861ba39f586e354a1f96aedf1/index.m3u8
-BT Sport ESPN,http://f6.apps8888.com:8080/live/168/4a0170b4186074f9bca0ba2b95c6181e/index.m3u8
-BT Sport 1,http://f6.apps8888.com:8080/live/165/aecf654b65ddb14fbab997e0a8f7e90f/index.m3u8
-Euro Sport 1,http://f6.apps8888.com:8080/live/170/c23bef9c76fd73fcaa5e635e318cf40e/index.m3u8
-Euro Sport 2,http://f6.apps8888.com:8080/live/171/4c538a383626ff7989d36edd1c44c145/index.m3u8
-Sky Sports Mix,http://f6.apps8888.com:8080/live/172/965663b01b7324bcd6a1e7d4317cc4f3/index.m3u8
-Sky Sports MainEvent,http://f6.apps8888.com:8080/live/177/eca872878a69c9a18871c08dddc0692c/index.m3u8
-Sky Sports Action,http://f6.apps8888.com:8080/live/178/b2641afce74ad80e2e3e2d1217d8e03a/index.m3u8
-Sky Sports Cricket,http://f6.apps8888.com:8080/live/179/abd4fc598abbdca71dc08b1b277c5850/index.m3u8
-Sky Sports Golf,http://f6.apps8888.com:8080/live/180/f14d3bb6ad735e8fcf10f19e9bad935c/index.m3u8
-Sky Sports PremierLeague,http://f6.apps8888.com:8080/live/181/35a967b3a26d4c572596649a81ee3f42/index.m3u8
-Sky Sports F1,http://f6.apps8888.com:8080/live/182/365a166d94f0bec9ddde0129e88897bd/index.m3u8
-Sky Sports News,http://f6.apps8888.com:8080/live/183/9d409c394321b47b497dec027a987e48/index.m3u8
-Channel 4,http://f6.apps8888.com:8080/live/169/193ff511cec103478315e56b3224beb1/index.m3u8
-ITV 4,http://f6.apps8888.com:8080/live/160/15dc0479211829a69f6e41f721b69b31/index.m3u8
-ITV 3,http://f6.apps8888.com:8080/live/159/7655cb37406b79a416d9ea99337ce020/index.m3u8
-ITV 1,http://f6.apps8888.com:8080/live/157/5a06bf4a791035c4b5d023180fd16432/index.m3u8
-ITV 2,http://f6.apps8888.com:8080/live/158/d136cd56da5a2053dd6dcb4a15728f33/index.m3u8
-Discovery,http://f6.apps8888.com:8080/live/1045/64e4657e77e37d8c84282cb9c9548043/index.m3u8
-Dave,http://f6.apps8888.com:8080/live/1044/66da0006e405aee0c7b475e9c57a53bc/index.m3u8
-CNA 24,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593597665/ei/gQr8Xv-JJ5nRkgaHjaOYCg/ip/198.255.103.2/id/XWq5kBlakcQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-a5meknek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3760/mh/W6/mm/44/mn/sn-a5meknek/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/mt/1593575954/sparams/expire
-Astro Sp1,http://f6.apps8888.com:8080/live/444/4209cac5a5461a24d235e989b2806ea5/index.m3u8
-Astro Sp2,http://f6.apps8888.com:8080/live/445/9e6675af6151a7611738cfca90e3c9fc/index.m3u8
-Astro Sp3,http://f6.apps8888.com:8080/live/446/bd40808def0aa92c4bf39f14dcae406f/index.m3u8
-Astro Sp4,http://f6.apps8888.com:8080/live/447/dbfb11eab6061095fed3d21a749ec294/index.m3u8
-Astro Awani,http://f6.apps8888.com:8080/live/440/bed76245dadd6323116d52e8a6ea7d0f/index.m3u8
-Channel 8,http://f6.apps8888.com:8080/live/450/f282293fcddfa39ff013e69b02aff26f/index.m3u8
-天映频道HD,http://f6.apps8888.com:8080/live/441/b5d92c556e60a6fe666a7867fed250d2/index.m3u8
-全佳,http://f6.apps8888.com:8080/live/427/4b1b901e31996145f072f9aa063c09f2/index.m3u8
-kix,http://f6.apps8888.com:8080/live/430/a0a0fba058b6e23cbb58fcbf8cb5c14f/index.m3u8
-欢喜,http://f6.apps8888.com:8080/live/432/00503ee70ec15011806dd7e3c88f87e4/index.m3u8
-suria,http://f6.apps8888.com:8080/live/434/c46a3422e32e7cb2ac0691f8de0ae4af/index.m3u8
-双星,http://f6.apps8888.com:8080/live/431/72a91e6d3a7e2ba341bc51fc1be3906b/index.m3u8
-AEC,http://f6.apps8888.com:8080/live/433/d3c4f51d0c0fea0aae25237bbf9ddb35/index.m3u8
-华丽,http://f6.apps8888.com:8080/live/429/afbf2700dd28dfee7cff043db9ac3d5c/index.m3u8
-Channel 5,http://f6.apps8888.com:8080/live/449/e56ff5810f68da7b453d94fbfe78c3f8/index.m3u8
-TV1,http://f6.apps8888.com:8080/live/435/8bcbd2f626f7eb7884bb5ce5ebff7db5/index.m3u8
-TV2,http://f6.apps8888.com:8080/live/436/6130ac4f9cd727021975d48d7c8306a5/index.m3u8
-TV3,http://f6.apps8888.com:8080/live/437/2101e778d8d57ba194ec7236a992cef2/index.m3u8
-TV9,http://f6.apps8888.com:8080/live/438/50bee563fdc617f611ac0d01e30680de/index.m3u8
-NTV7,http://f6.apps8888.com:8080/live/439/87a475a57dfa4bf0fd15346ed22b057d/index.m3u8
-TV8,http://f6.apps8888.com:8080/live/442/f90246ed300f2a7d014c500004a0dc74/index.m3u8
-小太阳,http://f6.apps8888.com:8080/live/443/ea824db643bd8f8c5a84d74be4cd1668/index.m3u8
-AOD,http://f6.apps8888.com:8080/live/428/40a6d220fb9394e08447bbae1860846f/index.m3u8
-Channel U,http://f6.apps8888.com:8080/live/448/5a1e97f06d35a83139bfa7aa6502f2fc/index.m3u8
-HD,http://f6.apps8888.com:8080/live/1047/cfa68546a3d9f0153896e43ebd1d3bc4/index.m3u8
-4 Horas,http://f6.apps8888.com:8080/live/1048/a4e00e06fe38ed988aa5cade44a0f15c/index.m3u8
-A&E ES,http://f6.apps8888.com:8080/live/1049/20a06802c2b7d7596737c7bdf160bf35/index.m3u8
-AMC ES,http://f6.apps8888.com:8080/live/1050/aaf92a9299548924fa66584fa8906060/index.m3u8
-Antena 3,http://f6.apps8888.com:8080/live/1051/9959d8f04a7fea7d965908d3f4ba7537/index.m3u8
-Barca TV,http://f6.apps8888.com:8080/live/1052/ff15188b779aae10364db0e492e93e2b/index.m3u8
-Bein Sport,http://f6.apps8888.com:8080/live/1053/ffe6b20eb41d4245b5b83f57d8f21490/index.m3u8
-Boing,http://f6.apps8888.com:8080/live/1054/fec48a2f7ec407e24efc3230aeffe037/index.m3u8
-Calle 13,http://f6.apps8888.com:8080/live/1055/2c631a3dbb7c1cc32dd5664c33a8f4d6/index.m3u8
-M Action,http://f6.apps8888.com:8080/live/1056/2fd0c5c33fcab1618e1afe347f6454ed/index.m3u8
-M Deportes 2,http://f6.apps8888.com:8080/live/1057/7ae306d080d5cf37d7a9288c8a0826f6/index.m3u8
-M Deportes 1,http://f6.apps8888.com:8080/live/1058/8d49fab636be7feeed091a9fbc688fde/index.m3u8
-M Estrenos,http://f6.apps8888.com:8080/live/1059/26c560d9bcb82d287ea02c726362fbc6/index.m3u8
-M Futbol,http://f6.apps8888.com:8080/live/1060/75c151fecf3a4f3047ecbff7b0deda7d/index.m3u8
-M Golf,http://f6.apps8888.com:8080/live/1061/cdd9d0a2f0cb3914ea543dced6ef332a/index.m3u8
-M Series Xtra,http://f6.apps8888.com:8080/live/1062/52e8d70a1ae8f83715a01df49cb160f0/index.m3u8
-Toros,http://f6.apps8888.com:8080/live/1063/65ee44402ca550e89a9e8f2df6f80010/index.m3u8
-M Xtra,http://f6.apps8888.com:8080/live/1064/2cb03c246b0ba6778e6072b2680b392b/index.m3u8
-Cocina,http://f6.apps8888.com:8080/live/1065/2eb3bc2ed133d3e10974b5a3cfe35352/index.m3u8
-M Dcine,http://f6.apps8888.com:8080/live/1066/09af4ff7cc3b24ad4850d7672eb85d58/index.m3u8
-DeCasa,http://f6.apps8888.com:8080/live/1067/c303cb148c13e8b1ee003a4803dbbfdb/index.m3u8
-M SERIES HD,http://f6.apps8888.com:8080/live/1068/886221d9017b6f2bb02eb9e079fe48ad/index.m3u8
-M Formula 1,http://f6.apps8888.com:8080/live/1069/d05c6f44480a6fecddcd566cfc9c960a/index.m3u8
-Caza Y Pesca,http://f6.apps8888.com:8080/live/1070/a024b1a33274c7608795200deba777eb/index.m3u8
-Clan Tve,http://f6.apps8888.com:8080/live/1071/eb9868d1d77228039b37ad97287aa4b3/index.m3u8
-Comedy Central,http://f6.apps8888.com:8080/live/1072/b5c9518d4c94c0072504dbde828d8dd0/index.m3u8
-Cosmo,http://f6.apps8888.com:8080/live/1073/8cf0c6f991379e98659018b7bbe8d520/index.m3u8
-Cuatro,http://f6.apps8888.com:8080/live/1074/e2b3fbcaa563f2470713e7e3829aac76/index.m3u8
-Discovery ES,http://f6.apps8888.com:8080/live/1075/a271213fbdbfa83635917ac6f26c02b0/index.m3u8
-Disney ES,http://f6.apps8888.com:8080/live/1076/142ea346c7168b4e77cb4e13acf23dc2/index.m3u8
-Energy,http://f6.apps8888.com:8080/live/1077/3ccedff1f364d581334665f775a8ce14/index.m3u8
-Euro Sport 1,http://f6.apps8888.com:8080/live/1078/e9ce2b1b7063ee9c128e35e68e0a5901/index.m3u8
-Euro Sport 2,http://f6.apps8888.com:8080/live/1079/1289e96b648ee9202dddf8df27db5589/index.m3u8
-FDF,http://f6.apps8888.com:8080/live/1080/3625d819451bf50b9176ed15655b7507/index.m3u8
-Fox ES,http://f6.apps8888.com:8080/live/1081/c40dd007b052930267f176fb37910e00/index.m3u8
-GOL TV,http://f6.apps8888.com:8080/live/1082/88e585ea67e1e91af92db14105f84394/index.m3u8
-LA 1,http://f6.apps8888.com:8080/live/1083/501856cd621b9c7eb6a594aec84dbf53/index.m3u8
-LaLiga TV Bar,http://f6.apps8888.com:8080/live/1084/18994da2115910311b4b4008ed5fa1c4/index.m3u8
-La Sexta,http://f6.apps8888.com:8080/live/1085/b216ca54ffeb6ad17ed6e85cb63ac97f/index.m3u8
-NOVA,http://f6.apps8888.com:8080/live/1086/f57bbfc0366da64108701b4a22fb2626/index.m3u8
-Odisea,http://f6.apps8888.com:8080/live/1087/c9b7bc40d000157d0a6b0b7f5069ce73/index.m3u8
-TNT ES,http://f6.apps8888.com:8080/live/1088/4ba72e107d8924e6346793fd1433da6e/index.m3u8
-POP-Pataka,http://f6.apps8888.com:8080/live/25/37d8ce10ad02aed8acbe8de000bd2ea0/index.m3u8
-ZeeNews,http://f6.apps8888.com:8080/live/465/a6d26534f5c097d4bb7895083b53ea52/index.m3u8
-DD News,http://f6.apps8888.com:8080/live/463/bba218d8a7b816ba078f61a4361be1c2/index.m3u8
-TEN1,http://f6.apps8888.com:8080/live/466/3e0dd8f03e49104849a35dd12489cb42/index.m3u8
-TEN2,http://f6.apps8888.com:8080/live/467/477b275840816b7e0b034c977ac8d41b/index.m3u8
-TEN3,http://f6.apps8888.com:8080/live/468/72e8dd3624962776ba58f43538c6b612/index.m3u8
-And Pictures,http://f6.apps8888.com:8080/live/469/a6e4fd0e01d790577d9929fc173f3798/index.m3u8
-Colors HD,http://f6.apps8888.com:8080/live/470/3c0413a429f44b445efd2af57d1b9eb6/index.m3u8
-NDTV,http://f6.apps8888.com:8080/live/471/6f92868a3fda7443b05a615ad430363f/index.m3u8
-Zee Tamil,http://f6.apps8888.com:8080/live/472/4d16b7027a21c1947619e5f03eed0d58/index.m3u8
-India TV,http://f6.apps8888.com:8080/live/473/78d4967bfa13a58ad05ac80f1d9664a7/index.m3u8
-Sony Mix,http://f6.apps8888.com:8080/live/474/69ad2144a8c3943e03eec025b629f952/index.m3u8
-Star Movies,http://f6.apps8888.com:8080/live/478/f55566dd1627cb466272056c3f89e8be/index.m3u8
-Star Plus,http://f6.apps8888.com:8080/live/479/22266b74d2b98fc1af0dcde59d59e4cc/index.m3u8
-Zee Marathi,http://f6.apps8888.com:8080/live/480/bb0fcadf8d3966bcbd2914ba960c3ba7/index.m3u8
-Zee Studio,http://f6.apps8888.com:8080/live/481/1b8abd3bdca35bbdd6afe613039213cc/index.m3u8
-Zee TV,http://f6.apps8888.com:8080/live/482/f4ae075e557c9961fb3320b5c33c9611/index.m3u8
-Zee Cinema,http://f6.apps8888.com:8080/live/484/16311d2c4ed89c3e1341e694368ac3e1/index.m3u8
-Zee Classic,http://f6.apps8888.com:8080/live/485/5935722cfe787a93f890ac27d3369a8c/index.m3u8
-松视1,http://f6.apps8888.com:8080/live/402/92df1115eba6a3f5d775dd1318a8892f/index.m3u8
-松视2,http://f6.apps8888.com:8080/live/403/c8f4cc4e018664b818821a1856aa28fd/index.m3u8
-松视3,http://f6.apps8888.com:8080/live/404/4aed69e4c6e6d7addb7def002cbc861c/index.m3u8
-香蕉台,http://f6.apps8888.com:8080/live/408/5f7ae18976739f3c728e52ae18c2d5aa/index.m3u8
-潘朵拉完美,http://f6.apps8888.com:8080/live/410/4c9517eb6f9be64adefcd7d379be361c/index.m3u8
-潘朵拉粉红,http://f6.apps8888.com:8080/live/411/70a11494fe22f836502b17ccc23752a7/index.m3u8
-彩虹电影,http://f6.apps8888.com:8080/live/413/13ab9ba2d1c79b975c6b21c67a11df62/index.m3u8
-彩虹K,http://f6.apps8888.com:8080/live/406/2f14ce8f6d0c731486663532ee615e32/index.m3u8
-彩虹E,http://f6.apps8888.com:8080/live/405/fd8b8df02c2f3f79820cf80c39bde839/index.m3u8
-一本道,http://f6.apps8888.com:8080/live/414/669d8f9940d61520e27d65cfcce57994/index.m3u8
-二本道,http://f6.apps8888.com:8080/live/415/9d50aaef327e3cbeddd09870c322581b/index.m3u8
-东京热,http://f6.apps8888.com:8080/live/416/239249c54a9f4176469b48a3891a5a05/index.m3u8
-HOT,http://f6.apps8888.com:8080/live/407/d9222c50f878e95ab5097b73dcb0c9fb/index.m3u8
-happy,http://f6.apps8888.com:8080/live/412/cff2e4a302d15b51021413afc0e1e9f5/index.m3u8
-惊艳台,http://f6.apps8888.com:8080/live/409/f307e52d6025a869c80d347b1793f4ac/index.m3u8
-Erox HD,http://f6.apps8888.com:8080/live/456/297a932a0419ff05f088d9f287473ade/index.m3u8
-Dorcel HD,http://f6.apps8888.com:8080/live/454/411d1a1b24086ec3bd231af6968ffb67/index.m3u8
-Babes TV HD,http://f6.apps8888.com:8080/live/458/ec21dcf35851b42b1dc2578da0d5a098/index.m3u8
-Hustler HD,http://f6.apps8888.com:8080/live/451/1dc3e7113db11974e47eb11ea6d2dbd4/index.m3u8
-SCT Classic,http://f6.apps8888.com:8080/live/462/e5110e4b839df0cd374d0de74f775d40/index.m3u8
-Redlight HD,http://f6.apps8888.com:8080/live/452/d6ace6331b534d1169c7f6f22326b508/index.m3u8
-SEX ATION HD,http://f6.apps8888.com:8080/live/459/f836de6ef2634f7ca951046c7c300be8/index.m3u8
-Super One HD,http://f6.apps8888.com:8080/live/457/c48394435846b2494d93bf37dcc306a7/index.m3u8
-Prvate TV,http://f6.apps8888.com:8080/live/453/a29551ad5110ba47220e9b5c57afbd8d/index.m3u8
-Passie,http://f6.apps8888.com:8080/live/461/bcf2bf2bf8f046a83b81ff30ace5b9e0/index.m3u8
-Vivid Red HD,http://f6.apps8888.com:8080/live/455/71e4abbb112cbec67ac8359d11633dfc/index.m3u8
+港台海外,#genre#
+港澳|J2,P2p://198.255.74.57:12196/5f0601f10000aef8b9795159858ffc42.ts
+港澳|無線新聞臺,P2p://198.255.74.57:12196/5f0601f0000f18a7b9795122c2d545d2.ts
+港澳|翡翠臺,P2p://198.255.74.57:12196/5f0601f0000e40b2b97950eade3cb84e.ts
+港澳|奇妙電視,P2p://198.255.74.57:12196/5f0601f0000dfadeb97950d98d4a4b5b.ts
+港澳|明珠臺,P2p://198.255.74.57:12196/5f0601ca0000dbe6b978b90db52bdc0d.ts
+港澳|RHK32,P2p://198.255.74.57:12196/5f0601ca00000676b978b8d6151ee06d.ts
+港澳|ViuTu,P2p://198.255.74.57:12196/5f0601c9000e37c4b978b89062f3ae39.ts
+港澳|ViuTu_6,P2p://198.255.74.57:12196/5f0601c9000d5dbfb978b858b05588c4.ts
+港澳|無線財經資訊臺,P2p://198.255.74.57:12196/5f0601c9000c7156b978b81c71f700f4.ts
+港澳|星空衛視,P2p://198.255.74.57:12196/5f0601c9000b86e7b978b7e0ab1c67f0.ts
+港澳|澳門蓮花,P2p://198.255.74.57:12196/5f0601c9000a9935b978b7a3142ac6af.ts
+港澳|鳳凰中文臺 HD,P2p://198.255.74.57:12196/5f0601c90009c2fab978b76c9397e695.ts
+港澳|鳳凰資訊臺 HD,P2p://198.255.74.57:12196/5f0601c90008ed80b978b736a890d4be.ts
+港澳|鳳凰香港臺 HD,P2p://198.255.74.57:12196/5f0601c900081598b978b6fea5c666e5.ts
+港澳|香港有线新闻,P2p://198.255.74.57:12196/5f0601c900074360b978b6c832a0da2e.ts
+港澳|电影一台,P2p://198.255.74.57:12196/5f0601c900066b35b978b691e00baf61.ts
+港澳|TVB-星河,P2p://198.255.74.57:12196/5f0601cd000c4b47b978c7b2477f92a8.ts
+港澳|Test,P2p://198.255.74.57:12196/5f0601f1000192d4b9795194737cb21e.ts
+臺灣|中視经典,P2p://198.255.74.57:12196/5f0601cd0009c3e9b978c70c22f466bf.ts
+臺灣|中視 HD,P2p://198.255.74.57:12196/5f0601cd0008eb0db978c6d5b0fdabde.ts
+臺灣|中視新聞臺,P2p://198.255.74.57:12196/5f0601cd000811f5b978c69d42b61f5b.ts
+臺灣|公視 HD,P2p://198.255.74.57:12196/5f0601cd00073caab978c667d5b966a8.ts
+臺灣|民視臺灣臺,P2p://198.255.74.57:12196/5f0601cd0006631eb978c62fffc0f54c.ts
+臺灣|民視新聞臺,P2p://198.255.74.57:12196/5f0601cd00058e1db978c5f825ee5187.ts
+臺灣|民視,P2p://198.255.74.57:12196/5f0601cd0004ae78b978c5bf7a4f9d29.ts
+臺灣|臺視 HD,P2p://198.255.74.57:12196/5f0601cd0003d88eb978c588df06795b.ts
+臺灣|臺視新聞臺,P2p://198.255.74.57:12196/5f0601cd00030249b978c55258517716.ts
+臺灣|華視 HD,P2p://198.255.74.57:12196/5f0601cd0002c0f7b978c541c2a391a2.ts
+臺灣|年代新聞,P2p://198.255.74.57:12196/5f0601d10004a3eeb978d55d59e9a2cc.ts
+臺灣|非凡新聞,P2p://198.255.74.57:12196/5f0601d10003ca1bb978d5258ba844dc.ts
+臺灣|緯來育樂,P2p://198.255.74.57:12196/5f0601d10002efb3b978d4ed22a1ac73.ts
+臺灣|緯來綜合,P2p://198.255.74.57:12196/5f0601d100021f24b978d4b7ef7f6666.ts
+臺灣|緯來電影,P2p://198.255.74.57:12196/5f0601d100014706b978d480f0b0c0d3.ts
+臺灣|緯來體育,P2p://198.255.74.57:12196/5f0601d100007356b978d44a98319c59.ts
+臺灣|緯來戲劇,P2p://198.255.74.57:12196/5f0601d0000edf07b978d413d5f60588.ts
+臺灣|緯來日本,P2p://198.255.74.57:12196/5f0601d0000e0921b978d3dc8bd2dffe.ts
+臺灣|東森新聞臺,P2p://198.255.74.57:12196/5f0601d0000d32b7b978d3a545f4150d.ts
+臺灣|東森財經新聞,P2p://198.255.74.57:12196/5f0601d0000c5de8b978d36f6818df34.ts
+臺灣|東森電影,P2p://198.255.74.57:12196/5f0601d0000b87d2b978d3384e07bc3a.ts
+臺灣|東森洋片,P2p://198.255.74.57:12196/5f0601d0000ab092b978d301baff2eac.ts
+臺灣|東森綜合,P2p://198.255.74.57:12196/5f0601d0000a6fd9b978d2f087f45457.ts
+臺灣|東森戲劇,P2p://198.255.74.57:12196/5f0601d4000f29ceb978e3c62ef69c90.ts
+臺灣|東森幼幼,P2p://198.255.74.57:12196/5f0601d4000e5723b978e3903821edc1.ts
+臺灣|壹電視綜合 HD,P2p://198.255.74.57:12196/5f0601d4000d7f23b978e359acd5844a.ts
+臺灣|壹電視新聞 HD,P2p://198.255.74.57:12196/5f0601d4000ca9cfb978e3226e60d1eb.ts
+臺灣|龍華動畫 HD,P2p://198.255.74.57:12196/5f0601d4000bc5eab978e2e8babc0f48.ts
+臺灣|龍華洋片,P2p://198.255.74.57:12196/5f0601d4000af2a8b978e2b2802a4297.ts
+臺灣|龍華影劇,P2p://198.255.74.57:12196/5f0601d4000a1dd2b978e27b4a28dd5e.ts
+臺灣|龍華偶像,P2p://198.255.74.57:12196/5f0601d40009406eb978e243eda8054c.ts
+臺灣|龍華戲劇,P2p://198.255.74.57:12196/5f0601d4000865c7b978e20b1a3d4135.ts
+臺灣|龍華經典,P2p://198.255.74.57:12196/5f0601d400078c89b978e1d39bbdb3d7.ts
+臺灣|三立新聞,P2p://198.255.74.57:12196/5f0601d40006b2bbb978e19bfb70daea.ts
+臺灣|三立臺灣臺,P2p://198.255.74.57:12196/5f0601d40005c53eb978e15f7dad5f17.ts
+臺灣|三立都會臺 HD,P2p://198.255.74.57:12196/5f0601d400058a1fb978e14f82ca7824.ts
+臺灣|三立綜合臺 HD,P2p://198.255.74.57:12196/5f0601d8000dc5dab978f30b848544a2.ts
+臺灣|三立戲劇臺 HD,P2p://198.255.74.57:12196/5f0601d8000cf449b978f2d50caa1fa6.ts
+臺灣|中天新聞HD,P2p://198.255.74.57:12196/5f0601d8000c17deb978f29d8290f9a1.ts
+臺灣|中天綜合 HD,P2p://198.255.74.57:12196/5f0601d8000b43d3b978f267076c68ae.ts
+臺灣|中天亞洲臺,P2p://198.255.74.57:12196/5f0601d8000a691bb978f22f59bd2691.ts
+臺灣|中天娛樂,P2p://198.255.74.57:12196/5f0601d8000992f1b978f1f84ab802e7.ts
+臺灣|八大第一臺,P2p://198.255.74.57:12196/5f0601d80008b899b978f1c0450dae28.ts
+臺灣|八大戲劇,P2p://198.255.74.57:12196/5f0601d80007e2abb978f189e929574c.ts
+臺灣|八大娛樂臺,P2p://198.255.74.57:12196/5f0601d800070e40b978f153e4f364df.ts
+臺灣|八大綜合,P2p://198.255.74.57:12196/5f0601d8000638b9b978f11c292b1308.ts
+臺灣|TVBS新聞臺 HD,P2p://198.255.74.57:12196/5f0601d800056096b978f0e5237319e2.ts
+臺灣|TVBS歡樂 HD,P2p://198.255.74.57:12196/5f0601d800048dc8b978f0af3433e0db.ts
+臺灣|TVBS HD,P2p://198.255.74.57:12196/5f0601d8000439efb978f099a1dc56d5.ts
+臺灣|靖天戲劇臺 HD,P2p://198.255.74.57:12196/5f0601dc000c96e5b979025d6c9a508c.ts
+臺灣|靖天卡通臺,P2p://198.255.74.57:12196/5f0601dc000bbfe1b9790226ca263d13.ts
+臺灣|靖天電影臺 HD,P2p://198.255.74.57:12196/5f0601dc000ae96bb97901f0f23cae57.ts
+臺灣|靖天映畫 HD,P2p://198.255.74.57:12196/5f0601dc000a11c3b97901b8eb060c9b.ts
+臺灣|靖天國際臺,P2p://198.255.74.57:12196/5f0601dc00092011b979017a0897e862.ts
+臺灣|靖天育樂臺,P2p://198.255.74.57:12196/5f0601dc00084774b97901433ab1aad6.ts
+臺灣|靖天日本 HD,P2p://198.255.74.57:12196/5f0601dc00076fe7b979010c6733f60f.ts
+臺灣|靖洋戲劇臺 HD,P2p://198.255.74.57:12196/5f0601dc00069d55b97900d62929478d.ts
+臺灣|鴻基影劇臺,P2p://198.255.74.57:12196/5f0601dc0005c639b979009f847c2f87.ts
+臺灣|EYETV旅遊 HD,P2p://198.255.74.57:12196/5f0601dc0004f125b97900680c321bce.ts
+臺灣|EYETV戲劇 HD,P2p://198.255.74.57:12196/5f0601dc000416f6b9790030058be5a1.ts
+臺灣|阿裏郎電視臺,P2p://198.255.74.57:12196/5f0601dc00033e67b978fff90be902a4.ts
+臺灣|smart知識臺,P2p://198.255.74.57:12196/5f0601dc000300d0b978ffe99bee5dc0.ts
+臺灣|JET 綜合,P2p://198.255.74.57:12196/5f0601e00006eb93b979108a7bac3b3c.ts
+臺灣|寰宇綜合 HD,P2p://198.255.74.57:12196/5f0601e000060f66b97910525a675596.ts
+臺灣|寰宇新聞頻道,P2p://198.255.74.57:12196/5f0601e000053675b979101aee2e92f4.ts
+臺灣|寰宇財經,P2p://198.255.74.57:12196/5f0601e000045a01b9790fe25650a9c0.ts
+臺灣|ELTA綜合 HD,P2p://198.255.74.57:12196/5f0601e00002abdab9790f73275442e5.ts
+臺灣|ELTA影劇 HD,P2p://198.255.74.57:12196/5f0601e00001cc97b9790f3a9554d6c7.ts
+臺灣|ELTA體育 HD,P2p://198.255.74.57:12196/5f0601e00000f5d4b9790f03d46d5841.ts
+臺灣|曼迪日本臺,P2p://198.255.74.57:12196/5f0601e0000018bab9790ecbd40e2616.ts
+臺灣|國興衛視,P2p://198.255.74.57:12196/5f0601df000e8413b9790e942cd0c773.ts
+臺灣|采昌影劇臺,P2p://198.255.74.57:12196/5f0601df000dab98b9790e5c9ddd446e.ts
+臺灣|博斯運動1,P2p://198.255.74.57:12196/5f0601df000cd455b9790e25fe87f307.ts
+臺灣|博斯高球Ⅱ HD,P2p://198.255.74.57:12196/5f0601df000c83b8b9790e1198190878.ts
+臺灣|博斯運動II,P2p://198.255.74.57:12196/5f0601e3000e1942b9791e186aec1241.ts
+臺灣|博斯網球 HD,P2p://198.255.74.57:12196/5f0601e3000d4443b9791de2f5c333c4.ts
+臺灣|博斯無限,P2p://198.255.74.57:12196/5f0601e3000c70b1b9791dac003ec007.ts
+臺灣|博斯高球一臺,P2p://198.255.74.57:12196/5f0601e3000b9bc4b9791d75f6ca3dcb.ts
+臺灣|FOX SPORTS,P2p://198.255.74.57:12196/5f0601e3000ac798b9791d3f01301ae6.ts
+臺灣|FOX SPORTS 3 HD,P2p://198.255.74.57:12196/5f0601e30009ec7fb9791d0756ba47b7.ts
+臺灣|MOMO親子臺,P2p://198.255.74.57:12196/5f0601e300091161b9791ccf60721b7e.ts
+臺灣|好消息2,P2p://198.255.74.57:12196/5f0601e300083873b9791c97ca1b0adc.ts
+臺灣|大愛一臺,P2p://198.255.74.57:12196/5f0601e30007635db9791c61df7d3727.ts
+臺灣|BBC动画,P2p://198.255.74.57:12196/5f0601e300069183b9791c2b25bc35bc.ts
+臺灣|亞洲旅遊臺 HD,P2p://198.255.74.57:12196/5f0601e30005bec2b9791bf51ec9c273.ts
+臺灣|美食星球 HD,P2p://198.255.74.57:12196/5f0601e30004eb7bb9791bbf9040dbe3.ts
+臺灣|China Movie,P2p://198.255.74.57:12196/5f0601e30004b065b9791bb0937db979.ts
+臺灣|衛視電影臺,P2p://198.255.74.57:12196/5f0601e70004c669b9792b5547007335.ts
+臺灣|衛視中文臺,P2p://198.255.74.57:12196/5f0601e700031720b9792ae78da31655.ts
+臺灣|衛視西片 HD,P2p://198.255.74.57:12196/5f0601e7000240ccb9792ab006a807bb.ts
+臺灣|龍祥時代,P2p://198.255.74.57:12196/5f0601e7000169cfb9792a79896b5a27.ts
+臺灣|天映頻道,P2p://198.255.74.57:12196/5f0601e6000efae8b9792a0a60a9011d.ts
+臺灣|好萊塢電影臺,P2p://198.255.74.57:12196/5f0601e6000e2290b97929d38fe52ce5.ts
+臺灣|CinemaWorld,P2p://198.255.74.57:12196/5f0601e6000d4d94b979299c38dccfde.ts
+臺灣|美亞電影臺 HD,P2p://198.255.74.57:12196/5f0601e6000c6d9eb9792963a0cefb11.ts
+臺灣|星衛電影臺 HD,P2p://198.255.74.57:12196/5f0601e6000b99cdb979292df43885e8.ts
+臺灣|星衛娛樂臺,P2p://198.255.74.57:12196/5f0601e6000abb94b97928f4a714ac81.ts
+國際|HBO HD,P2p://198.255.74.57:12196/5f0601e6000a7cfeb97928e41d1d8b96.ts
+國際|HBO Hits,P2p://198.255.74.57:12196/5f0601ec000ef6d4b9794179c2bc8a3e.ts
+國際|HBO Signature HD,P2p://198.255.74.57:12196/5f0601ec000e22c5b97941434cb02537.ts
+國際|FX HD,P2p://198.255.74.57:12196/5f0601ec000d4778b979410b0cb3773a.ts
+國際|FOX HD,P2p://198.255.74.57:12196/5f0601ec000c5a82b97940cec1fe3fbd.ts
+國際|FOX MOVIES HD,P2p://198.255.74.57:12196/5f0601ec000b89feb979409975530a87.ts
+國際|FOX家庭影院HD,P2p://198.255.74.57:12196/5f0601ec000ab89eb9794063d28592e0.ts
+國際|FOX CRIME HD,P2p://198.255.74.57:12196/5f0601ec0009e3a4b979402d90135f4f.ts
+國際|FOX NEWS,P2p://198.255.74.57:12196/5f0601ec00090ebcb9793ff6b3da18f0.ts
+國際|CINEMAX,P2p://198.255.74.57:12196/5f0601ec00083757b9793fbfdd319d85.ts
+國際|探索頻道高清,P2p://198.255.74.57:12196/5f0601ec00075cefb9793f87271dd576.ts
+國際|探索(臺灣),P2p://198.255.74.57:12196/5f0601ec0005bba0b9793f1ce38fb777.ts
+國際|Discovery 動力頻道 HD,P2p://198.255.74.57:12196/5f0601c50005f350b978a6d29fa2e46d.ts
+國際|Discovery 科學頻道 HD,P2p://198.255.74.57:12196/5f0601c500051bd2b978a69bfbdd2d94.ts
+國際|Discovery EVE HD,P2p://198.255.74.57:12196/5f0601c5000447abb978a665e68fbed9.ts
+國際|國家地理 HD,P2p://198.255.74.57:12196/5f0601c50003746cb978a62f268f41ab.ts
+國際|國家地理People HD,P2p://198.255.74.57:12196/5f0601c50002a29fb978a5f9d21dcb97.ts
+國際|國家地理野生頻道 HD,P2p://198.255.74.57:12196/5f0601c50001d0a9b978a5c37c78833f.ts
+國際|History HD,P2p://198.255.74.57:12196/5f0601c50000fcedb978a58d1106d604.ts
+國際|History2 HD,P2p://198.255.74.57:12196/5f0601c500002534b978a5569b53d711.ts
+國際|Sky Sports Mix,P2p://198.255.74.57:12196/5f0601c4000e764cb978a518138e720e.ts
+國際|Sky Sports MainEvent,P2p://198.255.74.57:12196/5f0601c4000d9fa1b978a4e1cf263d04.ts
+國際|Sky Sports Action,P2p://198.255.74.57:12196/5f0601c4000cc7dab978a4aa141aa4e4.ts
+國際|Sky Sports Cricket,P2p://198.255.74.57:12196/5f0601c4000bf2ffb978a47421e05af8.ts
+國際|Sky Sports Golf,P2p://198.255.74.57:12196/5f0601c4000b9735b978a45c26b74ede.ts
+國際|動物星球,P2p://198.255.74.57:12196/5f0601c1000b3e03b978988d7819a674.ts
+國際|亞洲美食 HD,P2p://198.255.74.57:12196/5f0601c1000a6827b97898563be939f4.ts
+國際|OUTDOOR HD,P2p://198.255.74.57:12196/5f0601c100099023b978981fa6162945.ts
+國際|TRAVEL,P2p://198.255.74.57:12196/5f0601c10008ba82b97897e8fcfed68a.ts
+國際|Bloomberg,P2p://198.255.74.57:12196/5f0601c10007e389b97897b190d32a42.ts
+國際|CN 卡通,P2p://198.255.74.57:12196/5f0601c100070f06b978977bc625b922.ts
+國際|Disney迪士尼,P2p://198.255.74.57:12196/5f0601c10006395db97897449d4bd301.ts
+國際|BabyTV,P2p://198.255.74.57:12196/5f0601c10005614bb978970d83528043.ts
+國際|BabyFirst,P2p://198.255.74.57:12196/5f0601c10004885ab97896d58a093e24.ts
+國際|SETANTA,P2p://198.255.74.57:12196/5f0601c10003af42b978969ee13b12a4.ts
+國際|E! Entertainment,P2p://198.255.74.57:12196/5f0601c10002d9edb9789667996fcf8c.ts
+國際|Ci罪案偵緝 HD,P2p://198.255.74.57:12196/5f0601c100020315b9789630183ed2bc.ts
+國際|fashiontv HD,P2p://198.255.74.57:12196/5f0601c10001b78cb978961d34abd7b1.ts
+國際|Warner Bros HD,P2p://198.255.74.57:12196/5f0601bd00088849b978883c792bf324.ts
+國際|Nick Jr,P2p://198.255.74.57:12196/5f0601bd0007b2dbb9788805c84f1d07.ts
+國際|MY KIDS,P2p://198.255.74.57:12196/5f0601bd0006dfd4b97887cf9614452e.ts
+國際|CatchPlay HD,P2p://198.255.74.57:12196/5f0601bd0006092db97887982c7f7764.ts
+國際|NBA HD,P2p://198.255.74.57:12196/5f0601bd000530e6b978876144a111af.ts
+國際|GOLF,P2p://198.255.74.57:12196/5f0601bd00045773b978872962c1c6b3.ts
+國際|sundance channel,P2p://198.255.74.57:12196/5f0601bd0002b3a8b97886bd3ac94187.ts
+國際|MTV LIVE HD,P2p://198.255.74.57:12196/5f0601bd0001ddf5b9788687b29c8321.ts
+國際|BBC HD,P2p://198.255.74.57:12196/5f0601bd000109f3b9788651d72c1eb0.ts
+國際|BBC Lifestyle HD,P2p://198.255.74.57:12196/5f0601bd000032cdb9788619a2c41ad0.ts
+國際|BBC earth HD,P2p://198.255.74.57:12196/5f0601bc000e9eadb97885e327757ded.ts
+國際|FRANCE 24-English,P2p://198.255.74.57:12196/5f0601bc000e472ab97885ccf24c2234.ts
+國際|tvN HD,P2p://198.255.74.57:12196/5f0601b9000c24f7b9787988711ae92b.ts
+國際|MTV,P2p://198.255.74.57:12196/5f0601b9000b4e2ab9787951dcf3dea5.ts
+國際|TV5,P2p://198.255.74.57:12196/5f0601b9000a79e8b978791b6ee57cd9.ts
+國際|AXN,P2p://198.255.74.57:12196/5f0601b900099f1cb97878e3940493ec.ts
+國際|CNN HD,P2p://198.255.74.57:12196/5f0601b90008cc3db97878adee84bc5c.ts
+國際|CNBC,P2p://198.255.74.57:12196/5f0601b90007f4bdb97878765bc424d7.ts
+國際|Boomerang,P2p://198.255.74.57:12196/5f0601b900071b64b978783e43e40541.ts
+國際|Mezzo Live HD,P2p://198.255.74.57:12196/5f0601b9000646e2b978780855e70921.ts
+國際|LUXE TV,P2p://198.255.74.57:12196/5f0601b900057555b97877d278999275.ts
+國際|DW-TV,P2p://198.255.74.57:12196/5f0601b900049e8eb978779bf8896019.ts
+大陸|CCTV-1 綜合 HD,P2p://198.255.74.57:12196/5f0601b90003cb53b9787765aef6daf9.ts
+大陸|CCTV-2 財經,P2p://198.255.74.57:12196/5f0601b90002f522b978772e4cb2d7a7.ts
+大陸|CCTV-3 綜藝 HD,P2p://198.255.74.57:12196/5f0601b90002a3bcb97877198af7c9ad.ts
+大陸|CCTV-4 中文國際,P2p://198.255.74.57:12196/5f0601b5000c7514b97869fd446b5683.ts
+大陸|CCTV-5 體育 HD,P2p://198.255.74.57:12196/5f0601b5000ba570b97869c836e63ac3.ts
+大陸|CCTV-5+ 體育賽事 HD,P2p://198.255.74.57:12196/5f0601b5000ad621b97869933fedc372.ts
+大陸|CCTV-6 HD,P2p://198.255.74.57:12196/5f0601b5000a032db978695d589d1880.ts
+大陸|CCTV-7 軍事農業,P2p://198.255.74.57:12196/5f0601b50009295bb9786925bc081d90.ts
+大陸|CCTV-8 電視劇 HD,P2p://198.255.74.57:12196/5f0601b500085624b97868ef2eb9d74f.ts
+大陸|CCTV-9 HD,P2p://198.255.74.57:12196/5f0601b5000783c5b97868b943088304.ts
+大陸|CCTV-10 HD,P2p://198.255.74.57:12196/5f0601b50006b074b97868838f953473.ts
+大陸|CCTV-11 戲曲,P2p://198.255.74.57:12196/5f0601b50005dd53b978684d666b09a8.ts
+大陸|CCTV-12 社會與法,P2p://198.255.74.57:12196/5f0601b500050bd1b97868171bad7373.ts
+大陸|CCTV-13 新聞,P2p://198.255.74.57:12196/5f0601b500043657b97867e086d1276d.ts
+大陸|CCTV-14 少兒,P2p://198.255.74.57:12196/5f0601b500035defb97867a909a53b0d.ts
+大陸|CCTV-15 音樂,P2p://198.255.74.57:12196/5f0601b5000322b1b978679a1c14e4b9.ts
+大陸|CCTV懷舊劇場,P2p://198.255.74.57:12196/5f0601b20006225ab9785ca6ce29abb4.ts
+大陸|湖南衛視 HD,P2p://198.255.74.57:12196/5f0601b200054b2db9785c6ffc770e95.ts
+大陸|浙江衛視 HD,P2p://198.255.74.57:12196/5f0601b200047649b9785c39f6fc85ec.ts
+大陸|江蘇衛視 HD,P2p://198.255.74.57:12196/5f0601b20003a56eb9785c0379d8f2f7.ts
+大陸|東方衛視 HD,P2p://198.255.74.57:12196/5f0601b20002cecbb9785bcc724cf440.ts
+大陸|深圳衛視 HD,P2p://198.255.74.57:12196/5f0601b20001f44cb9785b9592764bc4.ts
+大陸|廣東南方衛視2臺,P2p://198.255.74.57:12196/5f0601b200010a68b9785b59330024ec.ts
+大陸|珠江臺,P2p://198.255.74.57:12196/5f0601b2000032dbb9785b211c6c705f.ts
+大陸|珠江電影,P2p://198.255.74.57:12196/5f0601b1000e9c3fb9785aeaef18bf94.ts
+大陸|廣東影視,P2p://198.255.74.57:12196/5f0601b1000dc9efb9785ab47a91768a.ts
+大陸|廣東衛視,P2p://198.255.74.57:12196/5f0601b1000cf5dcb9785a7e56060405.ts
+大陸|廣東體育,P2p://198.255.74.57:12196/5f0601b1000c23b0b9785a48f6ce8597.ts
+大陸|新視覺 HD,P2p://198.255.74.57:12196/5f0601b1000be862b9785a3933182688.ts
+大陸|遼寧衛視,P2p://198.255.74.57:12196/5f0601ae0009cde1b9784df7fc896d89.ts
+大陸|重慶衛視,P2p://198.255.74.57:12196/5f0601ae0008fa2eb9784dc11ac7c2a1.ts
+大陸|黑龍江衛視 HD,P2p://198.255.74.57:12196/5f0601ae0008228db9784d8a850d5cd7.ts
+大陸|北京衛視 HD,P2p://198.255.74.57:12196/5f0601ae00074a17b9784d52c7f1788d.ts
+大陸|河北衛視,P2p://198.255.74.57:12196/5f0601ae0006725db9784d1ba92c768c.ts
+大陸|湖北衛視 HD,P2p://198.255.74.57:12196/5f0601ae00059d6cb9784ce44788d06e.ts
+大陸|四川衛視 HD,P2p://198.255.74.57:12196/5f0601ae0004ccb1b9784caf1924d046.ts
+大陸|貴州衛視,P2p://198.255.74.57:12196/5f0601ae0003f9eeb9784c797cbbc58e.ts
+大陸|廣西衛視,P2p://198.255.74.57:12196/5f0601ae00032434b9784c42c74939e8.ts
+大陸|福建東南衛視,P2p://198.255.74.57:12196/5f0601ae00017929b9784bd5ed320c7f.ts
+大陸|江西衛視,P2p://198.255.74.57:12196/5f0601ae00009984b9784b9c97275165.ts
+大陸|天津衛視 HD,P2p://198.255.74.57:12196/5f0601ae00004463b9784b86589dd8bd.ts
+大陸|中華美食,P2p://198.255.74.57:12196/5f0601aa000a4cb6b9783e777bcd7741.ts
+大陸|高爾夫網球,P2p://198.255.74.57:12196/5f0601aa00097588b9783e4055725395.ts
+大陸|風雲足球,P2p://198.255.74.57:12196/5f0601aa00089d9ab9783e09892642d2.ts
+大陸|CHC動作電影,P2p://198.255.74.57:12196/5f0601aa0007c81bb9783dd203340959.ts
+大陸|CHC家庭影院,P2p://198.255.74.57:12196/5f0601aa0006f0c4b9783d9bd6657f53.ts
+大陸|CHC高清電影 HD,P2p://198.255.74.57:12196/5f0601aa00061b4eb9783d65a8959bcd.ts
+日本|TBS,P2p://198.255.74.57:12196/5f060162000ed4f9b9772660a0ccc7cb.ts
+日本|BSジャパン,P2p://198.255.74.57:12196/5f060162000dfe2bb977262994e31e39.ts
+日本|BSフジ.181,P2p://198.255.74.57:12196/5f060162000d288cb97725f3947ef185.ts
+日本|NHK教育,P2p://198.255.74.57:12196/5f060162000c5617b97725bd651b6594.ts
+日本|NHK-総合,P2p://198.255.74.57:12196/5f060162000b8125b977258666f299b5.ts
+日本|NHKBS1,P2p://198.255.74.57:12196/5f0601620009ac49b977250eca2fce22.ts
+日本|NHKBSプレミア,P2p://198.255.74.57:12196/5f060162000a7bd7b977254334d3dbf6.ts
+日本|TOKYOMX,P2p://198.255.74.57:12196/5f0601620008d461b97724d7eba3b60a.ts
+日本|テレビ朝日,P2p://198.255.74.57:12196/5f0601620007f672b977249e307b8292.ts
+日本|BS朝日,P2p://198.255.74.57:12196/5f0601aa000543d8b9783d2d9f4dbe69.ts
+日本|フジテレビ,P2p://198.255.74.57:12196/5f060162000725b1b97724693912a35d.ts
+日本|テレビ東京,P2p://198.255.74.57:12196/5f06016200061393b9772423dacccb66.ts
+日本|日テレ,P2p://198.255.74.57:12196/5f060162000652a9b9772433e08a2eea.ts
+新馬|AEC,P2p://198.255.74.57:12196/5f0601aa00046f51b9783cf71218e15b.ts
+新馬|AOD,P2p://198.255.74.57:12196/5f0601aa00039cfab9783cc112852838.ts
+新馬|AWANI,P2p://198.255.74.57:12196/5f0601aa0001f2fbb9783c543b667fcd.ts
+新馬|BERNAMA,P2p://198.255.74.57:12196/5f0601aa00011e4bb9783c1eafe983e1.ts
+新馬|PRIMA,P2p://198.255.74.57:12196/5f0601aa0000e46eb9783c0ff4763a98.ts
+新馬|RIA,P2p://198.255.74.57:12196/5f0601a7000012edb97830214947ea2c.ts
+新馬|TV1,P2p://198.255.74.57:12196/5f0601a6000e784eb9782fe9b3b6bdf1.ts
+新馬|TV2,P2p://198.255.74.57:12196/5f0601a6000d9e6cb9782fb11bcbe9e0.ts
+新馬|TV3,P2p://198.255.74.57:12196/5f0601a6000cc658b9782f7a1e34ffe5.ts
+新馬|NTV7,P2p://198.255.74.57:12196/5f0601a6000bf1feb9782f437dec9aa4.ts
+新馬|TV8,P2p://198.255.74.57:12196/5f0601a6000b178bb9782f0bb9c9b785.ts
+新馬|TV9,P2p://198.255.74.57:12196/5f0601a6000a3f70b9782ed44fa67551.ts
+新馬|華麗臺,P2p://198.255.74.57:12196/5f0601a600096b6fb9782e9efa250a4a.ts
+新馬|小太陽,P2p://198.255.74.57:12196/5f0601a60007b5a2b9782e2ef858c9d5.ts
+新馬|全佳,P2p://198.255.74.57:12196/5f0601a60006e135b9782df744291be6.ts
+新馬|双星,P2p://198.255.74.57:12196/5f0601a600060051b9782dbe246b838f.ts
 
 港澳台,#genre#
 凤凰中文,http://49.233.148.32/dl/bk/satv.php?id=192
