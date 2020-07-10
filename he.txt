@@ -1,8 +1,15 @@
 $c_start新闻$c_end
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
+纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
 CCTV4中文国际,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123
 CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?ci=123#http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰卫视资讯台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+HKC新闻台,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
@@ -42,6 +49,9 @@ $c_start电影$c_end
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+黑莓电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+爆谷台,https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
 AXN,vjms://58.215.133.154:8500/live/cid=2
 HBO HD,vjms://58.215.133.154:8500/live/cid=261
 HBO原创巨献,vjms://58.215.133.154:8500/live/cid=436
@@ -53,11 +63,6 @@ FOX-警匪,http://198.16.106.58:8278/foxcrime_twn/playlist.m3u8?tid=mad94f360dbc
 FOX-動作,http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cba10253148&ct=17874&tsum=0248b8358bbfa7ab78a7dbd2faaf4ad1
 FOX-家庭,http://198.16.106.58:8278/foxfamily_twn/playlist.m3u8?tid=ma0567f6ff31018880325&ct=17874&tsum=2117118a0890ae6db1010482ffd9175f
 日本洋片,vjms://58.215.133.154:8500/live/cid=209
-HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20035
-HBO signature (软解),http://111.13.111.192/211.75.9.37:20030/20034
-JET综合(软解),http://111.13.111.192/211.75.9.37:20030/20031
-东森电影(软解),http://111.13.111.192/211.75.9.37:20050/20051
-东森洋片(软解),http://111.13.111.192/211.75.9.37:20010/20018
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://sd6668.top/dl/gz168.php?id=chcgqdy
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://sd6668.top/dl/gz168.php?id=chcdzdy
@@ -1759,14 +1764,22 @@ $c_start港台海外$c_end
 新馬|双星,P2p://198.255.74.57:12196/5f0601a600060051b9782dbe246b838f.ts
 
 新闻,#genre#
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
+纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
 CCTV4中文国际,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123
-CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?ci=123#http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?ci=123#http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰卫视资讯台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+HKC新闻台,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
 CNBC,vjms://58.215.133.154:8500/live/cid=98
+BBC,http://77.83.242.11/gz168.php?id=bbc#http://106.54.30.243/gz009/gz.php?id=bbc
 北京卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
@@ -1801,6 +1814,9 @@ CNBC,vjms://58.215.133.154:8500/live/cid=98
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+黑莓电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+爆谷台,https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
 AXN,vjms://58.215.133.154:8500/live/cid=2
 HBO HD,vjms://58.215.133.154:8500/live/cid=261
 HBO原创巨献,vjms://58.215.133.154:8500/live/cid=436
