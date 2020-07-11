@@ -1,6 +1,7 @@
 $c_start新闻$c_end
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
+CCTV4K超高清,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
 CCTV4中文国际,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123
@@ -68,6 +69,7 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 $c_start纪实$c_end
+CCTV世界地理高清,http://27.36.62.163:9090/live/DOXhanliuHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
 BBC EARTH HD,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts#mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
 BBC Lifestyle,mitv://198.255.74.57:12396/5e50205d0002c5af3d32729a005fd26e.ts#mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
 BBC独家,http://diyp.top/TVOD/mgys.php?id=633138330
@@ -1076,6 +1078,7 @@ $c_start港台海外$c_end
 新闻,#genre#
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
+CCTV4K超高清,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
 CCTV4中文国际,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123
@@ -1142,6 +1145,7 @@ CHC家庭影院,http://sd6668.top/dl/gz168.php?id=chcjtyy
 CHC动作电影,http://sd6668.top/dl/gz168.php?id=chcdzdy
 
 纪实,#genre#
+CCTV世界地理高清,http://27.36.62.163:9090/live/DOXhanliuHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
 BBC EARTH HD,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts#mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
 BBC Lifestyle,mitv://198.255.74.57:12396/5e50205d0002c5af3d32729a005fd26e.ts#mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
 BBC独家,http://diyp.top/TVOD/mgys.php?id=633138330
