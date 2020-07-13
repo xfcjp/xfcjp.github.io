@@ -333,6 +333,7 @@ Suria tv,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 BBC CBESE,http://51.52.156.22:8888/http/003
 
 $c_start安博港台$c_end
+1,p4p://47.244.180.114:9906/5db94ec1000ef6ba53f6559f2e12193f&link=am01Ofj0r
 
 $c_startiHOT$c_end
 爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -1391,6 +1392,7 @@ MV,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=338
 底价秒杀,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=300
 
 安博港台,#genre#
+1,p4p://47.244.180.114:9906/5db94ec1000ef6ba53f6559f2e12193f&link=am01Ofj0r
 
 iHOT,#genre#
 爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
