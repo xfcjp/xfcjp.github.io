@@ -1,11 +1,11 @@
 $c_start新闻$c_end
-CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
-CCTV4K超高清,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
 CCTV4中文国际,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123
 CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?ci=123#http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
+CCTV4K超高清,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1514,13 +1514,13 @@ $c_start港台海外$c_end
 新馬|双星,P2p://198.255.74.57:12196/5f0601a600060051b9782dbe246b838f.ts
 
 新闻,#genre#
-CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
-CCTV4K超高清,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/4000.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/1300.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
 CCTV4中文国际,http://cg0.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?ci=123
 CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?ci=123#http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
+CCTV4K超高清,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
