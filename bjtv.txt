@@ -79,6 +79,9 @@ CGTN DOCUMENTRAY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 
+Hollywood HD,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#p8p://user3.shusongw.mobi:16871/5f2fabea000ac62722b0ba1e30f6fc2a#mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
+中天新闻,http://192.154.103.74:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+
 影剧1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
 影剧2 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
 影剧3 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8
@@ -282,6 +285,9 @@ $c_start其他高清$c_end
 淘电影 北京IPTV+,http://www.qnap.cc:4022/rtp/239.3.1.250:8001
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+
+Hollywood HD,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#p8p://user3.shusongw.mobi:16871/5f2fabea000ac62722b0ba1e30f6fc2a#mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
+中天新闻,http://192.154.103.74:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 
 影剧1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
 影剧2 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
