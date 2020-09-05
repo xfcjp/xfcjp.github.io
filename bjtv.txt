@@ -33,6 +33,7 @@ CGTN DOCUMENTRAY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.
 湖北卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8
 湖南卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
 湖南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8
+湖南经视,http://player.tzjo.com/all/yfy.php?id=43024
 东方卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226505/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
 浙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226504/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 浙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226492/1.m3u8
