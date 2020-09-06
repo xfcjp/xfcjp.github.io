@@ -132,6 +132,8 @@ NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212262
 北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
 北京国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
 冬奥纪实,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226515/1.m3u8
+芒果TV自制 4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
+芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
 
 iHot,#genre#
 爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
