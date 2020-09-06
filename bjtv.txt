@@ -135,6 +135,20 @@ NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212262
 芒果TV自制 4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
 
+KiD电影,#genre#
+KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+KiD影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+KiD影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+KiD影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+KiD影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+KiD影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+KiD影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+KiD动画8台,http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
+KiD动画9台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+KiD动漫10台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
+
 iHot,#genre#
 爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -204,9 +218,23 @@ CCTV-17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 求索科学,http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 音乐台,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
+
+嗨浪频道_123456,#genre#
+HOT,http://ourtv.homeunix.com:9502/twhkokk/hot/.ts
 快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
+松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+松视2台,http://ourtv.homeunix.com:9502/twhkokk/song2/.ts
+松视3台,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+潘多拉完美,http://ourtv.homeunix.com:9502/twhkokk/perfect/.ts
+潘多拉粉红,http://ourtv.homeunix.com:9502/twhkokk/pink/.ts
+彩虹e频,http://ourtv.homeunix.com:9502/twhkokk/raine/.ts
+彩虹K频,http://ourtv.homeunix.com:9502/twhkokk/raink/.ts
+彩虹电影,p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+惊艳电影,http://ourtv.homeunix.com:9502/twhkokk/jingyan/.ts
+香蕉频道,http://ourtv.homeunix.com:9502/twhkokk/xiangjiao/.ts
 
 $c_start央视高清$c_end
 纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://39.134.157.199/PLTV/88888888/224/3221225670/index.m3u8#http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
@@ -299,7 +327,7 @@ Hollywood HD,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#p8p://user3
 黑莓动画 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226289/1.m3u8
 黑莓电竞 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226250/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226307/1.m3u8
 
-咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
+咪咕体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 金鹰卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226511/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226418/1.m3u8
@@ -341,6 +369,22 @@ $c_start北京本地$c_end
 北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
 北京国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
 冬奥纪实,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226515/1.m3u8
+芒果TV自制 4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
+芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
+
+$c_startKiD电影$c_end
+KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+KiD影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+KiD影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+KiD影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+KiD影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+KiD影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+KiD影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+KiD动画8台,http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
+KiD动画9台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+KiD动漫10台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 
 $c_startiHot$c_end
 爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -411,6 +455,21 @@ CCTV-17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 求索科学,http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 音乐台,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
+
+$c_start嗨浪频道$c_end
 快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
+HOT,http://ourtv.homeunix.com:9502/twhkokk/hot/.ts
+快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+松视2台,http://ourtv.homeunix.com:9502/twhkokk/song2/.ts
+松视3台,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+潘多拉完美,http://ourtv.homeunix.com:9502/twhkokk/perfect/.ts
+潘多拉粉红,http://ourtv.homeunix.com:9502/twhkokk/pink/.ts
+彩虹e频,http://ourtv.homeunix.com:9502/twhkokk/raine/.ts
+彩虹K频,http://ourtv.homeunix.com:9502/twhkokk/raink/.ts
+彩虹电影,p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+惊艳电影,http://ourtv.homeunix.com:9502/twhkokk/jingyan/.ts
+香蕉频道,http://ourtv.homeunix.com:9502/twhkokk/xiangjiao/.ts
