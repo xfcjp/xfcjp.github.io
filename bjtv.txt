@@ -120,20 +120,41 @@ NEWTV-精品纪录 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212263
 NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 
 北京本地,#genre#
-北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
-北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
+北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
+北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
 北京影视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
-北京新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
-北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8
-北京文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
+北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8#http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8#http://ivi.bupt.edu.cn/hls/btv4.m3u8
 北京青年,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226513/1.m3u8#http://ivi.bupt.edu.cn/hls/btv8.m3u8
-北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8
+北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8#http://ivi.bupt.edu.cn/hls/btv7.m3u8
 北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
 北京国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
+怀柔电视台,http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
 冬奥纪实,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226515/1.m3u8
+
+湖南本地,#genre#
 芒果TV自制 4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
+湖南卫视,http://cg3.hunancatv.cn:9090/live/HNWS_8000.m3u8?ci=123#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+湖南经视,http://cg3.hunancatv.cn:9090/live/HNJS_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=280
+湖南都市,http://cg3.hunancatv.cn:9090/live/HNDS_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=346
+湖南公共,http://cg3.hunancatv.cn:9090/live/HNGG_8000.m3u8?ci=123#http://cg6.hunancatv.cn:9090/live/HNGG_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=261
+湖南国际,http://cg3.hunancatv.cn:9090/live/HNGJPD_2000.m3u8?ci=123#http://cg6.hunancatv.cn:9090/live/HNGJPD_2000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=229
+湖南娱乐,http://cg3.hunancatv.cn:9090/live/HNYL_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=344
+湖南电视剧,http://zzq12345.gearhostpreview.com/11/hunan.php?id=484
+湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+湖南教育台,http://cg6.hunancatv.cn:9090/live/HNJY_2000.m3u8?ci=123#http://cg3.hunancatv.cn:9090/live/HNJY_2000.m3u8?ci=123#http://pull.hnedutv.com/live/edutv.m3u8
+金鹰纪实HD,http://cg3.hunancatv.cn:9090/live/JYJS_8000.m3u8?ci=123
+金鹰卡通HD,http://cg3.hunancatv.cn:9090/live/JYKT_8000.m3u8?ci=123
+长沙新闻频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+长沙政法频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+长沙女性频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+长沙经贸频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙影视频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙嘉丽购物频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+长沙移动电视(地铁),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
+长沙移动电视(公交),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
+长沙移动电视(磁浮),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_355.m3u8
 
 KiD电影,#genre#
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -228,6 +249,7 @@ CCTV-17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy#http://106.54.30.243/gz009/gz.php?id=fhdy
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv#https://itv.ahcme.edu.cn/hls/startv.m3u8
 香港卫视,https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 莲花卫视,http://47.240.111.228/lotustv/live.m3u8
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
@@ -424,20 +446,42 @@ NEWTV-精品纪录 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212263
 NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 
 $c_start北京本地$c_end
-北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
-北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
+北京本地,#genre#
+北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
+北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
 北京影视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
-北京新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
-北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8
-北京文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
+北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8#http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8#http://ivi.bupt.edu.cn/hls/btv4.m3u8
 北京青年,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226513/1.m3u8#http://ivi.bupt.edu.cn/hls/btv8.m3u8
-北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8
+北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8#http://ivi.bupt.edu.cn/hls/btv7.m3u8
 北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
 北京国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
+怀柔电视台,http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
 冬奥纪实,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226515/1.m3u8
+
+$c_start湖南本地$c_end
 芒果TV自制 4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
+湖南卫视,http://cg3.hunancatv.cn:9090/live/HNWS_8000.m3u8?ci=123#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+湖南经视,http://cg3.hunancatv.cn:9090/live/HNJS_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=280
+湖南都市,http://cg3.hunancatv.cn:9090/live/HNDS_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=346
+湖南公共,http://cg3.hunancatv.cn:9090/live/HNGG_8000.m3u8?ci=123#http://cg6.hunancatv.cn:9090/live/HNGG_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=261
+湖南国际,http://cg3.hunancatv.cn:9090/live/HNGJPD_2000.m3u8?ci=123#http://cg6.hunancatv.cn:9090/live/HNGJPD_2000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=229
+湖南娱乐,http://cg3.hunancatv.cn:9090/live/HNYL_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=344
+湖南电视剧,http://zzq12345.gearhostpreview.com/11/hunan.php?id=484
+湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+湖南教育台,http://cg6.hunancatv.cn:9090/live/HNJY_2000.m3u8?ci=123#http://cg3.hunancatv.cn:9090/live/HNJY_2000.m3u8?ci=123#http://pull.hnedutv.com/live/edutv.m3u8
+金鹰纪实HD,http://cg3.hunancatv.cn:9090/live/JYJS_8000.m3u8?ci=123
+金鹰卡通HD,http://cg3.hunancatv.cn:9090/live/JYKT_8000.m3u8?ci=123
+长沙新闻频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+长沙政法频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+长沙女性频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+长沙经贸频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙影视频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙嘉丽购物频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+长沙移动电视(地铁),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
+长沙移动电视(公交),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
+长沙移动电视(磁浮),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_355.m3u8
 
 $c_startKiD电影$c_end
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
