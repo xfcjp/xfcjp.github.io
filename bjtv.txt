@@ -526,7 +526,6 @@ NEWTV-精品纪录 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212263
 NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 
 $c_start北京本地$c_end
-北京本地,#genre#
 北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
 北京影视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
