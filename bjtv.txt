@@ -350,6 +350,10 @@ GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 GoodTV 共享观点,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
 TVBS 综合频道,http://hdtv.ub1818.com/ublive/index_5.m3u8
 TVBS 新闻频道,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+东森新闻,http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+中天新闻,http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://live5.ocnttv.com:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://live5.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 年代新闻,http://192.154.103.74:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 采昌影剧,http://hdtv.ub1818.com/ublive/index_27.m3u8
 靖天电影,http://hdtv.ub1818.com/ublive/index_23.m3u8
