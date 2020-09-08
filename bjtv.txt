@@ -76,10 +76,20 @@ CGTN DOCUMENTRAY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.
 海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226427/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
 
 其他高清,#genre#
+CCTV5+,vjms://58.215.133.154:8500/live/cid=334
+凤凰中文,vjms://58.215.133.154:8500/live/cid=400
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
 CNBC,vjms://58.215.133.154:8500/live/cid=98
+HBO,vjms://58.215.133.154:8500/live/cid=261
+澳亚卫视,vjms://58.215.133.154:8500/live/cid=337
+翡翠,vjms://58.215.133.154:8500/live/cid=362
+TVB明珠台,vjms://58.215.133.154:8500/live/cid=367
+TVB新闻台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+桓台一套,http://livealone302.iqilu.com/huantai/huantai_tv01.m3u8
+桓台二套,http://livealone302.iqilu.com/huantai/huantai_tv02.m3u8
+广东体育,http://113.65.176.161:8888/rtp/239.77.0.112:5146
 
 淘电影 北京IPTV+,http://www.qnap.cc:4022/rtp/239.3.1.250:8001
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
@@ -453,10 +463,20 @@ $c_start卫视高清$c_end
 海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226427/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
 
 $c_start其他高清$c_end
+CCTV5+,vjms://58.215.133.154:8500/live/cid=334
+凤凰中文,vjms://58.215.133.154:8500/live/cid=400
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
 CNBC,vjms://58.215.133.154:8500/live/cid=98
+HBO,vjms://58.215.133.154:8500/live/cid=261
+澳亚卫视,vjms://58.215.133.154:8500/live/cid=337
+翡翠,vjms://58.215.133.154:8500/live/cid=362
+TVB明珠台,vjms://58.215.133.154:8500/live/cid=367
+TVB新闻台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+桓台一套,http://livealone302.iqilu.com/huantai/huantai_tv01.m3u8
+桓台二套,http://livealone302.iqilu.com/huantai/huantai_tv02.m3u8
+广东体育,http://113.65.176.161:8888/rtp/239.77.0.112:5146
 
 淘电影 北京IPTV+,http://www.qnap.cc:4022/rtp/239.3.1.250:8001
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
