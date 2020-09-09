@@ -20,6 +20,11 @@ CCTV-15 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8#h
 冬奥纪实 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 CCTV-17 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 
+中国教育1台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
+中国教育2台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+中国教育3台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+中国教育4台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+
 CETV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226417/1.m3u8
 CETV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
@@ -407,6 +412,11 @@ CCTV-14 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#h
 CCTV-15 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
 冬奥纪实 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 CCTV-17 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
+
+中国教育1台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
+中国教育2台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+中国教育3台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+中国教育4台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 
 CETV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226417/1.m3u8
 CETV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
