@@ -92,6 +92,8 @@ HBO,vjms://58.215.133.154:8500/live/cid=261
 翡翠,vjms://58.215.133.154:8500/live/cid=362
 TVB明珠台,vjms://58.215.133.154:8500/live/cid=367
 TVB新闻台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
+新闻台,http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
 桓台一套,http://livealone302.iqilu.com/huantai/huantai_tv01.m3u8
 桓台二套,http://livealone302.iqilu.com/huantai/huantai_tv02.m3u8
 广东体育,http://113.65.176.161:8888/rtp/239.77.0.112:5146
@@ -484,6 +486,8 @@ HBO,vjms://58.215.133.154:8500/live/cid=261
 翡翠,vjms://58.215.133.154:8500/live/cid=362
 TVB明珠台,vjms://58.215.133.154:8500/live/cid=367
 TVB新闻台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
+新闻台,http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
 桓台一套,http://livealone302.iqilu.com/huantai/huantai_tv01.m3u8
 桓台二套,http://livealone302.iqilu.com/huantai/huantai_tv02.m3u8
 广东体育,http://113.65.176.161:8888/rtp/239.77.0.112:5146
