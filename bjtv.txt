@@ -412,6 +412,9 @@ Hollywood HD,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#p8p://user3
 FOX 电影频道,http://192.154.103.74:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 嗨浪频道_123456,#genre#
+松视1台,vjms://58.215.133.154:8500:3502/live/cid=262
+松视2台,vjms://58.215.133.154:8500:3502/live/cid=267
+松视3台,vjms://58.215.133.154:8500:3502/live/cid=268
 HOT,http://ourtv.homeunix.com:9502/twhkokk/hot/.ts
 快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
@@ -833,6 +836,9 @@ FOX 电影频道,http://192.154.103.74:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http:
 Hollywood HD,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#p8p://user3.shusongw.mobi:16871/5f2fabea000ac62722b0ba1e30f6fc2a#mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
 
 $c_start嗨浪频道$c_end
+松视1台,vjms://58.215.133.154:8500:3502/live/cid=262
+松视2台,vjms://58.215.133.154:8500:3502/live/cid=267
+松视3台,vjms://58.215.133.154:8500:3502/live/cid=268
 快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
 HOT,http://ourtv.homeunix.com:9502/twhkokk/hot/.ts
