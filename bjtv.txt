@@ -303,6 +303,16 @@ CCTV-17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 音乐台,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
 
 港台测试,#genre#
+探索频道,p8p://user3.shusongw.mobi:16871/5f2e56190004729f1d7980176b355250
+探索亚洲,p8p://user3.shusongw.mobi:16871/5f37d15a000efba84282f8b2e586739c
+探索科学,p8p://user3.shusongw.mobi:16871/5f37d1f3000dbded42854e09147e692f
+罪案侦探频道,p8p://user3.shusongw.mobi:16871/5f37c7ab0006a300425d22f785b390d0
+国家地理,p8p://user3.shusongw.mobi:16871/5f34ca1f000a502236aeb9084d9c2802
+国家地理悠人,p8p://user3.shusongw.mobi:16871/5f37d0fb00088f51428183f5a24c108a
+国家地理野生,p8p://user3.shusongw.mobi:16871/5f37cf4000053244427ac0a15f6658f1
+动物星球,p8p://user3.shusongw.mobi:16871/5d1a69da000a2acf11be734ba3f44eda
+亚洲美食,p8p://user3.shusongw.mobi:16871/5f37db930000c98242aae3b8829cb3c8
+
 凤凰中文,rtmp://58.200.131.2:1935/livetv/fhzw#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://live.centerch.com/fhzw.m3u8
 凤凰资讯,https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_lo.m3u8#http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8#http://live.centerch.com/fhzx.m3u8#http://117.169.120.138:8080/live/fhzixun/1.m3u8
 凤凰香港,https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo.m3u8
@@ -754,6 +764,16 @@ CCTV-17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 音乐台,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
 
 $c_start港台测试$c_end
+探索频道,p8p://user3.shusongw.mobi:16871/5f2e56190004729f1d7980176b355250
+探索亚洲,p8p://user3.shusongw.mobi:16871/5f37d15a000efba84282f8b2e586739c
+探索科学,p8p://user3.shusongw.mobi:16871/5f37d1f3000dbded42854e09147e692f
+罪案侦探频道,p8p://user3.shusongw.mobi:16871/5f37c7ab0006a300425d22f785b390d0
+国家地理,p8p://user3.shusongw.mobi:16871/5f34ca1f000a502236aeb9084d9c2802
+国家地理悠人,p8p://user3.shusongw.mobi:16871/5f37d0fb00088f51428183f5a24c108a
+国家地理野生,p8p://user3.shusongw.mobi:16871/5f37cf4000053244427ac0a15f6658f1
+动物星球,p8p://user3.shusongw.mobi:16871/5d1a69da000a2acf11be734ba3f44eda
+亚洲美食,p8p://user3.shusongw.mobi:16871/5f37db930000c98242aae3b8829cb3c8
+
 凤凰中文,rtmp://58.200.131.2:1935/livetv/fhzw#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://live.centerch.com/fhzw.m3u8
 凤凰资讯,https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_lo.m3u8#http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8#http://live.centerch.com/fhzx.m3u8#http://117.169.120.138:8080/live/fhzixun/1.m3u8
 凤凰香港,https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo.m3u8
