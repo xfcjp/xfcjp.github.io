@@ -87,7 +87,7 @@ BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
 CNBC,vjms://58.215.133.154:8500/live/cid=98
-HBO,vjms://58.215.133.154:8500/live/cid=261#vjms://yd.sitvp2p.com:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261#mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
+HBO,vjms://58.215.133.154:8500/live/cid=261#vjms://153.99.180.75:8500:5021/live/cid=261#vjms://yd.sitvp2p.com:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261#mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 HBOHD,p8p://user3.shusongw.mobi:16871/5f2faab60000da2822ac0474501db664
 澳亚卫视,vjms://58.215.133.154:8500/live/cid=337
 翡翠,vjms://58.215.133.154:8500/live/cid=362
