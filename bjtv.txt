@@ -94,6 +94,11 @@ CGTN DOCUMENTRAY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.
 其他高清,#genre#
 CCTV5+,vjms://58.215.133.154:8500/live/cid=334
 凤凰中文,vjms://58.215.133.154:8500/live/cid=400
+MAX,http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+精彩综艺高清2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+精彩电影高清2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+精彩电视剧高清2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
@@ -1082,6 +1087,10 @@ $c_start卫视高清$c_end
 $c_start其他高清$c_end
 CCTV5+,vjms://58.215.133.154:8500/live/cid=334
 凤凰中文,vjms://58.215.133.154:8500/live/cid=400
+MAX,http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+精彩综艺高清2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+精彩电影高清2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+精彩电视剧高清2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 BBC,vjms://58.215.133.154:8500/live/cid=418
 CNN,vjms://58.215.133.154:8500/live/cid=428
 NHK World,vjms://58.215.133.154:8500/live/cid=309
