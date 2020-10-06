@@ -15,7 +15,7 @@ CCTV-9 HD,http://111.13.42.42/PLTV/88888888/224/3221226236/1.m3u8#http://ottrrs.
 CCTV-10 HD,http://111.13.42.42/PLTV/88888888/224/3221226227/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225596/index.m3u8
 CCTV-11 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-12 HD,http://111.13.42.42/PLTV/88888888/224/3221226228/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8#http://111.13.42.42/PLTV/88888888/224/3221226159/1.m3u8
+CCTV-13 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8#http://111.13.42.42/PLTV/88888888/224/3221226159/1.m3u8#http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 CCTV-14 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225600/index.m3u8
 CCTV-15 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 冬奥纪实 HD,http://111.13.42.42/PLTV/88888888/224/3221226438/1.m3u8
@@ -190,6 +190,7 @@ NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212262
 北京本地,#genre#
 北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
+北京卡酷少儿 8M1080,http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
 北京影视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
 北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8#http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8#http://ivi.bupt.edu.cn/hls/btv4.m3u8
@@ -203,6 +204,7 @@ NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212262
 湖南本地,#genre#
 芒果TV自制 4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
+湖南快乐垂钓 8M1080,http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
 湖南经视,http://kjol.cc/proxy/hunan.php?id=280
 湖南都市,http://kjol.cc/proxy/hunan.php?id=346
 湖南公共,http://kjol.cc/proxy/hunan.php?id=261
@@ -1006,23 +1008,24 @@ LOOK,mitv://147.135.39.171:9906/5f530073000d434703817f6723af2397.ts#mitv://147.1
 $c_start央视高清$c_end
 纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://39.134.157.199/PLTV/88888888/224/3221225670/index.m3u8#http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
 欢笑剧场4K,http://183.207.248.71/gitv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
-CCTV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226432/1.m3u8
-CCTV-2 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-CCTV-3 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8
-CCTV-4 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226455/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
-CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226257/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226258/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226259/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226260/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226261/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
-CCTV-5+ HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8
-CCTV-6 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8
-CCTV-7 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226452/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8
-CCTV-8 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8
-CCTV-9 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8
-CCTV-10 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u8
-CCTV-11 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225869/1.m3u8
-CCTV-12 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226447/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8
-CCTV-13 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8
-CCTV-14 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226445/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225872/1.m3u8
-CCTV-15 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
-冬奥纪实 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+北京IPTV（淘欢乐）,http://111.13.42.42/PLTV/88888888/224/3221226551/1.m3u8
+CCTV-1 HD,http://111.13.42.42/PLTV/88888888/224/3221226155/1.m3u8#http://111.13.42.42/PLTV/88888888/224/3221226154/1.m3u8
+CCTV-2 HD,http://111.13.42.42/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225590/index.m3u8
+CCTV-5 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/index.m3u8
+CCTV-5+ HD,http://111.13.42.42/PLTV/88888888/224/3221226458/1.m3u8#http://111.13.42.42/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-6 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+CCTV-7 HD,http://111.13.42.42/PLTV/88888888/224/3221226467/1.m3u8#http://111.13.42.42/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-8 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
+CCTV-9 HD,http://111.13.42.42/PLTV/88888888/224/3221226236/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225595/index.m3u8
+CCTV-10 HD,http://111.13.42.42/PLTV/88888888/224/3221226227/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225596/index.m3u8
+CCTV-11 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12 HD,http://111.13.42.42/PLTV/88888888/224/3221226228/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8#http://111.13.42.42/PLTV/88888888/224/3221226159/1.m3u8#http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
+CCTV-14 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225600/index.m3u8
+CCTV-15 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+冬奥纪实 HD,http://111.13.42.42/PLTV/88888888/224/3221226438/1.m3u8
 CCTV-17 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 
 中国教育1台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
@@ -1181,6 +1184,7 @@ NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212262
 $c_start北京本地$c_end
 北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
+北京卡酷少儿 8M1080,http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
 北京影视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
 北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8#http://ivi.bupt.edu.cn/hls/btv3.m3u8
 北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8#http://ivi.bupt.edu.cn/hls/btv4.m3u8
@@ -1194,6 +1198,7 @@ $c_start北京本地$c_end
 $c_start湖南本地$c_end
 芒果TV自制 4K,http://39.135.225.5:18890/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV独播,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226692/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
+湖南快乐垂钓 8M1080,http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
 湖南经视,http://kjol.cc/proxy/hunan.php?id=280
 湖南都市,http://kjol.cc/proxy/hunan.php?id=346
 湖南公共,http://kjol.cc/proxy/hunan.php?id=261
@@ -1208,18 +1213,6 @@ $c_start湖南本地$c_end
 长沙新闻,http:///kjol.cc/proxy/hunan.php?id=269
 长沙政法,http://kjol.cc/proxy/hunan.php?id=254
 长沙女性,http://kjol.cc/proxy/hunan.php?id=230
-湖南电视剧,http://zzq12345.gearhostpreview.com/11/hunan.php?id=484
-湖南茶频道,http://125.210.152.18:9090/live/CPD.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-湖南教育台,http://cg6.hunancatv.cn:9090/live/HNJY_2000.m3u8?ci=123#http://cg3.hunancatv.cn:9090/live/HNJY_2000.m3u8?ci=123#http://pull.hnedutv.com/live/edutv.m3u8
-长沙新闻频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
-长沙政法频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
-长沙女性频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
-长沙经贸频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-长沙影视频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-长沙嘉丽购物频道,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
-长沙移动电视(地铁),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
-长沙移动电视(公交),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
-长沙移动电视(磁浮),https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_355.m3u8
 
 $c_startKiD电影$c_end
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
