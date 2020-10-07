@@ -1,5 +1,89 @@
+纳迦港台,#genre#
+TVB翡翠,vjms://58.215.133.154:8500:3502/live/cid=362
+澳亞衛視,vjms://58.215.133.154:8500:3502/live/cid=337
+TVB翡翠,vjms://58.215.133.154:8500:3502/live/cid=362
+澳亞衛視,vjms://58.215.133.154:8500:3502/live/cid=337
+TVBS新闻,vjms://122.155.180.8:8500:3502/live/cid=348
+壹新闻,vjms://122.155.180.8:8500:3502/live/cid=445
+东森新闻,vjms://122.155.180.8:8500:3502/live/cid=340
+東森財經,vjms://122.155.180.8:8500:3502/live/cid=456
+三立都会,vjms://122.155.180.8:8500:3502/live/cid=226
+探索科学,vjms://122.155.180.8:8500:3502/live/cid=457
+AXN 电影,vjms://153.99.180.75:8500:5021/live/cid=2
+国家地理野生,vjms://153.99.180.75:8500:5021/live/cid=263#vjms://61.216.1.24:8500:3502/live/cid=263
+国家地理HD,vjms://153.99.180.75:8500:5021/live/cid=115#vjms://61.216.1.24:8500:3502/live/cid=115
+探索频道,vjms://153.99.180.75:8500:5021/live/cid=440#vjms://61.216.1.24:8500:3502/live/cid=440#rtmp://58.200.131.2:1935/livetv/discovery
+动物星球,vjms://153.99.180.75:8500:5021/live/cid=3#vjms://61.216.1.24:8500:3502/live/cid=3
+发现科学,vjms://153.99.180.75:8500:5021/live/cid=457#vjms://61.216.1.24:8500:3502/live/cid=457
+TLC旅游生活,vjms://153.99.180.75:8500:5021/live/cid=103#vjms://61.216.1.24:8500:3502/live/cid=103
+法國國際五台,vjms://153.99.180.75:8500:5021/live/cid=396#vjms://61.216.1.24:8500:3502/live/cid=396
+法国时尚,vjms://153.99.180.75:8500:5021/live/cid=399#vjms://61.216.1.24:8500:3502/live/cid=399
+BBC,vjms://58.215.133.154:8500:3502/live/cid=418
+CNN,vjms://153.99.180.75:8500:5021/live/cid=428#vjms://58.215.133.154:8500:3502/live/cid=428#vjms://61.216.1.24:8500:3502/live/cid=428
+CNBC,vjms://153.99.180.75:8500:5021/live/cid=98#vjms://61.216.1.24:8500:3502/live/cid=98
+AXN 电影,vjms://153.99.180.75:8500:5021/live/cid=2
+HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://61.216.1.24:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
+纬来体育,vjms://153.99.180.75:8500:5021/live/cid=202
+纬来体育,vjms://61.216.1.24:8500:3502/live/cid=202
+迪士尼卡通,vjms://153.99.180.75:8500:5021/live/cid=361#vjms://61.216.1.24:8500:3502/live/cid=361
+爱尔达体育,vjms://153.99.180.75:8500:5021/live/cid=266#vjms://61.216.1.24:8500:3502/live/cid=266
+博斯高球1,vjms://153.99.180.75:8500:5021/live/cid=265#vjms://61.216.1.24:8500:3502/live/cid=265
+FOX体育2,vjms://153.99.180.75:8500:5021/live/cid=444#vjms://61.216.1.24:8500:3502/live/cid=444#vjms://153.99.180.75:8500:5021/live/cid=95#vjms://61.216.1.24:8500:3502/live/cid=95
+MTV,vjms://58.215.133.216:8500:3502/live/cid=52
+迪士尼卡通,vjms://122.155.180.8:8500:3502/live/cid=361
+緯來體育,vjms://153.99.180.75:8500:5021/live/cid=202
+爱尔达体育1,vjms://153.99.180.75:8500:5021/live/cid=266
+博斯高球1,vjms://153.99.180.75:8500:5021/live/cid=265
+FOX体育2,vjms://153.99.180.75:8500:5021/live/cid=444
+FOX体育3,vjms://153.99.180.75:8500:5021/live/cid=95
+日本摔角,vjms://58.215.133.154:8500/live/cid=408
+日FIGHTING TV,vjms://58.215.133.189:8500:3502/live/cid=408
+日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
+日本体育,vjms://58.215.133.154:8500/live/cid=207
+J SPORTS 1,vjms://58.215.133.154:8500/live/cid=415
+J SPORTS 2,vjms://58.215.133.154:8500/live/cid=416
+J SPORTS 3,vjms://58.215.133.154:8500/live/cid=410
+J SPORTS 4,vjms://58.215.133.154:8500/live/cid=411
+日本摔角,vjms://58.215.133.154:8500/live/cid=408
+日本体育,vjms://58.215.133.154:8500/live/cid=207
+日本星空电影1台,vjms://58.215.133.154:8500/live/cid=326
+日本星空电影2台,vjms://58.215.133.154:8500/live/cid=191
+日本星空电影3台,vjms://58.215.133.154:8500/live/cid=193
+Movieplus,vjms://58.215.133.154:8500/live/cid=497
+日-Discovery,vjms://58.215.133.154:8500/live/cid=496
+日本频道,vjms://58.215.133.154:8500/live/cid=492
+日本剧场,vjms://58.215.133.154:8500/live/cid=493
+日-MTV,vjms://58.215.133.154:8500/live/cid=52
+日本电视剧,vjms://58.215.133.154:8500/live/cid=213
+WOWOWプライム,vjms://58.215.133.154:8500/live/cid=205
+日-Sports,vjms://58.215.133.154:8500/live/cid=414
+日-Sports1,vjms://58.215.133.154:8500/live/cid=415
+日-Sports2,vjms://58.215.133.154:8500/live/cid=416
+日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
+日本钓鱼,vjms://58.215.133.154:8500/live/cid=55
+HISTORY,vjms://58.215.133.154:8500/live/cid=219
+NHKG,vjms://58.215.133.154:8500/live/cid=317
+日-J,vjms://58.215.133.154:8500/live/cid=495
+NHKE,vjms://58.215.133.154:8500/live/cid=318
+MGS,vjms://58.215.133.154:8500/live/cid=319
+SUN,vjms://58.215.133.154:8500/live/cid=320
+KIDS,vjms://58.215.133.154:8500/live/cid=494
+ANIMAX,vjms://58.215.133.154:8500/live/cid=498
+迪士尼,vjms://58.215.133.154:8500/live/cid=499
+CCTV-大富,vjms://58.215.133.154:8500/live/cid=170
+KBSWORLD,vjms://58.215.133.154:8500/live/cid=216
+TBSNEWS,vjms://58.215.133.154:8500/live/cid=220
+日本动画,vjms://58.215.133.154:8500/live/cid=316
+TVTOKD,vjms://58.215.133.154:8500/live/cid=315
+TVO7,vjms://58.215.133.154:8500/live/cid=322
+TBS,vjms://58.215.133.154:8500/live/cid=314
+TBS1,vjms://58.215.133.154:8500/live/cid=221
+朝日1,vjms://58.215.133.154:8500/live/cid=223
+BS洋片,vjms://58.215.133.154:8500/live/cid=307
+NHKBSP,vjms://58.215.133.154:8500/live/cid=303
+BS-TBS,vjms://58.215.133.154:8500/live/cid=305
+
 台湾频道,#genre#
-猪哥亮歌厅秀,http://ublive.yaxing.site/fhtv.php?id=75
 台视,http://ublive.yaxing.site/fhtv.php?id=27
 台视,http://ublive.yaxing.site/fhtv.php?id=326
 台视新闻,http://ublive.yaxing.site/fhtv.php?id=1
@@ -175,6 +259,8 @@ TRACE体育Stars,http://ublive.yaxing.site/fhtv.php?id=1037
 ELTA体育1台,http://ublive.yaxing.site/fhtv.php?id=192
 ELTA体育2台,http://ublive.yaxing.site/fhtv.php?id=193
 ELTA体育3台,http://ublive.yaxing.site/fhtv.php?id=194
+猪哥亮歌厅秀,http://ublive.yaxing.site/fhtv.php?id=75
+
 港澳频道,#genre#
 18台,http://ublive.yaxing.site/fhtv.php?id=44
 翡翠台1,http://ublive.yaxing.site/fhtv.php?id=390
@@ -217,6 +303,7 @@ NOW直播,http://ublive.yaxing.site/fhtv.php?id=400
 新时代多伦多2,http://ublive.yaxing.site/fhtv.php?id=1033
 TVB星河,http://ublive.yaxing.site/fhtv.php?id=1079
 卫视卡式台,http://ublive.yaxing.site/fhtv.php?id=1085
+
 新马频道,#genre#
 新马-双星,http://ublive.yaxing.site/fhtv.php?id=1086
 新马CERIA,http://ublive.yaxing.site/fhtv.php?id=1161
@@ -267,6 +354,7 @@ TVB星河,http://ublive.yaxing.site/fhtv.php?id=1079
 新马Channel5,http://ublive.yaxing.site/fhtv.php?id=141
 新马Channel8,http://ublive.yaxing.site/fhtv.php?id=142
 新马AWANI,http://ublive.yaxing.site/fhtv.php?id=1151
+
 英美加印,#genre#
 Disney j,http://ublive.yaxing.site/fhtv.php?id=47
 Disneyxd,http://ublive.yaxing.site/fhtv.php?id=31
@@ -514,6 +602,7 @@ VOA美国之音,http://ublive.yaxing.site/fhtv.php?id=495
 印度Zee Cinema,http://ublive.yaxing.site/fhtv.php?id=484
 印度Zee Classic,http://ublive.yaxing.site/fhtv.php?id=485
 印度Tv9 Bharatvarsh,http://ublive.yaxing.site/fhtv.php?id=1125
+
 韩日越泰,#genre#
 韩国TVN MOVIE,http://ublive.yaxing.site/fhtv.php?id=1082
 韩国-YTN Science,http://ublive.yaxing.site/fhtv.php?id=1092
