@@ -143,7 +143,7 @@ CCTV-4K超清,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 广西卫视,http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
 新疆卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 
-福利_0917,#genre#
+福利_123456,#genre#
 妈妈的朋友们2,http://youku1.dianfubang.com/20190222/kNaLwaun/index.m3u8
 五十度灰未删减,http://youku1.dianfubang.com/20191111/saE1iW8W/index.m3u8
 年轻的嫂子2,http://youku1.dianfubang.com/20190222/ySXdoNPk/index.m3u8
