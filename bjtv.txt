@@ -658,6 +658,8 @@ NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212262
 长沙新闻,http:///kjol.cc/proxy/hunan.php?id=269
 长沙政法,http://kjol.cc/proxy/hunan.php?id=254
 长沙女性,http://kjol.cc/proxy/hunan.php?id=230
+永州新闻综合,http://stream.21ytv.com/xw/playlist.m3u8#http://stream.21ytv.com/xw/8twnQW67/live.m3u8
+永州公共,http://stream.21ytv.com/gg/playlist.m3u8#http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
 KiD电影,#genre#
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -1671,6 +1673,8 @@ $c_start湖南本地$c_end
 长沙新闻,http:///kjol.cc/proxy/hunan.php?id=269
 长沙政法,http://kjol.cc/proxy/hunan.php?id=254
 长沙女性,http://kjol.cc/proxy/hunan.php?id=230
+永州新闻综合,http://stream.21ytv.com/xw/playlist.m3u8#http://stream.21ytv.com/xw/8twnQW67/live.m3u8
+永州公共,http://stream.21ytv.com/gg/playlist.m3u8#http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
 $c_startKiD电影$c_end
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
