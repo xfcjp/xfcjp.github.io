@@ -6,6 +6,7 @@ CCTV13新闻,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?ci=123#http://1
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 纯享4K,http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
 CCTV4K超高清,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
+北京冬奥纪实4K[3840*2160],http://221.179.217.9/otttv.bj.chinamobile/PLTV/88888888/224/3221226563/1.m3u8
 凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
