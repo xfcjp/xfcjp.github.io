@@ -125,6 +125,7 @@ BTV 新闻 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888
 BTV 新闻 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 BTV 影视 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
 其他,#genre#
+长津湖,https://pan.xindongli-edu.com/mp4hls/m3u8/changjinhu.m3u8
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
@@ -293,6 +294,7 @@ BTV 新闻 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888
 BTV 新闻 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 BTV 影视 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
 $c_start其他高清$c_end
+长津湖,https://pan.xindongli-edu.com/mp4hls/m3u8/changjinhu.m3u8
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
