@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,长津湖
+https://pan.xindongli-edu.com/mp4hls/m3u8/changjinhu.m3u8
 #EXTINF:-1 ,CCTV-1综合
 http://39.134.176.253/PLTV/88888888/224/3221226527/index.m3u8
 #EXTINF:-1 ,CCTV-2财经
