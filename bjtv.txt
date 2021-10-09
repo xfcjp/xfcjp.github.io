@@ -124,8 +124,11 @@ BTV 文艺 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/888888
 BTV 新闻 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 BTV 新闻 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 BTV 影视 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+网红女主播“沈樵”,#genre#
+美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
+动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
+顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 其他,#genre#
-长津湖,https://pan.xindongli-edu.com/mp4hls/m3u8/changjinhu.m3u8
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
@@ -293,6 +296,10 @@ BTV 文艺 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/888888
 BTV 新闻 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 BTV 新闻 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 BTV 影视 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+$c_start网红女主播“沈樵$c_end
+美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
+动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
+顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 $c_start其他高清$c_end
 长津湖,https://pan.xindongli-edu.com/mp4hls/m3u8/changjinhu.m3u8
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
