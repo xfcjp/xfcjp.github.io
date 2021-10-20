@@ -75,6 +75,20 @@ CETV-1 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/
 东南卫视 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 东南卫视 [1920*1080],http://39.134.39.37/PLTV/88888888/224/3221226182/index.m3u8
 东南卫视 [1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
+成人,#genre#
+彩虹e台,mitv://ns2.hellotvvod.com:9906/80d4bc0ab54b4554a4750017dea94266
+彩虹电影台,mitv://ns2.hellotvvod.com:9906/97adbc1c2540431e961b9ef37b31feb8
+LOOK TV,mitv://ns2.hellotvvod.com:9906/d3a971ab16994657b45526c2d8006258
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/c1fd64b8272c4d4abd42961cf4d40fa3
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/b654c935556342d6b616741752a5bf46
+松视1台,mitv://ns2.hellotvvod.com:9906/be23c5b4674e4e93b7fd97527de5e635
+松视2台,mitv://ns2.hellotvvod.com:9906/002a0c5abd80432db5d40b92107ec845
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/c6fb8bdc579c4f9eb2b6b6296f9a7fb0
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/605d334bb5024749b246d007e322e9b2
+香蕉台,mitv://ns2.hellotvvod.com:9906/c3245681c64a426eb18ffacd1294694c
+HOT,mitv://ns2.hellotvvod.com:9906/a4121738c98b40da840829698a1feb65
+松视3台,mitv://ns2.hellotvvod.com:9906/2fcc85dd734340899c8a4ef81994aa00
+JStar极限台,mitv://ns2.hellotvvod.com:9906/4948ec1f2a3149a99910f264d758bb05
 NewTV,#genre#
 NewTV 军旅剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
 NewTV 爱情喜剧 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
@@ -177,7 +191,7 @@ BEIN SPORTS MAX,mitv://ns2.hellotvvod.com:9906/e2f0c4ecbc05413e964526fb786f500b
 港台電視31,mitv://ns2.hellotvvod.com:9906/d71569d2a8d3439688cf600dea27b467
 港台电视32,mitv://ns2.hellotvvod.com:9906/9c61a429c2454dae93b83b338a03e793
 香港开电视,mitv://ns2.hellotvvod.com:9906/8431ab727d6d4a31b8d28ee6c8478fc0
-﻿翡翠台(备),mitv://ns2.hellotvvod.com:9906/b7909af400d340efab79e1b0a51fc426
+翡翠台(备),mitv://ns2.hellotvvod.com:9906/b7909af400d340efab79e1b0a51fc426
 J2,mitv://ns2.hellotvvod.com:9906/958d87c8be524ffdb6850ba9b5226ce2
 ViuTVsix,mitv://ns2.hellotvvod.com:9906/587d0aeb7dfe4a7c867aec6a72067b96
 ViuTV,mitv://ns2.hellotvvod.com:9906/e0b09359b8cf41168cafb421923f1448
@@ -344,6 +358,20 @@ $c_start卫视高清$c_end
 东南卫视 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 东南卫视 [1920*1080],http://39.134.39.37/PLTV/88888888/224/3221226182/index.m3u8
 东南卫视 [1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
+$c_start成人$c_end
+彩虹e台,mitv://ns2.hellotvvod.com:9906/80d4bc0ab54b4554a4750017dea94266
+彩虹电影台,mitv://ns2.hellotvvod.com:9906/97adbc1c2540431e961b9ef37b31feb8
+LOOK TV,mitv://ns2.hellotvvod.com:9906/d3a971ab16994657b45526c2d8006258
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/c1fd64b8272c4d4abd42961cf4d40fa3
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/b654c935556342d6b616741752a5bf46
+松视1台,mitv://ns2.hellotvvod.com:9906/be23c5b4674e4e93b7fd97527de5e635
+松视2台,mitv://ns2.hellotvvod.com:9906/002a0c5abd80432db5d40b92107ec845
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/c6fb8bdc579c4f9eb2b6b6296f9a7fb0
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/605d334bb5024749b246d007e322e9b2
+香蕉台,mitv://ns2.hellotvvod.com:9906/c3245681c64a426eb18ffacd1294694c
+HOT,mitv://ns2.hellotvvod.com:9906/a4121738c98b40da840829698a1feb65
+松视3台,mitv://ns2.hellotvvod.com:9906/2fcc85dd734340899c8a4ef81994aa00
+JStar极限台,mitv://ns2.hellotvvod.com:9906/4948ec1f2a3149a99910f264d758bb05
 $c_startNewTV高清$c_end
 NewTV 军旅剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
 NewTV 爱情喜剧 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
