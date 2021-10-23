@@ -465,10 +465,11 @@ HOT,mitv://ns2.hellotvvod.com:9906/42894c6b17164524954179b59dfadf34
 JStar极限台,mitv://ns2.hellotvvod.com:9906/6513c8ef3d264782b0851511fa67a9e9
 
 其他,#genre#
-FOX,http://pl1cdn.plusx.tv:8880/249/mono.m3u8?token=pirek23@gmail.comziomek222222
+HBO,https://gratismkctv.net/film/hbo.m3u8
 HBO,http://pl1cdn.plusx.tv:8880/243/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO2,http://pl1cdn.plusx.tv:8880/246/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO3,http://pl1cdn.plusx.tv:8880/245/mono.m3u8?token=pirek23@gmail.comziomek222222
+FOX,http://pl1cdn.plusx.tv:8880/249/mono.m3u8?token=pirek23@gmail.comziomek222222
 WILD,http://pl1cdn.plusx.tv:8880/223/mono.m3u8?token=pirek23@gmail.comziomek222222
 Animal Planet,http://pl1cdn.plusx.tv:8880/317/mono.m3u8?token=pirek23@gmail.comziomek222222
 BBC EARTH,http://pl1cdn.plusx.tv:8880/307/mono.m3u8?token=pirek23@gmail.comziomek222222
@@ -914,10 +915,11 @@ HOT,mitv://ns2.hellotvvod.com:9906/42894c6b17164524954179b59dfadf34
 松视3台,mitv://ns2.hellotvvod.com:9906/e0b7b68db7974e34a106bc01fbf924ae
 JStar极限台,mitv://ns2.hellotvvod.com:9906/6513c8ef3d264782b0851511fa67a9e9
 $c_start其他高清$c_end
-FOX,http://pl1cdn.plusx.tv:8880/249/mono.m3u8?token=pirek23@gmail.comziomek222222
+HBO,https://gratismkctv.net/film/hbo.m3u8
 HBO,http://pl1cdn.plusx.tv:8880/243/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO2,http://pl1cdn.plusx.tv:8880/246/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO3,http://pl1cdn.plusx.tv:8880/245/mono.m3u8?token=pirek23@gmail.comziomek222222
+FOX,http://pl1cdn.plusx.tv:8880/249/mono.m3u8?token=pirek23@gmail.comziomek222222
 WILD,http://pl1cdn.plusx.tv:8880/223/mono.m3u8?token=pirek23@gmail.comziomek222222
 Animal Planet,http://pl1cdn.plusx.tv:8880/317/mono.m3u8?token=pirek23@gmail.comziomek222222
 BBC EARTH,http://pl1cdn.plusx.tv:8880/307/mono.m3u8?token=pirek23@gmail.comziomek222222
