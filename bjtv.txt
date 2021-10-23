@@ -16,6 +16,7 @@ CCTV-13 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221
 CCTV-15 HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231693/index.m3u8
 CCTV-17 HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231739/index.m3u8
 CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
+
 卫视高清,#genre#
 北京卫视 HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
 湖南卫视 HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
@@ -75,6 +76,25 @@ CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/32212
 东南卫视 HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 东南卫视 HD,http://39.134.39.37/PLTV/88888888/224/3221226182/index.m3u8
 东南卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
+
+北京,#genre#
+北京卫视 HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
+北京新闻,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+北京财经,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+北京生活,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+北京影视,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+北京文艺,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+北京青年,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+卡酷少儿,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+北京纪实,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+北京国际,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+IPTV淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+IPTV淘娱乐,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+IPTV淘剧场,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+IPTV4K超清,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+IPTV萌宠TV,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 
 湖南,#genre#
 湖南卫视,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
@@ -491,6 +511,25 @@ $c_start卫视高清$c_end
 东南卫视 HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 东南卫视 HD,http://39.134.39.37/PLTV/88888888/224/3221226182/index.m3u8
 东南卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
+
+$c_start北京$c_end
+北京卫视 HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
+北京新闻,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+北京财经,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+北京生活,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+北京影视,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+北京文艺,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+北京青年,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+卡酷少儿,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+北京纪实,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+北京国际,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+IPTV淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+IPTV淘娱乐,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+IPTV淘剧场,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+IPTV4K超清,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+IPTV萌宠TV,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 
 $c_start湖南$c_end
 湖南卫视,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
