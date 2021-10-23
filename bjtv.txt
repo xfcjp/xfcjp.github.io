@@ -58,6 +58,15 @@ CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 信号测试 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+4K,#genre#
+纯享-4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225724/index.m3u8
+荆门樱花4K,http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
+电视剧FHD,http://39.134.116.30:8080/PLTV/88888910/224/3221225712/index.m3u8
+
 央视高清,#genre#
 CCTV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226247/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-2 HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226220/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231678/index.m3u8
@@ -566,6 +575,15 @@ CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 信号测试 4M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+$c_start4K$c_end
+纯享-4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225724/index.m3u8
+荆门樱花4K,http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
+电视剧FHD,http://39.134.116.30:8080/PLTV/88888910/224/3221225712/index.m3u8
 
 $c_start央视高清$c_end
 CCTV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226247/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
