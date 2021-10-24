@@ -148,22 +148,22 @@ CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/32212
 
 北京,#genre#
 北京卫视 HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
-北京新闻,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-北京财经,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
-北京生活,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
-北京影视,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
-北京文艺,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
-北京青年,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
-卡酷少儿,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-北京纪实,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
-北京国际,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+北京新闻HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+北京生活HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+北京影视HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+北京文艺HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+北京青年HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+北京纪实HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+北京国际HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+北京财经HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+卡酷少儿HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 IPTV淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 IPTV淘娱乐,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 IPTV淘剧场,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 IPTV4K超清,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-IPTV萌宠TV,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+IPTV萌宠TV,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 
 湖南,#genre#
 湖南卫视,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
@@ -349,25 +349,13 @@ NewTV 中国功夫 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225678/
 NewTV 中国功夫 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
 NewTV 中国功夫1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
 
-BTV,#genre#
-BTV KAKU少儿 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-BTV 财经 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
-BTV 财经 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
-BTV 青年 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
-BTV 青年 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
-BTV 生活 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
-BTV 生活 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
-BTV 文艺 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
-BTV 新闻 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-BTV 新闻 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-BTV 影视 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
-
 网红女主播“沈樵”,#genre#
 美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
 动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
 顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 
 港台,#genre#
+东风,http://anan.jxin122.top/松鼠php/126net.php?id=48
 壹电视新闻台,mitv://ns2.hellotvvod.com:9906/1bd3b5574b6d40718d919edb0947bf28
 年代新闻,mitv://ns2.hellotvvod.com:9906/ad5d2d149f1540aeb1abaa431540b14b
 东森新闻台,mitv://ns2.hellotvvod.com:9906/2d52b728353a41ec98ed7e0e793b838a
@@ -666,22 +654,22 @@ $c_start卫视高清$c_end
 
 $c_start北京$c_end
 北京卫视 HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
-北京新闻,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-北京财经,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
-北京生活,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
-北京影视,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
-北京文艺,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
-北京青年,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
-卡酷少儿,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-北京纪实,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
-北京国际,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+北京新闻HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+北京生活HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+北京影视HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+北京文艺HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+北京青年HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+北京纪实HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+北京国际HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+北京财经HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+卡酷少儿HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 IPTV淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 IPTV淘娱乐,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 IPTV淘剧场,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 IPTV4K超清,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-IPTV萌宠TV,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+IPTV萌宠TV,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 
 $c_start湖南$c_end
 湖南卫视,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
@@ -802,23 +790,12 @@ NewTV 怡伴健康 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVO
 NewTV 中国功夫 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
 NewTV 中国功夫 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
 NewTV 中国功夫1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
-$c_startBTV高清$c_end
-BTV KAKU少儿 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-BTV 财经 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
-BTV 财经 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
-BTV 青年 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
-BTV 青年 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
-BTV 生活 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
-BTV 生活 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
-BTV 文艺 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
-BTV 新闻 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-BTV 新闻 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-BTV 影视 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
 $c_start网红女主播“沈樵$c_end
 美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
 动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
 顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 $c_start港台$c_end
+东风,http://anan.jxin122.top/松鼠php/126net.php?id=48
 壹电视新闻台,mitv://ns2.hellotvvod.com:9906/1bd3b5574b6d40718d919edb0947bf28
 年代新闻,mitv://ns2.hellotvvod.com:9906/ad5d2d149f1540aeb1abaa431540b14b
 东森新闻台,mitv://ns2.hellotvvod.com:9906/2d52b728353a41ec98ed7e0e793b838a
