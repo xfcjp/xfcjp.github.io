@@ -355,7 +355,7 @@ NewTV 中国功夫1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/
 顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 
 港台,#genre#
-东风,http://anan.jxin122.top/松鼠php/126net.php?id=48
+东风卫视,http://anan.jxin122.top/松鼠php/126net.php?id=48
 壹电视新闻台,mitv://ns2.hellotvvod.com:9906/1bd3b5574b6d40718d919edb0947bf28
 年代新闻,mitv://ns2.hellotvvod.com:9906/ad5d2d149f1540aeb1abaa431540b14b
 东森新闻台,mitv://ns2.hellotvvod.com:9906/2d52b728353a41ec98ed7e0e793b838a
@@ -453,10 +453,10 @@ HOT,mitv://ns2.hellotvvod.com:9906/42894c6b17164524954179b59dfadf34
 JStar极限台,mitv://ns2.hellotvvod.com:9906/6513c8ef3d264782b0851511fa67a9e9
 
 其他,#genre#
-HBO,https://gratismkctv.net/film/hbo.m3u8
 HBO,http://pl1cdn.plusx.tv:8880/243/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO2,http://pl1cdn.plusx.tv:8880/246/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO3,http://pl1cdn.plusx.tv:8880/245/mono.m3u8?token=pirek23@gmail.comziomek222222
+HBO,https://gratismkctv.net/film/hbo.m3u8
 FOX,http://pl1cdn.plusx.tv:8880/249/mono.m3u8?token=pirek23@gmail.comziomek222222
 WILD,http://pl1cdn.plusx.tv:8880/223/mono.m3u8?token=pirek23@gmail.comziomek222222
 Animal Planet,http://pl1cdn.plusx.tv:8880/317/mono.m3u8?token=pirek23@gmail.comziomek222222
@@ -753,6 +753,7 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/605d334bb5024749b246d007e322e9b2
 HOT,mitv://ns2.hellotvvod.com:9906/a4121738c98b40da840829698a1feb65
 松视3台,mitv://ns2.hellotvvod.com:9906/2fcc85dd734340899c8a4ef81994aa00
 JStar极限台,mitv://ns2.hellotvvod.com:9906/4948ec1f2a3149a99910f264d758bb05
+
 $c_startNewTV高清$c_end
 NewTV 军旅剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
 NewTV 爱情喜剧 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
@@ -790,12 +791,14 @@ NewTV 怡伴健康 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVO
 NewTV 中国功夫 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
 NewTV 中国功夫 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
 NewTV 中国功夫1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
+
 $c_start网红女主播“沈樵$c_end
 美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
 动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
 顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
+
 $c_start港台$c_end
-东风,http://anan.jxin122.top/松鼠php/126net.php?id=48
+东风卫视,http://anan.jxin122.top/松鼠php/126net.php?id=48
 壹电视新闻台,mitv://ns2.hellotvvod.com:9906/1bd3b5574b6d40718d919edb0947bf28
 年代新闻,mitv://ns2.hellotvvod.com:9906/ad5d2d149f1540aeb1abaa431540b14b
 东森新闻台,mitv://ns2.hellotvvod.com:9906/2d52b728353a41ec98ed7e0e793b838a
@@ -891,11 +894,12 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/4c60b142889f41e481f12de6f71d775f
 HOT,mitv://ns2.hellotvvod.com:9906/42894c6b17164524954179b59dfadf34
 松视3台,mitv://ns2.hellotvvod.com:9906/e0b7b68db7974e34a106bc01fbf924ae
 JStar极限台,mitv://ns2.hellotvvod.com:9906/6513c8ef3d264782b0851511fa67a9e9
+
 $c_start其他高清$c_end
-HBO,https://gratismkctv.net/film/hbo.m3u8
 HBO,http://pl1cdn.plusx.tv:8880/243/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO2,http://pl1cdn.plusx.tv:8880/246/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO3,http://pl1cdn.plusx.tv:8880/245/mono.m3u8?token=pirek23@gmail.comziomek222222
+HBO,https://gratismkctv.net/film/hbo.m3u8
 FOX,http://pl1cdn.plusx.tv:8880/249/mono.m3u8?token=pirek23@gmail.comziomek222222
 WILD,http://pl1cdn.plusx.tv:8880/223/mono.m3u8?token=pirek23@gmail.comziomek222222
 Animal Planet,http://pl1cdn.plusx.tv:8880/317/mono.m3u8?token=pirek23@gmail.comziomek222222
