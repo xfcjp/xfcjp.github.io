@@ -62,6 +62,8 @@ CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 4K,#genre#
+CCTV-4K,http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV16-4K,http://ccav.smymi.com:4000/rtp/239.93.42.54:5140
 纯享-4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
@@ -86,6 +88,7 @@ CCTV-11 HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221
 CCTV-12 HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231660/index.m3u8
 CCTV-13 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226166/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231648/index.m3u8
 CCTV-15 HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231693/index.m3u8
+CCTV-16 4K,http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1td.m3u8#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1ud.m3u8#http://59.49.72.48/live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8?CONTENTID=00000110240388_1#http://ccav.smymi.com:4000/rtp/239.93.42.53:5140#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1hd.m3u8#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1md.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
 CCTV-17 HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231739/index.m3u8
 CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
 
