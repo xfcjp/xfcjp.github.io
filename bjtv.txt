@@ -442,7 +442,7 @@ TVB經典台,mitv://ns2.hellotvvod.com:9906/e3dd64ebae984925a0fc962aecb97a4a
 TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/42a335e6f9484e6dbb13044798205a25
 爆谷台,mitv://ns2.hellotvvod.com:9906/5e3b63175b9c484a8ba38e25acbd1ad5
 
-其他,#genre#
+马来西亚直播源,#genre#
 HBO,http://pl1cdn.plusx.tv:8880/243/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO2,http://pl1cdn.plusx.tv:8880/246/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO3,http://pl1cdn.plusx.tv:8880/245/mono.m3u8?token=pirek23@gmail.comziomek222222
@@ -454,6 +454,30 @@ BBC,http://pl1cdn.plusx.tv:8880/306/mono.m3u8?token=pirek23@gmail.comziomek22222
 Animal Planet,http://185.228.135.48:8080/tv_animal_planet_hd/index.m3u8
 HBO,https://gratismkctv.net/film/hbo.m3u8
 MOVISTAR F1,http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83155
+HBO,http://183.178.58.115:8032/0.ts
+HBO Signature,http://183.178.58.115:8031/0.ts
+HBO famlly,http://183.178.58.115:8028/0.ts
+CINEMAX,http://183.178.58.115:8029/0.ts
+MTV HD,http://183.178.58.115:8023/0.ts
+SONY HD,http://183.178.58.115:8014/0.ts
+SONY SAB,http://183.178.58.115:8034/0.ts
+SONY MAX HD,http://183.178.58.115:8027/0.ts
+SONY SIX HD,http://183.178.58.115:8022/0.ts
+STAR HD,http://183.178.58.115:8011/0.ts
+STAR GOLD HD,http://183.178.58.115:8025/0.ts
+STAR GOLD SELECT HD,http://183.178.58.115:8026/0.ts
+STAR SPORTS 2HD,http://183.178.58.115:8018/0.ts
+STAR SPORTS 1HD,http://183.178.58.115:8019/0.ts
+STAR SPORTS SELECT 1HD,http://183.178.58.115:8020/0.ts
+ZEETV HD,http://183.178.58.115:8012/0.ts
+StarPlus HD,http://183.178.58.115:8013/0.ts
+&tv HD,http://183.178.58.115:8015/0.ts
+&pictures HD,http://183.178.58.115:8030/0.ts
+ZEECAFE HD,http://183.178.58.115:8017/0.ts
+ZEECINEMA HD,http://183.178.58.115:8024/0.ts
+colors HD,http://183.178.58.115:8010/0.ts
+
+其他,#genre#
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
@@ -871,7 +895,7 @@ TVB經典台,mitv://ns2.hellotvvod.com:9906/e3dd64ebae984925a0fc962aecb97a4a
 TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/42a335e6f9484e6dbb13044798205a25
 爆谷台,mitv://ns2.hellotvvod.com:9906/5e3b63175b9c484a8ba38e25acbd1ad5
 
-$c_start其他高清$c_end
+$c_start马来西亚直播源$c_end
 HBO,http://pl1cdn.plusx.tv:8880/243/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO2,http://pl1cdn.plusx.tv:8880/246/mono.m3u8?token=pirek23@gmail.comziomek222222
 HBO3,http://pl1cdn.plusx.tv:8880/245/mono.m3u8?token=pirek23@gmail.comziomek222222
@@ -883,6 +907,30 @@ BBC,http://pl1cdn.plusx.tv:8880/306/mono.m3u8?token=pirek23@gmail.comziomek22222
 Animal Planet,http://185.228.135.48:8080/tv_animal_planet_hd/index.m3u8
 HBO,https://gratismkctv.net/film/hbo.m3u8
 MOVISTAR F1,http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83155
+HBO,http://183.178.58.115:8032/0.ts
+HBO Signature,http://183.178.58.115:8031/0.ts
+HBO famlly,http://183.178.58.115:8028/0.ts
+CINEMAX,http://183.178.58.115:8029/0.ts
+MTV HD,http://183.178.58.115:8023/0.ts
+SONY HD,http://183.178.58.115:8014/0.ts
+SONY SAB,http://183.178.58.115:8034/0.ts
+SONY MAX HD,http://183.178.58.115:8027/0.ts
+SONY SIX HD,http://183.178.58.115:8022/0.ts
+STAR HD,http://183.178.58.115:8011/0.ts
+STAR GOLD HD,http://183.178.58.115:8025/0.ts
+STAR GOLD SELECT HD,http://183.178.58.115:8026/0.ts
+STAR SPORTS 2HD,http://183.178.58.115:8018/0.ts
+STAR SPORTS 1HD,http://183.178.58.115:8019/0.ts
+STAR SPORTS SELECT 1HD,http://183.178.58.115:8020/0.ts
+ZEETV HD,http://183.178.58.115:8012/0.ts
+StarPlus HD,http://183.178.58.115:8013/0.ts
+&tv HD,http://183.178.58.115:8015/0.ts
+&pictures HD,http://183.178.58.115:8030/0.ts
+ZEECAFE HD,http://183.178.58.115:8017/0.ts
+ZEECINEMA HD,http://183.178.58.115:8024/0.ts
+colors HD,http://183.178.58.115:8010/0.ts
+
+$c_start其他高清$c_end
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
