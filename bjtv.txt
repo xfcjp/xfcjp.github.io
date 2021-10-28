@@ -285,26 +285,18 @@ IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 成人,#genre#
-彩虹e台,mitv://ns2.hellotvvod.com:9906/b616a2ea7f284008b47250ec4d7a4286
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/2605fa56a74849379a57a45477951b1e
-LOOK TV,mitv://ns2.hellotvvod.com:9906/47fe5769d5c7441e8bb066927d84e5ea
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/5e292f04403a428db789b2d451ee599c
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/760802455fe04013b46a626d5aeb4084
-松视1台,mitv://ns2.hellotvvod.com:9906/223f7aec19aa42baaf65d4db65db84e0
-松视2台,mitv://ns2.hellotvvod.com:9906/949d68a932714477be86aaaf8c9a75ca
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/594203faba60400ebcd63db5cf292641
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/27072bc51d74489eb0ad8484af0d2478
-香蕉台,mitv://ns2.hellotvvod.com:9906/adb8c2e374fb416a88a66bf2b78d6a6a
-HOT,mitv://ns2.hellotvvod.com:9906/cc0326e2951f40048bec74e8c3879491
-松视3台,mitv://ns2.hellotvvod.com:9906/4d092abcf85741ac820799b8ad6f4c88
-JStar极限台,mitv://ns2.hellotvvod.com:9906/f5b461eb4d31415a8c2a987fc5d2c0d0
-HAPPY,mitv://ns2.hellotvvod.com:9906/f9853c6cd7fc41e4a5e5b5e2e91bd36e
-松视备1台,http://zhiboyuan.cf:2021/liuweigt.php?id=139
-松视备2台,http://zhiboyuan.cf:2021/liuweigt.php?id=140
-松视备3台,http://zhiboyuan.cf:2021/liuweigt.php?id=141
-松视备4台,http://zhiboyuan.cf:2021/liuweigt.php?id=142
-潘多拉完美,http://zhiboyuan.cf:2021/liuweigt.php?id=143
-多拉完美,http://zhiboyuan.cf:2021/liuweigt.php?id=1
+彩虹电影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+彩虹E台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+松视1台,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
+松视2台,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+惊艳台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+极限电影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
+潘多拉完美,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+
+网红女主播“沈樵”,#genre#
+美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
+动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
+顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 
 NewTV,#genre#
 NewTV 军旅剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
@@ -343,11 +335,6 @@ NewTV 怡伴健康 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVO
 NewTV 中国功夫 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
 NewTV 中国功夫 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
 NewTV 中国功夫1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
-
-网红女主播“沈樵”,#genre#
-美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
-动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
-顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 
 港台,#genre#
 东风卫视,http://anan.jxin122.top/松鼠php/126net.php?id=48
@@ -642,13 +629,13 @@ $c_start北京$c_end
 北京国际HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
 北京财经HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
 卡酷少儿HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-IPTV淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+IPTV4K超清,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 IPTV淘娱乐,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-IPTV淘剧场,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
-IPTV4K超清,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
-IPTV萌宠TV,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+IPTV淘电影,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+IPTV淘剧场,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+IPTV萌宠TV,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 
 $c_start湖南$c_end
 湖南卫视,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
@@ -700,25 +687,18 @@ $c_start湖北$c_end
 襄阳公共,http://player.ioioz.com/1691/hubei/xiangyangm3u8.php?id=xiangyanggg
 
 $c_start成人$c_end
-彩虹e台,mitv://ns2.hellotvvod.com:9906/80d4bc0ab54b4554a4750017dea94266
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/97adbc1c2540431e961b9ef37b31feb8
-LOOK TV,mitv://ns2.hellotvvod.com:9906/d3a971ab16994657b45526c2d8006258
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/c1fd64b8272c4d4abd42961cf4d40fa3
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/b654c935556342d6b616741752a5bf46
-松视1台,mitv://ns2.hellotvvod.com:9906/be23c5b4674e4e93b7fd97527de5e635
-松视2台,mitv://ns2.hellotvvod.com:9906/002a0c5abd80432db5d40b92107ec845
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/c6fb8bdc579c4f9eb2b6b6296f9a7fb0
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/605d334bb5024749b246d007e322e9b2
-香蕉台,mitv://ns2.hellotvvod.com:9906/c3245681c64a426eb18ffacd1294694c
-HOT,mitv://ns2.hellotvvod.com:9906/a4121738c98b40da840829698a1feb65
-松视3台,mitv://ns2.hellotvvod.com:9906/2fcc85dd734340899c8a4ef81994aa00
-JStar极限台,mitv://ns2.hellotvvod.com:9906/4948ec1f2a3149a99910f264d758bb05
-松视备1台,http://zhiboyuan.cf:2021/liuweigt.php?id=139
-松视备2台,http://zhiboyuan.cf:2021/liuweigt.php?id=140
-松视备3台,http://zhiboyuan.cf:2021/liuweigt.php?id=141
-松视备4台,http://zhiboyuan.cf:2021/liuweigt.php?id=142
-潘多拉完美,http://zhiboyuan.cf:2021/liuweigt.php?id=143
-多拉完美,http://zhiboyuan.cf:2021/liuweigt.php?id=1
+彩虹电影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+彩虹E台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+松视1台,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
+松视2台,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+惊艳台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+极限电影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
+潘多拉完美,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+
+$c_start网红女主播“沈樵$c_end
+美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
+动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
+顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 
 $c_startNewTV高清$c_end
 NewTV 军旅剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
@@ -757,11 +737,6 @@ NewTV 怡伴健康 [1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVO
 NewTV 中国功夫 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
 NewTV 中国功夫 [1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
 NewTV 中国功夫1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
-
-$c_start网红女主播“沈樵$c_end
-美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
-动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
-顺丰小哥,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
 
 $c_start港台$c_end
 东风卫视,http://anan.jxin122.top/松鼠php/126net.php?id=48
