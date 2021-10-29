@@ -1,138 +1,437 @@
-P8P,#genre#
-有线新闻,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
-无线新闻,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-TVB-J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-无线翡翠,p8p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-无线明珠,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-无线资讯,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-综合娱乐,p8p://0198.02686.cc:16871/5f2cc18d0002ad29174d3cc37573600e.ts
-有线18台,p8p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
-VIUTV,p8p://0198.02686.cc:16871/5f2cb706000ed2b7172420872f151703.ts
-港台电视31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-香港开电视,p8p://0198.02686.cc:16871/5f2cbf8c000b033117456afede5aa743.ts
-澳门莲花,p8p://0198.02686.cc:16871/5f2cc1e20002606a174e88b8ddae5f19.ts
-中视高清,p8p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
-台视高清,p8p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
-民视高清,p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
-民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-壹视新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-壹视综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
-环宇新闻,p8p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83.ts
-环宇台湾,p8p://0198.02686.cc:16871/5f37fc2300084aea432a1823161b739d.ts
-环宇综合,p8p://0198.02686.cc:16871/5f3802c0000567f14343ecae4c29c3d5.ts
-中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-中天亚洲,p8p://0198.02686.cc:16871/5f37ff41000e4fa2433646de603aa487.ts
-中天综合,p8p://0198.02686.cc:16871/5f2e5d8000072f111d966b23e859debb.ts
-中天娱乐,p8p://0198.02686.cc:16871/5f2e5e8d0000e5811d9a844fa7cb37a6.ts
-年代新闻,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
-非凡新闻,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
-三立新闻,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
-三立财经,p8p://0198.02686.cc:16871/5f3809ea0001f912435fe7ddcd7dafe7.ts
-三立综合,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-三立台湾,p8p://0198.02686.cc:16871/5f2e5ac20001f0ec1d8bb39b46c4cc49.ts
-东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
-东森综合,p8p://0198.02686.cc:16871/5f2e5cb3000e7cf41d934c39cec3dfb2.ts
-东森财经,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-东森超市,p8p://0198.02686.cc:16871/5e68c8be000191b2047d9630d32efe6b.ts
-东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
-TVBS高清,p8p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
-TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-TVBS欢乐,p8p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
-JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-八大综合,p8p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
-八大第一,p8p://0198.02686.cc:16871/5f2e57da0005d0d41d805a59362e19d4.ts
-八大娱乐,p8p://0198.02686.cc:16871/5f380a6a000ed2e54361df280f128570.ts
-纬来综合,p8p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
-纬来日本,p8p://0198.02686.cc:16871/5d8b6caa00035a0b14c1c834b40e4885.ts
-纬来体育,p8p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
-霹雳台湾,p8p://0198.02686.cc:16871/5f2e545000015de51d72862642b4f8ab.ts
-国兴卫视,p8p://0198.02686.cc:16871/5f37c744000be418425b91f78d7bfb6d.ts
-人间卫视,p8p://0198.02686.cc:16871/5f37c6ad00084a6b4259433384fa1e14.ts
-客家卫视,p8p://0198.02686.cc:16871/5f37c5780000f16742548a4aac9643e6.ts
-原住民电视,p8p://0198.02686.cc:16871/5f37c5190000da3d4253172cfff99c71.ts
-大爱1,p8p://0198.02686.cc:16871/5f375afe00016d0940b49dd9f3de224c.ts
-大爱2,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
-好消息1,p8p://0198.02686.cc:16871/5d1a69b9000b139e11bdf29f39814479.ts
-好消息2,p8p://0198.02686.cc:16871/5f38014400094dc8433e214ef2f02448.ts
-探索频道,p8p://0198.02686.cc:16871/5f2e56190004729f1d7980176b355250.ts
-探索亚洲,p8p://0198.02686.cc:16871/5f37d15a000efba84282f8b2e586739c.ts
-探索科学,p8p://0198.02686.cc:16871/5f37d1f3000dbded42854e09147e692f.ts
-罪案侦探频道,p8p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-国家地理,p8p://0198.02686.cc:16871/5f34ca1f000a502236aeb9084d9c2802.ts
-国家地理悠人,p8p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-国家地理野生,p8p://0198.02686.cc:16871/5f37cf4000053244427ac0a15f6658f1.ts
-动物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-亚洲美食,p8p://0198.02686.cc:16871/5f37db930000c98242aae3b8829cb3c8.ts
-韩国娱乐台,p8p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
-ChannelV,p8p://0198.02686.cc:16871/5f37eb1300019f6442e76fee4d3b7f48.ts
-MTV Live,p8p://0198.02686.cc:16871/5f37e3c7000bfbc942caf1b5d40f4c88.ts
-TLC旅游生活,p8p://0198.02686.cc:16871/5f2e54d6000c0f901d7494527e9c38a8.ts
-EYETV旅游,p8p://0198.02686.cc:16871/5f37d838000ad036429dcad101035470.ts
-迪士尼,p8p://0198.02686.cc:16871/5f2e56c60009eeab1d7c254786d1c06b.ts
-MOMO亲子,p8p://0198.02686.cc:16871/5f2e5717000701821d7d60ef00cb8bd5.ts
-ELTA综合,p8p://0198.02686.cc:16871/5f34c37c000e25333694cd4b4587389c.ts
-ELTA体育1台,p8p://0198.02686.cc:16871/5f1c357c0008cabc05f2d4a72b25cbfd.ts
-ELTA体育3台,p8p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb.ts
-NBA体育,p8p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7.ts
-高尔夫美国,p8p://0198.02686.cc:16871/5f37fdea0002ace04331080bb8277c60.ts
-博斯高球,p8p://0198.02686.cc:16871/5f37df8b0005a04e42ba65b5768af3d6.ts
-博斯高球2,p8p://0198.02686.cc:16871/5f34cb4a000336ba36b3472fc5b41c6c.ts
-博斯网球,p8p://0198.02686.cc:16871/5d4c07370004e10e9fd599bbf1aae42b.ts
-博斯无限,p8p://0198.02686.cc:16871/5d4c081b000532c99fd9146f1abdcff3.ts
-博斯运动,p8p://0198.02686.cc:16871/5f37dd7b0008643a42b257ea1d074390.ts
-博斯运动2,p8p://0198.02686.cc:16871/5f1c2daf000ac43205d45c60d913856d.ts
-Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-卫视中文,p8p://0198.02686.cc:16871/5f2e5c380006bb4b1d9169c58f9b4abe.ts
-卫视电影,p8p://0198.02686.cc:16871/5f2fa80600019b1b22a18525902e8b26.ts
-星卫娱乐,p8p://0198.02686.cc:16871/5f37c3ba000066bb424dbbf647a52d9f.ts
-星卫电影,p8p://0198.02686.cc:16871/5f37c890000d9cd54260a3480355f72a.ts
-美亚电影,p8p://0198.02686.cc:16871/5f37cca000079b3d4270803e898f13d3.ts
-华纳电影,p8p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
-好莱坞电影,p8p://0198.02686.cc:16871/5f2fabea000ac62722b0ba1e30f6fc2a.ts
-CatchPay电影,p8p://0198.02686.cc:16871/5f37c90a00050b3042627da756dbe5ab.ts
-靖天映画,p8p://0198.02686.cc:16871/5f2e6cb40009bc001dd1ceea1a1f90ab.ts
-靖天电影,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
-靖洋戏剧,p8p://0198.02686.cc:16871/5f380b85000d3460436630353478adac.ts
-龙祥电影,p8p://0198.02686.cc:16871/5f2faa42000d119a22aa4274ab45b649.ts
-龙华戏剧,p8p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1.ts
-龙华洋片,p8p://0198.02686.cc:16871/5f380822000f29a54358f5fe211c161a.ts
-三立戏剧,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
-东森戏剧,p8p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576.ts
-东森电影,p8p://0198.02686.cc:16871/5f2fa872000eac4522a32e5e005f67a9.ts
-东森洋片,p8p://0198.02686.cc:16871/5f2fab16000756e622ad7d1d0b9eca0a.ts
-纬来戏剧,p8p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
-纬来电影,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
-EYETV戏剧,p8p://0198.02686.cc:16871/5f37d8dc00062aca42a04a40e5f66359.ts
-ELTA影剧,p8p://0198.02686.cc:16871/5f2e4f610009a2011d5f42ab61370430.ts
-HBO原创,p8p://0198.02686.cc:16871/5f37f5130009afbd430e81ff7c677543.ts
-HBO强档,p8p://0198.02686.cc:16871/5f37f49900041ac2430ca40198bc8786.ts
-HBO家庭,p8p://0198.02686.cc:16871/5f37f3d500011f024309a59d8aa557cb.ts
-FOX频道,p8p://0198.02686.cc:16871/5f380ae10009d7fe4363aeb910bc02d4.ts
-FOX家庭电影,p8p://0198.02686.cc:16871/5f37f33400062617430731ffad0889f5.ts
-FOX SPORTS,p8p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd.ts
-FOX SPORTS2,p8p://0198.02686.cc:16871/5f380e240003cc3b43706ae59184d531.ts
-FOX MOVIES,p8p://0198.02686.cc:16871/5f2facfc000be0b622b4e8b621e53cca.ts
-FOX CRIME,p8p://0198.02686.cc:16871/5f37f9a9000bc4da43206c77e3ec31cc.ts
-FOX Action,p8p://0198.02686.cc:16871/5f3808b6000cee3f435b378b1bcb616f.ts
-FX,p8p://0198.02686.cc:16871/5f37cc2300028256426e96a8048856f6.ts
-SKY NEWS,p8p://0198.02686.cc:16871/5f37e45e000ec23e42cd4043a3616505.ts
-Outdoot,p8p://0198.02686.cc:16871/5f37d29d000976d04287e500ad137fca.ts
-AXN,p8p://0198.02686.cc:16871/5f2fab5700094c3622ae7b8589ead9b0.ts
-HBO,p8p://0198.02686.cc:16871/5f2faab60000da2822ac0474501db664.ts
-CINEMAX,p8p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
-BBC Earth,p8p://0198.02686.cc:16871/5f37e7c6000e815e42da8e731be212cf.ts
-CNBC Asia_Channel,p8p://0198.02686.cc:16871/5f38003b00051a3e433a1512b028035e.ts
-H2,p8p://0198.02686.cc:16871/5f37f880000277dd431be1ee86aa5437.ts
-tvN,p8p://0198.02686.cc:16871/5f37e249000e578642c51e20bbf21abb.ts
-Fight_Sport,p8p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789b3.ts
-天映频道,p8p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
-天映经典,p8p://0198.02686.cc:16871/5f2f935d000124722250d0dff4066d74.ts
-Astro华丽台,p8p://0198.02686.cc:16871/5ecfb36000001d6396821ea0563496d9.ts
-Astro欢喜台,p8p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
-Astro爱奇艺,p8p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
-Astro双星,p8p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
-Astro AEC,p8p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
-Astro AOD,p8p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
+安搏,#genre#
+TVB翡翠,http://206.119.163.196/twtv2255.php?id=30
+TVB翡翠,http://206.119.163.196/twtv2255.php?id=390
+TVB明珠,http://206.119.163.196/twtv2255.php?id=391
+無線新聞,http://206.119.163.196/twtv2255.php?id=45
+無線新聞,http://206.119.163.196/twtv2255.php?id=394
+有線新聞,http://206.119.163.196/twtv2255.php?id=395
+Viu TV,http://206.119.163.196/twtv2255.php?id=2334
+Viutv,http://206.119.163.196/twtv2255.php?id=72
+TVB無線財經,http://206.119.163.196/twtv2255.php?id=393
+TVB J2,http://206.119.163.196/twtv2255.php?id=392
+NOW新聞,http://206.119.163.196/twtv2255.php?id=396
+NOW直播,http://206.119.163.196/twtv2255.php?id=400
+澳亞衛視,http://206.119.163.196/twtv2255.php?id=85
+鳳凰香港,http://206.119.163.196/twtv2255.php?id=358
+鳳凰衛視,http://206.119.163.196/twtv2255.php?id=357
+鳳凰衛視,http://206.119.163.196/twtv2255.php?id=2291
+鳳凰資訊,http://206.119.163.196/twtv2255.php?id=359
+鳳凰资讯,http://206.119.163.196/twtv2255.php?id=2292
+星空衛視,http://206.119.163.196/twtv2255.php?id=56
+港臺31,http://206.119.163.196/twtv2255.php?id=353
+港臺32,http://206.119.163.196/twtv2255.php?id=397
+香港開電視HD,http://206.119.163.196/twtv2255.php?id=1009
+香港開電視,http://206.119.163.196/twtv2255.php?id=17
+HKC娛樂,http://206.119.163.196/twtv2255.php?id=2293
+HKC電影,http://206.119.163.196/twtv2255.php?id=354
+HKC體育1,http://206.119.163.196/twtv2255.php?id=401
+HKC體育2,http://206.119.163.196/twtv2255.php?id=356
+澳門資訊,http://206.119.163.196/twtv2255.php?id=399
+澳視澳門,http://206.119.163.196/twtv2255.php?id=23
+澳視葡語,http://206.119.163.196/twtv2255.php?id=24
+澳門Macau,http://206.119.163.196/twtv2255.php?id=364
+有線603,http://206.119.163.196/twtv2255.php?id=398
+18台,http://206.119.163.196/twtv2255.php?id=44
+澳門蓮花,http://206.119.163.196/twtv2255.php?id=70
+鳳凰電影,http://206.119.163.196/twtv2255.php?id=19
+Viutv 6,http://206.119.163.196/twtv2255.php?id=176
+耀才财经,http://206.119.163.196/twtv2255.php?id=355
+創世電視,http://206.119.163.196/twtv2255.php?id=1317
+Euronews English,http://206.119.163.196/twtv2255.php?id=2342
+TVB1,http://206.119.163.196/twtv2255.php?id=1242
+TVB DRAMA,http://206.119.163.196/twtv2255.php?id=1243
+TVBJ1,http://206.119.163.196/twtv2255.php?id=1244
+TVBE,http://206.119.163.196/twtv2255.php?id=1245
+新時代東部,http://206.119.163.196/twtv2255.php?id=1286
+新時代西部,http://206.119.163.196/twtv2255.php?id=1287
+城市電視,http://206.119.163.196/twtv2255.php?id=1289
+新時代2,http://206.119.163.196/twtv2255.php?id=1288
+民視,http://206.119.163.196/twtv2255.php?id=26
+民視,http://206.119.163.196/twtv2255.php?id=336
+台視,http://206.119.163.196/twtv2255.php?id=27
+台視,http://206.119.163.196/twtv2255.php?id=326
+台視,http://206.119.163.196/twtv2255.php?id=312
+中視,http://206.119.163.196/twtv2255.php?id=333
+中視,http://206.119.163.196/twtv2255.php?id=28
+中視,http://206.119.163.196/twtv2255.php?id=1041
+華視,http://206.119.163.196/twtv2255.php?id=32
+華視,http://206.119.163.196/twtv2255.php?id=2282
+公視,http://206.119.163.196/twtv2255.php?id=86
+公視測試,http://206.119.163.196/twtv2255.php?id=2302
+幸福空間居家,http://206.119.163.196/twtv2255.php?id=61
+好消息,http://206.119.163.196/twtv2255.php?id=104
+原住民電視,http://206.119.163.196/twtv2255.php?id=95
+客家電視,http://206.119.163.196/twtv2255.php?id=76
+緯來綜合,http://206.119.163.196/twtv2255.php?id=340
+八大第一,http://206.119.163.196/twtv2255.php?id=318
+八大綜合,http://206.119.163.196/twtv2255.php?id=2286
+東風衛視,http://206.119.163.196/twtv2255.php?id=2152
+三立臺灣,http://206.119.163.196/twtv2255.php?id=35
+三立臺灣,http://206.119.163.196/twtv2255.php?id=21
+三立都會,http://206.119.163.196/twtv2255.php?id=38
+三立都會,http://206.119.163.196/twtv2255.php?id=1001
+衛視中文,http://206.119.163.196/twtv2255.php?id=342
+東森綜合,http://206.119.163.196/twtv2255.php?id=372
+東森超視,http://206.119.163.196/twtv2255.php?id=80
+東森購物2,http://206.119.163.196/twtv2255.php?id=1156
+中天綜合,http://206.119.163.196/twtv2255.php?id=54
+中天娛樂,http://206.119.163.196/twtv2255.php?id=324
+TVBS歡樂,http://206.119.163.196/twtv2255.php?id=40
+TVBS歡樂,http://206.119.163.196/twtv2255.php?id=1358
+八大精彩,http://206.119.163.196/twtv2255.php?id=1024
+JET綜合,http://206.119.163.196/twtv2255.php?id=41
+東森購物1,http://206.119.163.196/twtv2255.php?id=1155
+TVBS,http://206.119.163.196/twtv2255.php?id=16
+TVBS,http://206.119.163.196/twtv2255.php?id=2273
+緯來育樂,http://206.119.163.196/twtv2255.php?id=338
+緯來日本,http://206.119.163.196/twtv2255.php?id=337
+緯來日本,http://206.119.163.196/twtv2255.php?id=46
+國興衛視,http://206.119.163.196/twtv2255.php?id=65
+信大電視,http://206.119.163.196/twtv2255.php?id=422
+八大娱乐,http://206.119.163.196/twtv2255.php?id=105
+好消息2,http://206.119.163.196/twtv2255.php?id=363
+高點綜合,http://206.119.163.196/twtv2255.php?id=99
+中天亞洲,http://206.119.163.196/twtv2255.php?id=2277
+中天亞洲,http://206.119.163.196/twtv2255.php?id=322
+民視綜藝,http://206.119.163.196/twtv2255.php?id=98
+民視第一台,http://206.119.163.196/twtv2255.php?id=34
+民視台灣,http://206.119.163.196/twtv2255.php?id=36
+龍華日韓,http://206.119.163.196/twtv2255.php?id=382
+豬哥亮歌廳秀,http://206.119.163.196/twtv2255.php?id=75
+ELTA娛樂台,http://206.119.163.196/twtv2255.php?id=351
+星衛娛樂,http://206.119.163.196/twtv2255.php?id=89
+靖天國際,http://206.119.163.196/twtv2255.php?id=345
+三立綜合,http://206.119.163.196/twtv2255.php?id=315
+靖天資訊,http://206.119.163.196/twtv2255.php?id=49
+靖天綜合,http://206.119.163.196/twtv2255.php?id=308
+中視經典,http://206.119.163.196/twtv2255.php?id=185
+寰宇綜合,http://206.119.163.196/twtv2255.php?id=190
+中視菁采,http://206.119.163.196/twtv2255.php?id=74
+TVBS精采,http://206.119.163.196/twtv2255.php?id=66
+年代much,http://206.119.163.196/twtv2255.php?id=1359
+ELTA綜合,http://206.119.163.196/twtv2255.php?id=1137
+双子衛視,http://206.119.163.196/twtv2255.php?id=29
+TVN台湾版,http://206.119.163.196/twtv2255.php?id=2288
+東森購物3,http://206.119.163.196/twtv2255.php?id=1584
+MOMO購物1,http://206.119.163.196/twtv2255.php?id=1585
+MOMO購物2,http://206.119.163.196/twtv2255.php?id=1586
+天良綜合,http://206.119.163.196/twtv2255.php?id=1587
+誠心電視,http://206.119.163.196/twtv2255.php?id=1590
+美好購物1,http://206.119.163.196/twtv2255.php?id=1591
+美好購物2,http://206.119.163.196/twtv2255.php?id=1592
+大立電視,http://206.119.163.196/twtv2255.php?id=1593
+信吉衛視,http://206.119.163.196/twtv2255.php?id=294
+三立新聞,http://206.119.163.196/twtv2255.php?id=2392
+三立新聞,http://206.119.163.196/twtv2255.php?id=2279
+三立新聞,http://206.119.163.196/twtv2255.php?id=4
+東森新聞,http://206.119.163.196/twtv2255.php?id=2393
+東森新聞,http://206.119.163.196/twtv2255.php?id=2419
+東森新聞,http://206.119.163.196/twtv2255.php?id=1016
+中天新聞,http://206.119.163.196/twtv2255.php?id=2420
+中天新聞,http://206.119.163.196/twtv2255.php?id=3
+民視新聞,http://206.119.163.196/twtv2255.php?id=2395
+民視新聞,http://206.119.163.196/twtv2255.php?id=2421
+民視新聞,http://206.119.163.196/twtv2255.php?id=13
+TVBS新聞,http://206.119.163.196/twtv2255.php?id=2396
+TVBS新聞,http://206.119.163.196/twtv2255.php?id=2422
+TVBS新聞,http://206.119.163.196/twtv2255.php?id=2
+東森財經,http://206.119.163.196/twtv2255.php?id=2397
+東森財經,http://206.119.163.196/twtv2255.php?id=2423
+東森財經,http://206.119.163.196/twtv2255.php?id=12
+華視新聞,http://206.119.163.196/twtv2255.php?id=2424
+華視新聞,http://206.119.163.196/twtv2255.php?id=6
+三立iNEWS,http://206.119.163.196/twtv2255.php?id=2425
+三立iNEWS,http://206.119.163.196/twtv2255.php?id=8
+台視新聞,http://206.119.163.196/twtv2255.php?id=2399
+台視新聞,http://206.119.163.196/twtv2255.php?id=2426
+台視新聞,http://206.119.163.196/twtv2255.php?id=1
+中視新聞,http://206.119.163.196/twtv2255.php?id=2400
+寰宇新聞,http://206.119.163.196/twtv2255.php?id=2401
+寰宇新聞,http://206.119.163.196/twtv2255.php?id=304
+年代新聞,http://206.119.163.196/twtv2255.php?id=1099
+壹新聞,http://206.119.163.196/twtv2255.php?id=494
+台視財經,http://206.119.163.196/twtv2255.php?id=300
+三立国際,http://206.119.163.196/twtv2255.php?id=2285
+非凡商業,http://206.119.163.196/twtv2255.php?id=187
+FRANCE 24,http://206.119.163.196/twtv2255.php?id=1042
+CBN News,http://206.119.163.196/twtv2255.php?id=499
+半島國際新聞,http://206.119.163.196/twtv2255.php?id=1498
+東森戲劇,http://206.119.163.196/twtv2255.php?id=321
+八大戲劇,http://206.119.163.196/twtv2255.php?id=81
+緯來戲劇,http://206.119.163.196/twtv2255.php?id=339
+衛視電影,http://206.119.163.196/twtv2255.php?id=93
+東森電影,http://206.119.163.196/twtv2255.php?id=350
+緯來電影,http://206.119.163.196/twtv2255.php?id=96
+HBO HD,http://206.119.163.196/twtv2255.php?id=332
+東森洋片,http://206.119.163.196/twtv2255.php?id=1128
+壹電影,http://206.119.163.196/twtv2255.php?id=2284
+好萊塢電影,http://206.119.163.196/twtv2255.php?id=37
+愛爾達影劇,http://206.119.163.196/twtv2255.php?id=500
+FOX,http://206.119.163.196/twtv2255.php?id=384
+EYE戲劇,http://206.119.163.196/twtv2255.php?id=191
+三立戲劇,http://206.119.163.196/twtv2255.php?id=64
+霹靂臺灣,http://206.119.163.196/twtv2255.php?id=1339
+美亞電影,http://206.119.163.196/twtv2255.php?id=375
+民視影劇,http://206.119.163.196/twtv2255.php?id=1023
+HBOSignature,http://206.119.163.196/twtv2255.php?id=329
+HBO Hits,http://206.119.163.196/twtv2255.php?id=330
+影迷數位電影,http://206.119.163.196/twtv2255.php?id=497
+龍華戲劇,http://206.119.163.196/twtv2255.php?id=365
+龍翔時代,http://206.119.163.196/twtv2255.php?id=373
+AXN臺灣,http://206.119.163.196/twtv2255.php?id=423
+天映經典,http://206.119.163.196/twtv2255.php?id=2289
+星衛電影,http://206.119.163.196/twtv2255.php?id=496
+公視戲劇,http://206.119.163.196/twtv2255.php?id=69
+AXN亞洲,http://206.119.163.196/twtv2255.php?id=1066
+Trill恐怖電影,http://206.119.163.196/twtv2255.php?id=18
+龍華電影,http://206.119.163.196/twtv2255.php?id=311
+華納電影,http://206.119.163.196/twtv2255.php?id=83
+金光布袋戲,http://206.119.163.196/twtv2255.php?id=1060
+衛視西片,http://206.119.163.196/twtv2255.php?id=369
+龍華洋片,http://206.119.163.196/twtv2255.php?id=341
+緯來體育,http://206.119.163.196/twtv2255.php?id=118
+Eleven Sport 1,http://206.119.163.196/twtv2255.php?id=1133
+Eleven Sport 2,http://206.119.163.196/twtv2255.php?id=301
+ELEVEN SPORTS PLUS,http://206.119.163.196/twtv2255.php?id=419
+ELTA體育1,http://206.119.163.196/twtv2255.php?id=192
+ELTA體育2,http://206.119.163.196/twtv2255.php?id=193
+ELTA體育3,http://206.119.163.196/twtv2255.php?id=194
+Z頻道,http://206.119.163.196/twtv2255.php?id=1130
+博斯無限,http://206.119.163.196/twtv2255.php?id=381
+博斯無限2,http://206.119.163.196/twtv2255.php?id=426
+博斯運動1,http://206.119.163.196/twtv2255.php?id=379
+博斯運動2,http://206.119.163.196/twtv2255.php?id=380
+亞洲旅遊,http://206.119.163.196/twtv2255.php?id=2299
+國家地理,http://206.119.163.196/twtv2255.php?id=302
+探索頻道,http://206.119.163.196/twtv2255.php?id=1035
+動物星球,http://206.119.163.196/twtv2255.php?id=367
+民視旅遊,http://206.119.163.196/twtv2255.php?id=78
+探索亞洲,http://206.119.163.196/twtv2255.php?id=306
+探索科學,http://206.119.163.196/twtv2255.php?id=343
+國家野生,http://206.119.163.196/twtv2255.php?id=1038
+探索EVE,http://206.119.163.196/twtv2255.php?id=1036
+美食星球,http://206.119.163.196/twtv2255.php?id=1360
+EYE旅遊,http://206.119.163.196/twtv2255.php?id=1494
+探索動力DMAX,http://206.119.163.196/twtv2255.php?id=335
+國家人文,http://206.119.163.196/twtv2255.php?id=334
+國家地理悠人,http://206.119.163.196/twtv2255.php?id=114
+MOMO親子台,http://206.119.163.196/twtv2255.php?id=1149
+東森幼幼,http://206.119.163.196/twtv2255.php?id=371
+YOYO TV,http://206.119.163.196/twtv2255.php?id=293
+CN卡通,http://206.119.163.196/twtv2255.php?id=107
+靖洋卡通,http://206.119.163.196/twtv2255.php?id=348
+靖天卡通,http://206.119.163.196/twtv2255.php?id=344
+ELTV生活英語,http://206.119.163.196/twtv2255.php?id=323
+Baby TV,http://206.119.163.196/twtv2255.php?id=1129
+大愛一臺,http://206.119.163.196/twtv2255.php?id=11
+八大精彩,http://206.119.163.196/twtv2255.php?id=1024
+龍華日韓,http://206.119.163.196/twtv2255.php?id=382
+東森戲劇,http://206.119.163.196/twtv2255.php?id=321
+八大戲劇,http://206.119.163.196/twtv2255.php?id=81
+緯來戲劇,http://206.119.163.196/twtv2255.php?id=339
+衛視電影,http://206.119.163.196/twtv2255.php?id=93
+東森電影,http://206.119.163.196/twtv2255.php?id=350
+緯來電影,http://206.119.163.196/twtv2255.php?id=96
+HBO HD,http://206.119.163.196/twtv2255.php?id=332
+HBO HD,http://206.119.163.196/twtv2255.php?id=1663
+東森洋片,http://206.119.163.196/twtv2255.php?id=1128
+壹電影,http://206.119.163.196/twtv2255.php?id=2284
+好萊塢電影,http://206.119.163.196/twtv2255.php?id=37
+愛爾達影劇,http://206.119.163.196/twtv2255.php?id=500
+FOX,http://206.119.163.196/twtv2255.php?id=384
+EYE戲劇,http://206.119.163.196/twtv2255.php?id=191
+三立戲劇,http://206.119.163.196/twtv2255.php?id=64
+霹靂臺灣,http://206.119.163.196/twtv2255.php?id=1339
+美亞電影,http://206.119.163.196/twtv2255.php?id=375
+民視影劇,http://206.119.163.196/twtv2255.php?id=1023
+HBOSignature,http://206.119.163.196/twtv2255.php?id=329
+HBO Hits,http://206.119.163.196/twtv2255.php?id=330
+影迷數位電影,http://206.119.163.196/twtv2255.php?id=497
+龍華戲劇,http://206.119.163.196/twtv2255.php?id=365
+龍翔時代,http://206.119.163.196/twtv2255.php?id=373
+AXN臺灣,http://206.119.163.196/twtv2255.php?id=423
+天映經典,http://206.119.163.196/twtv2255.php?id=2289
+AMC,http://206.119.163.196/twtv2255.php?id=92
+星衛電影,http://206.119.163.196/twtv2255.php?id=496
+公視戲劇,http://206.119.163.196/twtv2255.php?id=69
+AXN亞洲,http://206.119.163.196/twtv2255.php?id=1066
+Trill恐怖電影,http://206.119.163.196/twtv2255.php?id=18
+HBO Family,http://206.119.163.196/twtv2255.php?id=331
+龍華電影,http://206.119.163.196/twtv2255.php?id=311
+華納電影,http://206.119.163.196/twtv2255.php?id=83
+金光布袋戲,http://206.119.163.196/twtv2255.php?id=1060
+衛視西片,http://206.119.163.196/twtv2255.php?id=369
+CHC高清電影,http://206.119.163.196/twtv2255.php?id=1345
+CHC動作電影,http://206.119.163.196/twtv2255.php?id=1346
+CHC家庭影院,http://206.119.163.196/twtv2255.php?id=1347
+CBN每日影院,http://206.119.163.196/twtv2255.php?id=1348
+SETONE,http://206.119.163.196/twtv2255.php?id=1349
+GEM,http://206.119.163.196/twtv2255.php?id=1350
+經典電影,http://206.119.163.196/twtv2255.php?id=2227
+龍華洋片,http://206.119.163.196/twtv2255.php?id=341
+衛視卡式臺,http://206.119.163.196/twtv2255.php?id=2366
+三立新聞,http://206.119.163.196/twtv2255.php?id=4
+東森新聞,http://206.119.163.196/twtv2255.php?id=1016
+中天新聞,http://206.119.163.196/twtv2255.php?id=3
+民視新聞,http://206.119.163.196/twtv2255.php?id=13
+TVBS新聞,http://206.119.163.196/twtv2255.php?id=2
+東森財經,http://206.119.163.196/twtv2255.php?id=12
+華視新聞,http://206.119.163.196/twtv2255.php?id=6
+三立iNEWS,http://206.119.163.196/twtv2255.php?id=8
+台視新聞,http://206.119.163.196/twtv2255.php?id=1
+中視新聞,http://206.119.163.196/twtv2255.php?id=7
+寰宇新聞,http://206.119.163.196/twtv2255.php?id=304
+寰宇臺灣,http://206.119.163.196/twtv2255.php?id=87
+年代新聞,http://206.119.163.196/twtv2255.php?id=1099
+壹新聞,http://206.119.163.196/twtv2255.php?id=494
+非凡新聞,http://206.119.163.196/twtv2255.php?id=314
+台視財經,http://206.119.163.196/twtv2255.php?id=300
+三立国際,http://206.119.163.196/twtv2255.php?id=2285
+非凡商業,http://206.119.163.196/twtv2255.php?id=187
+CBN News,http://206.119.163.196/twtv2255.php?id=499
+THE WORLD,http://206.119.163.196/twtv2255.php?id=1013
+RT UK News,http://206.119.163.196/twtv2255.php?id=1025
+TRTWORLD,http://206.119.163.196/twtv2255.php?id=1022
+Bloomberg Financial,http://206.119.163.196/twtv2255.php?id=1046
+Al Jazeera,http://206.119.163.196/twtv2255.php?id=1144
+Bloomberg Quicktake,http://206.119.163.196/twtv2255.php?id=370
+運通財經,http://206.119.163.196/twtv2255.php?id=79
+Euronews English,http://206.119.163.196/twtv2255.php?id=2342
+半島國際新聞,http://206.119.163.196/twtv2255.php?id=1498
+CGTN English,http://206.119.163.196/twtv2255.php?id=2362
+CGTN Documentary,http://206.119.163.196/twtv2255.php?id=2363
+CGTN Fran?ais,http://206.119.163.196/twtv2255.php?id=2364
+CGTN Espa?ol,http://206.119.163.196/twtv2255.php?id=317
+CGTN ???????,http://206.119.163.196/twtv2255.php?id=1004
+NHK World,http://206.119.163.196/twtv2255.php?id=117
+HKC體育1,http://206.119.163.196/twtv2255.php?id=401
+HKC體育2,http://206.119.163.196/twtv2255.php?id=356
+緯來體育,http://206.119.163.196/twtv2255.php?id=118
+FOX Sport 1,http://206.119.163.196/twtv2255.php?id=1131
+FOX Sport 2,http://206.119.163.196/twtv2255.php?id=1132
+FOX Sport 3,http://206.119.163.196/twtv2255.php?id=376
+Eleven Sport 1,http://206.119.163.196/twtv2255.php?id=1133
+Eleven Sport 2,http://206.119.163.196/twtv2255.php?id=301
+ELEVEN SPORTS PLUS,http://206.119.163.196/twtv2255.php?id=419
+ELTA體育1,http://206.119.163.196/twtv2255.php?id=192
+ELTA體育2,http://206.119.163.196/twtv2255.php?id=193
+ELTA體育3,http://206.119.163.196/twtv2255.php?id=194
+SPO TV,http://206.119.163.196/twtv2255.php?id=1143
+ARENA 2,http://206.119.163.196/twtv2255.php?id=2427
+ASSP5,http://206.119.163.196/twtv2255.php?id=1216
+Z頻道,http://206.119.163.196/twtv2255.php?id=1130
+博斯無限,http://206.119.163.196/twtv2255.php?id=381
+博斯無限2,http://206.119.163.196/twtv2255.php?id=426
+博斯網球,http://206.119.163.196/twtv2255.php?id=498
+博斯高球1,http://206.119.163.196/twtv2255.php?id=377
+博斯高球2,http://206.119.163.196/twtv2255.php?id=378
+博斯魅力,http://206.119.163.196/twtv2255.php?id=175
+博斯運動1,http://206.119.163.196/twtv2255.php?id=379
+博斯運動2,http://206.119.163.196/twtv2255.php?id=380
+TRACE Sport Stars,http://206.119.163.196/twtv2255.php?id=1037
+智林體育,http://206.119.163.196/twtv2255.php?id=82
+時尚運動X,http://206.119.163.196/twtv2255.php?id=71
+歐洲體育,http://206.119.163.196/twtv2255.php?id=1342
+BeIN Sport News,http://206.119.163.196/twtv2255.php?id=2402
+BeIN Sport 1,http://206.119.163.196/twtv2255.php?id=2403
+BeIN Sport 2,http://206.119.163.196/twtv2255.php?id=2404
+BeIN Sport 3,http://206.119.163.196/twtv2255.php?id=2405
+BeIN Sport 4,http://206.119.163.196/twtv2255.php?id=2406
+BeIN Sport 5,http://206.119.163.196/twtv2255.php?id=2407
+BeIN Sport 6,http://206.119.163.196/twtv2255.php?id=2408
+BeIN Sport 7,http://206.119.163.196/twtv2255.php?id=2409
+BeIN Sport 8,http://206.119.163.196/twtv2255.php?id=2410
+BeIN Sport 9,http://206.119.163.196/twtv2255.php?id=2411
+BeIN Sport 10,http://206.119.163.196/twtv2255.php?id=2412
+BeIN Sport 11,http://206.119.163.196/twtv2255.php?id=2413
+BeIN Sport 12,http://206.119.163.196/twtv2255.php?id=2414
+Bein Sport 13,http://206.119.163.196/twtv2255.php?id=2415
+Bein Sport 15,http://206.119.163.196/twtv2255.php?id=2416
+Bein Sport,http://206.119.163.196/twtv2255.php?id=2417
+Bein Sport 14,http://206.119.163.196/twtv2255.php?id=2418
+魅力足球,http://206.119.163.196/twtv2255.php?id=464
+J SPORTS 1,http://206.119.163.196/twtv2255.php?id=129
+J SPORTS 3,http://206.119.163.196/twtv2255.php?id=131
+J SPORTS 2,http://206.119.163.196/twtv2255.php?id=130
+J SPORTS 4,http://206.119.163.196/twtv2255.php?id=132
+Spotv,http://206.119.163.196/twtv2255.php?id=266
+Spotv2,http://206.119.163.196/twtv2255.php?id=267
+SBS Sports,http://206.119.163.196/twtv2255.php?id=487
+Fox Business,http://206.119.163.196/twtv2255.php?id=1511
+Mlb net,http://206.119.163.196/twtv2255.php?id=1523
+Fight network,http://206.119.163.196/twtv2255.php?id=1527
+Diy network,http://206.119.163.196/twtv2255.php?id=1528
+NHL net,http://206.119.163.196/twtv2255.php?id=1534
+NBC Golf,http://206.119.163.196/twtv2255.php?id=1539
+Goltv,http://206.119.163.196/twtv2255.php?id=1542
+TVG,http://206.119.163.196/twtv2255.php?id=1543
+Game Show Network,http://206.119.163.196/twtv2255.php?id=1562
+Atlanta,http://206.119.163.196/twtv2255.php?id=1055
+CBS Sport,http://206.119.163.196/twtv2255.php?id=1364
+ESPN 1,http://206.119.163.196/twtv2255.php?id=1182
+ESPN 2,http://206.119.163.196/twtv2255.php?id=1183
+NBC Sport,http://206.119.163.196/twtv2255.php?id=1184
+NBA TV US,http://206.119.163.196/twtv2255.php?id=1185
+Fox Sport 1,http://206.119.163.196/twtv2255.php?id=1186
+Fox Sport 2,http://206.119.163.196/twtv2255.php?id=1187
+NFL Network,http://206.119.163.196/twtv2255.php?id=1189
+Golf,http://206.119.163.196/twtv2255.php?id=1190
+WWE,http://206.119.163.196/twtv2255.php?id=1191
+UFC PASS,http://206.119.163.196/twtv2255.php?id=1192
+Bein Sports USA,http://206.119.163.196/twtv2255.php?id=1195
+ESPN U,http://206.119.163.196/twtv2255.php?id=1196
+WE TV,http://206.119.163.196/twtv2255.php?id=1229
+TSN 3,http://206.119.163.196/twtv2255.php?id=1275
+TSN 4,http://206.119.163.196/twtv2255.php?id=1276
+TSN 5,http://206.119.163.196/twtv2255.php?id=1277
+SportNet ON,http://206.119.163.196/twtv2255.php?id=1278
+SportNet One,http://206.119.163.196/twtv2255.php?id=1279
+SportNet World,http://206.119.163.196/twtv2255.php?id=1280
+SportNet 360,http://206.119.163.196/twtv2255.php?id=1281
+NBA CA,http://206.119.163.196/twtv2255.php?id=1282
+TSN 2,http://206.119.163.196/twtv2255.php?id=1274
+TSN 1,http://206.119.163.196/twtv2255.php?id=1273
+E ent,http://206.119.163.196/twtv2255.php?id=1392
+Freesports,http://206.119.163.196/twtv2255.php?id=1412
+BT Sport ESPN,http://206.119.163.196/twtv2255.php?id=168
+BT Sport 2,http://206.119.163.196/twtv2255.php?id=166
+BT Sport 3,http://206.119.163.196/twtv2255.php?id=167
+BT Sport 1,http://206.119.163.196/twtv2255.php?id=165
+Sky Sport 2,http://206.119.163.196/twtv2255.php?id=171
+Sky Sports 1,http://206.119.163.196/twtv2255.php?id=172
+Sky Sports F1,http://206.119.163.196/twtv2255.php?id=182
+Sky Sport 3,http://206.119.163.196/twtv2255.php?id=183
+Sky Sport 4,http://206.119.163.196/twtv2255.php?id=417
+Sky Sport 5,http://206.119.163.196/twtv2255.php?id=418
+Sky sport uno,http://206.119.163.196/twtv2255.php?id=1597
+Rai Sport,http://206.119.163.196/twtv2255.php?id=1613
+Suria,http://206.119.163.196/twtv2255.php?id=434
+Astro Sp1,http://206.119.163.196/twtv2255.php?id=444
+Astro Sp2,http://206.119.163.196/twtv2255.php?id=445
+Astro Sp3,http://206.119.163.196/twtv2255.php?id=446
+Astro Sp4,http://206.119.163.196/twtv2255.php?id=447
+ASTRO ARENA HD,http://206.119.163.196/twtv2255.php?id=1934
+EUROSPORT HD,http://206.119.163.196/twtv2255.php?id=1942
+WWE NETWORK,http://206.119.163.196/twtv2255.php?id=1943
+GOLF CHANNEL HD,http://206.119.163.196/twtv2255.php?id=1944
+Fox Sports 1 HD,http://206.119.163.196/twtv2255.php?id=2094
+Fox Sports 1 HD,http://206.119.163.196/twtv2255.php?id=1738
+Fox Sports 3 HD,http://206.119.163.196/twtv2255.php?id=2095
+Fox Sports 3 HD,http://206.119.163.196/twtv2255.php?id=1739
+Fox Sports 2 HD,http://206.119.163.196/twtv2255.php?id=2096
+Fox Sports 2 HD,http://206.119.163.196/twtv2255.php?id=1740
+BeIN Sport 1 ID,http://206.119.163.196/twtv2255.php?id=2097
+BeIN Sport 1 ID,http://206.119.163.196/twtv2255.php?id=1741
+BeIN Sport 2 ID,http://206.119.163.196/twtv2255.php?id=2098
+BeIN Sport 2 ID,http://206.119.163.196/twtv2255.php?id=1742
+Fight Sports,http://206.119.163.196/twtv2255.php?id=2147
+Fight Sports,http://206.119.163.196/twtv2255.php?id=1791
+NBA TV HD,http://206.119.163.196/twtv2255.php?id=2149
+NBA TV HD,http://206.119.163.196/twtv2255.php?id=1793
+ASSP1_HD,http://206.119.163.196/twtv2255.php?id=1070
+ASSP2_HD,http://206.119.163.196/twtv2255.php?id=1071
+ASSP3_HD,http://206.119.163.196/twtv2255.php?id=1072
+ASSP4_HD,http://206.119.163.196/twtv2255.php?id=1074
 
 虎牙
 1975埋堆堆1,http://api.phoves.com.cn/iptv/huya.php?id=23749096
