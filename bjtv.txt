@@ -156,7 +156,6 @@ CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/32212
 
 北京,#genre#
 北京卫视 HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
-北京冬奥纪实 5.5M 1080HEVC[1920*1080],http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
 北京新闻HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 北京生活HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
 北京影视HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
@@ -198,8 +197,6 @@ IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3
 怀化公共,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8
 常德新闻,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdezh
 常德公共,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdegg
-永州新闻综合,http://stream.21ytv.com/xw/playlist.m3u8#http://stream.21ytv.com/xw/8twnQW67/live.m3u8
-永州公共,http://stream.21ytv.com/gg/playlist.m3u8#http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
 湖北,#genre#
 湖北卫视,http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226159/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
@@ -324,6 +321,33 @@ swag16,https://vd8.zhiyuanhongda.com/20210306/pKrI7OB9/index.m3u8
 欧美10,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 欧美11,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 欧美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
+天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
+天美传媒27,https://video2.51daao.com/btt1/2021/01/20210131/BQY1vCJ4/index.m3u8
+天美传媒26,https://video2.51daao.com/btt1/2021/01/20210131/zDEwqelh/index.m3u8
+天美传媒25,https://video2.51daao.com/btt1/2021/01/20210131/eKSd5QE7/index.m3u8
+天美传媒23,https://video2.51daao.com/btt1/2021/01/20210131/e4CQTt8H/index.m3u8
+天美传媒22,https://video2.51daao.com/btt1/2021/01/20210131/x184r1n4/index.m3u8
+天美传媒21,https://video2.51daao.com/btt1/2021/02/20210201/nDsIoul4/index.m3u8
+天美传媒20,https://video2.51daao.com/btt1/2021/02/20210201/2y1YjwEL/index.m3u8
+天美传媒19,https://video2.51daao.com/btt1/2021/02/20210201/ozNmkdR3/index.m3u8
+天美传媒18,https://video2.51daao.com/btt1/2021/02/20210201/YcHjiZ7t/index.m3u8
+天美传媒17,https://video2.51daao.com/btt1/2021/02/20210201/mzt2nJRT/index.m3u8
+天美传媒16,https://video2.51daao.com/btt1/2021/02/20210201/A0yxpEqY/index.m3u8
+天美传媒15,https://video2.51daao.com/btt1/2021/02/20210201/Xx9Zbgkd/index.m3u8
+天美传媒14,https://video2.51daao.com/btt1/2021/02/20210201/LHJiAJ2L/index.m3u8
+天美传媒13,https://video2.51daao.com/btt1/2021/02/20210201/T6uGyIgj/index.m3u8
+天美传媒12,https://video2.51daao.com/btt1/2021/02/20210201/jLKNXthe/index.m3u8
+天美传媒11,https://video2.51daao.com/btt1/2021/02/20210202/mEMG07WV/index.m3u8
+天美传媒10,https://video2.51daao.com/btt1/2021/02/20210202/QmSmqiRr/index.m3u8
+天美传媒09,https://video2.51daao.com/btt1/2021/02/20210202/XBtcPy7V/index.m3u8
+天美传媒08,https://video2.51daao.com/btt1/2021/02/20210202/lwHctu4K/index.m3u8
+天美传媒07,https://video2.51daao.com/btt1/2021/02/20210202/9ZAJXaA9/index.m3u8
+天美传媒06,https://video2.51daao.com/btt1/2021/02/20210202/26nESk76/index.m3u8
+天美传媒05,https://video2.51daao.com/btt1/2021/02/20210202/AL7rZJm1/index.m3u8
+天美传媒04,https://video2.51daao.com/btt1/2021/02/20210210/GelcPLQ0/index.m3u8
+天美传媒03,https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
+天美传媒02,https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
 樂活,P2p://fccs.ggboxtv.tw:9806/6069480a00012bea15e14c4b5a8a79f5.ts
 HIPLAY,P2p://fccs.ggboxtv.tw:9806/606947ae0006005b15dfe627af5a3968.ts
 LOOK-HD,tvbus://4BVfcfk8gM5f5gcfbNncYCpQKfZh7QjPKpARxXZKtskU8dXg3o
@@ -496,6 +520,20 @@ ZEECINEMA HD,http://183.178.58.115:8024/0.ts
 colors HD,http://183.178.58.115:8010/0.ts
 
 其他,#genre#
+国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+罪案侦探,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
+韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
+TVB1（備）,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
+cp24（備）,p5p://0198.02686.cc:16871/5f39f90b0005c8064aee01bf8be4cbde.ts
+NBA（備）,p5p://0198.02686.cc:16871/5f39facc0006e0f04af4dbef79c0756f.ts
+CnnNews（備）,p5p://0198.02686.cc:16871/5f39fb9800041bef4af7f8195646fb88.ts
+HBOCA（備）,p5p://0198.02686.cc:16871/5d1a6984000600f011bd224a806d5fcf.ts
+FoxWest（備）,p5p://0198.02686.cc:16871/5d1a69810006a1bf11bd16bbbf0f1b86.ts
+CbcNews（備）,p5p://0198.02686.cc:16871/5d1a696d000c9f8011bcca24b8fcdf0e.ts
+Eurosp2（備）,p5p://0198.02686.cc:16871/5d1a697b0007aebe11bcff900f6934ca.ts
+ESPN（備）,p5p://0198.02686.cc:16871/5f37ecd5000cc93142ee509a1520c75e.ts
+BBC News（備）,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
+CNN-HD（備）,p5p://0198.02686.cc:16871/5d1a69730008fd4d11bce0a61466a553.ts
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
@@ -689,7 +727,6 @@ $c_start卫视高清$c_end
 
 $c_start北京$c_end
 北京卫视 HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
-北京冬奥纪实 5.5M 1080HEVC[1920*1080],http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
 北京新闻HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 北京生活HD,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
 北京影视HD,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
@@ -731,8 +768,6 @@ $c_start湖南$c_end
 怀化公共,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8
 常德新闻,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdezh
 常德公共,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdegg
-永州新闻综合,http://stream.21ytv.com/xw/playlist.m3u8#http://stream.21ytv.com/xw/8twnQW67/live.m3u8
-永州公共,http://stream.21ytv.com/gg/playlist.m3u8#http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
 $c_start湖北$c_end
 湖北卫视,http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226159/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
@@ -793,6 +828,33 @@ swag16,https://vd8.zhiyuanhongda.com/20210306/pKrI7OB9/index.m3u8
 欧美10,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 欧美11,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 欧美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
+天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
+天美传媒27,https://video2.51daao.com/btt1/2021/01/20210131/BQY1vCJ4/index.m3u8
+天美传媒26,https://video2.51daao.com/btt1/2021/01/20210131/zDEwqelh/index.m3u8
+天美传媒25,https://video2.51daao.com/btt1/2021/01/20210131/eKSd5QE7/index.m3u8
+天美传媒23,https://video2.51daao.com/btt1/2021/01/20210131/e4CQTt8H/index.m3u8
+天美传媒22,https://video2.51daao.com/btt1/2021/01/20210131/x184r1n4/index.m3u8
+天美传媒21,https://video2.51daao.com/btt1/2021/02/20210201/nDsIoul4/index.m3u8
+天美传媒20,https://video2.51daao.com/btt1/2021/02/20210201/2y1YjwEL/index.m3u8
+天美传媒19,https://video2.51daao.com/btt1/2021/02/20210201/ozNmkdR3/index.m3u8
+天美传媒18,https://video2.51daao.com/btt1/2021/02/20210201/YcHjiZ7t/index.m3u8
+天美传媒17,https://video2.51daao.com/btt1/2021/02/20210201/mzt2nJRT/index.m3u8
+天美传媒16,https://video2.51daao.com/btt1/2021/02/20210201/A0yxpEqY/index.m3u8
+天美传媒15,https://video2.51daao.com/btt1/2021/02/20210201/Xx9Zbgkd/index.m3u8
+天美传媒14,https://video2.51daao.com/btt1/2021/02/20210201/LHJiAJ2L/index.m3u8
+天美传媒13,https://video2.51daao.com/btt1/2021/02/20210201/T6uGyIgj/index.m3u8
+天美传媒12,https://video2.51daao.com/btt1/2021/02/20210201/jLKNXthe/index.m3u8
+天美传媒11,https://video2.51daao.com/btt1/2021/02/20210202/mEMG07WV/index.m3u8
+天美传媒10,https://video2.51daao.com/btt1/2021/02/20210202/QmSmqiRr/index.m3u8
+天美传媒09,https://video2.51daao.com/btt1/2021/02/20210202/XBtcPy7V/index.m3u8
+天美传媒08,https://video2.51daao.com/btt1/2021/02/20210202/lwHctu4K/index.m3u8
+天美传媒07,https://video2.51daao.com/btt1/2021/02/20210202/9ZAJXaA9/index.m3u8
+天美传媒06,https://video2.51daao.com/btt1/2021/02/20210202/26nESk76/index.m3u8
+天美传媒05,https://video2.51daao.com/btt1/2021/02/20210202/AL7rZJm1/index.m3u8
+天美传媒04,https://video2.51daao.com/btt1/2021/02/20210210/GelcPLQ0/index.m3u8
+天美传媒03,https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
+天美传媒02,https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
 樂活,P2p://fccs.ggboxtv.tw:9806/6069480a00012bea15e14c4b5a8a79f5.ts
 HIPLAY,P2p://fccs.ggboxtv.tw:9806/606947ae0006005b15dfe627af5a3968.ts
 LOOK-HD,tvbus://4BVfcfk8gM5f5gcfbNncYCpQKfZh7QjPKpARxXZKtskU8dXg3o
@@ -965,6 +1027,20 @@ ZEECINEMA HD,http://183.178.58.115:8024/0.ts
 colors HD,http://183.178.58.115:8010/0.ts
 
 $c_start其他高清$c_end
+国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+罪案侦探,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
+韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
+TVB1（備）,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
+cp24（備）,p5p://0198.02686.cc:16871/5f39f90b0005c8064aee01bf8be4cbde.ts
+NBA（備）,p5p://0198.02686.cc:16871/5f39facc0006e0f04af4dbef79c0756f.ts
+CnnNews（備）,p5p://0198.02686.cc:16871/5f39fb9800041bef4af7f8195646fb88.ts
+HBOCA（備）,p5p://0198.02686.cc:16871/5d1a6984000600f011bd224a806d5fcf.ts
+FoxWest（備）,p5p://0198.02686.cc:16871/5d1a69810006a1bf11bd16bbbf0f1b86.ts
+CbcNews（備）,p5p://0198.02686.cc:16871/5d1a696d000c9f8011bcca24b8fcdf0e.ts
+Eurosp2（備）,p5p://0198.02686.cc:16871/5d1a697b0007aebe11bcff900f6934ca.ts
+ESPN（備）,p5p://0198.02686.cc:16871/5f37ecd5000cc93142ee509a1520c75e.ts
+BBC News（備）,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
+CNN-HD（備）,p5p://0198.02686.cc:16871/5d1a69730008fd4d11bce0a61466a553.ts
 超级电视剧 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影 [1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
