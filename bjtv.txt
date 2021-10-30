@@ -512,6 +512,11 @@ HBO Signature,http://183.178.58.115:8031/0.ts
 HBO famlly,http://183.178.58.115:8028/0.ts
 CINEMAX,http://183.178.58.115:8029/0.ts
 MTV HD,http://183.178.58.115:8023/0.ts
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNN,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
+BBC NEWS,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 SONY HD,http://183.178.58.115:8014/0.ts
 SONY SAB,http://183.178.58.115:8034/0.ts
 SONY MAX HD,http://183.178.58.115:8027/0.ts
@@ -1030,6 +1035,11 @@ HBO Signature,http://183.178.58.115:8031/0.ts
 HBO famlly,http://183.178.58.115:8028/0.ts
 CINEMAX,http://183.178.58.115:8029/0.ts
 MTV HD,http://183.178.58.115:8023/0.ts
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNN,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
+BBC NEWS,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 SONY HD,http://183.178.58.115:8014/0.ts
 SONY SAB,http://183.178.58.115:8034/0.ts
 SONY MAX HD,http://183.178.58.115:8027/0.ts
