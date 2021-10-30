@@ -202,6 +202,8 @@ IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3
 怀化公共,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8
 常德新闻,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdezh
 常德公共,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdegg
+永州新闻综合,http://stream.21ytv.com/xw/playlist.m3u8#http://stream.21ytv.com/xw/8twnQW67/live.m3u8
+永州公共,http://stream.21ytv.com/gg/playlist.m3u8#http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
 湖北,#genre#
 湖北卫视,http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226159/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
@@ -576,6 +578,11 @@ CNN,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC NEWS,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 SONY HD,http://183.178.58.115:8014/0.ts
 SONY SAB,http://183.178.58.115:8034/0.ts
 SONY MAX HD,http://183.178.58.115:8027/0.ts
@@ -852,6 +859,8 @@ $c_start湖南$c_end
 怀化公共,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8
 常德新闻,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdezh
 常德公共,http://player.ioioz.com/1691/hunan/changdem3u8.php?id=changdegg
+永州新闻综合,http://stream.21ytv.com/xw/playlist.m3u8#http://stream.21ytv.com/xw/8twnQW67/live.m3u8
+永州公共,http://stream.21ytv.com/gg/playlist.m3u8#http://stream.21ytv.com/gg/8twnQW67/live.m3u8
 
 $c_start湖北$c_end
 湖北卫视,http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226159/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
@@ -1226,6 +1235,11 @@ CNN,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC NEWS,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 SONY HD,http://183.178.58.115:8014/0.ts
 SONY SAB,http://183.178.58.115:8034/0.ts
 SONY MAX HD,http://183.178.58.115:8027/0.ts
