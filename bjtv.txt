@@ -309,7 +309,13 @@ swag12,https://vd8.zhiyuanhongda.com/20210306/2fUsLUOf/index.m3u8
 swag13,https://vd8.zhiyuanhongda.com/20210306/tm4Q3I71/index.m3u8 
 swag14,https://vd8.zhiyuanhongda.com/20210306/jE7mjKgb/index.m3u8 
 swag15,https://vd8.zhiyuanhongda.com/20210306/U8SvE5ow/index.m3u8 
-swag16,https://vd8.zhiyuanhongda.com/20210306/pKrI7OB9/index.m3u8 
+swag16,https://vd8.zhiyuanhongda.com/20210306/pKrI7OB9/index.m3u8
+彩虹e台,mitv://ns2.hellotvvod.com:9906/79481e1abd5d48158332202f82860017
+彩虹电影台,mitv://ns2.hellotvvod.com:9906/d084628d80f7442c8ee870b0304d7c3a
+LOOK TV,mitv://ns2.hellotvvod.com:9906/5d844c8449f0455ca5f1547c92a29e58
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/f428caddfa7746fc8b02a77354f2152d
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/11d4dde9ab47402e9f0ffd1c11485d72
+松视1台,mitv://ns2.hellotvvod.com:9906/5e80990c1696400d8b90da802fa4ee8f
 欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 欧美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 欧美4,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
@@ -828,6 +834,12 @@ swag16,https://vd8.zhiyuanhongda.com/20210306/pKrI7OB9/index.m3u8
 欧美10,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 欧美11,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 欧美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+彩虹e台,mitv://ns2.hellotvvod.com:9906/79481e1abd5d48158332202f82860017
+彩虹电影台,mitv://ns2.hellotvvod.com:9906/d084628d80f7442c8ee870b0304d7c3a
+LOOK TV,mitv://ns2.hellotvvod.com:9906/5d844c8449f0455ca5f1547c92a29e58
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/f428caddfa7746fc8b02a77354f2152d
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/11d4dde9ab47402e9f0ffd1c11485d72
+松视1台,mitv://ns2.hellotvvod.com:9906/5e80990c1696400d8b90da802fa4ee8f
 天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
 天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
 天美传媒27,https://video2.51daao.com/btt1/2021/01/20210131/BQY1vCJ4/index.m3u8
