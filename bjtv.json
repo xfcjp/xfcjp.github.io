@@ -1307,39 +1307,53 @@
       "group": "自定义",
       "channels": [
         {
-          "name": "安徽经视",
+          "name": "北京卫视",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/750.m3u8"
+            "http://112.25.63.197:8080/gitv_live/BTV-1/BTV-1.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_BEIJING-HD-265-5M/G_BEIJING-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_BEIJING-CQ/G_BEIJING-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
-          "name": "安徽综艺",
+          "name": "湖南卫视",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/758.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/HNWS-HD/HNWS-HD.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUNAN-HD-265-5M/G_HUNAN-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUNAN-MD/G_HUNAN-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
-          "name": "安徽影视",
+          "name": "湖北卫视",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/756.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUBEI-CQ/G_HUBEI-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUBEI-HD-265-5M/G_HUBEI-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUBEI-HD-265-8M/G_HUBEI-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
-          "name": "安徽科教",
+          "name": "凤凰中文",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/754.m3u8"
+            "http://112.25.63.197:8080/gitv_live/HD-2500k-1080P-fhchinese/HD-2500k-1080P-fhchinese.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
-          "name": "安徽公共",
+          "name": "凤凰资讯",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/752.m3u8"
+            "http://112.25.63.197:8080/gitv_live/HD-2500k-1080P-fhzixun/HD-2500k-1080P-fhzixun.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
-          "name": "安徽人物",
+          "name": "北京冬奥纪实",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/da9.m3u8"
+            "http://112.25.63.197:8080/gitv_live/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         }
       ]
@@ -1350,87 +1364,107 @@
         {
           "name": "CCTV-1",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
-            "http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "ttp://112.25.63.197:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-2",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
-            "http://39.134.24.24/PLTV/88888888/224/3221225686/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-3",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
-            "http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225630/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/CCTV-3/CCTV-3.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-4",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4",
-            "http://39.134.24.24/PLTV/88888888/224/3221225662/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-4-HD-265-5M/G_CCTV-4-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-5",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5",
-            "http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225758/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/CCTV-5/CCTV-5.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-5+",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus",
-            "http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-6",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6",
-            "http://39.134.24.24/PLTV/88888888/224/3221226027/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225708/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-7",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7",
-            "http://39.134.24.24/PLTV/88888888/224/3221225855/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225768/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-7-HD-265-5M/G_CCTV-7-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-7-HD-265-8M/G_CCTV-7-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-8",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8",
-            "http://39.134.24.24/PLTV/88888888/224/3221226029/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225666/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-8-HD-265-5M/G_CCTV-8-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-8-HD-265-8M/G_CCTV-8-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-9",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9",
-            "http://39.134.24.24/PLTV/88888888/224/3221225672/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-10",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10",
-            "http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-10-HD-265-5M/G_CCTV-10-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-10-HD-265-8M/G_CCTV-10-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
@@ -1438,28 +1472,31 @@
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11",
             "http://39.134.24.24/PLTV/88888888/224/3221225825/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225774/index.m3u8"
+            "http://39.134.24.24/PLTV/88888888/224/3221225774/index.m3u8",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-12",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12",
-            "http://39.134.24.24/PLTV/88888888/224/3221225702/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-12-HD-265-5M/G_CCTV-12-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-12-HD-265-8M/G_CCTV-12-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-13",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13",
-            "http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225612/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225650/index.m3u8"
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-13-HD-265-5M/G_CCTV-13-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8?p=GITV&area=JS_CMCC_CP"
           ]
         },
         {
           "name": "CCTV-14",
           "urls": [
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8?p=GITV&area=JS_CMCC_CP"
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14",
             "http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8",
             "http://39.134.24.24/PLTV/88888888/224/3221225658/index.m3u8"
@@ -1473,8 +1510,16 @@
           ]
         },
         {
+          "name": "CCTV-16",
+          "urls": [
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?p=GITV&area=JS_CMCC_CP"
+          ]
+        },
+        {
           "name": "CCTV-17",
           "urls": [
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8?p=GITV&area=JS_CMCC_CP",
+            "http://112.25.63.197:8080/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8?p=GITV&area=JS_CMCC_CP",
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17",
             "http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
           ]
