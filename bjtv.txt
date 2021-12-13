@@ -11,13 +11,13 @@ CCTV7 军事,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-
 CCTV8 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv8/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd/1.m3u8
 CCTV9 纪实,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv9/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-news/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv-9hd/1.m3u8
 CCTV10 科教,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-10/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/1.m3u8
-CCTV11高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv11hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-11/.m3u8
-CCTV12高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-12/.m3u8
+CCTV11 戏曲,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv11hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-11/.m3u8
+CCTV12 社会与法,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-12/.m3u8
 CCTV13 新闻,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctvxwhd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-13/.m3u8
-CCTV14高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-14/.m3u8
-CCTV15高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
-CCTV16 冬奥,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV17 农业,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
+CCTV14 少儿,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-14/.m3u8
+CCTV15 音乐,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
+CCTV16 奥林匹克,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
+CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
 
 卫视,#genre#
 湖南卫视FHD,http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
