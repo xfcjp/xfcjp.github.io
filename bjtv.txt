@@ -68,6 +68,12 @@ CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcc
 广东卫视高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/guangdongstv/.m3u8
 东南卫视FHD,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/pltv-dongnanstv/.m3u8
 
+审美,#genre#
+WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 北京,#genre#
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
@@ -1058,6 +1064,13 @@ $c_start卫视$c_end
 河南卫视FHD,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThenanwshd/1.m3u8
 广东卫视高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/guangdongstv/.m3u8
 东南卫视FHD,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/pltv-dongnanstv/.m3u8
+
+$c_start审美$c_end
+WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 
 $c_start北京$c_end
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
