@@ -478,9 +478,11 @@ IHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
 潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61
+潘多拉1,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8
 松视1台,mitv://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
-松视2台,mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
+松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv#mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
+松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
 香蕉台,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa
@@ -1315,9 +1317,11 @@ $c_start成人$c_end
 彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
 潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61
+潘多拉1,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8
 松视1台,mitv://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
-松视2台,mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
+松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv#mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
+松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
 香蕉台,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa
