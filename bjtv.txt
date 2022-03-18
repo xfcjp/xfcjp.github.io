@@ -1,5 +1,4 @@
 央视,#genre#
-纯享4K,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-20M-2160P-chunxiang4k/.m3u8
 CCTV1 综合,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv01/.m3u8
 CCTV2 财经,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-2/.m3u8
 CCTV3 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
@@ -152,16 +151,11 @@ CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 4K,#genre#
-CCTV-4K,http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV16-4K,http://ccav.smymi.com:4000/rtp/239.93.42.54:5140
-纯享-4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225724/index.m3u8
-荆门樱花4K,http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
-电视剧FHD,http://39.134.116.30:8080/PLTV/88888910/224/3221225712/index.m3u8
-CCTV16-4K,rtp://239.3.1.97:8001
+CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+纯享 4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 央视高清,#genre#
 CCTV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226247/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
@@ -998,7 +992,6 @@ CHC 家庭影院 [1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231799
 BesTV 超级体育 [1920*1080],http://39.134.39.37/PLTV/88888888/224/3221226132/index.m3u8
 
 $c_start央视$c_end
-纯享4K,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-20M-2160P-chunxiang4k/.m3u8
 CCTV1 综合,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv01/.m3u8
 CCTV2 财经,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-2/.m3u8
 CCTV3 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
@@ -1154,13 +1147,11 @@ CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 $c_start4K$c_end
-纯享-4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225724/index.m3u8
-荆门樱花4K,http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
-电视剧FHD,http://39.134.116.30:8080/PLTV/88888910/224/3221225712/index.m3u8
+CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+纯享 4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 $c_start央视高清$c_end
 CCTV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226247/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
