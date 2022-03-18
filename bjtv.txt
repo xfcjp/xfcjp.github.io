@@ -17,6 +17,7 @@ CCTV13 新闻,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctvxwhd
 CCTV14 少儿,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-14/.m3u8
 CCTV15 音乐,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
 CCTV16 奥林匹克,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
+CCTV16 奥林匹克8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
 
 卫视,#genre#
