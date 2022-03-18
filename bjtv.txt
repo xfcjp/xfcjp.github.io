@@ -931,6 +931,10 @@ ZEECINEMA HD,http://183.178.58.115:8024/0.ts
 colors HD,http://183.178.58.115:8010/0.ts
 
 其他,#genre#
+美国之音VOA,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/index_0720_av-p.m3u8?sd=10rebase=on#https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+Fox Soul HD,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+FOX News Now HD,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Animal Planet HD,http://iptv.tvfix.org/hls/lovenature4k.m3u8#http://iptv.tvfix.org/hls/animal.m3u8
 国外影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876_4000.flv
 国内影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168_4000.flv
 恐怖影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415_4000.flv
@@ -1924,6 +1928,10 @@ ZEECINEMA HD,http://183.178.58.115:8024/0.ts
 colors HD,http://183.178.58.115:8010/0.ts
 
 $c_start其他高清$c_end
+美国之音VOA,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/index_0720_av-p.m3u8?sd=10rebase=on#https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+Fox Soul HD,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+FOX News Now HD,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Animal Planet HD,http://iptv.tvfix.org/hls/lovenature4k.m3u8#http://iptv.tvfix.org/hls/animal.m3u8
 国外影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876_4000.flv
 国内影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168_4000.flv
 恐怖影院,http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415_4000.flv
