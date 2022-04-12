@@ -1,0 +1,420 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV-1 综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1 ,CCTV-2 财经 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
+#EXTINF:-1 ,CCTV-3 综艺 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
+#EXTINF:-1 ,CCTV-5 体育 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+#EXTINF:-1 ,CCTV-5⁺ 体育赛事 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1 ,CCTV-6 电影 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
+#EXTINF:-1 ,CCTV-9 纪录 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1 ,CCTV-10 科教 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
+#EXTINF:-1 ,CCTV-13 新闻 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+#EXTINF:-1 ,CCTV-14 少儿 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+#EXTINF:-1 ,CCTV-15 音乐 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+#EXTINF:-1 ,CCTV-16 奥林匹克 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-16_4000.m3u8
+#EXTINF:-1 ,CCTV-16 奥林匹克 4K超高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
+#EXTINF:-1 ,CCTV-17 农业农村 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
+#EXTINF:-1 ,CCTV-4K 超高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+
+#EXTINF:-1 ,CETV-1 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
+#EXTINF:-1 ,凤凰中文 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8
+#EXTINF:-1 ,凤凰资讯 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test2_4000.m3u8
+#EXTINF:-1 ,北京卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+#EXTINF:-1 ,冬奥纪实 4K超高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dajs-4k_8000.m3u8
+#EXTINF:-1 ,重庆卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/cqwsH265_4000.m3u8
+#EXTINF:-1 ,安徽卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+#EXTINF:-1 ,山东卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+#EXTINF:-1 ,天津卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/tjwsH265_4000.m3u8
+#EXTINF:-1 ,东方卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+#EXTINF:-1 ,东南卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
+#EXTINF:-1 ,广东卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+#EXTINF:-1 ,湖北卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+#EXTINF:-1 ,湖南卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+#EXTINF:-1 ,河南卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hnws35_4000.m3u8
+#EXTINF:-1 ,河南梨园频道 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ly_4000.m3u8
+#EXTINF:-1 ,河南武术世界 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wssj_4000.m3u8
+#EXTINF:-1 ,吉林卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jlwsH265_4000.m3u8
+#EXTINF:-1 ,浙江卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+#EXTINF:-1 ,深圳卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/szwsH265_4000.m3u8
+#EXTINF:-1 ,贵州卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+#EXTINF:-1 ,四川卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/scwsH265_4000.m3u8
+#EXTINF:-1 ,江苏卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jswsH265_4000.m3u8
+#EXTINF:-1 ,江西卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jxwsH265_4000.m3u8
+#EXTINF:-1 ,辽宁卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
+#EXTINF:-1 ,黑龙江卫视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+#EXTINF:-1 ,金鹰纪实 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8
+#EXTINF:-1 ,快乐垂钓 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
+
+#EXTINF:-1 ,CDHT TV 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8
+#EXTINF:-1 ,四川文化旅游 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
+#EXTINF:-1 ,四川经济 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
+#EXTINF:-1 ,四川新闻 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
+#EXTINF:-1 ,四川影视文艺 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
+#EXTINF:-1 ,四川妇女儿童 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
+#EXTINF:-1 ,四川科教 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
+#EXTINF:-1 ,四川乡村 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
+#EXTINF:-1 ,四川峨嵋电影 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+#EXTINF:-1 ,4K超高清电影 4K超高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
+
+#EXTINF:-1 ,CHC-家庭影院 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 ,CHC-高清电影 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1 ,CHC-动作电影 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1 ,CBN-幸福剧场 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
+#EXTINF:-1 ,CBN-每日影院 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mryy_4000.m3u8
+#EXTINF:-1 ,CBN-幸福娱乐 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
+#EXTINF:-1 ,CBN-风尚生活 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4000.m3u8
+
+#EXTINF:-1 ,新视觉 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+#EXTINF:-1 ,全纪实 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
+#EXTINF:-1 ,都市剧场 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
+#EXTINF:-1 ,动漫秀场 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
+#EXTINF:-1 ,劲爆体育 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
+#EXTINF:-1 ,魅力足球 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mlyy_4000.m3u8
+#EXTINF:-1 ,生活时尚 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/shssH265_4000.m3u8
+#EXTINF:-1 ,法治天地 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fztx_4000.m3u8
+#EXTINF:-1 ,极速汽车 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jsqcH265_4000.m3u8
+#EXTINF:-1 ,欢笑剧场 4K超高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
+
+#EXTINF:-1 ,甘孜综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gzxwzh_2000.m3u8
+#EXTINF:-1 ,剑阁综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8
+#EXTINF:-1 ,峨眉综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emsxw_2000.m3u8
+#EXTINF:-1 ,平昌综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pcxw_2000.m3u8
+#EXTINF:-1 ,宣汉综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xhxwzh_2000.m3u8
+#EXTINF:-1 ,新都综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xdzhpd_2000.m3u8
+#EXTINF:-1 ,巴州电视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bzxw_4000.m3u8
+#EXTINF:-1 ,利州综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lzxwzh_2000.m3u8
+#EXTINF:-1 ,南充综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ncxwzh_2000.m3u8
+#EXTINF:-1 ,西充综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xczh_2000.m3u8
+#EXTINF:-1 ,朝天综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ctxwzh_2000.m3u8
+#EXTINF:-1 ,宝兴综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bxdst_2000.m3u8
+#EXTINF:-1 ,彭山综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pszh_2000.m3u8
+#EXTINF:-1 ,彭州综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pzxwzh_2000.m3u8
+#EXTINF:-1 ,昭化综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zhxwzh_2000.m3u8
+#EXTINF:-1 ,沐川综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mcxw_2000.m3u8
+#EXTINF:-1 ,通江综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/tjxwH265_4000.m3u8
+#EXTINF:-1 ,浦江综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pjxw_4000.m3u8
+#EXTINF:-1 ,米易综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/myxwzh_2000.m3u8
+#EXTINF:-1 ,马边综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mbxwzh_2000.m3u8
+#EXTINF:-1 ,船山综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/csxw_2000.m3u8
+#EXTINF:-1 ,荣县综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/rxzh_2000.m3u8
+#EXTINF:-1 ,青神综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qszh_2000.m3u8
+#EXTINF:-1 ,广元综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gyzhH265_4000.m3u8
+#EXTINF:-1 ,广元公共 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gyggH265_4000.m3u8
+#EXTINF:-1 ,自贡综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zgxw_4000.m3u8
+#EXTINF:-1 ,自贡公共 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zggg_4000.m3u8
+#EXTINF:-1 ,恩阳新闻 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/eyxw_2000.m3u8
+#EXTINF:-1 ,天泉新闻 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/tqzh_2000.m3u8
+#EXTINF:-1 ,珙县新闻 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gxzh_2000.m3u8
+#EXTINF:-1 ,金口河综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jkhdst_2000.m3u8
+#EXTINF:-1 ,青白江综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qbjxwzh_2000.m3u8
+#EXTINF:-1 ,大邑电视台 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dyytH265_4000.m3u8
+#EXTINF:-1 ,兴文电视台 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xwt_2000.m3u8
+#EXTINF:-1 ,荥经电视台 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xjdst_2000.m3u8
+#EXTINF:-1 ,南江电视台 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/njxw_2000.m3u8
+#EXTINF:-1 ,盐边电视台 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ybtgq_2000.m3u8
+#EXTINF:-1 ,金堂电视台 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jtzhpd_2000.m3u8
+#EXTINF:-1 ,什邡新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sfx_2000.m3u8
+#EXTINF:-1 ,开江新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/kjxwzh_2000.m3u8
+#EXTINF:-1 ,夹江新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jjxw_2000.m3u8
+#EXTINF:-1 ,中江新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zjxwzh_2000.m3u8
+#EXTINF:-1 ,攀钢新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pgxwzh_2000.m3u8
+#EXTINF:-1 ,旺苍新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8
+#EXTINF:-1 ,普格新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pgxwzh_2000.m3u8
+#EXTINF:-1 ,大英新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8
+#EXTINF:-1 ,洪雅新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hyzh_2000.m3u8
+#EXTINF:-1 ,渠县新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qxxwzh_2000.m3u8
+#EXTINF:-1 ,郫县新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pxds1_2000.m3u8
+#EXTINF:-1 ,蓬溪新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pxxw_2000.m3u8
+#EXTINF:-1 ,资阳新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zyxwzh_2000.m3u8
+#EXTINF:-1 ,达川新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dcxwzh_2000.m3u8
+#EXTINF:-1 ,攀枝花新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pzhytH265_4000.m3u8
+#EXTINF:-1 ,绵阳新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/myytH265_4000.m3u8
+#EXTINF:-1 ,绵阳科技 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/myetH265_4000.m3u8
+#EXTINF:-1 ,达州新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dzxwzh_2000.m3u8
+#EXTINF:-1 ,达州公共 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dzgg_2000.m3u8
+#EXTINF:-1 ,雅安新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yazh_2000.m3u8
+#EXTINF:-1 ,雅安公共 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yagg_2000.m3u8
+#EXTINF:-1 ,乐山新闻综合 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lsxwzh_4000.m3u8
+#EXTINF:-1 ,乐山公共 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lsggpd_4000.m3u8
+#EXTINF:-1 ,高县-1 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gxt_2000.m3u8
+#EXTINF:-1 ,岳池 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ycxw_2000.m3u8
+#EXTINF:-1 ,万源 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wyxwzh_2000.m3u8
+#EXTINF:-1 ,通川 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/tcq_2000.m3u8
+#EXTINF:-1 ,雁江 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yjxw_2000.m3u8
+#EXTINF:-1 ,五通桥 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wtqxwzh_2000.m3u8
+#EXTINF:-1 ,沙湾溶媒 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/swxwzh_2000.m3u8
+#EXTINF:-1 ,精品导视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jpdsH265_4000.m3u8
+#EXTINF:-1 ,川网导视 高清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8
+
+#EXTINF:-1 ,CETV-4 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
+#EXTINF:-1 ,冬奥纪实 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bjjs_2000.m3u8
+#EXTINF:-1 ,康巴卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/kbwsH264_2000.m3u8
+#EXTINF:-1 ,陕西卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sxws_4000.m3u8
+#EXTINF:-1 ,山西卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sxws42_4000.m3u8
+#EXTINF:-1 ,云南卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ynws_4000.m3u8
+#EXTINF:-1 ,广西卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gxws_4000.m3u8
+#EXTINF:-1 ,甘肃卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8
+#EXTINF:-1 ,西藏卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xzwsH264_2000.m3u8
+#EXTINF:-1 ,海南卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hnws_4000.m3u8
+#EXTINF:-1 ,兵团卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/btws_4000.m3u8
+#EXTINF:-1 ,内蒙古卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/nmgws_4000.m3u8
+#EXTINF:-1 ,山东教育卫视 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sdjy_4000.m3u8
+#EXTINF:-1 ,摄影频道 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/sy_4000.m3u8
+#EXTINF:-1 ,天元围棋 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/tywq_2000.m3u8
+#EXTINF:-1 ,四海钓鱼 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/shdy_4000.m3u8
+#EXTINF:-1 ,先锋乒羽 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfpy_4000.m3u8
+#EXTINF:-1 ,家庭理财 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jtlc_4000.m3u8
+#EXTINF:-1 ,金鹰卡通 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jykt_2000.m3u8
+#EXTINF:-1 ,嘉佳卡通 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jjkt_2000.m3u8
+#EXTINF:-1 ,卡酷少儿 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/kkkt_4000.m3u8
+#EXTINF:-1 ,CDTV-1 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CDTV-1_4000.m3u8
+#EXTINF:-1 ,CDTV-2 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CDTV-2_4000.m3u8
+#EXTINF:-1 ,CDTV-3 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CDTV-3_4000.m3u8
+#EXTINF:-1 ,CDTV-4 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CDTV-4_4000.m3u8
+#EXTINF:-1 ,CDTV-5 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CDTV-5_4000.m3u8
+#EXTINF:-1 ,丹棱综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8
+#EXTINF:-1 ,南溪综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/nxt_2000.m3u8
+#EXTINF:-1 ,南部综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/nbxw_2000.m3u8
+#EXTINF:-1 ,安居综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ajxw_2000.m3u8
+#EXTINF:-1 ,富顺综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fszh_2000.m3u8
+#EXTINF:-1 ,广汉综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ghxwzh_2000.m3u8
+#EXTINF:-1 ,武胜综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wsxw_2000.m3u8
+#EXTINF:-1 ,汉源综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hyxwzh_2000.m3u8
+#EXTINF:-1 ,阆中综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lzxw_2000.m3u8
+#EXTINF:-1 ,雅安雨城 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ycpd_2000.m3u8
+#EXTINF:-1 ,青川综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8
+#EXTINF:-1 ,龙泉综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lqxw_2000.m3u8
+#EXTINF:-1 ,内江综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/njzh_4000.m3u8
+#EXTINF:-1 ,内江公共 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/njgg_4000.m3u8
+#EXTINF:-1 ,井研新闻综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jyxwzh_2000.m3u8
+#EXTINF:-1 ,仪陇新闻综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ylxw_2000.m3u8
+#EXTINF:-1 ,合江新闻综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hjxw_2000.m3u8
+#EXTINF:-1 ,宜宾新闻综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ybx_2000.m3u8
+#EXTINF:-1 ,犍为新闻综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qwxwzh_2000.m3u8
+#EXTINF:-1 ,简阳新闻综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jyxwzh_2000.m3u8
+#EXTINF:-1 ,广安新闻综合 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gaxwzh_2000.m3u8
+#EXTINF:-1 ,广安公共 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gagg_2000.m3u8
+#EXTINF:-1 ,广安区电视台 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gaqxw_2000.m3u8
+#EXTINF:-1 ,江安电视台 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jat_2000.m3u8
+#EXTINF:-1 ,叙永电视台 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xyxw_2000.m3u8
+#EXTINF:-1 ,泸州公共 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lzgg_2000.m3u8
+#EXTINF:-1 ,纳溪-1 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/nxxw_2000.m3u8
+#EXTINF:-1 ,蓬安-1 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/pazh_2000.m3u8
+#EXTINF:-1 ,绵竹 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mzxwzh_2000.m3u8
+#EXTINF:-1 ,罗江 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ljxwzh_2000.m3u8
+#EXTINF:-1 ,营山 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ysxw_2000.m3u8
+#EXTINF:-1 ,金牛 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jnyx_2000.m3u8
+#EXTINF:-1 ,邻水 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lsxw_2000.m3u8
+#EXTINF:-1 ,QFTV 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qfxw_2000.m3u8
+#EXTINF:-1 ,DJYTV 标清
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/djyzh_4000.m3u8
