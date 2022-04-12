@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 ,CCTV-1 综合 高清
 http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 #EXTINF:-1 ,CCTV-2 财经 高清
@@ -41,6 +40,30 @@ http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
 #EXTINF:-1 ,CCTV-4K 超高清
 http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://iptv.hkanime.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
+https://cdn.hklive.tv/raw/31.ts
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://iptv.hkanime.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
+https://cdn.hklive.tv/raw/32.ts
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://iptv.hkanime.com/png_logo/33.png" group-title="[RTHK] 香港電台",港台電視33
+https://cdn.hklive.tv/raw/33.ts
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://iptv.hkanime.com/png_logo/77.png" group-title="[Fan] 奇妙電視",香港開電視
+https://cdn.hklive.tv/raw/77.ts
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://iptv.hkanime.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
+https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv.hkanime.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://iptv.hkanime.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
+https://cdn.hklive.tv/raw/82.ts
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://iptv.hkanime.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台
+https://cdn.hklive.tv/raw/83.ts
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://iptv.hkanime.com/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
+https://cdn.hklive.tv/raw/84.ts
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://iptv.hkanime.com/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
+https://cdn.hklive.tv/raw/85.ts
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://iptv.hkanime.com/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
+https://cdn.hklive.tv/raw/99.ts
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://iptv.hkanime.com/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
+https://cdn.hklive.tv/raw/96.ts
 #EXTINF:-1 ,CETV-1 高清
 http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
 #EXTINF:-1 ,凤凰中文 高清
