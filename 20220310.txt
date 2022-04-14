@@ -1,6 +1,4 @@
-
-🇨🇳央视▪频道,#genre#
-
+cn央视频道,#genre#
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
 CCTV1-综合频道,http://117.148.179.42/PLTV/88888888/224/3221229818/index.m3u8
@@ -65,8 +63,7 @@ CETV4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 
-🇨🇳卫视▪频道,#genre#
-
+🇨🇳卫视频道,#genre#
 湖南衛視,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 湖南衛視,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
 湖南衛視,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
@@ -127,7 +124,7 @@ CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 兵團衛視,http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
 廈門衛視,http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
 
-🇨🇳地方▪频道,#genre#
+🇨🇳地方频道,#genre#
 北京文藝,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 四海釣魚,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
 環球旅遊,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8
@@ -703,8 +700,7 @@ BTV财经-高清,http://v.mp.haue.edu.cn/hls/btv5hd.m3u8
 西藏 Ⅰ 拉萨文旅,http://teyonds.weetai.cn/cdn1/iptv/tyzb36.php?id=whlypd
 西藏 Ⅰ 拉萨广播,http://teyonds.weetai.cn/cdn1/iptv/tyzb36.php?id=zhgb
 
-📻国内▪有线,#genre#
-
+📻国内有线,#genre#
 NewTV中国功夫,http://117.148.179.37/PLTV/88888888/224/3221229663/index.m3u8
 NewTV中国功夫,http://117.148.179.47/PLTV/88888888/224/3221229019/index.m3u8
 NewTV中国功夫,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
@@ -850,8 +846,7 @@ NewTV超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.
 NewTV足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 NewTV潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
 
-📀数字▪电视,#genre#
-
+📀数字电视,#genre#
 求索科学,http://39.134.134.85/0000000000001001/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 求索纪录,http://39.134.134.85/0000000000001001/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索生活,http://39.134.134.85/0000000000001001/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
@@ -894,8 +889,7 @@ SiTV游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
 SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 SiTV游戏世界,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
 
-🔎4—k▪系列,#genre#
-
+🔎4K系列,#genre#
 河南卫视4k超,http://218.29.135.2:4000/udp/225.1.4.254:1300
 欢笑剧场4K超,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 4K超电影,http://60.255.49.202/live/emdy4k_8000.m3u8
@@ -918,8 +912,7 @@ CCTV16,http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 4K剧场 U,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 4k 修复频道,http://ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 
-🎦埋堆▪港剧,#genre#
-
+🎦埋堆堆港剧,#genre#
 埋堆堆1,http://jiekou.gq/liuwei34/huya.php?id=23749096
 埋堆堆2,http://jiekou.gq/liuwei34/huya.php?id=23735126
 埋堆堆3,http://jiekou.gq/liuwei34/huya.php?id=23865152
@@ -987,8 +980,7 @@ CCTV16,http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 埋堆堆65,http://jiekou.gq/liuwei34/huya.php?id=23734256
 埋堆堆66,http://jiekou.gq/liuwei34/huya.php?id=23829543
 
-🎦奇艺▪轮播,#genre#
-
+🎦爱奇艺轮播,#genre#
 国剧修复,http://jiekou.gq/liuwei34/iqy.php?id=180049922 
 玩具乐园,http://jiekou.gq/liuwei34/iqy.php?id=180065622
 情感调解,http://jiekou.gq/liuwei34/iqy.php?id=380066822
@@ -1109,8 +1101,7 @@ CCTV16,http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 王牌对王牌,http://jiekou.gq/liuwei34/iqy.php?id=180045822
 
 
-🎦优酷▪轮播,#genre#
-
+🎦优酷轮播,#genre#
 李连杰,http://jiekou.gq/liuwei34/youku.php?id=8021912
 周星驰,http://jiekou.gq/liuwei34/youku.php?id=8021901
 成龙,http://jiekou.gq/liuwei34/youku.php?id=8021903
@@ -1270,8 +1261,7 @@ CCTV16,http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 健康中国2,http://jiekou.gq/liuwei34/youku.php?id=8035192
 健康中国3,http://jiekou.gq/liuwei34/youku.php?id=8035193
 
-🎥黑莓▪专区,#genre#
-
+🎥黑莓专区,#genre#
 黑莓动画,http://39.135.140.232:6610/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls
 黑莓电影,http://39.135.140.232:6610/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
 黑莓电影,http://39.135.140.232:6610/PLTV/88888888/224/3221225764/2/index.m3u8?fmt=ts2hls
@@ -1305,9 +1295,7 @@ CCTV16,http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 中国功夫HD,http://111.11.121.184:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?channel-id=ystenlive
 搏击HD,http://111.11.121.184:6610/030000001001/SD-1500k-576P-bokesen/1.m3u8?channel-id=ystenlive
 
-
-🎲棋牌▪轮播,#genre#
-
+🎲棋牌轮播,#genre#
 欢乐麻将1,http://jiekou.gq/liuwei34/huya.php?id=19950896
 欢乐麻将2,http://jiekou.gq/liuwei34/huya.php?id=620778
 欢乐麻将3,http://jiekou.gq/liuwei34/huya.php?id=270033
@@ -1331,10 +1319,7 @@ CCTV16,http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 腾讯桌球2,http://jiekou.gq/liuwei34/huya.php?id=24849911
 腾讯桌球3,http://jiekou.gq/liuwei34/huya.php?id=23302160
 
-
-🎦虎牙▪轮播,#genre#
-
-
+🎦虎牙轮播,#genre#
 周星驰,http://jiekou.gq/liuwei34/huya.php?id=11342412
 林正英,http://jiekou.gq/liuwei34/huya.php?id=11342421
 成龙,http://jiekou.gq/liuwei34/huya.php?id=11342386
@@ -1914,9 +1899,7 @@ ACG动漫图赏,http://jiekou.gq/liuwei34/bili.php?id=22104452
 一起来听EXO,http://jiekou.gq/liuwei34/bili.php?id=22468321
 【人间透口气】不是我的歌单,http://jiekou.gq/liuwei34/bili.php?id=22325415
 
-🎦斗鱼▪轮播,#genre#
-
-
+🎦斗鱼轮播,#genre#
 邵氏影院,http://jiekou.gq/liuwei34/douyu.php?id=4246519
 贝尔求生,http://jiekou.gq/liuwei34/douyu.php?id=454867
 荒野生存,http://jiekou.gq/liuwei34/douyu.php?id=1339207
@@ -2258,9 +2241,7 @@ Kpop女团,http://jiekou.gq/liuwei34/douyu.php?id=329667
 影视解说,http://jiekou.gq/liuwei34/douyu.php?id=1351494949
 迷你短剧,http://jiekou.gq/liuwei34/douyu.php?id=1351511282
 
-
-🎦歪歪▪轮播,#genre#
-
+🎦歪歪轮播,#genre#
 香港赌片[1280*720],http://jiekou.gq/liuwei34/yy1.php?id=29900720
 英叔全集经典鬼片[1280*720],http://jiekou.gq/liuwei34/yy1.php?id=1354869861
 港片鬼片500部[1280*720],http://jiekou.gq/liuwei34/yy1.php?id=1353059120
@@ -2373,8 +2354,7 @@ TVB港剧[800*600],http://jiekou.gq/liuwei34/yy1.php?id=38525272
 |国产玄幻,http://jiekou.gq/liuwei34/yy1.php?id=1354143978
 |熊猫功夫台,http://jiekou.gq/liuwei34/yy1.php?id=1355013632
 
-📺港台▪一区,#genre#
-
+📺港台一区,#genre#
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
 中视,rtmp://59.124.75.157/sat/tv091
@@ -2402,7 +2382,7 @@ ELEVEN SPORTS PLUS,rtmp://59.124.75.138/sat/md031
 爱尔达体育3,rtmp://59.124.75.138/sat/md041
 博斯运动二台,rtmp://59.124.75.138/sat/md051
 
-📺港台▪二区,#genre#
+📺港台二区,#genre#
 凤凰中文,http://61.222.202.191/live/yzyh.php?id=1
 凤凰资讯,http://61.222.202.191/live/yzyh.php?id=2
 凤凰香港,http://61.222.202.191/live/yzyh.php?id=3
@@ -2633,8 +2613,7 @@ Sky News,http://jiekou.gq/liuwei34/xxx.php?id=9Auq9mYxFEE
 NYC Snow,http://jiekou.gq/liuwei34/xxx.php?id=MxjZP1h8Udw
 Chinese POP Music,http://jiekou.gq/liuwei34/xxx.php?id=wrYF0HX7Kzc
 
-🇯🇵午夜▪直播_6789,#genre#
-
+🇯🇵午夜直播_6789,#genre#
 做愛輸入,rtmp://202.39.64.234:1938/live/949
 大學女援交妹,rtmp://202.39.64.234:1937/live/966
 櫻桃,rtmp://202.39.64.234:1937/live/947
@@ -2698,8 +2677,7 @@ JSter極限電影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 京彩8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
 京粉9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
 
-🇯🇵一本▪电影_6789,#genre#
-
+🇯🇵一本电影_6789,#genre#
 一本道720P01,https://videony.rhsj520.com/jlb0707/060509-080A/1500kb/hls/index.m3u8
 一本道720P02,https://videony.rhsj520.com/jlb0707/060509-080B/1500kb/hls/index.m3u8
 一本道720P03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
@@ -2750,8 +2728,8 @@ JSter極限電影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 一本道720P48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
 一本道720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
 一本道720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
-🇰🇷韩国▪电影_6789,#genre#
 
+🇰🇷韩国电影_6789,#genre#
 HEYZO720P01,https://videomy.yongaomy.com/20191223/80S2HH9G/index.m3u8
 HEYZO720P02,https://videomy.yongaomy.com/20191223/msg5JABw/index.m3u8
 HEYZO720P03,https://videony.rhsj520.com/20191027/S6WcgbmV/1500kb/hls/index.m3u8
@@ -2803,8 +2781,7 @@ HEYZO720P48,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1950_full/1500kb/hls/
 HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/index.m3u8
 HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
 
-🇯🇵东热▪电影_6789,#genre#
-
+🇯🇵东热电影_6789,#genre#
 东热720P01,https://videony.rhsj520.com/20191027/WoTBapoK/1500kb/hls/index.m3u8
 东热720P02,https://videony.rhsj520.com/20191027/71zzDSxi/1500kb/hls/index.m3u8
 东热720P03,https://videony.rhsj520.com/20191006/N1396/1500kb/hls/index.m3u8
@@ -2837,8 +2814,7 @@ HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/
 东热720P30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0438/index.m3u8
 东热720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
 
-🇯🇵加勒▪电影_6789,#genre#
-
+🇯🇵加勒比电影_6789,#genre#
 加勒比720P01,https://videony.rhsj520.com/20191299/oSRvuYJA/index.m3u8
 加勒比720P02,https://videony.rhsj520.com/20191112/022512-952/1500kb/hls/index.m3u8
 加勒比720P03,https://videony.rhsj520.com/jlb0707/051709-065/1500kb/hls/index.m3u8
@@ -2891,10 +2867,7 @@ HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/
 加勒比720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 
 
-
-
-🇨🇳国产▪电影_6789,#genre#
-
+🇨🇳国产电影_6789,#genre#
 高颜值女神沈樵度剧情我的漂亮后妈,https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
 沈樵首部大尺度古装剧情七旬老农女鬼诱惑,https://ckcdnc1.cdn2020.com/video/m3u8/2020/06/14/df1cd2e3/index.m3u8
 沈樵新作-男神老师让我放学别走,https://v1.ckcdn2001.com/video/m3u8/2020/06/22/5d75e0be/index.m3u8
@@ -2992,8 +2965,7 @@ DYTM008抖音旅行射第8期贵州侗族民族风,https://t11.cdn2020.com:12336
 星空传媒民国旗袍系列2-无双,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5df8a4e6/index.m3u8
 少年阿宾第二季篇章五寒假开始,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8ce1afc0/index.m3u8
 
-🇺🇸外国▪电影_6789,#genre#
-
+🇺🇸外国电影_6789,#genre#
 欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
 欧美2,https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
 欧美3,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
@@ -3051,8 +3023,7 @@ FAP TV Teens,http://89.248.160.57/iptv/URFPS4QVV53QPF/6211/index.m3u8
 FAP TV Lesbian,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
 FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8 
 
-🇯🇵彩虹▪电影_6789,#genre#
-
+🇯🇵彩虹电影_6789,#genre#
 松视1,http://jiekou.gq/liuwei34/app.php?id=71  
 松视2,http://jiekou.gq/liuwei34/app.php?id=72  
 松视3,http://jiekou.gq/liuwei34/app.php?id=73  
@@ -3144,7 +3115,7 @@ Threesome (18+),http://jiekou.gq/liuwei34/app.php?id=150
 歐美11,http://jiekou.gq/liuwei34/app.php?id=160  
 歐美12,http://jiekou.gq/liuwei34/app.php?id=161  
 
-🇹🇼麻豆▪一区_6789,#genre#
+🇹🇼麻豆一区_6789,#genre#
 丝袜台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
 黑人台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
 车震台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
@@ -3999,8 +3970,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 新麻豆676,https://zo392.cdnedge.live/file/avple-images/hls/6065c1f85ae4d3277e90d8a7/playlist.m3u8
 新麻豆677,https://w9n76.cdnedge.live/file/avple-images/hls/6065c1f85ae4d3277e90d8a8/playlist.m3u8
 
-🇹🇼麻豆▪二区_6789,#genre#
-
+🇹🇼麻豆二区_6789,#genre#
 补新01,https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 补新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
 补新03,https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
@@ -4090,8 +4060,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 补最新麻豆65,https://w9n76.cdnedge.live/file/avple-images/hls/6156624d0936024ada667230/playlist.m3u8
 补最新麻豆66,https://e2fa6.cdnedge.live/file/avple-images/hls/615661d50936024ada66722f/playlist.m3u8
 
-🇹🇼麻豆▪三区_6789,#genre#
-
+🇹🇼麻豆三区_6789,#genre#
 最新麻豆01,https://u89ey.cdnedge.live/file/avple-images/hls/615db9866c85aa6afbe1e5fc/playlist.m3u8
 最新麻豆02,https://8bb88.cdnedge.live/file/avple-images/hls/615db90d6c85aa6afbe1e5fb/playlist.m3u8
 最新麻豆03,https://10j99.cdnedge.live/file/avple-images/hls/615db81d6c85aa6afbe1e5f9/playlist.m3u8
@@ -4270,8 +4239,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 新麻豆111,https://zo392.cdnedge.live/file/avple-images/hls/6124674dab291c1c98ec95ed/playlist.m3u8
 新麻豆112,https://8bb88.cdnedge.live/file/avple-images/hls/6123918dab291c1c98ec95ec/playlist.m3u8
 
-🇹🇼麻豆▪四区_6789,#genre#
-
+🇹🇼麻豆四区_6789,#genre#
 新麻豆113,https://47b61.cdnedge.live/file/avple-images/hls/61239151ab291c1c98ec95eb/playlist.m3u8
 新麻豆114,https://zo392.cdnedge.live/file/avple-images/hls/612390d9ab291c1c98ec95ea/playlist.m3u8
 新麻豆115,https://10j99.cdnedge.live/file/avple-images/hls/61239061ab291c1c98ec95e9/playlist.m3u8
@@ -4728,8 +4696,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 新麻豆589,https://47b61.cdnedge.live/file/avple-images/hls/6083ee803b4c791bec2312a9/playlist.m3u8
 新麻豆590,https://d862cp.cdnedge.live/file/avple-images/hls/6083e520e00778504ee22c4b/playlist.m3u8
 
-🇹🇼麻豆▪五区_6789,#genre#
-
+🇹🇼麻豆五区_6789,#genre#
 老麻豆01,https://video2.51daao.com/btt1/2021/07/20210708/7quARUC4/index.m3u8
 老麻豆02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8
 老麻豆04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8
@@ -5068,7 +5035,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 老麻豆337,https://video2.51daao.com/btt1/2021/04/20210407/TvbgwPO9/index.m3u8
 老麻豆338,https://video2.51daao.com/btt1/2021/04/20210407/eL5eQ699/index.m3u8
 
-🇯🇵精选▪推荐_6789,#genre#
+🇯🇵精选推荐_6789,#genre#
 Gachinco-gachi885 純子－実録面接72,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi885/index.m3u8
 Gachinco-gachi886  悠里－露出体験27,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi886/index.m3u8
 Gachinco-gachi889 弥生－実録面接73,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi889/index.m3u8
