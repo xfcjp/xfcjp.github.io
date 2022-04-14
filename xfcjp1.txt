@@ -1,4 +1,4 @@
-$c_startcn央视频道$c_end
+$c_start🇨🇳央视频道$c_end
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
 CCTV1-综合频道,http://117.148.179.42/PLTV/88888888/224/3221229818/index.m3u8
@@ -2608,7 +2608,7 @@ Sky News,http://jiekou.gq/liuwei34/xxx.php?id=9Auq9mYxFEE
 NYC Snow,http://jiekou.gq/liuwei34/xxx.php?id=MxjZP1h8Udw
 Chinese POP Music,http://jiekou.gq/liuwei34/xxx.php?id=wrYF0HX7Kzc
 
-🇯🇵午夜直播_6789,#genre#
+$c_start🇯🇵午夜直播_6789$c_end
 做愛輸入,rtmp://202.39.64.234:1938/live/949
 大學女援交妹,rtmp://202.39.64.234:1937/live/966
 櫻桃,rtmp://202.39.64.234:1937/live/947
@@ -2672,7 +2672,7 @@ JSter極限電影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 京彩8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
 京粉9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
 
-🇯🇵一本电影_6789,#genre#
+$c_start🇯🇵一本电影_6789$c_end
 一本道720P01,https://videony.rhsj520.com/jlb0707/060509-080A/1500kb/hls/index.m3u8
 一本道720P02,https://videony.rhsj520.com/jlb0707/060509-080B/1500kb/hls/index.m3u8
 一本道720P03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
@@ -2724,7 +2724,7 @@ JSter極限電影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 一本道720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
 一本道720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
 
-🇰🇷韩国电影_6789,#genre#
+$c_start🇰🇷韩国电影_6789$c_end
 HEYZO720P01,https://videomy.yongaomy.com/20191223/80S2HH9G/index.m3u8
 HEYZO720P02,https://videomy.yongaomy.com/20191223/msg5JABw/index.m3u8
 HEYZO720P03,https://videony.rhsj520.com/20191027/S6WcgbmV/1500kb/hls/index.m3u8
@@ -2776,7 +2776,7 @@ HEYZO720P48,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1950_full/1500kb/hls/
 HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/index.m3u8
 HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
 
-🇯🇵东热电影_6789,#genre#
+$c_start🇯🇵东京热电影_6789$c_end
 东热720P01,https://videony.rhsj520.com/20191027/WoTBapoK/1500kb/hls/index.m3u8
 东热720P02,https://videony.rhsj520.com/20191027/71zzDSxi/1500kb/hls/index.m3u8
 东热720P03,https://videony.rhsj520.com/20191006/N1396/1500kb/hls/index.m3u8
@@ -2809,7 +2809,7 @@ HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/
 东热720P30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0438/index.m3u8
 东热720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
 
-🇯🇵加勒比电影_6789,#genre#
+$c_start🇯🇵加勒比电影_6789$c_end
 加勒比720P01,https://videony.rhsj520.com/20191299/oSRvuYJA/index.m3u8
 加勒比720P02,https://videony.rhsj520.com/20191112/022512-952/1500kb/hls/index.m3u8
 加勒比720P03,https://videony.rhsj520.com/jlb0707/051709-065/1500kb/hls/index.m3u8
@@ -2861,8 +2861,7 @@ HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/
 加勒比720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 加勒比720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 
-
-🇨🇳国产电影_6789,#genre#
+$c_start🇨🇳国产电影_6789$c_end
 高颜值女神沈樵度剧情我的漂亮后妈,https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
 沈樵首部大尺度古装剧情七旬老农女鬼诱惑,https://ckcdnc1.cdn2020.com/video/m3u8/2020/06/14/df1cd2e3/index.m3u8
 沈樵新作-男神老师让我放学别走,https://v1.ckcdn2001.com/video/m3u8/2020/06/22/5d75e0be/index.m3u8
@@ -2960,7 +2959,7 @@ DYTM008抖音旅行射第8期贵州侗族民族风,https://t11.cdn2020.com:12336
 星空传媒民国旗袍系列2-无双,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5df8a4e6/index.m3u8
 少年阿宾第二季篇章五寒假开始,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8ce1afc0/index.m3u8
 
-🇺🇸外国电影_6789,#genre#
+$c_start🇺🇸外国电影_6789$c_end
 欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
 欧美2,https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
 欧美3,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
@@ -3018,7 +3017,7 @@ FAP TV Teens,http://89.248.160.57/iptv/URFPS4QVV53QPF/6211/index.m3u8
 FAP TV Lesbian,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
 FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8 
 
-🇯🇵彩虹电影_6789,#genre#
+$c_start🇯🇵彩虹电影_6789$c_end
 松视1,http://jiekou.gq/liuwei34/app.php?id=71  
 松视2,http://jiekou.gq/liuwei34/app.php?id=72  
 松视3,http://jiekou.gq/liuwei34/app.php?id=73  
@@ -3110,7 +3109,7 @@ Threesome (18+),http://jiekou.gq/liuwei34/app.php?id=150
 歐美11,http://jiekou.gq/liuwei34/app.php?id=160  
 歐美12,http://jiekou.gq/liuwei34/app.php?id=161  
 
-🇹🇼麻豆一区_6789,#genre#
+$c_start🇹🇼麻豆一区_6789$c_end
 丝袜台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
 黑人台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
 车震台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
@@ -3965,7 +3964,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 新麻豆676,https://zo392.cdnedge.live/file/avple-images/hls/6065c1f85ae4d3277e90d8a7/playlist.m3u8
 新麻豆677,https://w9n76.cdnedge.live/file/avple-images/hls/6065c1f85ae4d3277e90d8a8/playlist.m3u8
 
-🇹🇼麻豆二区_6789,#genre#
+$c_start🇹🇼麻豆二区_6789$c_end
 补新01,https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 补新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
 补新03,https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
@@ -4055,7 +4054,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 补最新麻豆65,https://w9n76.cdnedge.live/file/avple-images/hls/6156624d0936024ada667230/playlist.m3u8
 补最新麻豆66,https://e2fa6.cdnedge.live/file/avple-images/hls/615661d50936024ada66722f/playlist.m3u8
 
-🇹🇼麻豆三区_6789,#genre#
+$c_start🇹🇼麻豆三区_6789$c_end
 最新麻豆01,https://u89ey.cdnedge.live/file/avple-images/hls/615db9866c85aa6afbe1e5fc/playlist.m3u8
 最新麻豆02,https://8bb88.cdnedge.live/file/avple-images/hls/615db90d6c85aa6afbe1e5fb/playlist.m3u8
 最新麻豆03,https://10j99.cdnedge.live/file/avple-images/hls/615db81d6c85aa6afbe1e5f9/playlist.m3u8
@@ -4234,7 +4233,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 新麻豆111,https://zo392.cdnedge.live/file/avple-images/hls/6124674dab291c1c98ec95ed/playlist.m3u8
 新麻豆112,https://8bb88.cdnedge.live/file/avple-images/hls/6123918dab291c1c98ec95ec/playlist.m3u8
 
-🇹🇼麻豆四区_6789,#genre#
+$c_start🇹🇼麻豆四区_6789$c_end
 新麻豆113,https://47b61.cdnedge.live/file/avple-images/hls/61239151ab291c1c98ec95eb/playlist.m3u8
 新麻豆114,https://zo392.cdnedge.live/file/avple-images/hls/612390d9ab291c1c98ec95ea/playlist.m3u8
 新麻豆115,https://10j99.cdnedge.live/file/avple-images/hls/61239061ab291c1c98ec95e9/playlist.m3u8
@@ -4691,7 +4690,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 新麻豆589,https://47b61.cdnedge.live/file/avple-images/hls/6083ee803b4c791bec2312a9/playlist.m3u8
 新麻豆590,https://d862cp.cdnedge.live/file/avple-images/hls/6083e520e00778504ee22c4b/playlist.m3u8
 
-🇹🇼麻豆五区_6789,#genre#
+$c_start🇹🇼麻豆五区_6789$c_end
 老麻豆01,https://video2.51daao.com/btt1/2021/07/20210708/7quARUC4/index.m3u8
 老麻豆02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8
 老麻豆04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8
@@ -5030,7 +5029,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 老麻豆337,https://video2.51daao.com/btt1/2021/04/20210407/TvbgwPO9/index.m3u8
 老麻豆338,https://video2.51daao.com/btt1/2021/04/20210407/eL5eQ699/index.m3u8
 
-🇯🇵精选推荐_6789,#genre#
+$c_start🇯🇵精选推荐_6789$c_end
 Gachinco-gachi885 純子－実録面接72,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi885/index.m3u8
 Gachinco-gachi886  悠里－露出体験27,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi886/index.m3u8
 Gachinco-gachi889 弥生－実録面接73,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi889/index.m3u8
@@ -5131,3 +5130,42 @@ Heyzo-1561 性感按摩快感~滝川エリナの場合 滝川エリナ,http://vi
 Heyzo-1564 让我来看看！ ！ 牧野えり,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1564/index.m3u8
 Heyzo-1567 让我来吧！ 木ノ花あみる,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1567/index.m3u8
 Heyzo-1883 美肌OL – 大貫あずさ,http://videocdn.hndtl.com:8091/20181220/hd_heyzo-1883/index.m3u8
+
+$c_start🇯🇵其他推荐_6789$c_end
+AV01,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0324_full/1500kb/hls/index.m3u8
+AV02,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0323_full/1500kb/hls/index.m3u8
+AV03,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0322_full/1500kb/hls/index.m3u8
+AV04,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0321_full/1500kb/hls/index.m3u8
+AV05,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0320_full/1500kb/hls/index.m3u8
+AV06,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0319_full/1500kb/hls/index.m3u8
+AV07,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0318_full/1500kb/hls/index.m3u8
+AV08,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0317_full/1500kb/hls/index.m3u8
+AV09,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0316_full/1500kb/hls/index.m3u8
+AV10,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0315_full/1500kb/hls/index.m3u8
+AV11,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0314_full/1500kb/hls/index.m3u8
+AV12,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0313_full/1500kb/hls/index.m3u8
+AV13,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0312_full/1500kb/hls/index.m3u8
+AV14,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0311_full/1500kb/hls/index.m3u8
+AV15,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0310_full/1500kb/hls/index.m3u8
+AV16,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0308_full/1500kb/hls/index.m3u8
+AV17,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0307_full/1500kb/hls/index.m3u8
+AV18,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0306_full/1500kb/hls/index.m3u8
+AV19,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0305_full/1500kb/hls/index.m3u8
+AV20,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0304_full/1500kb/hls/index.m3u8
+AV21,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0303_full/1500kb/hls/index.m3u8
+AV22,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0302_full/1500kb/hls/index.m3u8
+AV23,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0301_full/1500kb/hls/index.m3u8
+AV24,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0300_full/1500kb/hls/index.m3u8
+AV25,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0299_full/1500kb/hls/index.m3u8
+AV26,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0298_full/1500kb/hls/index.m3u8
+AV27,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0297_full/1500kb/hls/index.m3u8
+AV28,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0296_full/1500kb/hls/index.m3u8
+AV29,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0295_full/1500kb/hls/index.m3u8
+AV30,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0294_full/1500kb/hls/index.m3u8
+AV31,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0293_full/1500kb/hls/index.m3u8
+AV32,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0292_full/1500kb/hls/index.m3u8
+AV33,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0291_full/1500kb/hls/index.m3u8
+AV34,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0290_full/1500kb/hls/index.m3u8
+AV35,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0289_full/1500kb/hls/index.m3u8
+AV36,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0288_full/1500kb/hls/index.m3u8
+AV37,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0287_full/1500kb/hls/index.m3u8
