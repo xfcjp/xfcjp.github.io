@@ -1,4 +1,4 @@
-央视,#genre#
+🇨🇳央视频道,#genre#
 CCTV1 综合,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv01/.m3u8
 CCTV2 财经,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-2/.m3u8
 CCTV3 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
@@ -19,7 +19,7 @@ CCTV16 奥林匹克,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/
 CCTV16 奥林匹克8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
 
-卫视,#genre#
+🇨🇳卫视频道,#genre#
 湖南卫视FHD,http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
 湖南卫视FHD,http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-hunanstv/.m3u8
 湖南卫视FHD,http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/hdhunanstv/1.m3u8
@@ -68,13 +68,13 @@ CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcc
 广东卫视高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/guangdongstv/.m3u8
 东南卫视FHD,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/pltv-dongnanstv/.m3u8
 
-审美,#genre#
+📀审美,#genre#
 WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-北京,#genre#
+🇨🇳北京,#genre#
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
 北京科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
@@ -93,7 +93,7 @@ WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 北京IPTV淘剧场,http://221.179.136.134:443/PLTV/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐,http://221.179.136.136:443/PLTV/88888888/224/3221226551/1.m3u8
 
-IPV6蜀小果源,#genre#
+📻IPV6蜀小果源,#genre#
 CCTV-1 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV-2 财经,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
 CCTV-3 综艺,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
@@ -146,7 +146,7 @@ CBN-风尚生活,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4
 河南梨园频道,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ly_4000.m3u8
 河南武术世界,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wssj_4000.m3u8
 
-ipv6源,#genre#
+🎦ipv6源,#genre#
 CCTV1 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -210,7 +210,7 @@ CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 信号测试 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-4K,#genre#
+🎦4K,#genre#
 CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 纯享 4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
