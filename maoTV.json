@@ -10,11 +10,11 @@
 "quickSearch": 0,
 "filterable": 1
 },
-{"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
-{"key":"csp_appysv2_星空影视","name":"星空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkys.tv/xgapp.php/v1/"},
-{"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/if101.json"},
   {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/lib.json"},
+{"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
   {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/dadagui.json"},
+  {"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/if101.json"},
+  {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/jubaibai.json"},
 {
 "key": "csp_Auete",
 "name": "Auete(爬虫)",
@@ -34,15 +34,6 @@
 "filterable": 1
 },
 {
-"key": "csp_Nekk",
-"name": "9E看看(爬虫)",
-"type": 3,
-"api": "csp_Nekk",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 1
-},
-{
 "key": "csp_Enlienli",
 "name": "嗯哩嗯哩(爬虫)",
 "type": 3,
@@ -53,7 +44,6 @@
 },
 {"key":"csp_appysv2_天空影视","name":"天空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
 {"key":"csp_appysv2_迪迪影院","name":"迪迪影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
-{"key":"csp_xpath_9EKK","name":"9E看看(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://myfxm.coding.net/p/mao/d/mao/git/raw/master/xpath/lezhutv.json"},
 {
 "key": "csp_xpath_94sm",
