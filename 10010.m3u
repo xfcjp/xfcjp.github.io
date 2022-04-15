@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://iptv.hkanime.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
 https://cdn.hklive.tv/raw/31.ts
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://iptv.hkanime.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
