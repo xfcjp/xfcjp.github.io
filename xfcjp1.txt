@@ -2645,13 +2645,10 @@ JSter極限電影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 京粉9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
 
 $c_start🇯🇵一本电影_6789$c_end
-一本道720P01,https://videony.rhsj520.com/jlb0707/060509-080A/1500kb/hls/index.m3u8
-一本道720P02,https://videony.rhsj520.com/jlb0707/060509-080B/1500kb/hls/index.m3u8
 一本道720P03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
 一本道720P04,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/120915_204-1pon/index.m3u8
 一本道720P05,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_193-1pon/index.m3u8
 一本道720P06,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_004-1pon/index.m3u8
-一本道720P07,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/111915_192-1pon/index.m3u8
 一本道720P08,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/110615_185-1pon/index.m3u8
 一本道720P09,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/092315_158-1pon/index.m3u8
 一本道720P10,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090515_148-1pon/index.m3u8
@@ -2671,7 +2668,6 @@ $c_start🇯🇵一本电影_6789$c_end
 一本道720P24,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110715_186-1pon/index.m3u8
 一本道720P25,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110515_184-1pon/index.m3u8
 一本道720P26,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/103115_181-1pon/index.m3u8
-一本道720P27,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102415_177-1pon/index.m3u8
 一本道720P28,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102215_184-1pon/index.m3u8
 一本道720P29,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_175-1pon/index.m3u8
 一本道720P30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_001-1pon/index.m3u8
@@ -2699,32 +2695,6 @@ $c_start🇯🇵一本电影_6789$c_end
 $c_start🇰🇷韩国电影_6789$c_end
 HEYZO720P01,https://videomy.yongaomy.com/20191223/80S2HH9G/index.m3u8
 HEYZO720P02,https://videomy.yongaomy.com/20191223/msg5JABw/index.m3u8
-HEYZO720P03,https://videony.rhsj520.com/20191027/S6WcgbmV/1500kb/hls/index.m3u8
-HEYZO720P04,https://videony.rhsj520.com/20191027/8ELw1Wy0/1500kb/hls/index.m3u8
-HEYZO720P05,https://videony.rhsj520.com/20191027/ubOPWn3I/1500kb/hls/index.m3u8
-HEYZO720P06,https://videony.rhsj520.com/20191027/nphSTZcj/1500kb/hls/index.m3u8
-HEYZO720P07,https://videony.rhsj520.com/20191027/W9Vk5xuE/1500kb/hls/index.m3u8
-HEYZO720P08,https://videony.rhsj520.com/20191027/FAxaAtUg/1500kb/hls/index.m3u8
-HEYZO720P09,https://videony.rhsj520.com/20191006/HEYZO-0521/1500kb/hls/index.m3u8
-HEYZO720P10,https://videony.rhsj520.com/20191006/HEYZO-0682/1500kb/hls/index.m3u8
-HEYZO720P11,https://videony.rhsj520.com/20191006/HEYZO-0811/1500kb/hls/index.m3u8
-HEYZO720P12,https://videony.rhsj520.com/20191006/HEYZO-0810/1500kb/hls/index.m3u8
-HEYZO720P13,https://videony.rhsj520.com/20191006/HEYZO-107/1500kb/hls/index.m3u8
-HEYZO720P14,https://videony.rhsj520.com/20191006/HEYZO-0917/1500kb/hls/index.m3u8
-HEYZO720P15,https://videony.rhsj520.com/20191006/HEYZO-1002/1500kb/hls/index.m3u8
-HEYZO720P16,https://videony.rhsj520.com/20191006/HEYZO-1048/1500kb/hls/index.m3u8
-HEYZO720P17,https://videony.rhsj520.com/20191006/HEYZO-1008/1500kb/hls/index.m3u8
-HEYZO720P18,https://videony.rhsj520.com/20191006/HEYZO-1045/1500kb/hls/index.m3u8
-HEYZO720P19,https://videony.rhsj520.com/20191006/HEYZO-1166/1500kb/hls/index.m3u8
-HEYZO720P20,https://videony.rhsj520.com/20191006/HEYZO-1130/1500kb/hls/index.m3u8
-HEYZO720P21,https://videony.rhsj520.com/20191006/HEYZO-1167/1500kb/hls/index.m3u8
-HEYZO720P22,https://videony.rhsj520.com/20191006/HEYZO-1471/1500kb/hls/index.m3u8
-HEYZO720P23,https://videony.rhsj520.com/20191006/HEYZO-1759/1500kb/hls/index.m3u8
-HEYZO720P24,https://videony.rhsj520.com/20191006/HEYZO-1897/1500kb/hls/index.m3u8
-HEYZO720P25,https://videony.rhsj520.com/20191006/HEYZO-2037/1500kb/hls/index.m3u8
-HEYZO720P26,https://videony.rhsj520.com/20191006/HEYZO-2062/1500kb/hls/index.m3u8
-HEYZO720P27,https://videony.rhsj520.com/20191006/HEYZO-2044/1500kb/hls/index.m3u8
-HEYZO720P28,https://videony.rhsj520.com/20191006/HEYZO-2074/1500kb/hls/index.m3u8
 HEYZO720P29,https://videocdnbaidu.rhsj520.com/3/NY99/heyzo-0558/1500kb/hls/index.m3u8
 HEYZO720P30,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1958_full/1500kb/hls/index.m3u8
 HEYZO720P31,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1941_full/1500kb/hls/index.m3u8
@@ -2749,23 +2719,18 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
 
 $c_start🇯🇵东京热电影_6789$c_end
-东热720P01,https://videony.rhsj520.com/20191027/WoTBapoK/1500kb/hls/index.m3u8
-东热720P02,https://videony.rhsj520.com/20191027/71zzDSxi/1500kb/hls/index.m3u8
-东热720P03,https://videony.rhsj520.com/20191006/N1396/1500kb/hls/index.m3u8
 东热720P04,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
 东热720P05,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
 东热720P06,https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
 东热720P07,https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
 东热720P08,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/djr/n0817/index.m3u8
 东热720P09,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/3/djr/n0476/index.m3u8
-东热720P10,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0459/index.m3u8/2
 东热720P11,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0458/index.m3u8
 东热720P12,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0457/index.m3u8
 东热720P13,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0456/index.m3u8
 东热720P14,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0455/index.m3u8
 东热720P15,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0453/index.m3u8
 东热720P16,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0451/index.m3u8
-东热720P17,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0451/index.m3u8
 东热720P18,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0450/index.m3u8
 东热720P19,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0449/index.m3u8
 东热720P20,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0448/index.m3u8
@@ -2782,23 +2747,6 @@ $c_start🇯🇵东京热电影_6789$c_end
 东热720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
 
 $c_start🇯🇵加勒比电影_6789$c_end
-加勒比720P01,https://videony.rhsj520.com/20191299/oSRvuYJA/index.m3u8
-加勒比720P02,https://videony.rhsj520.com/20191112/022512-952/1500kb/hls/index.m3u8
-加勒比720P03,https://videony.rhsj520.com/jlb0707/051709-065/1500kb/hls/index.m3u8
-加勒比720P04,https://videony.rhsj520.com/jlb0707/050309-052/1500kb/hls/index.m3u8
-加勒比720P05,https://videony.rhsj520.com/jlb0707/041709-037/1500kb/hls/index.m3u8
-加勒比720P06,https://videony.rhsj520.com/jlb0707/060609-087/1500kb/hls/index.m3u8
-加勒比720P07,https://videony.rhsj520.com/jlb0707/061109_546B/1500kb/hls/index.m3u8
-加勒比720P08,https://videony.rhsj520.com/jlb0707/061109_546A/1500kb/hls/index.m3u8
-加勒比720P09,https://videony.rhsj520.com/jlb0707/061309-081/1500kb/hls/index.m3u8
-加勒比720P10,https://videony.rhsj520.com/jlb0707/071109-112/1500kb/hls/index.m3u8
-加勒比720P11,https://videony.rhsj520.com/jlb0707/081309-139A/1500kb/hls/index.m3u8
-加勒比720P12,https://videony.rhsj520.com/jlb0707/081309-139B/1500kb/hls/index.m3u8
-加勒比720P13,https://videony.rhsj520.com/jlb0707/082909-152/1500kb/hls/index.m3u8
-加勒比720P14,https://videony.rhsj520.com/jlb0707/091809-169/1500kb/hls/index.m3u8
-加勒比720P15,https://videony.rhsj520.com/jlb0707/100309-181/1500kb/hls/index.m3u8
-加勒比720P16,https://videony.rhsj520.com/jlb0707/100909-186/1500kb/hls/index.m3u8
-加勒比720P17,https://videony.rhsj520.com/jlb0707/101609-192/1500kb/hls/index.m3u8
 加勒比720P18,https://video1.rhsj520.com/nyrm3/jlb-112/010711-584/1500kb/hls/index.m3u8
 加勒比720P19,https://video1.rhsj520.com/nyrm3/jlb-112/010811-585/1500kb/hls/index.m3u8
 加勒比720P20,https://video1.rhsj520.com/nyrm3/jlb-112/101110-505/1500kb/hls/index.m3u8
@@ -2823,15 +2771,12 @@ $c_start🇯🇵加勒比电影_6789$c_end
 加勒比720P39,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122514-766/index.m3u8
 加勒比720P40,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122414-765/index.m3u8
 加勒比720P41,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122414-001/index.m3u8
-加勒比720P42,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122314-764/index.m3u8
 加勒比720P43,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122214-763/index.m3u8
 加勒比720P44,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122114-762/index.m3u8
 加勒比720P45,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122014-761/index.m3u8
 加勒比720P46,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121914-760/index.m3u8
 加勒比720P47,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121614-758/index.m3u8
-加勒比720P48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121314-757/index.m3u8
 加勒比720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
-加勒比720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 
 $c_start🇨🇳国产电影_6789$c_end
 高颜值女神沈樵度剧情我的漂亮后妈,https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
