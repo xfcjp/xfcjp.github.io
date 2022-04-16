@@ -93,7 +93,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://mtv123.coding.net/p/m/d/m/git/raw/master/xpath/duboku.json"
+"ext": "https://pastebin.com/raw/h6dMZvne"
 },
 {
 "key": "csp_xpath_dm84",
@@ -113,7 +113,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable": 0,
-"ext":"https://mtv123.coding.net/p/m/d/m/git/raw/master/xpath/pianba.json"
+"ext":"https://pastebin.com/raw/Amk8n2pC"
 },
 {"key":"csp_appysv2_灵狐","name":"灵狐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://x.dmntv.com/api.php/app/"},
 {"key":"csp_appysv2_手指","name":"手指(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
