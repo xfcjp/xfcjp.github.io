@@ -93,6 +93,19 @@ WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 北京IPTV淘剧场,http://221.179.136.134:443/PLTV/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐,http://221.179.136.136:443/PLTV/88888888/224/3221226551/1.m3u8
 
+🇨🇳江苏,#genre#
+江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsws.m3u8
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jscs.m3u8
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360#https://litchiapp-hls.jstv.com/lizhiapp/jszy.m3u8
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsys.m3u8
+江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.m3u8?upt=624fbf672510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsgj.m3u8
+江苏教育,https://live-hls.jstv.com/livezhuzhan/jsjy.m3u8?upt=cb7c273e2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsjy.m3u8
+江苏靓妆,https://live-hls.jstv.com/livezhuzhan/jslz.m3u8?upt=d9ac35c02510710360#https://litchiapp-hls.jstv.com/lizhiapp/jslz.m3u8
+江苏学习,https://live-hls.jstv.com/livezhuzhan/xxpd.m3u8?upt=44cf1c9c2510710360#https://litchiapp-hls.jstv.com/lizhiapp/xxpd.m3u8
+优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=230be0e52510710360#https://litchiapp-hls.jstv.com/lizhiapp/ymkt.m3u8
+江苏公共新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsgg.m3u8
+江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=7f5cca872510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsty.m3u8
+
 📻IPV6蜀小果源,#genre#
 CCTV-1 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV-2 财经,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
@@ -1150,6 +1163,19 @@ $c_start北京$c_end
 北京IPTV淘电影,http://221.179.136.142:443/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV淘剧场,http://221.179.136.134:443/PLTV/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐,http://221.179.136.136:443/PLTV/88888888/224/3221226551/1.m3u8
+
+$c_start🇨🇳江苏$c_end
+江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsws.m3u8
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jscs.m3u8
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360#https://litchiapp-hls.jstv.com/lizhiapp/jszy.m3u8
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsys.m3u8
+江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.m3u8?upt=624fbf672510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsgj.m3u8
+江苏教育,https://live-hls.jstv.com/livezhuzhan/jsjy.m3u8?upt=cb7c273e2510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsjy.m3u8
+江苏靓妆,https://live-hls.jstv.com/livezhuzhan/jslz.m3u8?upt=d9ac35c02510710360#https://litchiapp-hls.jstv.com/lizhiapp/jslz.m3u8
+江苏学习,https://live-hls.jstv.com/livezhuzhan/xxpd.m3u8?upt=44cf1c9c2510710360#https://litchiapp-hls.jstv.com/lizhiapp/xxpd.m3u8
+优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=230be0e52510710360#https://litchiapp-hls.jstv.com/lizhiapp/ymkt.m3u8
+江苏公共新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsgg.m3u8
+江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=7f5cca872510710360#https://litchiapp-hls.jstv.com/lizhiapp/jsty.m3u8
 
 $c_startipv6源$c_end
 CCTV1 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
