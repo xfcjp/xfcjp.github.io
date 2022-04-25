@@ -18,6 +18,20 @@ CCTV15 音乐,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd
 CCTV16 奥林匹克,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV16 奥林匹克8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
+CCTV-第一剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV-风云剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV-怀旧剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV-风云音乐高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV-兵器科技高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV-风云足球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV-高尔夫·网球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV-女性时尚高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV-央视文化精品高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV-电视指南高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV-卫生健康高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CGTN-英语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 
 🇨🇳卫视频道,#genre#
 湖南卫视FHD,http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
@@ -1088,6 +1102,20 @@ CCTV15 音乐,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd
 CCTV16 奥林匹克,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV16 奥林匹克8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
+CCTV-第一剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV-风云剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV-怀旧剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV-风云音乐高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV-兵器科技高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV-风云足球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV-高尔夫·网球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV-女性时尚高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV-央视文化精品高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV-电视指南高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV-卫生健康高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CGTN-英语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 
 $c_start卫视$c_end
 湖南卫视FHD,http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
