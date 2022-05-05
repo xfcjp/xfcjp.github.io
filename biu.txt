@@ -18,7 +18,7 @@ CCTV-15 音乐,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-15-
 CCTV-16 奥林匹克,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-16_4000.m3u8
 CCTV-16 奥林匹克 4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 CCTV-17 农业农村,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
-CCTV-4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+##
 
 ##📻卫视高清##
 北京卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
@@ -52,13 +52,15 @@ CBN-风尚生活,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4
 欢笑剧场 4K超高清,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
 河南梨园频道,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ly_4000.m3u8
 河南武术世界,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wssj_4000.m3u8
+##
 
 ##📻4K##
-CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 纯享 4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+##
 
 ##cn北京##
 北京影视,http://221.179.136.152:443/PLTV/88888888/224/3221226486/1.m3u8#http://221.179.136.150:443/PLTV/88888888/224/3221226486/1.m3u8
@@ -66,6 +68,7 @@ LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 北京IPTV萌宠TV,http://221.179.136.152:443/PLTV/88888888/224/3221226555/1.m3u8
 北京IPTV大健康,http://221.179.136.140:443/PLTV/88888888/224/3221226556/1.m3u8
 北京IPTV淘baby,http://221.179.136.146:443/PLTV/88888888/224/3221226554/1.m3u8
+##
 北京IPTV淘电影,http://221.179.136.142:443/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV淘剧场,http://221.179.136.134:443/PLTV/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐,http://221.179.136.136:443/PLTV/88888888/224/3221226551/1.m3u8
