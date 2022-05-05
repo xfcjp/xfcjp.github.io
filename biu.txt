@@ -20,7 +20,6 @@ CCTV-17,http://117.148.179.157/PLTV/88888888/224/3221231772/index.m3u8
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-8K,http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
 ##
-
 ##央视高清##
 CCTV-1 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV-2 财经,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
@@ -42,7 +41,6 @@ CCTV-16 奥林匹克,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CC
 CCTV-16 奥林匹克 4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 CCTV-17 农业农村,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
 ##
-
 ##📻卫视高清##
 北京卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
 冬奥纪实 4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dajs-4k_8000.m3u8
@@ -76,7 +74,6 @@ CBN-风尚生活,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4
 河南梨园频道,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ly_4000.m3u8
 河南武术世界,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wssj_4000.m3u8
 ##
-
 ##📻4K##
 CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 纯享 4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
@@ -84,7 +81,6 @@ CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://[2409:8c02:21c:60::2
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 ##
-
 ##北京##
 北京影视,http://221.179.136.152:443/PLTV/88888888/224/3221226486/1.m3u8#http://221.179.136.150:443/PLTV/88888888/224/3221226486/1.m3u8
 北京IPTV4K超清,http://221.179.136.148:443/PLTV/88888888/224/3221226550/1.m3u8
@@ -95,9 +91,9 @@ LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 北京IPTV淘剧场,http://221.179.136.134:443/PLTV/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐,http://221.179.136.136:443/PLTV/88888888/224/3221226551/1.m3u8
 ##
-
 ##📀审美##
 WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+##
