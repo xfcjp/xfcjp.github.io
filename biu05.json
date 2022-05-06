@@ -60,7 +60,6 @@
 {"name":"WSC","url":"https://vip.wscyun.com/api.php/v1.vod"},
 {"name":"开尔影院","url":"https://appx.uy07.com/api.php/v1.vod"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}
-],
 "caijizhan": [
 {"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
 {"name":"推荐采集","url":"http://101.34.7.151:600/api.php"},
