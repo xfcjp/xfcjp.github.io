@@ -563,143 +563,56 @@ IHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 成人,#genre#
-彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
-LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61
-潘多拉1,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8
-松视1台,mitv://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
-松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv#mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
-松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
-香蕉台,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa
-HOT,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
-松视3台,mitv://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
-JStar极限台,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
-HAPPY,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
-彩虹电影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
-彩虹E台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-松视1台,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
-松视2台,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-惊艳台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-极限电影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
-潘多拉完美,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
-swag01,https://vd8.zhiyuanhongda.com/20210306/1wPbkuFU/index.m3u8 
-swag02,https://vd8.zhiyuanhongda.com/20210306/zkc1mZC4/index.m3u8 
-swag03,https://vd8.zhiyuanhongda.com/20210306/zkc1mZC4/index.m3u8 
-swag04,https://vd8.zhiyuanhongda.com/20210306/KDOnr38u/index.m3u8 
-swag05,https://vd8.zhiyuanhongda.com/20210306/KDOnr38u/index.m3u8 
-swag06,https://vd8.zhiyuanhongda.com/20210306/LSAAqJMJ/index.m3u8 
-swag07,https://vd8.zhiyuanhongda.com/20210306/goCcPWDf/index.m3u8 
-swag08,https://vd8.zhiyuanhongda.com/20210306/cqsvegDL/index.m3u8 
-swag09,https://vd8.zhiyuanhongda.com/20210306/B8ZPyEgw/index.m3u8 
-swag10,https://vd8.zhiyuanhongda.com/20210306/QtzOuAq2/index.m3u8 
-swag11,https://vd8.zhiyuanhongda.com/20210306/wVCrGUMC/index.m3u8 
-swag12,https://vd8.zhiyuanhongda.com/20210306/2fUsLUOf/index.m3u8 
-swag13,https://vd8.zhiyuanhongda.com/20210306/tm4Q3I71/index.m3u8 
-swag14,https://vd8.zhiyuanhongda.com/20210306/jE7mjKgb/index.m3u8 
-swag15,https://vd8.zhiyuanhongda.com/20210306/U8SvE5ow/index.m3u8 
-swag16,https://vd8.zhiyuanhongda.com/20210306/pKrI7OB9/index.m3u8
-松視➊臺備,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
-松視➊臺備,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
-松視➊臺備,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
-松視➋臺備,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-松視➋臺備,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松視➋臺備,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-潘多拉玩美台Perfect,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-彩虹電影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
-彩虹e台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹e台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-香蕉台Banana,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
-香蕉台Banana,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1 
-驚艷台AmazingTV,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-驚艷台AmazingTV,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-驚艷台AmazingTV,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
-JSter極限電影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
-JSter極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
-JSter極限電影,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
-松视1,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
-松视2,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-彩虹电影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
-彩虹E,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-惊艳台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-极限电影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
-潘多拉完美,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
-松视1,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
-松视2,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
-彩虹电影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-彩虹E,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
-惊艳台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
-潘多拉完美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-极限电影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-HOT,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
-花花公子,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6242/index.m3u8
-菊花台,http://185.183.34.118/iptv/F59KKDMP2GN7ZB/147/index.m3u8
-
-彩虹e台,mitv://ns2.hellotvvod.com:9906/79481e1abd5d48158332202f82860017
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/d084628d80f7442c8ee870b0304d7c3a
-LOOK TV,mitv://ns2.hellotvvod.com:9906/5d844c8449f0455ca5f1547c92a29e58
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/f428caddfa7746fc8b02a77354f2152d
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/11d4dde9ab47402e9f0ffd1c11485d72
-松视1台,mitv://ns2.hellotvvod.com:9906/5e80990c1696400d8b90da802fa4ee8f
-欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-欧美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-欧美4,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-欧美5,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-欧美6,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-欧美7,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-欧美8,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-欧美9,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-欧美10,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-欧美11,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-欧美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
-天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
-天美传媒27,https://video2.51daao.com/btt1/2021/01/20210131/BQY1vCJ4/index.m3u8
-天美传媒26,https://video2.51daao.com/btt1/2021/01/20210131/zDEwqelh/index.m3u8
-天美传媒25,https://video2.51daao.com/btt1/2021/01/20210131/eKSd5QE7/index.m3u8
-天美传媒23,https://video2.51daao.com/btt1/2021/01/20210131/e4CQTt8H/index.m3u8
-天美传媒22,https://video2.51daao.com/btt1/2021/01/20210131/x184r1n4/index.m3u8
-天美传媒21,https://video2.51daao.com/btt1/2021/02/20210201/nDsIoul4/index.m3u8
-天美传媒20,https://video2.51daao.com/btt1/2021/02/20210201/2y1YjwEL/index.m3u8
-天美传媒19,https://video2.51daao.com/btt1/2021/02/20210201/ozNmkdR3/index.m3u8
-天美传媒18,https://video2.51daao.com/btt1/2021/02/20210201/YcHjiZ7t/index.m3u8
-天美传媒17,https://video2.51daao.com/btt1/2021/02/20210201/mzt2nJRT/index.m3u8
-天美传媒16,https://video2.51daao.com/btt1/2021/02/20210201/A0yxpEqY/index.m3u8
-天美传媒15,https://video2.51daao.com/btt1/2021/02/20210201/Xx9Zbgkd/index.m3u8
-天美传媒14,https://video2.51daao.com/btt1/2021/02/20210201/LHJiAJ2L/index.m3u8
-天美传媒13,https://video2.51daao.com/btt1/2021/02/20210201/T6uGyIgj/index.m3u8
-天美传媒12,https://video2.51daao.com/btt1/2021/02/20210201/jLKNXthe/index.m3u8
-天美传媒11,https://video2.51daao.com/btt1/2021/02/20210202/mEMG07WV/index.m3u8
-天美传媒10,https://video2.51daao.com/btt1/2021/02/20210202/QmSmqiRr/index.m3u8
-天美传媒09,https://video2.51daao.com/btt1/2021/02/20210202/XBtcPy7V/index.m3u8
-天美传媒08,https://video2.51daao.com/btt1/2021/02/20210202/lwHctu4K/index.m3u8
-天美传媒07,https://video2.51daao.com/btt1/2021/02/20210202/9ZAJXaA9/index.m3u8
-天美传媒06,https://video2.51daao.com/btt1/2021/02/20210202/26nESk76/index.m3u8
-天美传媒05,https://video2.51daao.com/btt1/2021/02/20210202/AL7rZJm1/index.m3u8
-天美传媒04,https://video2.51daao.com/btt1/2021/02/20210210/GelcPLQ0/index.m3u8
-天美传媒03,https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
-天美传媒02,https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
-樂活,P2p://fccs.ggboxtv.tw:9806/6069480a00012bea15e14c4b5a8a79f5.ts
-HIPLAY,P2p://fccs.ggboxtv.tw:9806/606947ae0006005b15dfe627af5a3968.ts
-LOOK-HD,tvbus://4BVfcfk8gM5f5gcfbNncYCpQKfZh7QjPKpARxXZKtskU8dXg3o
-香草天道,P2p://fccs.ggboxtv.tw:9806/604ad659000311780038c940119c842a.ts
-HAPPY,P2p://fccs.ggboxtv.tw:9806/6069464e000590c215da870b87301a7e.ts
-驚艷台,P2p://fccs.ggboxtv.tw:9806/606945750001667515d73652e172393c.ts
-潘朵拉完美台,P2p://fccs.ggboxtv.tw:8906/606945140007c49115d5bd0bd6181917.ts
-潘朵拉粉红台,P2p://fccs.ggboxtv.tw:9806/60694470000ba8da15d33d6a30403d05.ts
-HOT,P2p://fccs.ggboxtv.tw:9806/606945cf000dd57c15d8991121145d16.ts
-松視1台,P2p://fccs.ggboxtv.tw:9806/60694312000ca14f15cde67abcbaadc0.ts
-松視2台,P2p://fccs.ggboxtv.tw:9806/606943840001b56215cfa0fe5764c8dc.ts
-松視3台,P2p://fccs.ggboxtv.tw:9806/606943ef00074b4415d14464874a7f4a.ts
-香蕉台,P2p://fccs.ggboxtv.tw:9806/606946c800011e4e15dc6277aee5ff0b.ts
+潘多拉完美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
+極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d 
+驚艷台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1 
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce 
+LOOK HD,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd 
+HOT[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/469.ts
+彩虹E台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e 
+彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+Cunnilingus,p8p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
+Blonde,p8p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e Solo 
+girl,p8p://crfccs.kingh888.com:16666/60ab7092000628430f7f721440747700 
+Couples,p8p://crfccs.kingh888.com:16666/60ab70820006339d0f7f3396eb1d08dd 
+Big Butt,p8p://crfccs.kingh888.com:16666/60ab7074000469010f7efc7173919dd8 
+Creampie,p8p://crfccs.kingh888.com:16666/60ab7064000574aa0f7ebe36edd56f5d 
+Interracial,p8p://crfccs.kingh888.com:16666/60ab7047000494df0f7e4cb4bbaee6ba 
+Masturbation,p8p://crfccs.kingh888.com:16666/60ab7034000aaf730f7e040c1a43198e 
+BBW,p8p://crfccs.kingh888.com:16666/60ab7022000573560f7dbc65c7a7c516 
+Young/Old,p8p://crfccs.kingh888.com:16666/60ab70110002dad70f7d795342d4455b 
+Public,p8p://crfccs.kingh888.com:16666/60ab6ffb000a2d7f0f7d254314764200 
+Orgy,p8p://crfccs.kingh888.com:16666/60ab6fec00082ce30f7cea283a526c13 
+German,p8p://crfccs.kingh888.com:16666/60ab6fda0007e3e20f7ca3c5f3e96f00 
+Shemale,p8p://crfccs.kingh888.com:16666/60ab6fc800082d9b0f7c5d88192b05b6 
+Amateur,p8p://crfccs.kingh888.com:16666/60ab6fb6000b8a650f7c1814ba6d0807 
+Big Tits,p8p://crfccs.kingh888.com:16666/60ab6fa60009ec320f7bd92abf911f6f 
+Threesome,p8p://crfccs.kingh888.com:16666/60ab6f950004e0220f7b9578b29fcb6e 
+Teen,p8p://crfccs.kingh888.com:16666/60ab6f77000386550f7b1fef3ff04705 
+Strip,p8p://crfccs.kingh888.com:16666/60ab6f630008847b0f7ad31644e78979 
+Milf,p8p://crfccs.kingh888.com:16666/60ab6f5300037e900f7a934df938ee61 
+Mature,p8p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416 
+Latina,p8p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1 
+HD,p8p://crfccs.kingh888.com:16666/60ab6efa000787ad0f7938ae568e03ff 
+Hardcore,p8p://crfccs.kingh888.com:16666/60ab6eea000b90780f78fb362da5bde6 
+Fetish,p8p://crfccs.kingh888.com:16666/60ab6ed70002dde40f78aec43aa651ca 
+Erotic,p8p://crfccs.kingh888.com:16666/60ab6ec40007e3700f7865d5af2800d9 
+Ebony,p8p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc 
+Blowjob,p8p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07 
+Asian,p8p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b A
+nal,p8p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd 
+HOTH,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+红松[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/467.ts
+红松2[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/468.ts
+D槽素人[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/470.ts
+一本道[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/471.ts
+加勒比全球[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/472.ts
+NYX MEDIA[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/473.ts
+NYX MEDIA2[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/474.ts
+NYX MEDIA3[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/475.ts
+NYX MEDIA4[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/476.ts
 
 网红女主播“沈樵”,#genre#
 美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
@@ -1496,6 +1409,58 @@ $c_start湖北$c_end
 襄阳公共,http://player.ioioz.com/1691/hubei/xiangyangm3u8.php?id=xiangyanggg
 
 $c_start成人$c_end
+潘多拉完美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
+極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d 
+驚艷台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1 
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce 
+LOOK HD,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd 
+HOT[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/469.ts
+彩虹E台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e 
+彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+Cunnilingus,p8p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
+Blonde,p8p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e Solo 
+girl,p8p://crfccs.kingh888.com:16666/60ab7092000628430f7f721440747700 
+Couples,p8p://crfccs.kingh888.com:16666/60ab70820006339d0f7f3396eb1d08dd 
+Big Butt,p8p://crfccs.kingh888.com:16666/60ab7074000469010f7efc7173919dd8 
+Creampie,p8p://crfccs.kingh888.com:16666/60ab7064000574aa0f7ebe36edd56f5d 
+Interracial,p8p://crfccs.kingh888.com:16666/60ab7047000494df0f7e4cb4bbaee6ba 
+Masturbation,p8p://crfccs.kingh888.com:16666/60ab7034000aaf730f7e040c1a43198e 
+BBW,p8p://crfccs.kingh888.com:16666/60ab7022000573560f7dbc65c7a7c516 
+Young/Old,p8p://crfccs.kingh888.com:16666/60ab70110002dad70f7d795342d4455b 
+Public,p8p://crfccs.kingh888.com:16666/60ab6ffb000a2d7f0f7d254314764200 
+Orgy,p8p://crfccs.kingh888.com:16666/60ab6fec00082ce30f7cea283a526c13 
+German,p8p://crfccs.kingh888.com:16666/60ab6fda0007e3e20f7ca3c5f3e96f00 
+Shemale,p8p://crfccs.kingh888.com:16666/60ab6fc800082d9b0f7c5d88192b05b6 
+Amateur,p8p://crfccs.kingh888.com:16666/60ab6fb6000b8a650f7c1814ba6d0807 
+Big Tits,p8p://crfccs.kingh888.com:16666/60ab6fa60009ec320f7bd92abf911f6f 
+Threesome,p8p://crfccs.kingh888.com:16666/60ab6f950004e0220f7b9578b29fcb6e 
+Teen,p8p://crfccs.kingh888.com:16666/60ab6f77000386550f7b1fef3ff04705 
+Strip,p8p://crfccs.kingh888.com:16666/60ab6f630008847b0f7ad31644e78979 
+Milf,p8p://crfccs.kingh888.com:16666/60ab6f5300037e900f7a934df938ee61 
+Mature,p8p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416 
+Latina,p8p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1 
+HD,p8p://crfccs.kingh888.com:16666/60ab6efa000787ad0f7938ae568e03ff 
+Hardcore,p8p://crfccs.kingh888.com:16666/60ab6eea000b90780f78fb362da5bde6 
+Fetish,p8p://crfccs.kingh888.com:16666/60ab6ed70002dde40f78aec43aa651ca 
+Erotic,p8p://crfccs.kingh888.com:16666/60ab6ec40007e3700f7865d5af2800d9 
+Ebony,p8p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc 
+Blowjob,p8p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07 
+Asian,p8p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b A
+nal,p8p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd 
+HOTH,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+红松[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/467.ts
+红松2[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/468.ts
+D槽素人[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/470.ts
+一本道[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/471.ts
+加勒比全球[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/472.ts
+NYX MEDIA[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/473.ts
+NYX MEDIA2[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/474.ts
+NYX MEDIA3[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/475.ts
+NYX MEDIA4[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/476.ts
+
+
 彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
