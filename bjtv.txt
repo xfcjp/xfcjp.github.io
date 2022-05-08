@@ -639,6 +639,43 @@ NYX MEDIA2[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/474.ts
 NYX MEDIA3[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/475.ts
 NYX MEDIA4[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/476.ts
 
+A3Bikini (720p),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+AdultIPTV.net Anal (720p),http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Asian (720p),http://cdn.adultiptv.net/asian.m3u8
+AdultIPTV.net Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Big Dick (720p),http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits (720p),http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Blonde (720p),http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Blowjob (720p),http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Brunette (720p),http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Compilation (720p),http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Cuckold (720p),http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Fetish (720p),http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Gangbang (720p),http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Gay (720p),http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Hardcore (720p),http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Interracial (720p),http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina (720p),http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net Lesbian (720p),http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Live Cams (720p),http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF (720p),http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Pornstar (720p),http://cdn.adultiptv.net/pornstar.m3u8
+AdultIPTV.net POV (720p),http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Rough (720p),http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Russian (720p),http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Teen (720p),http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Woman (720p),http://live.redtraffic.net/woman.m3u8
+AST TV 1 (PC) (1080p) [Not 24/7],https://www.ast.tv/stream/1/master.m3u8
+AST TV 2 (PC) (1080p) [Not 24/7],https://www.ast.tv/stream/2/master.m3u8
+Fashion TV Midnite Secrets (1080p),https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+Jasmin TV (720p),http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
+Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+Miami TV México (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+O-la-la (576p) [Not 24/7],http://194.9.27.164:8103/play/O_la_la/index.m3u8
+Visit-X TV (720p) [Not 24/7],https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+
 网红女主播“沈樵”,#genre#
 美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
 动车偶遇男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
@@ -1485,6 +1522,42 @@ NYX MEDIA2[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/474.ts
 NYX MEDIA3[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/475.ts
 NYX MEDIA4[1280*720],http://api.crtv.store:80/live/hstv2022/hstv2022/476.ts
 
+A3Bikini (720p),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+AdultIPTV.net Anal (720p),http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Asian (720p),http://cdn.adultiptv.net/asian.m3u8
+AdultIPTV.net Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Big Dick (720p),http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits (720p),http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Blonde (720p),http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Blowjob (720p),http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Brunette (720p),http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Compilation (720p),http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Cuckold (720p),http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Fetish (720p),http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Gangbang (720p),http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Gay (720p),http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Hardcore (720p),http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Interracial (720p),http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina (720p),http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net Lesbian (720p),http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Live Cams (720p),http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF (720p),http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Pornstar (720p),http://cdn.adultiptv.net/pornstar.m3u8
+AdultIPTV.net POV (720p),http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Rough (720p),http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Russian (720p),http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Teen (720p),http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Woman (720p),http://live.redtraffic.net/woman.m3u8
+AST TV 1 (PC) (1080p) [Not 24/7],https://www.ast.tv/stream/1/master.m3u8
+AST TV 2 (PC) (1080p) [Not 24/7],https://www.ast.tv/stream/2/master.m3u8
+Fashion TV Midnite Secrets (1080p),https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+Jasmin TV (720p),http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
+Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+Miami TV México (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+O-la-la (576p) [Not 24/7],http://194.9.27.164:8103/play/O_la_la/index.m3u8
+Visit-X TV (720p) [Not 24/7],https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
 彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
