@@ -524,7 +524,6 @@ IHOT爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 IHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 
 🇹🇼台湾彩虹_123456,#genre#
-🇹🇼台湾彩虹_123456,#genre#
 彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 彩虹台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
 香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts 
