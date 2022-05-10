@@ -588,6 +588,21 @@ IHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 成人,#genre#
+彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/6a4958e7000e4e0db866b28a0790f477.ts
+松視1台,mitv://ns2.hellotvvod.com:9906/5525509395864b4697e17d784c856aac.ts
+松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
+潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
+HOT,mitv://ns2.hellotvvod.com:9906/82d829e45ddb4433ae62280e78e84f64.ts
+松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
+JStar極限台,mitv://ns2.hellotvvod.com:9906/9279f96ca28d4a47b1926bef15c0a082.ts
+HAPPY,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
+
 潘多拉完美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
 極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d 
 驚艷台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
@@ -1471,6 +1486,21 @@ $c_start湖北$c_end
 襄阳公共,http://player.ioioz.com/1691/hubei/xiangyangm3u8.php?id=xiangyanggg
 
 $c_start成人$c_end
+彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/6a4958e7000e4e0db866b28a0790f477.ts
+松視1台,mitv://ns2.hellotvvod.com:9906/5525509395864b4697e17d784c856aac.ts
+松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
+潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
+HOT,mitv://ns2.hellotvvod.com:9906/82d829e45ddb4433ae62280e78e84f64.ts
+松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
+JStar極限台,mitv://ns2.hellotvvod.com:9906/9279f96ca28d4a47b1926bef15c0a082.ts
+HAPPY,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
+
 潘多拉完美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
 極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d 
 驚艷台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
