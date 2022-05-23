@@ -2,34 +2,34 @@
 {
 "sites": [
 {
-      "key": "csp_appys_555电影",
-      "name": "555电影(M)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "555电影"
-    },
-    {
-      "key": "*玖玖资源",
-      "name": "*玖玖资源",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
-    },
-    {
-      "key": "*老鸭福利",
-      "name": "*老鸭福利",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "*天堂福利",
-      "name": "*天堂福利",
-      "type": 0,
-      "api": "https://bttcj.com/inc/sapi.php"
-    },
-    {
+"key": "csp_appys_555电影",
+"name": "555电影(M)",
+"type": 3,
+"api": "csp_AppYs",
+"searchable": 1,
+"quickSearch": 0,
+"filterable": 1,
+ "ext": "555电影"
+},
+ {
+"key": "*玖玖资源",
+"name": "*玖玖资源",
+"type": 0,
+ "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
+},
+{
+ "key": "*老鸭福利",
+ "name": "*老鸭福利",
+ "type": 0,
+"api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
+},
+{
+"key": "*天堂福利",
+ "name": "*天堂福利",
+ "type": 0,
+ "api": "https://bttcj.com/inc/sapi.php"
+},
+{
       "key": "*探探资源",
       "name": "*探探资源",
       "type": 0,
