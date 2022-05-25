@@ -253,6 +253,8 @@ CCTV12 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 CCTV13 3M1080,http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8#http://39.135.46.111:6610/PLTV/77777777/224/3221225787/index.m3u8?#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil#http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 CCTV14 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CNC新华社-中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8#http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
+CNC新华社-英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://[2409:8087:3800:20:1000::80b]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
 北京卫视 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视 12M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1330,6 +1332,8 @@ CCTV12 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 CCTV13 3M1080,http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8#http://39.135.46.111:6610/PLTV/77777777/224/3221225787/index.m3u8?#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil#http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 CCTV14 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CNC新华社-中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8#http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
+CNC新华社-英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://[2409:8087:3800:20:1000::80b]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
 北京卫视 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视 12M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
