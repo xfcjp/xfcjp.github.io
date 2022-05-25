@@ -85,6 +85,7 @@ CGTN-英语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 📀审美,#genre#
 欧洲环游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
 WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+梨园,http://39.136.48.2:8089/PLTV/88888888/224/3221226354/index.m3u8
 世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -1218,6 +1219,7 @@ $c_start卫视$c_end
 $c_start审美$c_end
 欧洲环游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
 WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+梨园,http://39.136.48.2:8089/PLTV/88888888/224/3221226354/index.m3u8
 世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
