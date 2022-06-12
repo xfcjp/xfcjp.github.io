@@ -91,6 +91,10 @@ redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 AJE,https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+CTPAHA FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Crown MTV，https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+MTV YO!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 📻IPV6蜀小果源,#genre#
 CCTV-1 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
@@ -1227,6 +1231,10 @@ redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚UA,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8#http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 AJE,https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+CTPAHA FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Crown MTV，https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+MTV YO!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 $c_start北京$c_end
 北京卫视HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
