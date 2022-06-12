@@ -93,7 +93,7 @@ redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 AJE,https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 CTPAHA FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
 Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-Crown MTV，https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+Crown MTV,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 MTV YO!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 📻IPV6蜀小果源,#genre#
@@ -1233,7 +1233,7 @@ redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 AJE,https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 CTPAHA FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
 Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-Crown MTV，https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+Crown MTV,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 MTV YO!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 $c_start北京$c_end
