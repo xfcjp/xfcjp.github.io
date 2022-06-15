@@ -96,12 +96,15 @@ Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Crown MTV,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 MTV YO!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 TLC HD,https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+Rauge TV,rtmp://rougetv.vedge.infomaniak.com:1935/livecast/rougetv
 Asian FOOD NETWORK HD,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 NATIONAL GEOGRAPHIC HD,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 NATIONAL GEOGRAPHIC WILD HD,https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+BBC综合,http://93.152.174.144:4000/play/bbc1/index.m3u8
+BBC环球,http://93.152.174.144:4000/play/bbc2/index.m3u8
+BBC Earth（Vietnamese dub）HD,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 BBC cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 美女影像4k,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46329e01-6c6a-417f-88e5-b2f0600bdbe6/2.m3u8
-Rauge TV,rtmp://rougetv.vedge.infomaniak.com:1935/livecast/rougetv
 
 📻IPV6蜀小果源,#genre#
 CCTV-1 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
@@ -1243,12 +1246,15 @@ Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Crown MTV,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 MTV YO!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 TLC HD,https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+Rauge TV,rtmp://rougetv.vedge.infomaniak.com:1935/livecast/rougetv
 Asian FOOD NETWORK HD,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 NATIONAL GEOGRAPHIC HD,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 NATIONAL GEOGRAPHIC WILD HD,https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+BBC综合,http://93.152.174.144:4000/play/bbc1/index.m3u8
+BBC环球,http://93.152.174.144:4000/play/bbc2/index.m3u8
+BBC Earth（Vietnamese dub）HD,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 BBC cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 美女影像4k,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46329e01-6c6a-417f-88e5-b2f0600bdbe6/2.m3u8
-Rauge TV,rtmp://rougetv.vedge.infomaniak.com:1935/livecast/rougetv
 
 $c_start北京$c_end
 北京卫视HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
