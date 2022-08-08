@@ -188,6 +188,8 @@ IPTV大健康,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3
 湖南电影,http://124.232.231.246:8088/000000001001/201600020005/index.m3u8?
 湖南娱乐,http://124.232.231.246:8088/000000001001/201600020004/index.m3u8?#http://223.151.51.27:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://124.232.231.246:8088/000000001001/201600020006/index.m3u8?
+金鹰纪实,http://183.196.25.171:808/hls/87/index.m3u8
+纪实人文,http://183.196.25.171:808/hls/62/index.m3u8
 湘潭新闻,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8
 怀化公共,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8
@@ -1627,6 +1629,8 @@ $c_start湖南$c_end
 湖南电影,http://124.232.231.246:8088/000000001001/201600020005/index.m3u8?
 湖南娱乐,http://124.232.231.246:8088/000000001001/201600020004/index.m3u8?#http://223.151.51.27:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://124.232.231.246:8088/000000001001/201600020006/index.m3u8?
+金鹰纪实,http://183.196.25.171:808/hls/87/index.m3u8
+纪实人文,http://183.196.25.171:808/hls/62/index.m3u8
 湘潭新闻,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8
 怀化公共,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8
