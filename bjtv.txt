@@ -763,6 +763,10 @@ IHOT,#genre#
 
 
 🇹🇼台湾彩虹_123456,#genre#
+Mycamtv,http://cdn.adultiptv.net/livecams.m3u8
+一本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+LEG成人,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+
 彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 彩虹台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
 香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts 
@@ -1919,6 +1923,10 @@ $c_start卫视高清$c_end
 东南卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
 
 $c_start成人$c_end
+Mycamtv,http://cdn.adultiptv.net/livecams.m3u8
+一本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+LEG成人,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+
 彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
 彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
 LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
