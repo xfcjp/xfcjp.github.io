@@ -1,16 +1,4 @@
 🇨🇳央视频道,#genre#
-CCTV-1高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
-CCTV-2高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
-CCTV-3高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
-CCTV-4高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
-CCTV-5高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8
-CCTV-6高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
-CCTV-7高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-7-HD-265-8M/G_CCTV-7-HD-265-8M.m3u8
-CCTV-8高清 http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-8-HD-265-8M/G_CCTV-8-HD-265-8M.m3u8
-CCTV-9高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8
-CCTV-10高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-10-HD-265-8M/G_CCTV-10-HD-265-8M.m3u8
-CCTV-12高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-12-HD-265-8M/G_CCTV-12-HD-265-8M.m3u8
-CCTV-13高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
 CCTV1 综合,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv01/.m3u8
 CCTV2 财经,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-2/.m3u8
 CCTV3 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
@@ -1509,18 +1497,6 @@ CHC 家庭影院 [1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231799
 BesTV 超级体育 [1920*1080],http://39.134.39.37/PLTV/88888888/224/3221226132/index.m3u8
 
 $c_start央视$c_end
-CCTV-1高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
-CCTV-2高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
-CCTV-3高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
-CCTV-4高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
-CCTV-5高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8
-CCTV-6高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
-CCTV-7高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-7-HD-265-8M/G_CCTV-7-HD-265-8M.m3u8
-CCTV-8高清 http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-8-HD-265-8M/G_CCTV-8-HD-265-8M.m3u8
-CCTV-9高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8
-CCTV-10高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-10-HD-265-8M/G_CCTV-10-HD-265-8M.m3u8
-CCTV-12高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-12-HD-265-8M/G_CCTV-12-HD-265-8M.m3u8
-CCTV-13高清 HEVC,http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
 CCTV1 综合,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv01/.m3u8
 CCTV2 财经,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-2/.m3u8
 CCTV3 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
