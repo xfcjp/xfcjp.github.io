@@ -175,7 +175,7 @@ CBN-风尚生活,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4
 卡酷少儿HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 IPTV4K超清,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 IPTV淘娱乐,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-IPTV淘电影,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8?icpid=88888888&from=1&hms_devid=460#http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 IPTV淘剧场,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 IPTV萌宠TV,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
@@ -1622,7 +1622,7 @@ $c_start北京$c_end
 卡酷少儿HD,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 IPTV4K超清,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 IPTV淘娱乐,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-IPTV淘电影,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8?icpid=88888888&from=1&hms_devid=460#http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 IPTV淘剧场,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 IPTV淘BABY,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 IPTV萌宠TV,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
