@@ -86,6 +86,8 @@ CGTN-英语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 欧洲环游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
 WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+武术世界[1920*1080],http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+梨园频道[1920*1080],http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 梨园,http://39.136.48.2:8089/PLTV/88888888/224/3221226354/index.m3u8
 世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -1584,6 +1586,8 @@ $c_start审美$c_end
 欧洲环游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
 WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+武术世界[1920*1080],http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+梨园频道[1920*1080],http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 梨园,http://39.136.48.2:8089/PLTV/88888888/224/3221226354/index.m3u8
 世界时尚,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8#https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
