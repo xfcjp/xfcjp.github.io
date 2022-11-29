@@ -110,56 +110,6 @@ BBC cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000
 
 📻IPV6蜀小果源,#genre#
 CCTV-1 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
-CCTV-2 财经,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
-CCTV-3 综艺,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
-CCTV-4 中文国,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
-CCTV-5 体育,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-CCTV-5⁺ 体育赛事,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-CCTV-6 电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
-CCTV-7 国防军事,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
-CCTV-8 电视剧,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
-CCTV-9 纪录,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
-CCTV-10 科教,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
-CCTV-11 戏曲,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
-CCTV-12 社会与法,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
-CCTV-13 新闻,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
-CCTV-14 少儿,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
-CCTV-15 音乐,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
-CCTV-16 奥林匹克,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-16_4000.m3u8
-CCTV-16 奥林匹克 4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
-CCTV-17 农业农村,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
-CCTV-4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
-北京卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
-冬奥纪实 4K,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dajs-4k_8000.m3u8
-湖北卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-湖南卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hnwsH265_4000.m3u8
-金鹰纪实,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8
-东方卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
-江苏卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jswsH265_4000.m3u8
-浙江卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/zjwsH265_4000.m3u8
-凤凰中文,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8
-凤凰资讯,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test2_4000.m3u8
-四川峨嵋电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
-4K超高清电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
-CHC-家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
-CHC-高清电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
-CHC-动作电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
-CBN-幸福剧场,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
-CBN-每日影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mryy_4000.m3u8
-CBN-幸福娱乐,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
-CBN-风尚生活,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4000.m3u8
-新视觉,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
-全纪实,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
-都市剧场,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
-动漫秀场,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
-劲爆体育,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
-魅力足球,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mlyy_4000.m3u8
-生活时尚,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/shssH265_4000.m3u8
-法治天地,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fztx_4000.m3u8
-极速汽车,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jsqcH265_4000.m3u8
-欢笑剧场 4K超高清,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
-河南梨园频道,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ly_4000.m3u8
-河南武术世界,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wssj_4000.m3u8
 
 🇨🇳北京,#genre#
 北京卫视HD,http://117.148.179.160/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
