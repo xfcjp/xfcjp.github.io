@@ -1,37 +1,27 @@
-🇨🇳央视频道,#genre#
-CCTV1 综合,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv01/.m3u8
-CCTV2 财经,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-2/.m3u8
-CCTV3 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
-CCTV4 国际,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-4/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-5/.m3u8
-CCTV5 体育,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/1.m3u8
-CCTV5+体育赛事,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-5Phd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv05plus/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-cctv05plus/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv05plus/.m3u8
-CCTV6 电影,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv6/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv6hd/1.m3u8
-CCTV7 国防军事,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-7/.m3u8
-CCTV8 电视剧,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv8/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd/1.m3u8
-CCTV9 纪实,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv9/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-news/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv-9hd/1.m3u8
-CCTV10 科教,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-10/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/1.m3u8
-CCTV11 戏曲,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv11hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-11/.m3u8
-CCTV12 社会与法,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-12/.m3u8
-CCTV13 新闻,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctvxwhd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-13/.m3u8
-CCTV14 少儿,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-14/.m3u8
-CCTV15 音乐,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
-CCTV16 奥林匹克,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV16 奥林匹克8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
-CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
-CCTV-第一剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-CCTV-风云剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV-怀旧剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV-风云音乐高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV-兵器科技高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV-风云足球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV-高尔夫·网球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV-女性时尚高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV-央视文化精品高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV-电视指南高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV-卫生健康高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CGTN-英语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+🇨🇳央视高清,#genre#
+CCTV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+CCTV-2高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
+CCTV-3高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
+CCTV-4高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+CCTV-5高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+CCTV-6高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
+CCTV-7高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000055/main.m3u8?IASHttpSessionId=OTT
+CCTV-8高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000056/main.m3u8?IASHttpSessionId=OTT
+CCTV-9高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
+CCTV-10高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000058/main.m3u8?IASHttpSessionId=OTT
+CCTV-11高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352943/main.m3u8?IASHttpSessionId=OTT
+CCTV-12高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000060/main.m3u8?IASHttpSessionId=OTT
+CCTV-13高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
+CCTV-14高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000059/main.m3u8?IASHttpSessionId=OTT
+CCTV-15高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352948/main.m3u8?IASHttpSessionId=OTT
+CGTN高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+CGTN纪录高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+CCTV-5+高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
+CCTV-17高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001018000000188913/main.m3u8?IASHttpSessionId=OTT
+CETV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
+CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
+CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 🇨🇳卫视频道,#genre#
 湖南卫视FHD,http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
@@ -290,31 +280,6 @@ LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-
-央视高清,#genre#
-CCTV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
-CCTV-2高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
-CCTV-3高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
-CCTV-4高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
-CCTV-5高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
-CCTV-6高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
-CCTV-7高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000055/main.m3u8?IASHttpSessionId=OTT
-CCTV-8高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000056/main.m3u8?IASHttpSessionId=OTT
-CCTV-9高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
-CCTV-10高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000058/main.m3u8?IASHttpSessionId=OTT
-CCTV-11高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352943/main.m3u8?IASHttpSessionId=OTT
-CCTV-12高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000060/main.m3u8?IASHttpSessionId=OTT
-CCTV-13高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
-CCTV-14高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000059/main.m3u8?IASHttpSessionId=OTT
-CCTV-15高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352948/main.m3u8?IASHttpSessionId=OTT
-CGTN高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
-CGTN纪录高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-CCTV-5+高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
-CCTV-17高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001018000000188913/main.m3u8?IASHttpSessionId=OTT
-CETV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
-CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
-CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 😻卫视高清,#genre#
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
@@ -1469,39 +1434,29 @@ CHC 家庭影院 [1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231799
 BesTV 超级体育 [1920*1080],http://39.134.39.37/PLTV/88888888/224/3221226132/index.m3u8
 
 $c_start央视$c_end
-CCTV1 综合,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv01/.m3u8
-CCTV2 财经,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-2/.m3u8
-CCTV3 综艺,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
-CCTV4 国际,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-4/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-5/.m3u8
-CCTV5 体育,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/1.m3u8
-CCTV5+体育赛事,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-5Phd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv05plus/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-cctv05plus/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv05plus/.m3u8
-CCTV6 电影,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv6/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv6hd/1.m3u8
-CCTV7 国防军事,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-7/.m3u8
-CCTV8 电视剧,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv8/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd/1.m3u8
-CCTV9 纪实,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv9/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-news/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv-9hd/1.m3u8
-CCTV10 科教,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-10/.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/1.m3u8
-CCTV11 戏曲,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv11hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-11/.m3u8
-CCTV12 社会与法,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-12/.m3u8
-CCTV13 新闻,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctvxwhd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-13/.m3u8
-CCTV14 少儿,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-14/.m3u8
-CCTV15 音乐,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
-CCTV16 奥林匹克,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV16 奥林匹克8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
-CCTV17 农业农村,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8#http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
-CCTV-第一剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-CCTV-风云剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV-怀旧剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV-风云音乐高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV-兵器科技高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV-风云足球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV-高尔夫·网球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV-女性时尚高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV-央视文化精品高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV-电视指南高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV-卫生健康高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CGTN-英语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+CCTV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+CCTV-2高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
+CCTV-3高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
+CCTV-4高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+CCTV-5高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+CCTV-6高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
+CCTV-7高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000055/main.m3u8?IASHttpSessionId=OTT
+CCTV-8高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000056/main.m3u8?IASHttpSessionId=OTT
+CCTV-9高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
+CCTV-10高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000058/main.m3u8?IASHttpSessionId=OTT
+CCTV-11高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352943/main.m3u8?IASHttpSessionId=OTT
+CCTV-12高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000060/main.m3u8?IASHttpSessionId=OTT
+CCTV-13高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
+CCTV-14高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000059/main.m3u8?IASHttpSessionId=OTT
+CCTV-15高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352948/main.m3u8?IASHttpSessionId=OTT
+CGTN高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+CGTN纪录高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+CCTV-5+高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
+CCTV-17高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001018000000188913/main.m3u8?IASHttpSessionId=OTT
+CETV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
+CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
+CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 $c_start卫视$c_end
 湖南卫视FHD,http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
@@ -1810,30 +1765,6 @@ $c_start虎牙电影频道$c_end
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 
-$c_start央视高清$c_end
-CCTV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
-CCTV-2高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
-CCTV-3高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
-CCTV-4高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
-CCTV-5高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
-CCTV-6高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
-CCTV-7高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000055/main.m3u8?IASHttpSessionId=OTT
-CCTV-8高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000056/main.m3u8?IASHttpSessionId=OTT
-CCTV-9高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
-CCTV-10高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000058/main.m3u8?IASHttpSessionId=OTT
-CCTV-11高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352943/main.m3u8?IASHttpSessionId=OTT
-CCTV-12高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000060/main.m3u8?IASHttpSessionId=OTT
-CCTV-13高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
-CCTV-14高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000059/main.m3u8?IASHttpSessionId=OTT
-CCTV-15高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001019000000352948/main.m3u8?IASHttpSessionId=OTT
-CGTN高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
-CGTN纪录高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-CCTV-5+高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
-CCTV-17高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001018000000188913/main.m3u8?IASHttpSessionId=OTT
-CETV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
-CETV-1 HD,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
-CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 $c_start卫视高清$c_end
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
