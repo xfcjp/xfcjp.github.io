@@ -77,3 +77,11 @@ http://219.142.147.225:9901/tsfile/live/1006_1.m3u8
 http://219.142.147.225:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="BTV科教",BRTV科教[高清]
 http://219.142.147.225:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV1",CCTV1[高清]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV2",CCTV2[高清]
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV3",CCTV3[高清]
+CCTV3 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV4",CCTV4[高清]
+CCTV4 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
