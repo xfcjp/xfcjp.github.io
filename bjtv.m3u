@@ -31,7 +31,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://219.142.147.225:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://219.142.147.225:9901/tsfile/live/1016_1.m3u8
+http://219.142.147.225:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://219.142.147.225:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视[高清]
@@ -48,12 +48,12 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001026/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://219.142.147.225:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视[高清]
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://219.142.147.225:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 tvg-name="凤凰中文",凤凰中文[高清]
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯[高清]
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港",凤凰香港[高清]
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 tvg-name="CNC中文",CNC中文[高清]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-name="CNC英文",CNC英文[高清]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1 tvg-name="1905电影",1905电影[高清]
+http://111.177.34.98/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 #EXTINF:-1 tvg-name="淘电影",淘电影[高清]
 http://219.142.147.225:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="淘BABY",淘BABY[高清]
