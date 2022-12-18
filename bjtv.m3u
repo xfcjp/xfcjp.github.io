@@ -113,7 +113,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K频道",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-name="北京IPTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg" group-title="4K频道",北京IPTV-4K
-http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
+http://219.142.147.225:9901/tsfile/live/1011_1.m3u8#http://beifeng.site:4000/udp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="北京BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="4K频道",北京BesTV-4K
 http://beifeng.site:4000/udp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="4K影视" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K频道",4K影视
