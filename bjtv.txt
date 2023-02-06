@@ -188,6 +188,47 @@ Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/pl
 CCTV-8K-组播AVS3源,http://182.138.154.241:8000/udp/239.93.42.61:5140
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
+狂飙,#genre#
+第01集,https://vip.ffzy-play3.com/20230114/6240_9bc1a121/index.m3u8
+第02集,https://vip.ffzy-play3.com/20230114/6241_a960e250/index.m3u8
+第03集,https://vip.ffzy-play3.com/20230114/6242_5e2f9187/index.m3u8
+第04集,https://vip.ffzy-play3.com/20230114/6243_a2a89c1d/index.m3u8
+第05集,https://vip.ffzy-play3.com/20230114/6244_2bab51ee/index.m3u8
+第06集,https://vip.ffzy-play3.com/20230115/6308_5df331e6/index.m3u8
+第07集,https://vip.ffzy-play3.com/20230115/6307_32466d6f/index.m3u8
+第08集,https://vip.ffzy-play3.com/20230116/6333_8f1bbf04/index.m3u8
+第09集,https://vip.ffzy-play3.com/20230116/6332_41a6dfba/index.m3u8
+第10集,https://vip.ffzy-play3.com/20230117/6643_4c949771/index.m3u8
+第11集,https://vip.ffzy-play3.com/20230117/6642_fce5d0c5/index.m3u8
+第12集,https://vip.ffzy-play3.com/20230118/6675_581b0957/index.m3u8
+第13集,https://vip.ffzy-play3.com/20230118/6674_f206a14e/index.m3u8
+第14集,https://vip.ffzy-play3.com/20230119/6719_6804a960/index.m3u8
+第15集,https://vip.ffzy-play3.com/20230119/6718_372a4a4a/index.m3u8
+第16集,https://vip.ffzy-play3.com/20230120/6755_2e72b7c0/index.m3u8
+第17集,https://vip.ffzy-play3.com/20230121/6797_a42176b4/index.m3u8
+第18集,https://vip.ffzy-play3.com/20230122/6849_8ad5d7fd/index.m3u8
+第19集,https://vip.ffzy-play3.com/20230122/6848_d7995233/index.m3u8
+第20集,https://vip.ffzy-play3.com/20230123/6875_8a5fd67d/index.m3u8
+第21集,https://vip.ffzy-play3.com/20230123/6874_420a34eb/index.m3u8
+第22集,https://vip.ffzy-play5.com/20230124/6145_3d924a3e/index.m3u8
+第23集,https://vip.ffzy-play5.com/20230124/6144_cf13c352/index.m3u8
+第24集,https://vip.ffzy-play5.com/20230125/6172_82c3dd7d/index.m3u8
+第25集,https://vip.ffzy-play5.com/20230125/6171_6a442335/index.m3u8
+第26集,https://vip.ffzy-play5.com/20230126/6235_7258f3cc/index.m3u8
+第27集,https://vip.ffzy-play5.com/20230126/6234_8a720787/index.m3u8
+第28集,https://vip.ffzy-play3.com/20230127/7030_a155cf1b/index.m3u8
+第29集,https://vip.ffzy-play3.com/20230127/7029_900cd25b/index.m3u8
+第30集,https://vip.ffzy-play5.com/20230128/6319_fd06986f/index.m3u8
+第31集,https://vip.ffzy-play5.com/20230128/6318_622b2fa9/index.m3u8
+第32集,https://vip.ffzy-play5.com/20230129/6358_2a3d19e2/index.m3u8
+第33集,https://vip.ffzy-play5.com/20230129/6357_e2d7a713/index.m3u8
+第34集,https://vip.ffzy-play5.com/20230130/6392_17caf4a1/index.m3u8
+第35集,https://vip.ffzy-play5.com/20230130/6391_6228f814/index.m3u8
+第36集,https://vip.ffzy-play5.com/20230131/6406_9f9467f1/index.m3u8
+第37集,https://vip.ffzy-play5.com/20230131/6405_30428a34/index.m3u8
+第38集,https://vip.ffzy-play5.com/20230201/6461_08796719/index.m3u8
+第39集,https://vip.ffzy-play5.com/20230201/6460_3cf946b7/index.m3u8
+
 🎦ipv6源,#genre#
 CCTV1 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2001,6 +2042,47 @@ CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 信号测试 4M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+$c_狂飙$c_end
+第01集,https://vip.ffzy-play3.com/20230114/6240_9bc1a121/index.m3u8
+第02集,https://vip.ffzy-play3.com/20230114/6241_a960e250/index.m3u8
+第03集,https://vip.ffzy-play3.com/20230114/6242_5e2f9187/index.m3u8
+第04集,https://vip.ffzy-play3.com/20230114/6243_a2a89c1d/index.m3u8
+第05集,https://vip.ffzy-play3.com/20230114/6244_2bab51ee/index.m3u8
+第06集,https://vip.ffzy-play3.com/20230115/6308_5df331e6/index.m3u8
+第07集,https://vip.ffzy-play3.com/20230115/6307_32466d6f/index.m3u8
+第08集,https://vip.ffzy-play3.com/20230116/6333_8f1bbf04/index.m3u8
+第09集,https://vip.ffzy-play3.com/20230116/6332_41a6dfba/index.m3u8
+第10集,https://vip.ffzy-play3.com/20230117/6643_4c949771/index.m3u8
+第11集,https://vip.ffzy-play3.com/20230117/6642_fce5d0c5/index.m3u8
+第12集,https://vip.ffzy-play3.com/20230118/6675_581b0957/index.m3u8
+第13集,https://vip.ffzy-play3.com/20230118/6674_f206a14e/index.m3u8
+第14集,https://vip.ffzy-play3.com/20230119/6719_6804a960/index.m3u8
+第15集,https://vip.ffzy-play3.com/20230119/6718_372a4a4a/index.m3u8
+第16集,https://vip.ffzy-play3.com/20230120/6755_2e72b7c0/index.m3u8
+第17集,https://vip.ffzy-play3.com/20230121/6797_a42176b4/index.m3u8
+第18集,https://vip.ffzy-play3.com/20230122/6849_8ad5d7fd/index.m3u8
+第19集,https://vip.ffzy-play3.com/20230122/6848_d7995233/index.m3u8
+第20集,https://vip.ffzy-play3.com/20230123/6875_8a5fd67d/index.m3u8
+第21集,https://vip.ffzy-play3.com/20230123/6874_420a34eb/index.m3u8
+第22集,https://vip.ffzy-play5.com/20230124/6145_3d924a3e/index.m3u8
+第23集,https://vip.ffzy-play5.com/20230124/6144_cf13c352/index.m3u8
+第24集,https://vip.ffzy-play5.com/20230125/6172_82c3dd7d/index.m3u8
+第25集,https://vip.ffzy-play5.com/20230125/6171_6a442335/index.m3u8
+第26集,https://vip.ffzy-play5.com/20230126/6235_7258f3cc/index.m3u8
+第27集,https://vip.ffzy-play5.com/20230126/6234_8a720787/index.m3u8
+第28集,https://vip.ffzy-play3.com/20230127/7030_a155cf1b/index.m3u8
+第29集,https://vip.ffzy-play3.com/20230127/7029_900cd25b/index.m3u8
+第30集,https://vip.ffzy-play5.com/20230128/6319_fd06986f/index.m3u8
+第31集,https://vip.ffzy-play5.com/20230128/6318_622b2fa9/index.m3u8
+第32集,https://vip.ffzy-play5.com/20230129/6358_2a3d19e2/index.m3u8
+第33集,https://vip.ffzy-play5.com/20230129/6357_e2d7a713/index.m3u8
+第34集,https://vip.ffzy-play5.com/20230130/6392_17caf4a1/index.m3u8
+第35集,https://vip.ffzy-play5.com/20230130/6391_6228f814/index.m3u8
+第36集,https://vip.ffzy-play5.com/20230131/6406_9f9467f1/index.m3u8
+第37集,https://vip.ffzy-play5.com/20230131/6405_30428a34/index.m3u8
+第38集,https://vip.ffzy-play5.com/20230201/6461_08796719/index.m3u8
+第39集,https://vip.ffzy-play5.com/20230201/6460_3cf946b7/index.m3u8
 
 $c_IPV6蜀小果源$c_end
 CCTV-1 综合,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
