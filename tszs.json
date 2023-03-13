@@ -1,4 +1,4 @@
-"Home": [
+{"Home": [
 {"key":"网页","title":"网页","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
 {"key":"采集","title":"采集","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
 {"key":"直播","title":"直播","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
@@ -56,15 +56,7 @@
 ],
 
 "caijizhan": [
-  {"name":"七七","url":"http://api.kunyu77.com/api.php"},
-{
-"name": "樱花资源",
-"url": "https://m3u8.apiyhzy.com/api.php"
-},
-{
-"name": "快播资源",
-"url": "http://www.kuaibozy.com/api.php"
-}
+  {"name":"七七","url":"http://api.kunyu77.com/api.php"}
 ],
 
 "zhujiexi":[
