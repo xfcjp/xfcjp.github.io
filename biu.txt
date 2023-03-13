@@ -82,7 +82,7 @@
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
-"dianshizhibo": "https://xfcjp.github.io/bjtv.txt",
+"dianshizhibo": "http://www.m9527.top/blive.txt",
  
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
  
