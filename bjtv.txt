@@ -1,5 +1,4 @@
 央视 ,#genre#
-
 CCTV-1 综合,http://49.87.154.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1 综合,http://123.154.30.3:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-1 综合,http://chensql2008.goip.de:8888/rtp/239.49.8.19:9614
