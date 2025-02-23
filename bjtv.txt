@@ -1,4 +1,4 @@
-#杭州电信
+杭州电信,#genre#
 💋CCTV1,http://ms.fxim.net:808/hls/1/index.m3u8
 💋CCTV2,http://ms.fxim.net:808/hls/2/index.m3u8
 CCTV3,http://ms.fxim.net:808/hls/3/index.m3u8
@@ -34,7 +34,7 @@ CCTV12,http://ms.fxim.net:808/hls/12/index.m3u8
 广西卫视,http://27.41.247.251:9003/hls/47/index.m3u8
 三沙卫视,http://27.41.247.251:9003/hls/48/index.m3u8
 
-#河北频道
+河北频道,#genre#
 CCTV1,http://222.222.168.124:8000/hls/1/index.m3u8
 CCTV2,http://222.222.168.124:8000/hls/2/index.m3u8
 CCTV3,http://222.222.168.124:8000/hls/3/index.m3u8
