@@ -1,5 +1,4 @@
 清北源,#genre#
-
 CCTV-1,https://tv.bfsu.edu.cn/hls/cctv1hd.m3u8
 CCTV-2,https://tv.bfsu.edu.cn/hls/cctv2hd.m3u8
 CCTV-3,https://tv.bfsu.edu.cn/hls/cctv3hd.m3u8
