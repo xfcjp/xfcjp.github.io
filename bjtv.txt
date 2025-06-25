@@ -55,6 +55,16 @@ CCTV10,http://ms.fxim.net:808/hls/10/index.m3u8
 浙江卫视,http://ms.fxim.net:808/hls/7/index.m3u8
 浙江少儿,http://ms.fxim.net:808/hls/5/index.m3u8
 动漫秀场,http://ms.fxim.net:808/hls/11/index.m3u8
+18台,http://bx.757888.xyz/api.php?id=18
+TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
+天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
+明珠台,http://bx.757888.xyz/api.php?id=mz
+無線新聞台,http://bx.757888.xyz/api.php?id=wxxw
+美亞電影台,http://bx.757888.xyz/api.php?id=meiya
+翡翠台,http://bx.757888.xyz/api.php?id=fct
+鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
+鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
+鳳凰深圳旁边,http://bx.757888.xyz/api.php?id=fhhk
 
 河北频道,#genre#
 CCTV1,http://222.222.168.124:8000/hls/1/index.m3u8
