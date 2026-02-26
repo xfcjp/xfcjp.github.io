@@ -1,4 +1,4 @@
-河北邯郸酒店源
+河北邯郸酒店源,#genre#
 CCTV-1,http://106.115.26.247:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://106.115.26.247:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://106.115.26.247:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
